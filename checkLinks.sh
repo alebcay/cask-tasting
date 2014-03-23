@@ -21,7 +21,7 @@ do
   done < $f
   if [ "$SHA_ALG" != "NONE" ]
     then
-    # echo -ne "$(basename ${f%.*}): \033[1;33mworking\033[22;0m"
+    echo -ne "$(basename ${f%.*}): \033[1;33mworking\033[22;0m"
     ACTUAL_SHA=$(echo $(curl -Ls $URL | shasum -a $SHA_ALG) | cut -d \  -f 1)
     if [ "$EXPECTED_SHA" = "$ACTUAL_SHA" ]
       then
