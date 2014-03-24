@@ -70,6 +70,7 @@ do
 done
 echo "Check finished at $(date)" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
 echo "Check finished at $(date)"
+rm Testfile
 mv /Volumes/SHARED/Dropbox/Public/CaskTasting.part /Volumes/SHARED/Dropbox/Public/CaskTasting.txt
 mv /Volumes/SHARED/Dropbox/Public/CaskPassed.part /Volumes/SHARED/Dropbox/Public/CaskPassed.txt
 mv /Volumes/SHARED/Dropbox/Public/CaskDLFailed.part /Volumes/SHARED/Dropbox/Public/CaskDLFailed.txt
