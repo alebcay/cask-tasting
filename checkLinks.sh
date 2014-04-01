@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+doalarm() { perl -e 'alarm shift; exec @ARGV' "$@"; }
+
 echo "Preparing for check..."
 brew detox >/dev/null 2>&1
 [ -d "/Volumes/SHARED/Dropbox/Public/CaskTasting.part" ] && rm "/Volumes/SHARED/Dropbox/Public/CaskTasting.part"
@@ -22,22 +24,25 @@ do
       then
       URL=$(echo $line | tr -d "'" | cut -d \  -f 2)
     fi
-    if [[ $line == *sha256* ]]
-      then
-      SHA_ALG=256
-      EXPECTED_SHA=$(echo $line | cut -d \  -f 2 | sed -e "s/^'//"  -e "s/'$//")
-    fi
     if [[ $line == *no_checksum* ]]
       then
       SHA_ALG=NONE
       EXPECTED_SHA=""
+    elif [[ "$line" == *:no_check* ]]
+      then
+      SHA_ALG=NONE
+      EXPECTED_SHA=""
+    elif [[ $line == *sha256* ]]
+      then
+      SHA_ALG=256
+      EXPECTED_SHA=$(echo $line | cut -d \  -f 2 | sed -e "s/^'//"  -e "s/'$//")
     fi
   done < $f
   if [ "$SHA_ALG" != "NONE" ]
     then
     echo -e "Downloading $(basename ${f%.*})"
     # axel -a -o Testfile "$URL"
-    curl -L# "$URL" > Testfile
+    doalarm 1800 curl -L# "$URL" > Testfile
     # ACTUAL_SHA=$(echo $(curl -Ls "$URL" | shasum -a $SHA_ALG) | cut -d \  -f 1)
     ACTUAL_SHA=$(shasum -a 256 Testfile | cut -d \  -f 1)
     if [ "$EXPECTED_SHA" = "$ACTUAL_SHA" ]
