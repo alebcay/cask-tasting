@@ -80,11 +80,11 @@ done
 echo "Check finished at $(date)" >> /CaskTasting.part
 echo "Check finished at $(date)"
 
-mv /Volumes/SHARED/CaskTasting/CaskTasting.part /Volumes/SHARED/CaskTasting/CaskTasting.txt
-mv /Volumes/SHARED/CaskTasting/CaskPassed.part /Volumes/SHARED/CaskTasting/CaskPassed.txt
-mv /Volumes/SHARED/CaskTasting/CaskDLFailed.part /Volumes/SHARED/CaskTasting/CaskDLFailed.txt
-mv /Volumes/SHARED/CaskTasting/CaskSumError.part /Volumes/SHARED/CaskTasting/CaskSumError.txt
-mv /Volumes/SHARED/CaskTasting/CaskNoSum.part /Volumes/SHARED/CaskTasting/CaskNoSum.txt
+mv CaskTasting.part CaskTasting.txt
+mv CaskPassed.part CaskPassed.txt
+mv CaskDLFailed.part CaskDLFailed.txt
+mv CaskSumError.part CaskSumError.txt
+mv CaskNoSum.part CaskNoSum.txt
 
 echo "Sending data to master..."
 [ -e "Testfile" ] && rm Testfile
