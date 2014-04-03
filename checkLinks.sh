@@ -2,22 +2,25 @@
 doalarm() { perl -e 'alarm shift; exec @ARGV' "$@"; }
 
 echo "Preparing for check..."
+cd /Volumes/MacData/homebrew/cask-tasting
+git checkout master
 brew detox >/dev/null 2>&1
-[ -d "/Volumes/SHARED/Dropbox/Public/CaskTasting.part" ] && rm "/Volumes/SHARED/Dropbox/Public/CaskTasting.part"
-[ -d "/Volumes/SHARED/Dropbox/Public/CaskPassed.part" ] && rm "/Volumes/SHARED/Dropbox/Public/CaskPassed.part"
-[ -d "/Volumes/SHARED/Dropbox/Public/CaskDLError.part" ] && rm "//Volumes/SHARED/Dropbox/Public/CaskDLError.part"
-[ -d "/Volumes/SHARED/Dropbox/Public/CaskSumError.part" ] && rm "/Volumes/SHARED/Dropbox/Public/CaskSumError.part"
-[ -d "/Volumes/SHARED/Dropbox/Public/CaskNoSum.part" ] && rm "/Volumes/SHARED/Dropbox/Public/CaskNoSum.part"
+[ -e "CaskTasting.part" ] && rm "CaskTasting.part"
+[ -e "CaskPassed.part" ] && rm "CaskPassed.part"
+[ -e "CaskDLError.part" ] && rm "CaskDLError.part"
+[ -e "CaskSumError.part" ] && rm "CaskSumError.part"
+[ -e "CaskNoSum.part" ] && rm "CaskNoSum.part"
+
 TOTAL=$( ls -1 /usr/local/Library/Taps/phinze-cask/Casks | wc -l | sed -e 's/^ *//' -e 's/ *$//')
 # TOTAL=$(echo $TOTALSTRING | sed -E 's/^.{4}//')
 FILES=/usr/local/Library/Taps/phinze-cask/Casks/*.rb
 counter=0
-echo "Check started at $(date)" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
+echo "Check started at $(date)" >> CaskTasting.part
 echo "Check started at $(date)"
 for f in $FILES
 do
   ((counter++))
-  [ -f "Testfile" ] && rm Testfile
+  [ -e "Testfile" ] && rm Testfile
   while read line
   do
     if [[ $line == *url* ]]
@@ -48,19 +51,19 @@ do
     if [ "$EXPECTED_SHA" = "$ACTUAL_SHA" ]
       then
       echo -e "$(basename ${f%.*}) ($counter/$TOTAL): \033[1;32mpassed\033[22;0m"
-      echo -e "$(basename ${f%.*}): passed" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
-      echo "$(basename ${f%.*})" >> /Volumes/SHARED/Dropbox/Public/CaskPassed.part
+      echo -e "$(basename ${f%.*}): passed" >> CaskTasting.part
+      echo "$(basename ${f%.*})" >> CaskPassed.part
     elif [ "$ACTUAL_SHA" = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" ]
       then
       echo -e "$(basename ${f%.*}) ($counter/$TOTAL): \033[1;31mdownload error\033[22;0m"
-      echo -e "$(basename ${f%.*}): download error" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
-      echo "$(basename ${f%.*})" >> /Volumes/SHARED/Dropbox/Public/CaskDLFailed.part
+      echo -e "$(basename ${f%.*}): download error" >> CaskTasting.part
+      echo "$(basename ${f%.*})" >> CaskDLFailed.part
     else
       echo -e "$(basename ${f%.*}) ($counter/$TOTAL): \033[1;31mSHA-$SHA_ALG mismatch!\033[22;0m"
-      echo -e "$(basename ${f%.*}): SHA-$SHA_ALG mismatch!" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
-      echo -e "  Expected: $EXPECTED_SHA" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
-      echo -e "  Actual  : $ACTUAL_SHA" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
-      echo "$(basename ${f%.*})" >> /Volumes/SHARED/Dropbox/Public/CaskSumError.part
+      echo -e "$(basename ${f%.*}): SHA-$SHA_ALG mismatch!" >> CaskTasting.part
+      echo -e "  Expected: $EXPECTED_SHA" >> CaskTasting.part
+      echo -e "  Actual  : $ACTUAL_SHA" >> CaskTasting.part
+      echo "$(basename ${f%.*})" >> CaskSumError.part
     fi
     # echo $SHA_ALG
     # echo $URL
@@ -69,14 +72,22 @@ do
   elif [ "$SHA_ALG" = "NONE" ]
     then
     echo -e "$(basename ${f%.*}) ($counter/$TOTAL): \033[1;34mno checksum\033[22;0m"
-    echo -e "$(basename ${f%.*}): no checksum" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
-    echo "$(basename ${f%.*})" >> /Volumes/SHARED/Dropbox/Public/CaskNoSum.part
+    echo -e "$(basename ${f%.*}): no checksum" >> CaskTasting.part
+    echo "$(basename ${f%.*})" >> CaskNoSum.part
   fi
+  [ -e "Testfile" ] && rm Testfile
 done
-echo "Check finished at $(date)" >> /Volumes/SHARED/Dropbox/Public/CaskTasting.part
+echo "Check finished at $(date)" >> /CaskTasting.part
 echo "Check finished at $(date)"
-mv /Volumes/SHARED/Dropbox/Public/CaskTasting.part /Volumes/SHARED/Dropbox/Public/CaskTasting.txt
-mv /Volumes/SHARED/Dropbox/Public/CaskPassed.part /Volumes/SHARED/Dropbox/Public/CaskPassed.txt
-mv /Volumes/SHARED/Dropbox/Public/CaskDLFailed.part /Volumes/SHARED/Dropbox/Public/CaskDLFailed.txt
-mv /Volumes/SHARED/Dropbox/Public/CaskSumError.part /Volumes/SHARED/Dropbox/Public/CaskSumError.txt
-mv /Volumes/SHARED/Dropbox/Public/CaskNoSum.part /Volumes/SHARED/Dropbox/Public/CaskNoSum.txt
+
+mv /Volumes/SHARED/CaskTasting/CaskTasting.part /Volumes/SHARED/CaskTasting/CaskTasting.txt
+mv /Volumes/SHARED/CaskTasting/CaskPassed.part /Volumes/SHARED/CaskTasting/CaskPassed.txt
+mv /Volumes/SHARED/CaskTasting/CaskDLFailed.part /Volumes/SHARED/CaskTasting/CaskDLFailed.txt
+mv /Volumes/SHARED/CaskTasting/CaskSumError.part /Volumes/SHARED/CaskTasting/CaskSumError.txt
+mv /Volumes/SHARED/CaskTasting/CaskNoSum.part /Volumes/SHARED/CaskTasting/CaskNoSum.txt
+
+echo "Sending data to master..."
+[ -e "Testfile" ] && rm Testfile
+git add .
+git commit -m "Cask taster reporting for duty: $(date)"
+git push
