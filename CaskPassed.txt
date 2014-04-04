@@ -47,7 +47,6 @@ avogadro
 awareness
 b2designer
 backuploupe
-baiducloud
 bankid
 banshee
 bar-magnet
@@ -82,7 +81,9 @@ caffeine
 calcservice
 calibre2opds
 callnote
+camerabag
 camino
+camranger
 candybar
 capo
 carbon-copy-cloner
@@ -94,6 +95,7 @@ cd-to
 celestia
 cert-quicklook
 cfxr
+chainsaw
 charles
 chicken
 choosy
@@ -109,6 +111,7 @@ clock
 cloud
 cloudera-hive-odbc
 cloudytabs
+coccinellida
 cocoadialog
 cocoapacketanalyzer
 cocoarestclient
@@ -139,6 +142,7 @@ crashplan
 crosspack-avr
 ctivo
 cups-pdf
+cura
 curb
 curse-client
 cutesdr
@@ -156,7 +160,6 @@ deluge
 deskfun
 desmume
 devonthink-pro
-dewdrop
 dfontsplitter
 dia
 dictunifier
@@ -373,6 +376,7 @@ logitech-control-center
 logitech-harmony
 logitech-unifying
 love
+ltspice
 lucidor
 lyn
 lynxlet
@@ -405,6 +409,7 @@ max
 maxthon
 mcedit
 media-converter
+mediaelch
 mediainfo
 mediathekview
 meerkat
@@ -420,6 +425,7 @@ milkytracker
 mixxx
 mkvtoolnix
 money
+moneywell
 mono-mdk
 mono-mre
 monolingual
@@ -446,7 +452,12 @@ nally
 namebench
 namechanger
 navicat-data-modeler
+navicat-for-mariadb
+navicat-for-mysql
+navicat-for-oracle
 navicat-for-postgresql
+navicat-for-sql-server
+navicat-for-sqlite
 navicat-premium
 netbeans-cpp
 netbeans-php
@@ -488,6 +499,7 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
+orange
 osxfuse
 owasp-zap
 owncloud
@@ -795,6 +807,7 @@ weibox
 weka
 welly
 wesnoth
+whatpulse
 whiteclock
 widelands
 wineskin-winery

@@ -1,10 +1,8 @@
+baiducloud
 baiduinput
 brackets
-camerabag
-camranger
-chainsaw
 cocoaspell
-cura
+dewdrop
 disk-inventory-x
 fender-amp-drivers
 fender-fuse
@@ -15,17 +13,8 @@ gpower
 ipalette
 java
 librecad
-ltspice
 macdrops
-mediaelch
-moneywell
 mp4tools
-navicat-for-mariadb
-navicat-for-mysql
-navicat-for-oracle
-navicat-for-sql-server
-navicat-for-sqlite
-orange
 plex-media-server
 pngcommentator
 preferencecleaner
@@ -35,5 +24,4 @@ simon
 subsmarine
 time-out
 vyprvpn
-whatpulse
 yanvi
