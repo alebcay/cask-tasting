@@ -1,9 +1,8 @@
-adobe-reader
-baiducloud
 baiduinput
 brackets
 camerabag
 camranger
+chainsaw
 cocoaspell
 cura
 disk-inventory-x
@@ -18,7 +17,6 @@ java
 librecad
 ltspice
 macdrops
-makerware
 mediaelch
 moneywell
 mp4tools
@@ -33,12 +31,9 @@ pngcommentator
 preferencecleaner
 qtspim
 sharetool
-sickbeard
 simon
-skitch
 subsmarine
-sweet-home3d
 time-out
 vyprvpn
-wineskin-winery
+whatpulse
 yanvi

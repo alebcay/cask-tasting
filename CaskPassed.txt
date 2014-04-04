@@ -4,6 +4,7 @@ actotracker
 adapter
 adium
 adobe-air
+adobe-reader
 aegisub
 air-video-server
 airserver
@@ -46,6 +47,7 @@ avogadro
 awareness
 b2designer
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -92,7 +94,6 @@ cd-to
 celestia
 cert-quicklook
 cfxr
-chainsaw
 charles
 chicken
 choosy
@@ -390,6 +391,9 @@ mailfollowup
 mailplane
 makehuman
 makemkv
+makerware
+mame
+mamp
 manager
 manico
 mapture
@@ -616,6 +620,7 @@ shortcat
 shotcut
 shuttle
 sickbeard-anime
+sickbeard
 sidestep
 sigil
 silverlight
@@ -624,6 +629,7 @@ simple-comic
 simplecap
 sketchup
 skim
+skitch
 skreenics
 skydrive
 slidemode
@@ -676,6 +682,7 @@ sunlogin-remote
 super-otr
 supercollider
 surplusmeter
+sweet-home3d
 synergy
 synology-assistant
 synology-cloud-station
@@ -761,6 +768,7 @@ unpkg
 unrarx
 usb-overdrive
 vagrant
+vassal
 vico
 videomonkey
 videospec
@@ -787,9 +795,9 @@ weibox
 weka
 welly
 wesnoth
-whatpulse
 whiteclock
 widelands
+wineskin-winery
 wireshark
 witgui
 wiztoolsorg-restclient
@@ -823,6 +831,7 @@ yubiswitch
 zendserver
 zendstudio
 zeroad
+zeroxed
 zooom
 zotero
 zterm

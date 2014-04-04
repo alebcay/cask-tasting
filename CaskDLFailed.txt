@@ -8,13 +8,9 @@ identify
 itunes-volume-control
 logisim
 macupdate-desktop
-mame
-mamp
 refresh-finder
 sevenzx
 smartgithg
 smartsynchronize
 subtitles
-vassal
 wunderlist
-zeroxed
