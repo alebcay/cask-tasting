@@ -47,6 +47,7 @@ avogadro
 awareness
 b2designer
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -215,6 +216,7 @@ flame
 flash-player
 flash
 flickr-uploadr
+flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -269,7 +271,6 @@ grandperspective
 graphsketcher
 gridwars
 growler
-growlnotify
 growlvoice
 gurps-character-sheet
 gyazo
@@ -278,7 +279,6 @@ handbrake
 hands-off
 haroopad
 haskell-platform
-hermes
 hipchat
 hive
 hoppergdbserver
@@ -288,7 +288,6 @@ hugin
 hush
 hyro
 iannix
-ibackup
 icefloor
 ichm
 icolors
@@ -376,7 +375,6 @@ logitech-control-center
 logitech-harmony
 logitech-unifying
 love
-ltspice
 lucidor
 lyn
 lynxlet
@@ -570,13 +568,11 @@ qlcolorcode
 qlmarkdown
 qlprettypatch
 qq
-qqbrowser
 qqmusic
 qt-creator
 quassel-client
 quicknfo
 quickradar
-quicksilver
 quotefixformac
 r
 racket
@@ -597,7 +593,6 @@ robomongo
 rocks-n-diamonds
 royal-tsx
 rrootage
-rstudio
 rubymine
 sabnzbd
 sage
@@ -726,7 +721,6 @@ theremin
 thetube
 thong
 thumbsup
-thunder
 thunderbird
 thyme
 tickets

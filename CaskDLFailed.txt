@@ -4,11 +4,13 @@ beardedspice
 dataurlmaker
 golly
 growl-fork
+growlnotify
 identify
 itunes-volume-control
 logisim
 macupdate-desktop
 refresh-finder
+rstudio
 sevenzx
 smartgithg
 smartsynchronize

@@ -1,4 +1,4 @@
-Check started at Fri Apr  4 07:16:25 EDT 2014
+Check started at Sat Apr  5 08:42:12 EDT 2014
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
 acorn: no checksum
@@ -85,12 +85,10 @@ back-in-time: no checksum
 backblaze-downloader: no checksum
 backuploupe: passed
 bahamut: download error
-baiducloud: SHA-256 mismatch!
-  Expected: 194e049020bc11110807d7a157c5ab1f25f987b3e14ead7b452319420b97ad51
-  Actual  : 48e75e4a2a6b87cba7245c950c9274a3a26882f69ba6d647dcb8ee7544c6f94a
+baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : 68b296f0b5c2bf9fdaa2497f37c0ced812b23f24c528c88f0b1d42af562c9f44
+  Actual  : 43932e7d381bb32b040cca3fcca4f27bb08503d56dde64e68dcc2a2fc700f1d8
 balsamiq-mockups: no checksum
 bankid: passed
 banshee: passed
@@ -140,7 +138,7 @@ boxcryptor-classic: no checksum
 boxer: no checksum
 brackets: SHA-256 mismatch!
   Expected: 3f9fbbcfa12015b30656d83c5b55f0c11f98a298499d6b9b2fd7c2a92bf38f99
-  Actual  : 5ff919fd704739a2a1401bd26fd476673e5abb2748bfffe0745b11e13ab9d5a4
+  Actual  : 345e45926d0f5dc89645bf6300d1d6d6b9e1677620b6a21d2fcdd9cbc2ff8f1d
 brain-workshop: passed
 breakaway: passed
 brightness: passed
@@ -356,10 +354,10 @@ feeder: passed
 feeds: passed
 fender-amp-drivers: SHA-256 mismatch!
   Expected: e68de1a1c1068d34dda354e2678ddac4a796b2ccdface95b034a438455442919
-  Actual  : 17b3914195ad4aae3f4486a351fe9172aada062dad7fcc78bca5894221a6c019
+  Actual  : f73c4c66c6d9bc6492d8f22126415f5a36eb555714adc147590fb3a5d25b8c34
 fender-fuse: SHA-256 mismatch!
   Expected: e68de1a1c1068d34dda354e2678ddac4a796b2ccdface95b034a438455442919
-  Actual  : 17b3914195ad4aae3f4486a351fe9172aada062dad7fcc78bca5894221a6c019
+  Actual  : f73c4c66c6d9bc6492d8f22126415f5a36eb555714adc147590fb3a5d25b8c34
 ffmpegx: no checksum
 fiji: no checksum
 filebot: passed
@@ -374,9 +372,7 @@ flash-decompiler-trillix: no checksum
 flash-player: passed
 flash: passed
 flickr-uploadr: passed
-flightgear: SHA-256 mismatch!
-  Expected: d58f57bc22377bc4eaf4324e6f534d6cbf4e43a2830b587b91b1120169f9d53a
-  Actual  : 8b547d8131ac45783be7f486593cee1bea0facfcd6d5dbddd0d6c235a6aa93e1
+flightgear: passed
 flip4mac: passed
 flow: no checksum
 flowdock: no checksum
@@ -461,7 +457,7 @@ gopanda: no checksum
 gpgtools: passed
 gpower: SHA-256 mismatch!
   Expected: 6da484105c316789a411a493eb3c2c0c522cb7c5a4fccf45d75ff9bcd1f7f715
-  Actual  : 2e5416ce80adf593e1d6053b5a707f605afe29186cd5cc0cbe7af98e8da6dbeb
+  Actual  : 8186123295db3468f71181e510da40f06a51182bfc00da9207e70cff27a5073a
 gqrx: passed
 grabbox: passed
 grandperspective: passed
@@ -472,7 +468,7 @@ grooveshark: no checksum
 groovesquid: no checksum
 growl-fork: download error
 growler: passed
-growlnotify: passed
+growlnotify: download error
 growlvoice: passed
 gurps-character-sheet: passed
 gyazo: passed
@@ -485,7 +481,9 @@ harvest: no checksum
 haskell-platform: passed
 hazel: no checksum
 heart: no checksum
-hermes: passed
+hermes: SHA-256 mismatch!
+  Expected: 196c7b9d8cf9e0e8ffb92d912ae40d6e24eaa5e84b931049a39ac47eef09b5cd
+  Actual  : 33706fd460ec5444006bcff230c3a6023ad0600fc570e2d1d6165b4bb17abe60
 heroku-toolbelt: no checksum
 hex-fiend: no checksum
 hexels: no checksum
@@ -509,7 +507,9 @@ hyperdock: no checksum
 hyperswitch: no checksum
 hyro: passed
 iannix: passed
-ibackup: passed
+ibackup: SHA-256 mismatch!
+  Expected: a0f506075f53625e65b8dbeef8111a0c627bf474a34cb0690d2e281b2eed98bf
+  Actual  : faa69e95f62dfeb04a6ede20e7b856d43645f1bd07aede743c5d364d2845aabf
 ibank: no checksum
 ibettercharge: no checksum
 iboostup: no checksum
@@ -660,7 +660,9 @@ logmein-hamachi: no checksum
 loom: no checksum
 love: passed
 lpk25-editor: no checksum
-ltspice: passed
+ltspice: SHA-256 mismatch!
+  Expected: ba8dcb9ecb8d49465699b6d3f7971ed4159f117d2fd85f24b272c7cba40744f5
+  Actual  : 99fa9c03a79f9b79a41511e096a97daef98cc852099167dde3bd98a28bb6c1d9
 lucidor: passed
 lyn: passed
 lynxlet: passed
@@ -975,7 +977,9 @@ qlprettypatch: passed
 qlrest: no checksum
 qlstephen: no checksum
 qq: passed
-qqbrowser: passed
+qqbrowser: SHA-256 mismatch!
+  Expected: 4bfab3e47edf8b47b81f8961c694c67168f23f6f18fd2d224e5f97a6eda4eba3
+  Actual  : 0bb5b30424a553609295e36797b1e8e9aea31cbe08e6394c24663b2851a83373
 qqmusic: passed
 qt-creator: passed
 qtspim: SHA-256 mismatch!
@@ -989,7 +993,9 @@ quicklook-csv: no checksum
 quicklook-json: no checksum
 quicknfo: passed
 quickradar: passed
-quicksilver: passed
+quicksilver: SHA-256 mismatch!
+  Expected: 7c2ebec0d478d711859991991a65e4deced9f9521ac555c07b6be42999504535
+  Actual  : 28d330347060d07d0e9e364a42f8da33dacf18417cde309d9c216ebd087faa38
 quotefixformac: passed
 r-name: no checksum
 r: passed
@@ -1026,7 +1032,7 @@ rocks-n-diamonds: passed
 royal-tsx: passed
 rrootage: passed
 rss: no checksum
-rstudio: passed
+rstudio: download error
 rtx: no checksum
 rubymine: passed
 runtastic-connect: no checksum
@@ -1070,7 +1076,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: 00e65f6bc73209963e3668bf83641528f508093029488fa9cd0f3f882b3895a5
-  Actual  : e4ebefd8ba0bfdae969251e2217e1f1464c7d97a35224ff34333f197d9ca9e5b
+  Actual  : 448e4862fe45d1ecdfe160e8705b4288295c03bf55a486555a9b4548b701373a
 shelf-leveler: no checksum
 shiftit: passed
 shimo: passed
@@ -1089,7 +1095,7 @@ silverback: no checksum
 silverlight: passed
 simon: SHA-256 mismatch!
   Expected: 19a3395bdfd0c8c400c4e489e6d6ff192415661033e91023fc4c9297b28b4168
-  Actual  : f0aec5529e0cd2a5670d6c8ef135d9c252f1cae7c1d6b1f341f6164472453da5
+  Actual  : 9928daaf4632e8281f61c4a531eb230f52a6d1558ae90134a02ddc777f2d262b
 simpholders: passed
 simple-comic: passed
 simple-css: no checksum
@@ -1238,7 +1244,9 @@ thetube: passed
 things: no checksum
 thong: passed
 thumbsup: passed
-thunder: passed
+thunder: SHA-256 mismatch!
+  Expected: 2ccb65cc18a5407eed7347cf3120d8b3512f008a64b6ceeda668c79299589940
+  Actual  : 165bfff94f23b5f16479b57d50cd833c7a09bc2296508887bc355d10abdf4837
 thunderbird: passed
 thyme: passed
 tickets: passed
@@ -1247,7 +1255,7 @@ tiled: passed
 tilemill: passed
 time-out: SHA-256 mismatch!
   Expected: 3c9892344c8313b8ccf0a76cceb00834ddbe26e5114bcd674c4fd53aeb44e310
-  Actual  : 48c80559f4baf745aba63d39c711d28d331b87835bf347364f3e1f3d634ef850
+  Actual  : ebb3ce324712923b38e7e6e089e8042bb906c5b1854c664f73707d1d696d6a85
 time-tracker: passed
 timemachineeditor: no checksum
 timemachinescheduler: passed
@@ -1407,7 +1415,7 @@ xtrafinder: no checksum
 yandexdisk: no checksum
 yanvi: SHA-256 mismatch!
   Expected: 7e7db828e404d1594ca847c4ccbb4fe7924dd5d3a116e69ddef94884345749ed
-  Actual  : 44778b7f63e222938fefa35f5389f8d0e5f3fbda0abdabf1c584ba96850ff515
+  Actual  : 258cd7df1ed429b6777484bba7a9cc33207b8267725affe0adb148d1ded3d8ab
 yemuzip: no checksum
 ynab: passed
 yorufukurou: no checksum
