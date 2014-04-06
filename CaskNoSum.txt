@@ -165,6 +165,7 @@ heart
 heroku-toolbelt
 hex-fiend
 hexels
+hipchat
 hippoconnect
 hiss
 hockey-app
@@ -323,6 +324,7 @@ power-manager-pro
 power-manager
 pref-setter
 preference-manager
+preferencecleaner
 prefs-editor
 private-eye
 prizmo
@@ -332,6 +334,7 @@ puush
 qlimagesize
 qlrest
 qlstephen
+qtspim
 querious
 quickcast
 quickhue
