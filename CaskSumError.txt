@@ -3,9 +3,8 @@ aria-maestosa
 audioslicer
 avidemux
 avogadro
-baiducloud
+baiduinput
 bibdesk
-blender
 brackets
 brain-workshop
 breakaway
@@ -15,6 +14,7 @@ ccmenu
 celestia
 chicken
 chromium
+clamxav
 coccinellida
 cord
 cuda-z
@@ -31,12 +31,12 @@ dvdstyler
 fender-amp-drivers
 filebot
 filezilla
+flightgear
 fpc
 freecad
 freecol
 freemind
 fugu
-gfxcardstatus
 gimp-lisanet
 gnucash
 golly
@@ -81,7 +81,6 @@ osxfuse
 paintbrush
 pdfsam
 plex-media-server
-powerword
 projectlibre
 ps3-media-server
 psychopy
@@ -101,6 +100,7 @@ stella
 stellarium
 supercollider
 sweet-home3d
+thunder
 tiled
 tunnelblick
 tuxguitar
@@ -113,6 +113,7 @@ vistrails
 vlc
 weka
 wesnoth
+whatpulse
 wineskin-winery
 xampp
 yanvi

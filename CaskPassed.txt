@@ -42,6 +42,7 @@ authy-bluetooth
 awareness
 b2designer
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -57,6 +58,7 @@ bitcasa
 bitcoin
 bitlord
 black-ink
+blender
 blu-ray-player
 bluegriffon
 blueharvest
@@ -88,7 +90,6 @@ charles
 choosy
 chromecast
 chronomate
-clamxav
 clementine
 clipmenu
 clix
@@ -191,7 +192,6 @@ flame
 flash-player
 flash
 flickr-uploadr
-flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -213,10 +213,12 @@ garagesale
 gargoyle
 garmin-communicator
 garmin-training-center
+gas-mask
 geekbench
 geektool
 genymotion
 gephi
+gfxcardstatus
 gifrocket
 gimp
 gisto
@@ -479,6 +481,7 @@ port-map
 postbox
 postgres
 powerkey
+powerword
 praat
 preen
 prepros
@@ -526,6 +529,7 @@ robomongo
 rocks-n-diamonds
 royal-tsx
 rrootage
+rstudio
 rubymine
 sage
 satellite-eyes
@@ -534,6 +538,7 @@ screenflow
 screensteps
 scroll-reverser
 scrup
+seafile-client
 seamonkey
 second-life-viewer
 secondbar
@@ -609,6 +614,7 @@ subnetcalc
 subsmarine
 subsurface
 subtitle-master
+subtitles
 sunlogin-remote
 super-otr
 surplusmeter
@@ -643,7 +649,6 @@ theremin
 thetube
 thong
 thumbsup
-thunder
 thunderbird
 thyme
 tickets
@@ -714,7 +719,6 @@ webp-quicklook
 webstorm
 weibox
 welly
-whatpulse
 whiteclock
 widelands
 wireshark
@@ -738,6 +742,7 @@ xee
 xiami
 xld
 xmarks-safari
+xmind
 xquartz
 xrg
 xscope
@@ -747,7 +752,6 @@ yubikey-personalization-gui
 yubiswitch
 zendserver
 zendstudio
-zeroxed
 zooom
 zotero
 zterm
