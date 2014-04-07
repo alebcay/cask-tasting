@@ -45,7 +45,7 @@ do
     then
     echo -e "Downloading $(basename ${f%.*})"
     # axel -a -o Testfile "$URL"
-    STATUS_CODE=$(curl -sIL "$URL" | head -1 | perl -pe "s/.* (\d{3}) .*/\1/")
+    STATUS_CODE=$(curl -sIL "$URL" | grep "^HTTP" | tail -1 | perl -pe "s/.* (\d{3}) .*/\1/")
     if [[ "$STATUS_CODE" == "200" ]]
       then
       doalarm 1800 curl -L# "$URL" > Testfile
