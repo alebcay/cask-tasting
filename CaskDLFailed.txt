@@ -7,6 +7,7 @@ identify
 itunes-volume-control
 logisim
 macupdate-desktop
+racket
 refresh-finder
 sevenzx
 smartgithg
