@@ -54,7 +54,6 @@ baretorrent
 basecamp
 bathyscaphe
 battery-time-remaining
-bbedit
 bibdesk
 bino
 binreader
@@ -63,6 +62,7 @@ bitcasa
 bitcoin
 bitlord
 black-ink
+blender
 blu-ray-player
 bluegriffon
 blueharvest
@@ -154,7 +154,6 @@ deathtodsstore
 debt-quencher
 decitime
 default-folder-x
-delivery-status
 deltawalker
 deluge
 deskfun
@@ -190,6 +189,7 @@ easyfind
 easysimbl
 easyvpn
 eclipse-ide
+eclipse-platform
 ecoute
 ejector
 electric-sheep
@@ -267,6 +267,7 @@ google-quick-search-box
 google-refine
 googleappenginelauncher
 gpgtools
+gpower
 gqrx
 grabbox
 grandperspective
@@ -366,7 +367,6 @@ lightpaper
 lighttable
 limechat
 lincastor
-lingrradar
 linphone
 litecoin
 liteicon
@@ -401,7 +401,6 @@ makehuman
 makemkv
 makerware
 mame
-mamp
 manager
 manico
 mapture
@@ -549,7 +548,6 @@ postbox
 postgres
 powerkey
 powerword
-praat
 preen
 prepros
 prey
@@ -575,14 +573,15 @@ qlcolorcode
 qlmarkdown
 qlprettypatch
 qq
+qqbrowser
 qqmusic
-qt-creator
 quassel-client
 quicknfo
 quickradar
 quicksilver
 quotefixformac
 r
+racket
 radiant-player
 raw-photo-processor
 razer-synapse
@@ -590,6 +589,7 @@ rcdefaultapp
 rcenvironment
 rdm
 recovery-disk-assistant
+refresh-finder
 reggy
 remote-desktop-connection
 repetier-host
@@ -652,6 +652,8 @@ slidemode
 slimbatterymonitor
 sloth
 slowy
+smartgithg
+smartsynchronize
 smcfancontrol
 snip
 snippet-edit
@@ -675,7 +677,6 @@ splayerx
 spotify-notifications
 spyder
 sqleditor
-sqlexplorer
 sqlite-database-browser
 squidman
 squirrel
@@ -686,7 +687,6 @@ stay
 steermouse
 stella
 stellarium
-strongvpn-client
 sts
 subethaedit
 subler
@@ -724,7 +724,6 @@ textexpander
 textroom
 texts
 texturepacker
-textwrangler
 the-archive-browser
 the-brain
 the-unarchiver
@@ -732,6 +731,7 @@ theremin
 thetube
 thong
 thumbsup
+thunder
 thunderbird
 thyme
 tickets
@@ -746,7 +746,6 @@ tinygrab
 tinyumbrella
 tk-suite-client
 toad-mac
-todoist
 tomahawk
 tomighty
 tongbu
@@ -814,6 +813,7 @@ weibox
 weka
 welly
 wesnoth
+whatpulse
 whiteclock
 widelands
 wineskin-winery
@@ -822,7 +822,6 @@ witgui
 wiztoolsorg-restclient
 woodhouse
 wordservice
-wowhead-client
 wraparound
 wyzo
 x-moto

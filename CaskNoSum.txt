@@ -24,6 +24,7 @@ appmenuboy
 apptivate
 appzapper
 arq
+asteroid
 atext
 atmonitor
 audio-editor
@@ -33,6 +34,7 @@ aviator
 axure-rp-pro
 back-in-time
 backblaze-downloader
+bahamut
 balsamiq-mockups
 bartender
 base
@@ -101,6 +103,7 @@ deeper
 delibar
 delicious-library
 disk-drill
+disk-inventory-x
 diskmaker-x
 dispcalgui
 diumoo
@@ -194,6 +197,7 @@ integrity
 intermission
 invisorql
 irip
+itunes-volume-control
 itweax
 iupx
 ivolume
@@ -360,6 +364,7 @@ runtastic-connect
 sandbox
 sauce
 scansnap-manager
+scapple
 screenflick
 screenhero
 screens-connect
@@ -429,6 +434,7 @@ timemachineeditor
 tinkertool
 titanium-studio
 toau
+todoist
 todos
 tofu
 toggldesktop
@@ -460,6 +466,7 @@ vlcstreamer
 voicemac
 vox-preference-pane
 wasted
+web-sharing
 wechat
 wedge
 whatsapp-pocket
