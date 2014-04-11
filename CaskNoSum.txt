@@ -120,6 +120,7 @@ entropy
 epic
 espresso
 etrecheck
+eve
 evernote
 evom
 exhaust

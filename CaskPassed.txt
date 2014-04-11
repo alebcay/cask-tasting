@@ -76,6 +76,7 @@ broomstick
 burn
 butter
 c3
+caffeine
 calcservice
 calibre2opds
 callnote
@@ -216,7 +217,6 @@ flame
 flash-player
 flash
 flickr-uploadr
-flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -225,7 +225,6 @@ forklift
 fotomagico
 fourk-video-downloader
 fourk-youtube-to-mp3
-foxmail
 fpc
 free-ruler
 freecad
@@ -318,7 +317,6 @@ iphone-configuration-utility
 iphoney
 ireadfast
 isolator
-istat-menus
 istopmotion
 istumbler
 iterm2
@@ -385,7 +383,6 @@ lyn
 lynxlet
 lyrics-master
 lyx
-macaw
 macdrops
 macfusion
 machg
@@ -575,6 +572,7 @@ qlprettypatch
 qq
 qqbrowser
 qqmusic
+qt-creator
 quassel-client
 quicknfo
 quickradar
@@ -591,6 +589,7 @@ rdm
 recovery-disk-assistant
 refresh-finder
 reggy
+remonit
 remote-desktop-connection
 repetier-host
 retinizer
@@ -677,6 +676,7 @@ splayerx
 spotify-notifications
 spyder
 sqleditor
+sqlexplorer
 sqlite-database-browser
 squidman
 squirrel
@@ -710,6 +710,7 @@ tactor
 tagger
 tagoman
 tagr
+tagspaces
 tapaal
 teamspeak-client
 teamviz
@@ -724,6 +725,7 @@ textexpander
 textroom
 texts
 texturepacker
+textwrangler
 the-archive-browser
 the-brain
 the-unarchiver
@@ -822,6 +824,7 @@ witgui
 wiztoolsorg-restclient
 woodhouse
 wordservice
+wowhead-client
 wraparound
 wyzo
 x-moto
@@ -835,7 +838,6 @@ xampp
 xbench
 xbmc
 xee
-xiami
 xld
 xmarks-safari
 xmind
