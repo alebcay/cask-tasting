@@ -77,7 +77,6 @@ burn
 butter
 c3
 caffeine
-calcservice
 calibre2opds
 callnote
 camerabag
@@ -87,7 +86,6 @@ candybar
 capo
 carbon-copy-cloner
 carlson-minot
-catch
 ccleaner
 ccmenu
 cd-to
@@ -105,15 +103,11 @@ clamxav
 clementine
 clipmenu
 clix
-cloak
 clock
-cloud
 cloudera-hive-odbc
-cloudytabs
 coccinellida
 cocoadialog
 cocoapacketanalyzer
-cocoarestclient
 cocoaspell
 coconutbattery
 coda
@@ -257,7 +251,6 @@ gitifier
 gitter
 gitx-l
 glimmerblocker
-gmail-notifr
 gnucash
 goagentx
 gog-downloader
@@ -270,7 +263,6 @@ gpower
 gqrx
 grabbox
 grandperspective
-graphsketcher
 gridwars
 growler
 growlnotify
@@ -361,7 +353,6 @@ launchy
 lazarus
 libreoffice
 licecap
-lightpaper
 lighttable
 limechat
 lincastor
@@ -396,7 +387,6 @@ mailfollowup
 mailplane
 makehuman
 makemkv
-makerware
 mame
 manager
 manico
@@ -441,7 +431,6 @@ mpv
 mucommander
 mudlet
 multibit
-multidoge
 mumble
 musescore
 musicbrainz-picard
@@ -487,7 +476,6 @@ omnidazzle
 omnipresence
 omniweb
 onepassword
-openemu
 openlp
 openoffice
 openra
@@ -560,15 +548,12 @@ ps3-media-server
 psychopy
 punto-switcher
 pupil
-pusher
-putio-adder
 pwnagetool
 pycharm-ce
 pycharm
 qbittorrent
 qlcolorcode
 qlmarkdown
-qlprettypatch
 qq
 qqbrowser
 qqmusic
@@ -732,7 +717,6 @@ the-unarchiver
 theremin
 thetube
 thong
-thumbsup
 thunder
 thunderbird
 thyme
@@ -776,7 +760,6 @@ uber-network-fuser
 uberpov
 ukelele
 ultrastardeluxe
-uncrustifyx
 undercover
 unetbootin
 uninstallpkg
@@ -811,11 +794,9 @@ waterroof
 wavtap
 webp-quicklook
 webstorm
-weibox
 weka
 welly
 wesnoth
-whatpulse
 whiteclock
 widelands
 wineskin-winery
@@ -838,6 +819,7 @@ xampp
 xbench
 xbmc
 xee
+xiami
 xld
 xmarks-safari
 xmind

@@ -19,5 +19,6 @@ plex-media-server
 praat
 sharetool
 strongvpn-client
-xiami
+weibox
+whatpulse
 yanvi
