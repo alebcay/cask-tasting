@@ -140,6 +140,7 @@ foldit
 folx
 fontprep
 fourpeaks
+foxmail
 freezer
 frizzix
 fseventer

@@ -18,10 +18,8 @@ android-studio
 angry-ip-scanner
 anki
 anonym
-antirsi
 apikitchen
 apns-pusher
-appcleaner
 appcode
 apptrap
 aptanastudio
@@ -47,6 +45,7 @@ avogadro
 awareness
 b2designer
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -54,6 +53,7 @@ baretorrent
 basecamp
 bathyscaphe
 battery-time-remaining
+bbedit
 bibdesk
 bino
 binreader
@@ -62,7 +62,6 @@ bitcasa
 bitcoin
 bitlord
 black-ink
-blender
 blu-ray-player
 bluegriffon
 blueharvest
@@ -77,6 +76,7 @@ burn
 butter
 c3
 caffeine
+calcservice
 calibre2opds
 callnote
 camerabag
@@ -86,6 +86,7 @@ candybar
 capo
 carbon-copy-cloner
 carlson-minot
+catch
 ccleaner
 ccmenu
 cd-to
@@ -103,11 +104,15 @@ clamxav
 clementine
 clipmenu
 clix
+cloak
 clock
+cloud
 cloudera-hive-odbc
+cloudytabs
 coccinellida
 cocoadialog
 cocoapacketanalyzer
+cocoarestclient
 cocoaspell
 coconutbattery
 coda
@@ -149,6 +154,7 @@ deathtodsstore
 debt-quencher
 decitime
 default-folder-x
+delivery-status
 deltawalker
 deluge
 deskfun
@@ -172,7 +178,6 @@ doxie
 doxygen
 dragondisk
 dragthing
-drobo-dashboard
 dropbox-encore
 droplr
 dsp-radio
@@ -225,6 +230,7 @@ freecad
 freecol
 freemind
 fritzing
+frostwire
 fs-uae
 fugu
 functionflip
@@ -251,6 +257,7 @@ gitifier
 gitter
 gitx-l
 glimmerblocker
+gmail-notifr
 gnucash
 goagentx
 gog-downloader
@@ -263,6 +270,7 @@ gpower
 gqrx
 grabbox
 grandperspective
+graphsketcher
 gridwars
 growler
 growlnotify
@@ -353,6 +361,7 @@ launchy
 lazarus
 libreoffice
 licecap
+lightpaper
 lighttable
 limechat
 lincastor
@@ -374,6 +383,7 @@ lyn
 lynxlet
 lyrics-master
 lyx
+macaw
 macdrops
 macfusion
 machg
@@ -386,8 +396,9 @@ magic-launch
 mailfollowup
 mailplane
 makehuman
-makemkv
+makerware
 mame
+mamp
 manager
 manico
 mapture
@@ -400,7 +411,6 @@ maxthon
 mcedit
 media-converter
 mediaelch
-mediainfo
 mediathekview
 meerkat
 mendeley-desktop
@@ -431,6 +441,7 @@ mpv
 mucommander
 mudlet
 multibit
+multidoge
 mumble
 musescore
 musicbrainz-picard
@@ -476,6 +487,7 @@ omnidazzle
 omnipresence
 omniweb
 onepassword
+openemu
 openlp
 openoffice
 openra
@@ -483,7 +495,6 @@ openscad
 opensesame
 openttd
 openvanilla
-opera-mail
 opera-mobile-emulator
 opera-next
 opera
@@ -533,6 +544,7 @@ postbox
 postgres
 powerkey
 powerword
+praat
 preen
 prepros
 prey
@@ -541,6 +553,7 @@ processing
 programmer-dvorak
 projectlibre
 prolific-usb-serial-driver
+propresenter
 protege
 provisioning
 proximity
@@ -548,12 +561,15 @@ ps3-media-server
 psychopy
 punto-switcher
 pupil
+pusher
+putio-adder
 pwnagetool
 pycharm-ce
 pycharm
 qbittorrent
 qlcolorcode
 qlmarkdown
+qlprettypatch
 qq
 qqbrowser
 qqmusic
@@ -717,6 +733,7 @@ the-unarchiver
 theremin
 thetube
 thong
+thumbsup
 thunder
 thunderbird
 thyme
@@ -760,6 +777,7 @@ uber-network-fuser
 uberpov
 ukelele
 ultrastardeluxe
+uncrustifyx
 undercover
 unetbootin
 uninstallpkg
@@ -785,7 +803,6 @@ visualvm
 vlc
 vmware-fusion
 vocabulist
-vuescan
 vyprvpn
 wacom-bamboo-tablet
 wacom-tablet
@@ -797,6 +814,7 @@ webstorm
 weka
 welly
 wesnoth
+whatpulse
 whiteclock
 widelands
 wineskin-winery
