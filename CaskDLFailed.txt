@@ -1,14 +1,8 @@
-antirsi
-appcleaner
 beardedspice
-blender
 dataurlmaker
-drobo-dashboard
 growl-fork
 identify
 logisim
 macupdate-desktop
-makemkv
-mediainfo
 sevenzx
 zeroxed

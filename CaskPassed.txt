@@ -18,8 +18,10 @@ android-studio
 angry-ip-scanner
 anki
 anonym
+antirsi
 apikitchen
 apns-pusher
+appcleaner
 appcode
 apptrap
 aptanastudio
@@ -62,6 +64,7 @@ bitcasa
 bitcoin
 bitlord
 black-ink
+blender
 blu-ray-player
 bluegriffon
 blueharvest
@@ -178,6 +181,7 @@ doxie
 doxygen
 dragondisk
 dragthing
+drobo-dashboard
 dropbox-encore
 droplr
 dsp-radio
@@ -283,6 +287,7 @@ hands-off
 haroopad
 haskell-platform
 hermes
+historyhound
 hive
 hoppergdbserver
 horndis
@@ -396,6 +401,7 @@ magic-launch
 mailfollowup
 mailplane
 makehuman
+makemkv
 makerware
 mame
 mamp
@@ -411,6 +417,7 @@ maxthon
 mcedit
 media-converter
 mediaelch
+mediainfo
 mediathekview
 meerkat
 mendeley-desktop
@@ -495,9 +502,9 @@ openscad
 opensesame
 openttd
 openvanilla
+opera-mail
 opera-mobile-emulator
 opera-next
-opera
 orange
 osxfuse
 owasp-zap
@@ -811,10 +818,10 @@ waterroof
 wavtap
 webp-quicklook
 webstorm
+weibox
 weka
 welly
 wesnoth
-whatpulse
 whiteclock
 widelands
 wineskin-winery

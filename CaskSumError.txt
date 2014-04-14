@@ -10,10 +10,10 @@ java
 librecad
 lingrradar
 mp4tools
-opera-mail
+opera
 plex-media-server
 sharetool
 strongvpn-client
 vuescan
-weibox
+whatpulse
 yanvi
