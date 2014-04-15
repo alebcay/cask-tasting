@@ -1,5 +1,6 @@
 beardedspice
 dataurlmaker
+dropbox-encore
 growl-fork
 identify
 logisim

@@ -47,7 +47,6 @@ avogadro
 awareness
 b2designer
 backuploupe
-baiducloud
 bankid
 banshee
 bar-magnet
@@ -78,7 +77,6 @@ broomstick
 burn
 butter
 c3
-caffeine
 calcservice
 calibre2opds
 callnote
@@ -172,6 +170,7 @@ diskaid
 diskwave
 djview
 dnscrypt
+dockmod
 dogecoin
 dolphin
 dosbox
@@ -182,7 +181,6 @@ doxygen
 dragondisk
 dragthing
 drobo-dashboard
-dropbox-encore
 droplr
 dsp-radio
 dukto
@@ -209,7 +207,6 @@ fake
 fakethunder
 fantastical
 fastscripts
-feeder
 feeds
 fender-fuse
 filebot
@@ -289,6 +286,7 @@ haskell-platform
 hermes
 historyhound
 hive
+honer
 hoppergdbserver
 horndis
 httpscoop
@@ -322,6 +320,7 @@ iphone-configuration-utility
 iphoney
 ireadfast
 isolator
+istat-menus
 istopmotion
 istumbler
 iterm2
@@ -505,6 +504,7 @@ openvanilla
 opera-mail
 opera-mobile-emulator
 opera-next
+opera
 orange
 osxfuse
 owasp-zap
@@ -595,6 +595,7 @@ rcdefaultapp
 rcenvironment
 rdm
 recovery-disk-assistant
+reeder
 refresh-finder
 reggy
 remonit
@@ -822,6 +823,7 @@ weibox
 weka
 welly
 wesnoth
+whatpulse
 whiteclock
 widelands
 wineskin-winery

@@ -54,6 +54,7 @@ bitmessage
 bittorrent-sync
 bodega
 bonjour-browser
+boom
 bootchamp
 box-sync
 boxcryptor-classic
@@ -102,6 +103,7 @@ dealalert
 deeper
 delibar
 delicious-library
+desktop-log
 disk-drill
 disk-inventory-x
 diskmaker-x
@@ -132,6 +134,7 @@ filedrop
 firefox
 fission
 flash-decompiler-trillix
+flavours
 flow
 flowdock
 flux
