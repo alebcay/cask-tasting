@@ -1,4 +1,4 @@
-Check started at Tue Apr 15 00:01:46 EDT 2014
+Check started at Wed Apr 16 00:00:52 EDT 2014
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
 acorn: no checksum
@@ -85,12 +85,10 @@ back-in-time: no checksum
 backblaze-downloader: no checksum
 backuploupe: passed
 bahamut: no checksum
-baiducloud: SHA-256 mismatch!
-  Expected: 194e049020bc11110807d7a157c5ab1f25f987b3e14ead7b452319420b97ad51
-  Actual  : 25e2fd0ea8cb78a949be78dab1b051e934be2ced6b77c794833f9947de396337
+baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : b0db8b8bc17ba7eb9e2eb504765c3fe6a87de6619747465433fa215ff140d941
+  Actual  : 04b59ceb942b61f0ac8d8fc8d227c261394b176e02461db2f703bd40ddcd5add
 balsamiq-mockups: no checksum
 bankid: passed
 banshee: passed
@@ -139,9 +137,7 @@ bowtie: passed
 box-sync: no checksum
 boxcryptor-classic: no checksum
 boxer: no checksum
-brackets: SHA-256 mismatch!
-  Expected: 3f9fbbcfa12015b30656d83c5b55f0c11f98a298499d6b9b2fd7c2a92bf38f99
-  Actual  : 2d6fa7a06f86945f8474e2e9e595651e30ce3de530391bb3f2b5f2ab13e6bf9d
+brackets: passed
 brain-workshop: passed
 breakaway: passed
 brightness: passed
@@ -313,7 +309,7 @@ dradio: no checksum
 dragondisk: passed
 dragthing: passed
 drobo-dashboard: passed
-dropbox-encore: download error
+dropbox-encore: passed
 dropbox: no checksum
 dropin: no checksum
 droplr: passed
@@ -362,7 +358,7 @@ feeder: SHA-256 mismatch!
 feeds: passed
 fender-amp-drivers: SHA-256 mismatch!
   Expected: e68de1a1c1068d34dda354e2678ddac4a796b2ccdface95b034a438455442919
-  Actual  : 17b3914195ad4aae3f4486a351fe9172aada062dad7fcc78bca5894221a6c019
+  Actual  : f73c4c66c6d9bc6492d8f22126415f5a36eb555714adc147590fb3a5d25b8c34
 fender-fuse: passed
 ffmpegx: no checksum
 fiji: no checksum
@@ -381,7 +377,7 @@ flavours: no checksum
 flickr-uploadr: passed
 flightgear: SHA-256 mismatch!
   Expected: 545d4f281103a2ab2d3a0aeddbab056c5ed5e876188961abec8ece5f4ae91dc4
-  Actual  : cab3c9841d239f4e007b22bc5d538a36d8409e7e100c1e2fb23fd164dc32e8a8
+  Actual  : b9a5ff7deab78b948a1ac3b7c6f8ab23a65f15d1a7ae49acb908e9b2dac6a1d5
 flip4mac: passed
 flow: no checksum
 flowdock: no checksum
@@ -449,7 +445,7 @@ goagentx: passed
 gog-downloader: passed
 golly: SHA-256 mismatch!
   Expected: e97f429065fe9249801b4d04d8e9ed2e354b396e5b107d5d9da25501368a398a
-  Actual  : a70370ab0fd342b2a3ba69eb423c62fc2a3e6ea97d38adb959bb041dcbadb9ad
+  Actual  : 54fae87c57456c307f412380cfc9d2d6e430b74cabcb95c1a3b0c8563314e3ff
 google-auto-backup: no checksum
 google-chrome: no checksum
 google-drive: no checksum
@@ -811,6 +807,7 @@ netspot: no checksum
 neu: passed
 ngrok: no checksum
 nicecast: no checksum
+nide: passed
 nightingale: passed
 nimbus: passed
 ninjablocks: passed
@@ -902,7 +899,7 @@ phoneclean: no checksum
 photoninja: passed
 phpstorm: passed
 pi-filler: passed
-pianopub: passed
+pianopub: download error
 picasa: passed
 picturelife: no checksum
 picturesque: no checksum
@@ -1007,7 +1004,9 @@ recovery-disk-assistant: passed
 reeder: passed
 reflector: no checksum
 refresh-finder: passed
-reggy: passed
+reggy: SHA-256 mismatch!
+  Expected: 5a4d72158bc524ab2f21c6cfad7b703f413707d9d078ec1923c268b110ff8dda
+  Actual  : 8f5b53f7be427dc09c766d38cd3cc3c38b7f9903cb22d13e311bd8fc8c0642fe
 remonit: passed
 remote-desktop-connection: passed
 renamer: no checksum
@@ -1072,7 +1071,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: 00e65f6bc73209963e3668bf83641528f508093029488fa9cd0f3f882b3895a5
-  Actual  : 66203509cc92089468de468c3818f7d77e780cecc9c9b078cd9ccd6d88c58ba4
+  Actual  : b280315047996e4728eceb941d2ad1552890cdbe1d8a7b0d3dd75900eab027f4
 shelf-leveler: no checksum
 shiftit: passed
 shimo: passed
@@ -1358,7 +1357,9 @@ webp-quicklook: passed
 webstorm: passed
 wechat: no checksum
 wedge: no checksum
-weibox: passed
+weibox: SHA-256 mismatch!
+  Expected: 60c023ba7cc9f93ac72a7b1a4e8a518595348f4f6d8c4fbef0af8822c318a908
+  Actual  : 4e10207f14429e8d26ff224fe2ba808021911f745aada98e21e99ed8191d11c8
 weka: passed
 welly: passed
 wesnoth: passed
@@ -1388,7 +1389,7 @@ xamarin-android: passed
 xamarin-ios: passed
 xamarin-studio: passed
 xampp: passed
-xbench: passed
+xbench: download error
 xbmc: passed
 xbox360-controller-driver: no checksum
 xca: no checksum
@@ -1406,7 +1407,7 @@ xtrafinder: no checksum
 yandexdisk: no checksum
 yanvi: SHA-256 mismatch!
   Expected: 7e7db828e404d1594ca847c4ccbb4fe7924dd5d3a116e69ddef94884345749ed
-  Actual  : bb15d1cd0e95d878a41fdf355a3a34611f1702ab53e57d333da75dc878c3ce0a
+  Actual  : 5f33cf385629a1313b6756baace3fad8b21e2b15b208b6bf7b7234b0fd333b3b
 yemuzip: no checksum
 ynab: passed
 yorufukurou: no checksum

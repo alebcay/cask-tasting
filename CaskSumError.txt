@@ -1,6 +1,4 @@
-baiducloud
 baiduinput
-brackets
 caffeine
 camranger
 feeder
@@ -13,7 +11,9 @@ librecad
 lingrradar
 mp4tools
 plex-media-server
+reggy
 sharetool
 strongvpn-client
 vuescan
+weibox
 yanvi

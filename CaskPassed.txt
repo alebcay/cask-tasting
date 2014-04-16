@@ -47,6 +47,7 @@ avogadro
 awareness
 b2designer
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -70,6 +71,7 @@ blueharvest
 bluej
 bootxchanger
 bowtie
+brackets
 brain-workshop
 breakaway
 brightness
@@ -181,6 +183,7 @@ doxygen
 dragondisk
 dragthing
 drobo-dashboard
+dropbox-encore
 droplr
 dsp-radio
 dukto
@@ -472,6 +475,7 @@ nethackcocoa
 netlogo
 netnewswire
 neu
+nide
 nightingale
 nimbus
 ninjablocks
@@ -534,7 +538,6 @@ phoenix-slides
 photoninja
 phpstorm
 pi-filler
-pianopub
 picasa
 pinta
 pivotalbooster
@@ -597,7 +600,6 @@ rdm
 recovery-disk-assistant
 reeder
 refresh-finder
-reggy
 remonit
 remote-desktop-connection
 repetier-host
@@ -819,7 +821,6 @@ waterroof
 wavtap
 webp-quicklook
 webstorm
-weibox
 weka
 welly
 wesnoth
@@ -843,7 +844,6 @@ xamarin-android
 xamarin-ios
 xamarin-studio
 xampp
-xbench
 xbmc
 xee
 xiami

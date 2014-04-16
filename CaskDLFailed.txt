@@ -1,9 +1,10 @@
 beardedspice
 dataurlmaker
-dropbox-encore
 growl-fork
 identify
 logisim
 macupdate-desktop
+pianopub
 sevenzx
+xbench
 zeroxed
