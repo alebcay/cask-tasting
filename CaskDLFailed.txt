@@ -1,10 +1,11 @@
 beardedspice
+colorpicker-propicker
 dataurlmaker
+dropbox-encore
 growl-fork
 identify
 logisim
 macupdate-desktop
-pianopub
+mapture
 sevenzx
-xbench
 zeroxed
