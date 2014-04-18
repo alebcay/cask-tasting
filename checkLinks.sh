@@ -83,7 +83,7 @@ do
   fi
   [ -e "Testfile" ] && rm Testfile
 done
-echo "Check finished at $(date)" >> /CaskTasting.part
+echo "Check finished at $(date)" >> ./CaskTasting.part
 echo "Check finished at $(date)"
 
 mv CaskTasting.part CaskTasting.txt
