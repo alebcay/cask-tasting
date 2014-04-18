@@ -30,6 +30,7 @@ atmonitor
 audio-editor
 audio-hijack-pro
 authbuddy
+automatic
 aviator
 axure-rp-pro
 back-in-time
@@ -50,7 +51,6 @@ bettertouchtool
 betterzip
 betterzipql
 bill
-bitmessage
 bittorrent-sync
 bodega
 bonjour-browser
@@ -298,6 +298,7 @@ omnifocus
 omnigraffle
 omnioutliner
 omniplan
+oneswarm
 onyx
 oovoo
 optimal-layout
@@ -314,6 +315,7 @@ pashua
 password-practice
 path-finder
 peepopen
+pentaho-data-integration
 phoenix
 phoneclean
 picturelife

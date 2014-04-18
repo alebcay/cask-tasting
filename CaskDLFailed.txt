@@ -1,7 +1,7 @@
+baiduinput
 beardedspice
-colorpicker-propicker
+chainsaw
 dataurlmaker
-dropbox-encore
 growl-fork
 identify
 logisim

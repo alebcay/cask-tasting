@@ -1,6 +1,5 @@
 a-slower-speed-of-light
 actiontastic
-actotracker
 adapter
 adium
 adobe-air
@@ -63,6 +62,7 @@ bit-slicer
 bitcasa
 bitcoin
 bitlord
+bitmessage
 black-ink
 blender
 blu-ray-player
@@ -96,7 +96,6 @@ cd-to
 celestia
 cert-quicklook
 cfxr
-chainsaw
 charles
 chicken
 choosy
@@ -124,6 +123,7 @@ cog
 colloquy
 colorpicker-antetype
 colorpicker-hex
+colorpicker-propicker
 colorpicker-rcwebcolorpicker
 colorpicker
 colors
@@ -161,6 +161,7 @@ deltawalker
 deluge
 deskfun
 desmume
+devonthink-pro-office
 devonthink-pro
 dewdrop
 dfontsplitter
@@ -182,6 +183,7 @@ doxygen
 dragondisk
 dragthing
 drobo-dashboard
+dropbox-encore
 droplr
 dsp-radio
 dukto
@@ -219,6 +221,7 @@ flame
 flash-player
 flash
 flickr-uploadr
+flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -286,6 +289,7 @@ handbrake
 hands-off
 haroopad
 haskell-platform
+hear
 hermes
 historyhound
 hive
@@ -372,7 +376,6 @@ licecap
 lightpaper
 lighttable
 limechat
-lincastor
 linphone
 litecoin
 liteicon
@@ -483,6 +486,7 @@ nmap
 nocturne
 node-webkit
 node
+nodeclipse
 noejectdelay
 noiz2sa
 nomacs
@@ -550,6 +554,7 @@ poedit
 pokertracker
 port-map
 postbox
+postgres
 powerkey
 powerword
 praat
@@ -668,7 +673,6 @@ snippet-edit
 snippets
 sococo
 sonic-visualiser
-sonos
 sopcast
 sophos-anti-virus-home-edition
 soundflower
@@ -715,9 +719,7 @@ synology-assistant
 synology-cloud-station
 synology-photo-station-uploader
 synthesia
-tactor
 tagger
-tagoman
 tagr
 tagspaces
 tapaal
@@ -728,7 +730,6 @@ testflight
 tex-live-utility
 texmacs
 texnicle
-texshop
 textadept
 textexpander
 textroom
