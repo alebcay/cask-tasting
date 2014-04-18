@@ -94,6 +94,6 @@ mv CaskNoSum.part CaskNoSum.txt
 
 echo "Sending data to master..."
 [ -e "Testfile" ] && rm Testfile
-git add .
-git commit -m "Cask taster reporting for duty: $(date)"
-git push
+git add . 2>/dev/null
+git commit -m "Cask taster reporting for duty: $(date)" 2>/dev/null
+git push 2>/dev/null
