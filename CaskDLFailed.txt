@@ -1,6 +1,4 @@
-baiduinput
 beardedspice
-chainsaw
 dataurlmaker
 growl-fork
 identify

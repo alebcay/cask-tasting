@@ -65,7 +65,6 @@ bitlord
 bitmessage
 black-ink
 blender
-blu-ray-player
 bluegriffon
 blueharvest
 bluej
@@ -75,6 +74,7 @@ brackets
 brain-workshop
 breakaway
 brightness
+brogue
 broomstick
 burn
 butter
@@ -96,6 +96,7 @@ cd-to
 celestia
 cert-quicklook
 cfxr
+chainsaw
 charles
 chicken
 choosy
@@ -148,6 +149,7 @@ cura
 curb
 curse-client
 cutesdr
+cx
 cyberduck
 darktable
 dashlane
@@ -217,11 +219,11 @@ filebot
 fileshuttle
 filezilla
 find-any-file
+fitbit-connect
 flame
 flash-player
 flash
 flickr-uploadr
-flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -375,6 +377,7 @@ libreoffice
 licecap
 lightpaper
 lighttable
+lilypond
 limechat
 linphone
 litecoin
@@ -506,6 +509,7 @@ openoffice
 openra
 openscad
 opensesame
+opensong
 openttd
 openvanilla
 opera-mail
@@ -557,7 +561,6 @@ postbox
 postgres
 powerkey
 powerword
-praat
 preen
 prepros
 prey
@@ -615,6 +618,7 @@ royal-tsx
 rrootage
 rstudio
 rubymine
+rythem
 sabnzbd
 sage
 satellite-eyes
@@ -673,6 +677,7 @@ snippet-edit
 snippets
 sococo
 sonic-visualiser
+sonos
 sopcast
 sophos-anti-virus-home-edition
 soundflower
@@ -855,6 +860,7 @@ xquartz
 xrg
 xscope
 xslimmer
+xtorrent
 ynab
 yubikey-personalization-gui
 yubiswitch

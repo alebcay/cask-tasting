@@ -59,6 +59,7 @@ bootchamp
 box-sync
 boxcryptor-classic
 boxer
+buddi
 calibre
 camtasia
 chameleon-ssd-optimizer
@@ -172,6 +173,7 @@ hazel
 heart
 heroku-toolbelt
 hex-fiend
+hex
 hexels
 hipchat
 hippoconnect

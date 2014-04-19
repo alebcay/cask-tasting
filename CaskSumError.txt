@@ -1,8 +1,11 @@
 actotracker
+baiduinput
+blu-ray-player
 caffeine
 camranger
 displaylink
 fender-amp-drivers
+flightgear
 golly
 java
 librecad
@@ -12,9 +15,9 @@ makemkv
 mp4tools
 orange
 plex-media-server
+praat
 r
 sharetool
-sonos
 strongvpn-client
 tactor
 tagoman
