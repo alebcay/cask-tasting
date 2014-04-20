@@ -55,6 +55,7 @@ basecamp
 bathyscaphe
 battery-time-remaining
 bbedit
+beardedspice
 bibdesk
 bino
 binreader
@@ -153,6 +154,7 @@ cx
 cyberduck
 darktable
 dashlane
+dataurlmaker
 dbeaver
 deathtodsstore
 debt-quencher
@@ -332,7 +334,6 @@ ireadfast
 isolator
 istat-menus
 istopmotion
-istumbler
 iterm2
 itools
 itunesscrobbler
@@ -415,13 +416,13 @@ mame
 mamp
 manager
 manico
+mapture
 maratis
 marble
 marsedit
 mauve
 max
 maxthon
-mcedit
 media-converter
 mediaelch
 mediainfo
@@ -477,7 +478,6 @@ netbeans-cpp
 netbeans-php
 netbeans
 nethackcocoa
-netlogo
 netnewswire
 neu
 nide
@@ -830,6 +830,7 @@ weibox
 weka
 welly
 wesnoth
+whatpulse
 whiteclock
 widelands
 wineskin-winery

@@ -12,7 +12,9 @@ librecad
 lincastor
 lingrradar
 makemkv
+mcedit
 mp4tools
+netlogo
 orange
 plex-media-server
 praat
@@ -22,4 +24,3 @@ strongvpn-client
 tactor
 tagoman
 texshop
-whatpulse

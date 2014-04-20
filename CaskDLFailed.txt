@@ -1,9 +1,7 @@
-beardedspice
-dataurlmaker
 growl-fork
 identify
+istumbler
 logisim
 macupdate-desktop
-mapture
 sevenzx
 zeroxed
