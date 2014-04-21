@@ -1,6 +1,5 @@
 growl-fork
 identify
-istumbler
 logisim
 macupdate-desktop
 sevenzx

@@ -80,6 +80,7 @@ broomstick
 burn
 butter
 c3
+caffeine
 calcservice
 calibre2opds
 callnote
@@ -226,6 +227,7 @@ flame
 flash-player
 flash
 flickr-uploadr
+flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -334,6 +336,7 @@ ireadfast
 isolator
 istat-menus
 istopmotion
+istumbler
 iterm2
 itools
 itunesscrobbler
@@ -478,6 +481,7 @@ netbeans-cpp
 netbeans-php
 netbeans
 nethackcocoa
+netlogo
 netnewswire
 neu
 nide
@@ -552,6 +556,7 @@ pixel-check
 platypus
 playonmac
 plex-home-theater
+plex-media-server
 plycounter
 pngcommentator
 poedit
@@ -683,7 +688,6 @@ sophos-anti-virus-home-edition
 soundflower
 sourcetree
 sparkle
-sparkleshare
 spectacle
 speedcrunch
 speedtao
