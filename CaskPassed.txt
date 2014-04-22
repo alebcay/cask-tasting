@@ -128,6 +128,7 @@ colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
 colorpicker-rcwebcolorpicker
+colorpicker-skalacolor
 colorpicker
 colors
 comictagger
@@ -227,7 +228,6 @@ flame
 flash-player
 flash
 flickr-uploadr
-flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -377,6 +377,7 @@ launchcontrol
 launchrocket
 launchy
 lazarus
+librecad
 libreoffice
 licecap
 lightpaper
@@ -440,6 +441,7 @@ meteorologist
 mi
 miditrail
 milkytracker
+mini-metro
 mixxx
 mkvtoolnix
 money
@@ -483,7 +485,6 @@ netbeans
 nethackcocoa
 netlogo
 netnewswire
-neu
 nide
 nightingale
 nimbus
@@ -574,7 +575,6 @@ processing
 programmer-dvorak
 projectlibre
 prolific-usb-serial-driver
-propresenter
 protege
 provisioning
 proximity
@@ -595,7 +595,7 @@ qq
 qqbrowser
 qqmusic
 qt-creator
-quassel-client
+quicklook-pfm
 quicknfo
 quickradar
 quicksilver
@@ -604,8 +604,6 @@ racket
 radiant-player
 raw-photo-processor
 razer-synapse
-rcdefaultapp
-rcenvironment
 rdm
 recovery-disk-assistant
 reeder
@@ -706,7 +704,6 @@ sshfs
 ssx
 stackroom
 stay
-steermouse
 stella
 stellarium
 sts
