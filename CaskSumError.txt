@@ -9,15 +9,12 @@ golly
 java
 lincastor
 lingrradar
-mcedit
+makemkv
 mp4tools
+noiz2sa
 orange
 praat
-propresenter
-r
 sharetool
-sparkleshare
-steermouse
 strongvpn-client
 tactor
 tagoman

@@ -1,11 +1,11 @@
+colorpicker-rcwebcolorpicker
 growl-fork
 identify
 logisim
 macupdate-desktop
-makemkv
 neu
-quassel-client
 rcdefaultapp
 rcenvironment
 sevenzx
+subsurface
 zeroxed

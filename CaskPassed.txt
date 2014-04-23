@@ -18,6 +18,7 @@ angry-ip-scanner
 anki
 anonym
 antirsi
+apache-directory-studio
 apikitchen
 apns-pusher
 appcleaner
@@ -100,6 +101,7 @@ cert-quicklook
 cfxr
 chainsaw
 charles
+chefdk
 chicken
 choosy
 chromecast
@@ -127,7 +129,6 @@ colloquy
 colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
-colorpicker-rcwebcolorpicker
 colorpicker-skalacolor
 colorpicker
 colors
@@ -303,6 +304,7 @@ honer
 hoppergdbserver
 horndis
 httpscoop
+hubic
 hugin
 hush
 hyro
@@ -427,6 +429,7 @@ marsedit
 mauve
 max
 maxthon
+mcedit
 media-converter
 mediaelch
 mediainfo
@@ -437,6 +440,7 @@ menubar-countdown
 menuola
 mesasqlite
 meshlab
+metanota
 meteorologist
 mi
 miditrail
@@ -496,7 +500,6 @@ node-webkit
 node
 nodeclipse
 noejectdelay
-noiz2sa
 nomacs
 nosleep
 nottingham
@@ -575,6 +578,7 @@ processing
 programmer-dvorak
 projectlibre
 prolific-usb-serial-driver
+propresenter
 protege
 provisioning
 proximity
@@ -595,11 +599,13 @@ qq
 qqbrowser
 qqmusic
 qt-creator
+quassel-client
 quicklook-pfm
 quicknfo
 quickradar
 quicksilver
 quotefixformac
+r
 racket
 radiant-player
 raw-photo-processor
@@ -686,6 +692,7 @@ sophos-anti-virus-home-edition
 soundflower
 sourcetree
 sparkle
+sparkleshare
 spectacle
 speedcrunch
 speedtao
@@ -704,6 +711,7 @@ sshfs
 ssx
 stackroom
 stay
+steermouse
 stella
 stellarium
 sts
@@ -712,7 +720,6 @@ subler
 sublime-text
 subnetcalc
 subsmarine
-subsurface
 subtitle-master
 subtitles
 sunlogin-remote
