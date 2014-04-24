@@ -212,6 +212,7 @@ enjoyable
 evasi0n
 eye-fi
 eyetv
+factor
 fairmount
 fake
 fakethunder
@@ -229,6 +230,7 @@ flame
 flash-player
 flash
 flickr-uploadr
+flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -489,6 +491,7 @@ netbeans
 nethackcocoa
 netlogo
 netnewswire
+neu
 nide
 nightingale
 nimbus
@@ -500,6 +503,7 @@ node-webkit
 node
 nodeclipse
 noejectdelay
+noiz2sa
 nomacs
 nosleep
 nottingham
@@ -585,7 +589,6 @@ proximity
 ps3-media-server
 psychopy
 punto-switcher
-pupil
 pusher
 putio-adder
 pwnagetool
@@ -633,6 +636,7 @@ sage
 satellite-eyes
 scala-ide
 screenflow
+screenstagram
 screensteps
 scribus
 scroll-reverser
@@ -667,7 +671,6 @@ sigil
 silverlight
 simon
 simpholders
-simple-comic
 simplecap
 sketchup
 skim
@@ -720,6 +723,7 @@ subler
 sublime-text
 subnetcalc
 subsmarine
+subsurface
 subtitle-master
 subtitles
 sunlogin-remote
@@ -738,6 +742,7 @@ tagspaces
 tapaal
 teamspeak-client
 teamviz
+teensy
 teeworlds
 testflight
 tex-live-utility
@@ -775,6 +780,7 @@ tomahawk
 tomighty
 tongbu
 torbrowserbundle
+torpedo
 torustrooper
 totalfinder
 totals

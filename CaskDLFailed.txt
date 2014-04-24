@@ -1,11 +1,10 @@
 colorpicker-rcwebcolorpicker
 growl-fork
 identify
+lingrradar
 logisim
 macupdate-desktop
-neu
 rcdefaultapp
 rcenvironment
 sevenzx
-subsurface
 zeroxed

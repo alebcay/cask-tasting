@@ -1,4 +1,4 @@
-Check started at Wed Apr 23 00:01:02 EDT 2014
+Check started at Thu Apr 24 00:00:50 EDT 2014
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
 acorn: no checksum
@@ -92,7 +92,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : 2c84afac7a4425c57ac5d138e48d603567915220810dbd502dc774f5ef859d34
+  Actual  : 658b541e7047f8aaddceee5db7a50e4153d028ad6ea2837c65cc68451b342170
 balsamiq-mockups: no checksum
 bankid: passed
 banshee: passed
@@ -362,6 +362,7 @@ exhaust: no checksum
 expandrive: no checksum
 eye-fi: passed
 eyetv: passed
+factor: passed
 fairmount: passed
 fake: passed
 fakethunder: passed
@@ -372,7 +373,7 @@ feeder: passed
 feeds: passed
 fender-amp-drivers: SHA-256 mismatch!
   Expected: e68de1a1c1068d34dda354e2678ddac4a796b2ccdface95b034a438455442919
-  Actual  : f73c4c66c6d9bc6492d8f22126415f5a36eb555714adc147590fb3a5d25b8c34
+  Actual  : 17b3914195ad4aae3f4486a351fe9172aada062dad7fcc78bca5894221a6c019
 fender-fuse: passed
 ffmpegx: no checksum
 fiji: no checksum
@@ -390,9 +391,7 @@ flash-player: passed
 flash: passed
 flavours: no checksum
 flickr-uploadr: passed
-flightgear: SHA-256 mismatch!
-  Expected: 545d4f281103a2ab2d3a0aeddbab056c5ed5e876188961abec8ece5f4ae91dc4
-  Actual  : 72e2ce9e7c7b9bdaaec89590b2d4c44b2cacbc0fc7186c9b2fb9eaebc28b9e56
+flightgear: passed
 flip4mac: passed
 flow: no checksum
 flowdock: no checksum
@@ -462,7 +461,7 @@ goagentx: passed
 gog-downloader: passed
 golly: SHA-256 mismatch!
   Expected: e97f429065fe9249801b4d04d8e9ed2e354b396e5b107d5d9da25501368a398a
-  Actual  : 4a5a2e54cbfaffe5f952edb9dfbd676f831d7c8f41836b2dacef051cdfa5755c
+  Actual  : 44effce0a0e17b1b162d45cd0087984184f9295008de44d1532f4aaf42060565
 google-auto-backup: no checksum
 google-chrome: no checksum
 google-drive: no checksum
@@ -658,9 +657,7 @@ lincastor: SHA-256 mismatch!
   Actual  : f3b9af3387229d81633c5f91e07d01c9f6d9c78013e3e2a8e22cd6148853ed17
 linein: no checksum
 lingon-x: no checksum
-lingrradar: SHA-256 mismatch!
-  Expected: c1883e5bb0d31055a34651c1315dd5fdbdc5126dc493a84ea40cf518e4ff23b6
-  Actual  : e1dd071a329b85cab75ca512cebf4148ba58c66580d45b167168f027f8d7680c
+lingrradar: download error
 linkinus: no checksum
 linphone: passed
 liquifile: no checksum
@@ -827,7 +824,7 @@ netlogo: passed
 netnewswire: passed
 netshade: no checksum
 netspot: no checksum
-neu: download error
+neu: passed
 ngrok: no checksum
 nicecast: no checksum
 nide: passed
@@ -842,9 +839,7 @@ node-webkit: passed
 node: passed
 nodeclipse: passed
 noejectdelay: passed
-noiz2sa: SHA-256 mismatch!
-  Expected: eb4d7f0a133b5e1541edb3b13209af58093f9a6a9fcc1296fec88552a967306d
-  Actual  : 67d7a6242d63a59ff7b6baf6fed6c89d341c10ff5e92295f91b5053539de85eb
+noiz2sa: passed
 nomacs: passed
 nosleep: passed
 notational-velocity: no checksum
@@ -989,7 +984,9 @@ proxpn: no checksum
 ps3-media-server: passed
 psychopy: passed
 punto-switcher: passed
-pupil: passed
+pupil: SHA-256 mismatch!
+  Expected: d30e0cf8b45ab0a7ccd4ae9e99a788bb810ccf18c856ab446fc6d230d1159a03
+  Actual  : c9265224506fe312943ae01cecc0c16db29e0dc4e668cfc091cf8d3516c55c1e
 pusher: passed
 putio-adder: passed
 puush: no checksum
@@ -1073,6 +1070,7 @@ screenflick: no checksum
 screenflow: passed
 screenhero: no checksum
 screens-connect: no checksum
+screenstagram: passed
 screensteps: passed
 scribus: passed
 scriptql: no checksum
@@ -1102,7 +1100,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: 00e65f6bc73209963e3668bf83641528f508093029488fa9cd0f3f882b3895a5
-  Actual  : 503392e01762771347a88209367bb6e751d4c2c0a70c890a4a24dce9c602548b
+  Actual  : d3eb3465675a26bf946f3767560bfa547ff684bf1329bc035e97c72ae595eea9
 shelf-leveler: no checksum
 shiftit: passed
 shimo: passed
@@ -1121,7 +1119,9 @@ silverback: no checksum
 silverlight: passed
 simon: passed
 simpholders: passed
-simple-comic: passed
+simple-comic: SHA-256 mismatch!
+  Expected: 4ddd18a02a79fc8201824e6ab99291c6d4c8680f79f94bc372bf71f0535def35
+  Actual  : 31ce26ae09d6dcfe2f2b903ed73cf6b70ad827a54863602b5e2bb761d1db7660
 simple-css: no checksum
 simplecap: passed
 simpletag: no checksum
@@ -1214,7 +1214,7 @@ subler: passed
 sublime-text: passed
 subnetcalc: passed
 subsmarine: passed
-subsurface: download error
+subsurface: passed
 subtitle-master: passed
 subtitles: passed
 sunlogin-remote: passed
@@ -1248,6 +1248,7 @@ taskpaper: no checksum
 teamspeak-client: passed
 teamviewer: no checksum
 teamviz: passed
+teensy: passed
 teeworlds: passed
 teleport: no checksum
 testflight: passed
@@ -1303,6 +1304,7 @@ tomighty: passed
 tongbu: passed
 tonido: no checksum
 torbrowserbundle: passed
+torpedo: passed
 torustrooper: passed
 totalfinder: passed
 totals: passed
@@ -1459,4 +1461,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Apr 23 09:40:23 EDT 2014
+Check finished at Thu Apr 24 07:05:50 EDT 2014
