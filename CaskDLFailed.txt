@@ -1,10 +1,8 @@
-colorpicker-rcwebcolorpicker
 growl-fork
 identify
 lingrradar
 logisim
 macupdate-desktop
-rcdefaultapp
-rcenvironment
+makemkv
 sevenzx
 zeroxed

@@ -1,4 +1,4 @@
-Check started at Thu Apr 24 00:00:50 EDT 2014
+Check started at Fri Apr 25 00:00:45 EDT 2014
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
 acorn: no checksum
@@ -15,7 +15,7 @@ adobe-creative-cloud: no checksum
 adobe-reader: passed
 adventure: no checksum
 aegisub: passed
-aerofs: no checksum
+aerofs: passed
 air-video-server: passed
 airdisplay: no checksum
 airfoil: no checksum
@@ -89,10 +89,12 @@ back-in-time: no checksum
 backblaze-downloader: no checksum
 backuploupe: passed
 bahamut: no checksum
-baiducloud: passed
+baiducloud: SHA-256 mismatch!
+  Expected: 194e049020bc11110807d7a157c5ab1f25f987b3e14ead7b452319420b97ad51
+  Actual  : f994090e8cd2af9a9ed46ef27b731203867698973c12609d1bd7c40674580907
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : 658b541e7047f8aaddceee5db7a50e4153d028ad6ea2837c65cc68451b342170
+  Actual  : a74ef75bee54e6d563f795a943d9328c3229205b273be38c6df144f49c9d67d5
 balsamiq-mockups: no checksum
 bankid: passed
 banshee: passed
@@ -232,7 +234,7 @@ colorpicker-antetype: passed
 colorpicker-developer: no checksum
 colorpicker-hex: passed
 colorpicker-propicker: passed
-colorpicker-rcwebcolorpicker: download error
+colorpicker-rcwebcolorpicker: passed
 colorpicker-skalacolor: passed
 colorpicker: passed
 colors: passed
@@ -373,9 +375,10 @@ feeder: passed
 feeds: passed
 fender-amp-drivers: SHA-256 mismatch!
   Expected: e68de1a1c1068d34dda354e2678ddac4a796b2ccdface95b034a438455442919
-  Actual  : 17b3914195ad4aae3f4486a351fe9172aada062dad7fcc78bca5894221a6c019
+  Actual  : f73c4c66c6d9bc6492d8f22126415f5a36eb555714adc147590fb3a5d25b8c34
 fender-fuse: passed
 ffmpegx: no checksum
+figtree: no checksum
 fiji: no checksum
 filebot: passed
 filedrop: no checksum
@@ -391,7 +394,9 @@ flash-player: passed
 flash: passed
 flavours: no checksum
 flickr-uploadr: passed
-flightgear: passed
+flightgear: SHA-256 mismatch!
+  Expected: 545d4f281103a2ab2d3a0aeddbab056c5ed5e876188961abec8ece5f4ae91dc4
+  Actual  : b0e64a2cf0c084c3a2eb0cb04d6d684667b13b6994c5a366d2ecdc7b13368887
 flip4mac: passed
 flow: no checksum
 flowdock: no checksum
@@ -461,7 +466,7 @@ goagentx: passed
 gog-downloader: passed
 golly: SHA-256 mismatch!
   Expected: e97f429065fe9249801b4d04d8e9ed2e354b396e5b107d5d9da25501368a398a
-  Actual  : 44effce0a0e17b1b162d45cd0087984184f9295008de44d1532f4aaf42060565
+  Actual  : 6fee35e8e4f63ee2c1b0913b7e8009b2548c4e4469050f9c31791900e1e97f16
 google-auto-backup: no checksum
 google-chrome: no checksum
 google-drive: no checksum
@@ -585,6 +590,7 @@ iupx: no checksum
 ivolume: no checksum
 izip: no checksum
 jabref: passed
+jaspersoft-studio: passed
 java: SHA-256 mismatch!
   Expected: 3dd1047340c2487f7c32c4ae633ba9a9a9e1dee49f6084d7df3846091faece48
   Actual  : 80212f7748c2671b89b6085000717c747851db004409dce3bb97f3a2aeb91cdd
@@ -678,7 +684,9 @@ logmein-hamachi: no checksum
 loom: no checksum
 love: passed
 lpk25-editor: no checksum
-ltspice: passed
+ltspice: SHA-256 mismatch!
+  Expected: 99fa9c03a79f9b79a41511e096a97daef98cc852099167dde3bd98a28bb6c1d9
+  Actual  : 4722b3dcf28e2d1c2ef08119bbced6cb0ac5053d6bab7b46b52c2a0c352894c5
 lucidor: passed
 lyn: passed
 lynxlet: passed
@@ -712,9 +720,7 @@ mailmate: no checksum
 mailplane: passed
 majic: no checksum
 makehuman: passed
-makemkv: SHA-256 mismatch!
-  Expected: 9a854fb40b035c77e470ae523692243eb8f7d13485fb57a1e760f5f519cd705b
-  Actual  : 143bec1c7a2e073450dd60b77fd927cb2c097af5ada47949fe14deb38e9a0421
+makemkv: download error
 makerware: passed
 mame: passed
 mamp: passed
@@ -762,6 +768,7 @@ miro-video-converter: no checksum
 miro: no checksum
 mirrordisplays: no checksum
 mixlr: no checksum
+mixture: no checksum
 mixxx: passed
 mkvtoolnix: passed
 mocksmtp: no checksum
@@ -984,9 +991,7 @@ proxpn: no checksum
 ps3-media-server: passed
 psychopy: passed
 punto-switcher: passed
-pupil: SHA-256 mismatch!
-  Expected: d30e0cf8b45ab0a7ccd4ae9e99a788bb810ccf18c856ab446fc6d230d1159a03
-  Actual  : c9265224506fe312943ae01cecc0c16db29e0dc4e668cfc091cf8d3516c55c1e
+pupil: passed
 pusher: passed
 putio-adder: passed
 puush: no checksum
@@ -1022,8 +1027,8 @@ racket: passed
 radiant-player: passed
 raw-photo-processor: passed
 razer-synapse: passed
-rcdefaultapp: download error
-rcenvironment: download error
+rcdefaultapp: passed
+rcenvironment: passed
 rdio: no checksum
 rdm: passed
 readefine-desktop: no checksum
@@ -1100,7 +1105,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: 00e65f6bc73209963e3668bf83641528f508093029488fa9cd0f3f882b3895a5
-  Actual  : d3eb3465675a26bf946f3767560bfa547ff684bf1329bc035e97c72ae595eea9
+  Actual  : d6c19e082f9d96b1831692d308a4d5512608e6ca8d58c52d7e95bb2da0832a8c
 shelf-leveler: no checksum
 shiftit: passed
 shimo: passed
@@ -1121,7 +1126,7 @@ simon: passed
 simpholders: passed
 simple-comic: SHA-256 mismatch!
   Expected: 4ddd18a02a79fc8201824e6ab99291c6d4c8680f79f94bc372bf71f0535def35
-  Actual  : 31ce26ae09d6dcfe2f2b903ed73cf6b70ad827a54863602b5e2bb761d1db7660
+  Actual  : 06b05ca40dbd4833b6d30e9dbc8840237a476f7bc91970867e3de5c47f72a0b4
 simple-css: no checksum
 simplecap: passed
 simpletag: no checksum
@@ -1461,4 +1466,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Thu Apr 24 07:05:50 EDT 2014
+Check finished at Fri Apr 25 08:09:25 EDT 2014

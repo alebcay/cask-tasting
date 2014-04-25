@@ -5,6 +5,7 @@ adium
 adobe-air
 adobe-reader
 aegisub
+aerofs
 air-video-server
 airserver
 alfred
@@ -47,7 +48,6 @@ avogadro
 awareness
 b2designer
 backuploupe
-baiducloud
 bankid
 banshee
 bar-magnet
@@ -129,6 +129,7 @@ colloquy
 colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
+colorpicker-rcwebcolorpicker
 colorpicker-skalacolor
 colorpicker
 colors
@@ -230,7 +231,6 @@ flame
 flash-player
 flash
 flickr-uploadr
-flightgear
 flip4mac
 fluid
 fm-fw-installer
@@ -345,6 +345,7 @@ iterm2
 itools
 itunesscrobbler
 jabref
+jaspersoft-studio
 jawbone-updater
 jd-gui
 jedit
@@ -400,7 +401,6 @@ logitech-control-center
 logitech-harmony
 logitech-unifying
 love
-ltspice
 lucidor
 lyn
 lynxlet
@@ -589,6 +589,7 @@ proximity
 ps3-media-server
 psychopy
 punto-switcher
+pupil
 pusher
 putio-adder
 pwnagetool
@@ -613,6 +614,8 @@ racket
 radiant-player
 raw-photo-processor
 razer-synapse
+rcdefaultapp
+rcenvironment
 rdm
 recovery-disk-assistant
 reeder

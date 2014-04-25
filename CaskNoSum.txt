@@ -4,7 +4,6 @@ activity-audit
 adobe-arh
 adobe-creative-cloud
 adventure
-aerofs
 airdisplay
 airfoil
 airmail-amt
@@ -133,6 +132,7 @@ exhaust
 expandrive
 fdt
 ffmpegx
+figtree
 fiji
 filedrop
 firefox
@@ -275,6 +275,7 @@ miro-video-converter
 miro
 mirrordisplays
 mixlr
+mixture
 mocksmtp
 moneymoney
 mongohub
