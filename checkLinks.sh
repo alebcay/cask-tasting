@@ -11,7 +11,7 @@ brew detox >/dev/null 2>&1
 [ -e "CaskSumError.part" ] && rm "CaskSumError.part"
 [ -e "CaskNoSum.part" ] && rm "CaskNoSum.part"
 
-TOTAL=$( ls -1 /usr/local/Library/Taps/phinze-cask/Casks | wc -l | sed -e 's/^ *//' -e 's/ *$//')
+TOTAL=$( ls -1 /usr/local/Library/Taps/phinze/homebrew-cask/Casks | wc -l | sed -e 's/^ *//' -e 's/ *$//')
 # TOTAL=$(echo $TOTALSTRING | sed -E 's/^.{4}//')
 FILES=/usr/local/Library/Taps/phinze-cask/Casks/*.rb
 counter=0
