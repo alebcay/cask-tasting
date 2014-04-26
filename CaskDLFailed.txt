@@ -3,6 +3,4 @@ identify
 lingrradar
 logisim
 macupdate-desktop
-makemkv
 sevenzx
-zeroxed

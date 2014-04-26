@@ -26,6 +26,7 @@ arq
 asteroid
 atext
 atmonitor
+atom
 audio-editor
 audio-hijack-pro
 authbuddy
@@ -300,6 +301,7 @@ nothing-to-hide
 nzbvortex
 objektiv
 ocenaudio
+odesk
 omnidisksweeper
 omnifocus
 omnigraffle
@@ -314,6 +316,7 @@ origin
 ormr
 outwit-hub
 pacifist
+paintcode
 papers
 paragon-extfs
 paragon-ntfs

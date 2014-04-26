@@ -1,5 +1,6 @@
 a-slower-speed-of-light
 actiontastic
+actotracker
 adapter
 adium
 adobe-air
@@ -67,6 +68,7 @@ bitlord
 bitmessage
 black-ink
 blender
+blu-ray-player
 bluegriffon
 blueharvest
 bluej
@@ -87,6 +89,7 @@ calibre2opds
 callnote
 camerabag
 camino
+camranger
 camtwist
 candybar
 capo
@@ -178,7 +181,9 @@ dictunifier
 diffmerge
 diskaid
 diskwave
+displaylink
 djview
+dmm
 dnscrypt
 dockmod
 dogecoin
@@ -297,6 +302,7 @@ hall
 handbrake
 hands-off
 haroopad
+hashcat
 haskell-platform
 hear
 hermes
@@ -346,6 +352,7 @@ itools
 itunesscrobbler
 jabref
 jaspersoft-studio
+java
 jawbone-updater
 jd-gui
 jedit
@@ -389,6 +396,7 @@ lightpaper
 lighttable
 lilypond
 limechat
+lincastor
 linphone
 litecoin
 liteicon
@@ -401,6 +409,7 @@ logitech-control-center
 logitech-harmony
 logitech-unifying
 love
+ltspice
 lucidor
 lyn
 lynxlet
@@ -460,6 +469,7 @@ moreamp
 mosh
 movieply
 mozart
+mp4tools
 mpeg-streamclip
 mplayer-osx-extended
 mplayerx
@@ -528,6 +538,7 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
+orange
 osxfuse
 owasp-zap
 owncloud
@@ -574,6 +585,7 @@ postbox
 postgres
 powerkey
 powerword
+praat
 preen
 prepros
 prey
@@ -645,7 +657,6 @@ scribus
 scroll-reverser
 scrup
 scummvm
-seafile-client
 seamonkey
 seashore
 second-life-viewer
@@ -720,6 +731,7 @@ stay
 steermouse
 stella
 stellarium
+strongvpn-client
 sts
 subethaedit
 subler
@@ -739,7 +751,9 @@ synology-assistant
 synology-cloud-station
 synology-photo-station-uploader
 synthesia
+tactor
 tagger
+tagoman
 tagr
 tagspaces
 tapaal
@@ -751,6 +765,7 @@ testflight
 tex-live-utility
 texmacs
 texnicle
+texshop
 textadept
 textexpander
 textroom
@@ -779,6 +794,7 @@ tinygrab
 tinyumbrella
 tk-suite-client
 toad-mac
+tokaido
 tomahawk
 tomighty
 tongbu
@@ -856,6 +872,7 @@ witgui
 wiztoolsorg-restclient
 woodhouse
 wordservice
+worksnaps-client
 wowhead-client
 wraparound
 wyzo
@@ -885,6 +902,7 @@ yubiswitch
 zendserver
 zendstudio
 zeroad
+zeroxed
 zooom
 zotero
 zterm
