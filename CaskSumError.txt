@@ -1,9 +1,7 @@
 baiducloud
 baiduinput
-fender-amp-drivers
 flightgear
 golly
 makemkv
-seafile-client
 sharetool
 simple-comic

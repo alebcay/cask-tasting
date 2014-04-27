@@ -150,6 +150,7 @@ couchbase-server-community
 couchbase-server-enterprise
 crashplan
 crosspack-avr
+cryptol
 ctivo
 cuda-z
 cups-pdf
@@ -226,6 +227,7 @@ fantastical
 fastscripts
 feeder
 feeds
+fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -615,7 +617,6 @@ qq
 qqbrowser
 qqmusic
 qt-creator
-quassel-client
 quicklook-pfm
 quicknfo
 quickradar
@@ -657,6 +658,7 @@ scribus
 scroll-reverser
 scrup
 scummvm
+seafile-client
 seamonkey
 seashore
 second-life-viewer

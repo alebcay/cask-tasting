@@ -3,4 +3,5 @@ identify
 lingrradar
 logisim
 macupdate-desktop
+quassel-client
 sevenzx
