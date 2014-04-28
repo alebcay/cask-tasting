@@ -271,6 +271,7 @@ mikogo
 minco
 mindnode-pro
 minecraft
+minilyrics
 minimalclock
 miro-video-converter
 miro

@@ -1,4 +1,4 @@
-Check started at Sun Apr 27 00:00:44 EDT 2014
+Check started at Mon Apr 28 00:00:49 EDT 2014
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
 acorn: no checksum
@@ -93,7 +93,7 @@ baiducloud: SHA-256 mismatch!
   Actual  : 194e049020bc11110807d7a157c5ab1f25f987b3e14ead7b452319420b97ad51
 baiduinput: SHA-256 mismatch!
   Expected: a74ef75bee54e6d563f795a943d9328c3229205b273be38c6df144f49c9d67d5
-  Actual  : 7bcf137007b5f831463fbc5341fb40b3754c09a367d7d84e2d28ace334c78ff5
+  Actual  : b3443c7e01c5b26f95e56653fdc0723c69cb352ed79815176e2db0a3e1377c98
 balsamiq-mockups: no checksum
 bankid: passed
 banshee: passed
@@ -128,6 +128,7 @@ bitlord: passed
 bitmessage: passed
 bittorrent-sync: no checksum
 black-ink: passed
+black-light: passed
 blender: passed
 blu-ray-player: passed
 bluegriffon: passed
@@ -368,7 +369,9 @@ fastscripts: passed
 fdt: no checksum
 feeder: passed
 feeds: passed
-fender-amp-drivers: passed
+fender-amp-drivers: SHA-256 mismatch!
+  Expected: f73c4c66c6d9bc6492d8f22126415f5a36eb555714adc147590fb3a5d25b8c34
+  Actual  : c9b2189123fa47478587122ee165d846966985632e6ff44b12001a6ae56d50f7
 fender-fuse: passed
 ffmpegx: no checksum
 figtree: no checksum
@@ -389,7 +392,7 @@ flavours: no checksum
 flickr-uploadr: passed
 flightgear: SHA-256 mismatch!
   Expected: b0e64a2cf0c084c3a2eb0cb04d6d684667b13b6994c5a366d2ecdc7b13368887
-  Actual  : 9f4159b212dc15ebc9e9317f5e42b29f2e75211bb14f134a165f54b9ad3ce64a
+  Actual  : 569fdc79f90dec73f62ce4f5be859554b1588a480aebb480e93f65674b47f633
 flip4mac: passed
 flow: no checksum
 flowdock: no checksum
@@ -459,7 +462,7 @@ goagentx: passed
 gog-downloader: passed
 golly: SHA-256 mismatch!
   Expected: 6fee35e8e4f63ee2c1b0913b7e8009b2548c4e4469050f9c31791900e1e97f16
-  Actual  : 730d9ca61b82db4b9083d8d2bffa2e923b7be4368f79be2523f97f3dcb1bf9a6
+  Actual  : abbaf176777cb60b1af49f180613bcb2750c423bfb05d371c979f5d137ffc225
 google-auto-backup: no checksum
 google-chrome: no checksum
 google-drive: no checksum
@@ -585,7 +588,9 @@ ivolume: no checksum
 izip: no checksum
 jabref: passed
 jaspersoft-studio: passed
-java: passed
+java: SHA-256 mismatch!
+  Expected: 3dd1047340c2487f7c32c4ae633ba9a9a9e1dee49f6084d7df3846091faece48
+  Actual  : 80212f7748c2671b89b6085000717c747851db004409dce3bb97f3a2aeb91cdd
 jawbone-updater: passed
 jd-gui: passed
 jdownloader: no checksum
@@ -615,6 +620,7 @@ keyboard-maestro: no checksum
 keyboardcleantool: no checksum
 keycue: passed
 keyfinder: no checksum
+keymo: passed
 keyremap4macbook: passed
 keystore-explorer: passed
 kid3: passed
@@ -753,6 +759,7 @@ minco: no checksum
 mindnode-pro: no checksum
 minecraft: no checksum
 mini-metro: passed
+minilyrics: no checksum
 minimalclock: no checksum
 miro-video-converter: no checksum
 miro: no checksum
@@ -938,6 +945,7 @@ playonmac: passed
 pleasesleep: no checksum
 plex-home-theater: passed
 plex-media-server: passed
+plover: passed
 plug: no checksum
 plycounter: passed
 pngcommentator: passed
@@ -996,7 +1004,7 @@ qqbrowser: passed
 qqmusic: passed
 qt-creator: passed
 qtspim: no checksum
-quassel-client: download error
+quassel-client: passed
 querious: no checksum
 quickcast: no checksum
 quickhue: no checksum
@@ -1091,7 +1099,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: d6c19e082f9d96b1831692d308a4d5512608e6ca8d58c52d7e95bb2da0832a8c
-  Actual  : ae561e9d1e43f09f9cec06dd69d8d9601d2f03abd1ce7a6a7150354a2644bd72
+  Actual  : 32cfba9e738dc03026cf217bb5244cbbbd73593aa0050d7c68c2c054d0e5d12a
 shelf-leveler: no checksum
 shiftit: passed
 shimo: passed
@@ -1112,7 +1120,7 @@ simon: passed
 simpholders: passed
 simple-comic: SHA-256 mismatch!
   Expected: 06b05ca40dbd4833b6d30e9dbc8840237a476f7bc91970867e3de5c47f72a0b4
-  Actual  : cd4f89f94b5ff2b62e520f32dea286afa9f9019c309b987980297baa8deac819
+  Actual  : 85b02abe8ae2e7aa4c7b4b619c158d66fd459449e15b371b803d6282f0eb2fdb
 simple-css: no checksum
 simplecap: passed
 simpletag: no checksum
@@ -1350,6 +1358,7 @@ vienna: passed
 vimediamanager: passed
 vine-server: passed
 vinoteka: no checksum
+virtaal: passed
 virtualbox: passed
 virtualhostx: no checksum
 viscosity: no checksum
@@ -1439,11 +1448,11 @@ zendstudio: passed
 zepheer: no checksum
 zephyros: no checksum
 zeroad: passed
-zeroxed: passed
+zeroxed: download error
 zipcleaner: no checksum
 zipeg: no checksum
 zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Sun Apr 27 07:45:48 EDT 2014
+Check finished at Mon Apr 28 08:31:01 EDT 2014

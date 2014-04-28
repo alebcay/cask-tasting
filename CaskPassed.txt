@@ -67,6 +67,7 @@ bitcoin
 bitlord
 bitmessage
 black-ink
+black-light
 blender
 blu-ray-player
 bluegriffon
@@ -227,7 +228,6 @@ fantastical
 fastscripts
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -354,7 +354,6 @@ itools
 itunesscrobbler
 jabref
 jaspersoft-studio
-java
 jawbone-updater
 jd-gui
 jedit
@@ -373,6 +372,7 @@ keka
 kext-utility
 key-codes
 keycue
+keymo
 keyremap4macbook
 keystore-explorer
 kid3
@@ -578,6 +578,7 @@ platypus
 playonmac
 plex-home-theater
 plex-media-server
+plover
 plycounter
 pngcommentator
 poedit
@@ -617,6 +618,7 @@ qq
 qqbrowser
 qqmusic
 qt-creator
+quassel-client
 quicklook-pfm
 quicknfo
 quickradar
@@ -844,6 +846,7 @@ videospec
 vienna
 vimediamanager
 vine-server
+virtaal
 virtualbox
 visit
 vistrails
@@ -904,7 +907,6 @@ yubiswitch
 zendserver
 zendstudio
 zeroad
-zeroxed
 zooom
 zotero
 zterm
