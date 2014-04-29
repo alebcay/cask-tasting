@@ -6,7 +6,6 @@ adium
 adobe-air
 adobe-reader
 aegisub
-aerofs
 air-video-server
 airserver
 alfred
@@ -235,7 +234,6 @@ filezilla
 find-any-file
 fitbit-connect
 flame
-flash-player
 flash
 flickr-uploadr
 flip4mac
@@ -307,6 +305,7 @@ haroopad
 hashcat
 haskell-platform
 hear
+hedgewars
 hermes
 historyhound
 hive
@@ -735,7 +734,6 @@ stay
 steermouse
 stella
 stellarium
-strongvpn-client
 sts
 subethaedit
 subler
@@ -769,7 +767,6 @@ testflight
 tex-live-utility
 texmacs
 texnicle
-texshop
 textadept
 textexpander
 textroom
@@ -844,7 +841,6 @@ vico
 videomonkey
 videospec
 vienna
-vimediamanager
 vine-server
 virtaal
 virtualbox
@@ -855,7 +851,6 @@ visualvm
 vlc
 vmware-fusion
 vocabulist
-vuescan
 vyprvpn
 wacom-bamboo-tablet
 wacom-tablet
@@ -868,13 +863,13 @@ weibox
 weka
 welly
 wesnoth
-whatpulse
 whiteclock
 widelands
 wineskin-winery
 wireshark
 witgui
 wiztoolsorg-restclient
+wjoy
 woodhouse
 wordservice
 worksnaps-client

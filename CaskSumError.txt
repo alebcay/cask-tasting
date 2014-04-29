@@ -1,9 +1,16 @@
+aerofs
 baiducloud
 baiduinput
+dropletsmanager
 fender-amp-drivers
+flash-player
 flightgear
 golly
 java
 makemkv
 sharetool
 simple-comic
+strongvpn-client
+texshop
+vuescan
+whatpulse

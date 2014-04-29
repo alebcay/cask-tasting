@@ -4,4 +4,5 @@ lingrradar
 logisim
 macupdate-desktop
 sevenzx
+vimediamanager
 zeroxed
