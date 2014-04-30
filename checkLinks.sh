@@ -92,6 +92,8 @@ mv CaskDLFailed.part CaskDLFailed.txt
 mv CaskSumError.part CaskSumError.txt
 mv CaskNoSum.part CaskNoSum.txt
 
+bash ./nosumcheck.sh
+
 echo "Sending data to master..."
 [ -e "Testfile" ] && rm Testfile
 git add . 2>/dev/null
