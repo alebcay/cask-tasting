@@ -3,6 +3,9 @@ identify
 lingrradar
 logisim
 macupdate-desktop
+growl-fork
+identify
+lingrradar
+logisim
+macupdate-desktop
 sevenzx
-vimediamanager
-zeroxed

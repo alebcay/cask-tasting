@@ -1,8 +1,7 @@
 aerofs
 baiducloud
 baiduinput
-dropletsmanager
-fender-amp-drivers
+disk-inventory-x
 flash-player
 flightgear
 golly
@@ -12,5 +11,6 @@ sharetool
 simple-comic
 strongvpn-client
 texshop
+torbrowserbundle
 vuescan
 whatpulse

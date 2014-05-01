@@ -84,6 +84,7 @@ burn
 butter
 c3
 caffeine
+cakebrew
 calcservice
 calibre2opds
 callnote
@@ -198,6 +199,7 @@ dragondisk
 dragthing
 drobo-dashboard
 dropbox-encore
+dropletmanager
 droplr
 dsp-radio
 dukto
@@ -227,6 +229,7 @@ fantastical
 fastscripts
 feeder
 feeds
+fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -375,7 +378,9 @@ keymo
 keyremap4macbook
 keystore-explorer
 kid3
+kindle-previewer
 kindle
+kindlegen
 kismac
 kiwi
 knox
@@ -799,7 +804,6 @@ tokaido
 tomahawk
 tomighty
 tongbu
-torbrowserbundle
 torpedo
 torustrooper
 totalfinder
@@ -841,6 +845,7 @@ vico
 videomonkey
 videospec
 vienna
+vimediamanager
 vine-server
 virtaal
 virtualbox
@@ -902,6 +907,7 @@ yubiswitch
 zendserver
 zendstudio
 zeroad
+zeroxed
 zooom
 zotero
 zterm
