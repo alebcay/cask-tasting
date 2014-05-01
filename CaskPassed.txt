@@ -111,7 +111,6 @@ choosy
 chromecast
 chromium
 chronomate
-clamxav
 clementine
 clipmenu
 clix
@@ -237,6 +236,7 @@ filezilla
 find-any-file
 fitbit-connect
 flame
+flash-player
 flash
 flickr-uploadr
 flip4mac
@@ -500,7 +500,6 @@ navicat-for-oracle
 navicat-for-postgresql
 navicat-for-sql-server
 navicat-for-sqlite
-navicat-premium
 netbeans-cpp
 netbeans-php
 netbeans
@@ -595,7 +594,6 @@ powerword
 praat
 preen
 prepros
-prey
 prismatik
 processing
 programmer-dvorak
@@ -731,6 +729,7 @@ sqleditor
 sqlexplorer
 sqlite-database-browser
 squidman
+squire
 squirrel
 sshfs
 ssx
@@ -804,6 +803,7 @@ tokaido
 tomahawk
 tomighty
 tongbu
+torbrowser
 torpedo
 torustrooper
 totalfinder

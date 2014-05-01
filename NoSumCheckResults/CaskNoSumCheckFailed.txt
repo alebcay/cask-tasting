@@ -16,14 +16,12 @@ amazon-cloud-drive
 android-file-transfer
 anvil
 anxiety
-ap-grapher
 appdelete
 appfresh
 appmenuboy
 apptivate
 appzapper
 arq
-asteroid
 atext
 atmonitor
 atom
@@ -111,7 +109,6 @@ disk-drill
 diskmaker-x
 dispcalgui
 displaperture
-diumoo
 divvy
 doubanradio
 dradio
@@ -195,7 +192,6 @@ ibank
 ibettercharge
 iboostup
 icompta
-icursor
 ideskcal
 ifilex
 ifunbox
@@ -229,7 +225,6 @@ kuaipan
 kugoumusic
 lastfm
 lastpass-universal
-layervault
 league-of-legends
 leap-motion
 less
@@ -285,12 +280,10 @@ mou
 mover
 movist
 mpfreaker
-multibrowser
 multifirefox
 musicplayer
 name-mangler
 namely
-narrative-uploader
 neofinder
 netshade
 netspot
