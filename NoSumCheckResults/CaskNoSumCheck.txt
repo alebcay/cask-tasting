@@ -140,7 +140,7 @@ bean: SHA-256 mismatch!
   Actual  : d6e841108ad7e28e4a1b447b37ebe69e5895206b53d8aa37b126673fdd9e606d
 bee: SHA-256 mismatch!
   Expected: 
-  Actual  : 3f6c76dfa5d98c51523d58565fdfac8f18e9dd825a585775fc81628995eae73a
+  Actual  : 77c8e862b88cb4efd585f7a51d25ec8732549be76b94b56fcb93c4ed229cbe83
 bettertouchtool: SHA-256 mismatch!
   Expected: 
   Actual  : 433f9e9c63e517d4f86950a04816e20dc66bc6e3315fdee50494a7e59c5d55b2
@@ -185,7 +185,7 @@ buddi: SHA-256 mismatch!
   Actual  : d6aeaf9fb1b10734382350e795ab7355f9786b01cc0dc16783c56475175f686a
 calibre: SHA-256 mismatch!
   Expected: 
-  Actual  : 46290add2a80a07c6fcbccc661fa65cf2d023199a42bf13ea01047dc7f311ae3
+  Actual  : b52d465c3269e3abd74810a2004bc4a3441d78195117e999c568e694e63bb0ec
 camtasia: SHA-256 mismatch!
   Expected: 
   Actual  : d6954f7b69288351a327349f22b6759e67650c356ae3627aa6014c4049da3704
@@ -239,10 +239,10 @@ clonk: SHA-256 mismatch!
   Actual  : e7fe82d95a56117aafa71a23c4dd9281dbe4a785d1eb1241b520553851127cea
 cloudpull: SHA-256 mismatch!
   Expected: 
-  Actual  : 7c11424f59c657eaec1167dcf64a193e69940b639a0dcd0db042a5ff172c5196
+  Actual  : 37ed26b313a79daa0b036b918c352392df988eddc08cf7ee7c4c52424e9e30f7
 cloudup: SHA-256 mismatch!
   Expected: 
-  Actual  : be777345d1a1ad60fbe8afa159372f35da9443aa827fdefe48513df64cb0eac3
+  Actual  : ab84677b2103087b5055b1a0a7ef1f1f372ad17ab59269d0e0d676a6fd52c3aa
 cocktail: SHA-256 mismatch!
   Expected: 
   Actual  : e87b33e060a9d908a0ecf43d54823831d3ffbbdb3fad67c3b48a9404e63bd795
@@ -290,7 +290,7 @@ crashlytics: SHA-256 mismatch!
   Actual  : 61c80f3c209ed5030506b90fd339347e37b72be6dc61b963feec3c9455ef3baf
 crushftp: SHA-256 mismatch!
   Expected: 
-  Actual  : 6c29ae8727146542ced469d0df5897ba139657350e934b67cdad9546efce4ba5
+  Actual  : 609e9e360176d3f2a021cdfa6296e5ba64440aa35b247694b428326d21da137d
 cuppa: SHA-256 mismatch!
   Expected: 
   Actual  : d8be48b618b8d6bb1e435de379d88fe5697041e2a2ec52bf68218c76b9d21fe2
@@ -357,7 +357,7 @@ dump-truck: SHA-256 mismatch!
   Actual  : bbc3f2d1ba9c059d11d3ebb102cc1755577d71277aba25e3158ab4c95cc27a3a
 duplicate-annihilator: SHA-256 mismatch!
   Expected: 
-  Actual  : a993b461de3fecd584cce9c545f2aecbe8e3737f0521da1c492104bcade34a6b
+  Actual  : 7511a53dd32fe117da53fa981867d3420125e57e608fb0fc73cf6be484ce9143
 emin-webpquicklook: SHA-256 mismatch!
   Expected: 
   Actual  : 8b4146764da2c920840e8545e17ddd15125b962d788d5280c07c5f393693931a
@@ -465,7 +465,7 @@ git-annex: SHA-256 mismatch!
   Actual  : 8d2034d2ff4ae11fd70a8fa7f7e5d2c4a6cf77e203d31ed3229617a9fa1e62f7
 github: SHA-256 mismatch!
   Expected: 
-  Actual  : 1f25a5eae197a8870eba457b8465f97dac1744bc69a705fcacf3b2cb5548d615
+  Actual  : e2610cd227a8113ecb2c47be7db7b2e7e3833c3f3fd19055540c16f97a995440
 gitx-rowanj: SHA-256 mismatch!
   Expected: 
   Actual  : 5df05d32e423e60681d25cb6cb02ac049202630fd8003d933d3132e6aceaaeda
@@ -643,7 +643,7 @@ jing: SHA-256 mismatch!
   Actual  : b026b02c7c5b1142a4cb266b9d31a60233817230ece7f56a7759ce8e5a57cb40
 joinme: SHA-256 mismatch!
   Expected: 
-  Actual  : 34688dfb94b6141c368ec03b530fbc632c1006274f386293cb818a1188111861
+  Actual  : 1bfbd6de2964de1374dc31d46e444b8a99aaf897dfd94d413467e19f9db83fff
 josm: SHA-256 mismatch!
   Expected: 
   Actual  : 3975638786edd22d7642485048c5fab4187da0d7d68a97da151764c8dfd1288a
@@ -652,7 +652,7 @@ jsonlook: SHA-256 mismatch!
   Actual  : f1caa026da1966c2cb512e5e16463a0b82666e5293d272ba719d81a905c167c3
 kext-drop: SHA-256 mismatch!
   Expected: 
-  Actual  : a05f5928930a3a422075799112503c2611232f91bb8f8e77fdacb101211ea9d2
+  Actual  : d86673ff032f07d3cab0302a1a2edfb5c61e1036982f6c50c633d8ae0529eaab
 kext-wizard: SHA-256 mismatch!
   Expected: 
   Actual  : 8b8f5d6c57dfdba74dde4c5bc1d3fa958f56bf981190d250734924b8e366839d
@@ -676,7 +676,7 @@ kuaipan: SHA-256 mismatch!
   Actual  : 67f15d4612be33a6bb830259cd34c9c958457be4ad5625fd41fa201b71b0051d
 kugoumusic: SHA-256 mismatch!
   Expected: 
-  Actual  : c3c2d8e43812435831ec99bb31d5c75db7529f25ef5ca2ca4719369f59d23156
+  Actual  : def4464822f0adc28a2e77fabb62f1635ee78dd69ac01149cee5b4cd26c44be3
 lastfm: SHA-256 mismatch!
   Expected: 
   Actual  : d61d4947117080998937c0d63148caf693f1bed5ec768d86feeb3a86f84d1ff9
@@ -827,7 +827,7 @@ mixture: SHA-256 mismatch!
   Actual  : beb51b03f0ce56ada5e967acd4501379f6c66c88494d533080afe8947149c9a8
 mocksmtp: SHA-256 mismatch!
   Expected: 
-  Actual  : 9b9478b4dfc6341d4ce0590e0df10a3eef1200e80ecd18bf7ced813b6b466e78
+  Actual  : 497eb87f63776b425eef116df3ce582e99e5235e390a6da7e4b2450005186d91
 moneymoney: SHA-256 mismatch!
   Expected: 
   Actual  : 321b9230dd2c871a3b6e5a7087786e8b2f53e753849af2e521cfea915d1e4a61
@@ -862,6 +862,9 @@ name-mangler: SHA-256 mismatch!
 namely: SHA-256 mismatch!
   Expected: 
   Actual  : 84754074d55e0334ae534e1d34d085ab27327f2cc23a097b9bf0629f51d9c679
+narrative-uploader: SHA-256 mismatch!
+  Expected: 
+  Actual  : e85219470440bb627ae91d7834a71c42816a91555ce1815840e43d6b06cebef8
 neofinder: SHA-256 mismatch!
   Expected: 
   Actual  : eba175fc003cba0f5e43742f769c9ea01dd7c0ae4dd2d3398569c21c13cf19bf
@@ -939,7 +942,7 @@ outwit-hub: SHA-256 mismatch!
   Actual  : 7bfa4c9dad794107a19af790bc518b9ec2b976eab1fdaf093fb6b1fb5576c7c3
 pacifist: SHA-256 mismatch!
   Expected: 
-  Actual  : 91b6928b944875795b76e4584cf9e0e0b16b543fea43e051badeaad134cf07e0
+  Actual  : e4d06d5473e6a4bedb775c099a7e125b32a0a9b20db983d646a67735963211ae
 paintcode: SHA-256 mismatch!
   Expected: 
   Actual  : 84e3794458851f42783fb8bebc53a8ca5bd068ddb5ef7fedb27db52e989e39a6
@@ -978,7 +981,7 @@ phoneclean: SHA-256 mismatch!
   Actual  : a78148812f05914319bd6cf220e41945dc43e3eb2cf94a69fd0976ddc7159f20
 picturelife: SHA-256 mismatch!
   Expected: 
-  Actual  : feeb7e6d11a4b5b5a864fb0362e955aa6a25fd84d4c1e04d50f76796301f2bd2
+  Actual  : fda683a061b333e7f5fa5fd5954416cff77b814bb013cc5da267c8d6f276d460
 picturesque: SHA-256 mismatch!
   Expected: 
   Actual  : f1b91abcee428783de1bfe328aae36f1315741ee61ea62d05b35f1bbc8830f8a
@@ -990,7 +993,7 @@ pinegrow-web-designer: SHA-256 mismatch!
   Actual  : 73753feae7384e69a2eeded6714bf04efef5c637f778ea3990a1ff80192b4f94
 pins: SHA-256 mismatch!
   Expected: 
-  Actual  : 37eb15193adf73d25993a149570a51f021af31801d7c2c848e6e43ccc137a1b5
+  Actual  : e89615a80e30d89c333fa53b19e44c60e31c77dc7abd0d2abedd01e36e784873
 pixelpeeper: SHA-256 mismatch!
   Expected: 
   Actual  : aee1b9bfe71642e01c640cfb20fa2f76f268a1e5e82b9e2ea2013ac5d604be87
@@ -1011,7 +1014,7 @@ poison: SHA-256 mismatch!
   Actual  : da70c07d284d32eda026bd6398c1a2416eb1ec2094185aa62e729b469a8ae9d8
 pokerstars: SHA-256 mismatch!
   Expected: 
-  Actual  : f797ee6aee3dbc280eaded7f486a7523dbfb01837c575e7702309621332ba2bb
+  Actual  : c98cea17daa151bee5fa0d6dd54b05cec5ae7d7a4264b9f4c59d73a1f90abb6c
 porthole: SHA-256 mismatch!
   Expected: 
   Actual  : 43eb605ae1315fbd729631bd852653e5943ba89b4efd2d9875ac961975246fb8
@@ -1182,7 +1185,7 @@ simple-css: SHA-256 mismatch!
   Actual  : fec62e04b7679f18254b8750effa7dc381c6a24d2e8a7f62cf5075229d309eba
 simpletag: SHA-256 mismatch!
   Expected: 
-  Actual  : fb399540d968c4a3b29a023a5bbe211007509be91b35d0a9720fb218c6ac00d6
+  Actual  : 256977ad18a1619a78002e039f0ce4768df47898faf539fc413b8f7504413b64
 simulator-folders: SHA-256 mismatch!
   Expected: 
   Actual  : 684aea1c132d275bfaa200491f6a17da7171c6da8ff261f2ea10280d898d517e
@@ -1341,7 +1344,7 @@ tinkertool: SHA-256 mismatch!
   Actual  : e2018cdd9330854e04ada797cf10c48e3aaeb11b9bde27464dd3653508596b9e
 titanium-studio: SHA-256 mismatch!
   Expected: 
-  Actual  : afece0bcbc090c674da0997de9057fb08106f3f42c6243f2146df893ea29f8b4
+  Actual  : ca29f295735829ef73d921e888f3c9ee8578f8d63a61a00c9d8fd28bb916fd0a
 toau: SHA-256 mismatch!
   Expected: 
   Actual  : ef0e3044e1b76677db8f6466f593ed9691c6d457878f1bfa6ea69ff47e3a0228
@@ -1365,7 +1368,7 @@ tower: SHA-256 mismatch!
   Actual  : 6faf387ad1d4dc37657ade49b27c9029f2ff268284769a9bf04bc4fbb13ca99a
 trailrunner: SHA-256 mismatch!
   Expected: 
-  Actual  : c77bf5381cd00f1c526c40b4445a6312fdaf0698dcc010246e2142ff794d0165
+  Actual  : bc750a597603e01ade3d9e78329f06f90ae2dd64c006959879e1a15e08c4ff9e
 treesheets: SHA-256 mismatch!
   Expected: 
   Actual  : 8b3c53e942235a3d289cde65ea898c0c7469ac834234c64a910ab8bb5d6dc227
@@ -1482,7 +1485,7 @@ xtrafinder: SHA-256 mismatch!
   Actual  : cb1c91fa4a3aeb56dbfbdeda3cfe080384f3c33d9709be1b8d6f3809e2b585e0
 yandexdisk: SHA-256 mismatch!
   Expected: 
-  Actual  : fed5e353ef73c1460ba9af9deb0e52768105ee9af93946c2e00d853adb54e518
+  Actual  : 0206ada5a3bc50d1becdef91aeb49be6d814ff8bb587283751a8c3f0c2042b79
 yemuzip: SHA-256 mismatch!
   Expected: 
   Actual  : 98ec4cc30103c088d7e1897a5d6032fad6e1ebfc9af4ff24feb0f86d74f6013f

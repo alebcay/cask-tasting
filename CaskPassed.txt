@@ -133,7 +133,6 @@ colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
 colorpicker-rcwebcolorpicker
-colorpicker-skalacolor
 colorpicker
 colors
 comictagger
@@ -228,7 +227,6 @@ fantastical
 fastscripts
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -320,7 +318,6 @@ hubic
 hugin
 hush
 hyro
-iannix
 ibackup
 icefloor
 ichm
@@ -336,6 +333,7 @@ instacast
 instead
 insync
 intel-power-gadget
+intel-xdk
 intellij-idea-ce
 intellij-idea
 invisiblix
@@ -500,6 +498,7 @@ navicat-for-oracle
 navicat-for-postgresql
 navicat-for-sql-server
 navicat-for-sqlite
+navicat-premium
 netbeans-cpp
 netbeans-php
 netbeans
@@ -804,7 +803,6 @@ tomahawk
 tomighty
 tongbu
 torbrowser
-torpedo
 torustrooper
 totalfinder
 totals
@@ -907,7 +905,6 @@ yubiswitch
 zendserver
 zendstudio
 zeroad
-zeroxed
 zooom
 zotero
 zterm
