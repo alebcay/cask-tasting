@@ -24,6 +24,7 @@ apikitchen
 apns-pusher
 appcleaner
 appcode
+appium
 apptrap
 aptanastudio
 aquamacs
@@ -84,7 +85,6 @@ burn
 butter
 c3
 caffeine
-cakebrew
 calcservice
 calibre2opds
 callnote
@@ -111,6 +111,7 @@ choosy
 chromecast
 chromium
 chronomate
+clamxav
 clementine
 clipmenu
 clix
@@ -185,7 +186,6 @@ displaylink
 djview
 dmm
 dnscrypt
-dockmod
 dogecoin
 dolphin
 dosbox
@@ -393,6 +393,7 @@ launchcontrol
 launchrocket
 launchy
 lazarus
+leap-motion
 librecad
 libreoffice
 licecap
@@ -401,6 +402,7 @@ lighttable
 lilypond
 limechat
 lincastor
+lingrradar
 linphone
 litecoin
 liteicon
@@ -465,6 +467,7 @@ mixxx
 mkvtoolnix
 money
 moneywell
+mongodb
 mono-mdk
 mono-mre
 monolingual
@@ -634,6 +637,7 @@ rcdefaultapp
 rcenvironment
 rdm
 recovery-disk-assistant
+reeddit
 reeder
 refresh-finder
 reggy
@@ -762,6 +766,7 @@ tagoman
 tagr
 tagspaces
 tapaal
+tcpblock
 teamspeak-client
 teamviz
 teensy

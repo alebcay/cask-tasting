@@ -1,8 +1,9 @@
 aerofs
 baiducloud
 baiduinput
-clamxav
+cakebrew
 disk-inventory-x
+dockmod
 fender-amp-drivers
 flightgear
 golly

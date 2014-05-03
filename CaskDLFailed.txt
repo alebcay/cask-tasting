@@ -1,7 +1,6 @@
 growl-fork
 iannix
 identify
-lingrradar
 logisim
 macupdate-desktop
 sevenzx

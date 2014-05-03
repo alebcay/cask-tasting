@@ -232,7 +232,6 @@ lastfm
 lastpass-universal
 layervault
 league-of-legends
-leap-motion
 less
 licensed
 linein
@@ -392,6 +391,7 @@ scriptql
 scrivener
 sdrdx
 serial-tools
+servus
 shades
 shadowsweeper
 shelf-leveler

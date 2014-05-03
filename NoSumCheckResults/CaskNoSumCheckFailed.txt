@@ -86,6 +86,7 @@ codelite
 color-oracle
 color-picker-pro
 colorpicker-developer
+colorpicker-skalacolor
 colorschemer-studio
 comicbooklover
 comicbookloversync
@@ -226,7 +227,6 @@ kugoumusic
 lastfm
 lastpass-universal
 league-of-legends
-leap-motion
 less
 licensed
 linein
@@ -291,6 +291,7 @@ netspot
 ngrok
 nicecast
 nitrous-desktop
+noisy
 notational-velocity
 nothing-to-hide
 nzbvortex
@@ -451,6 +452,7 @@ todos
 tofu
 toggldesktop
 tonido
+torpedo
 tower
 trailrunner
 treesheets
@@ -499,6 +501,7 @@ younited
 youview
 zepheer
 zephyros
+zeroxed
 zipcleaner
 zipeg
 zoomus

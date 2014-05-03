@@ -27,7 +27,7 @@ airmail-amt: SHA-256 mismatch!
   Actual  : 2cf93748821d68141d6a4ff02432714ba1c77553b519146553dc04d5f3bd8a8c
 airmail: SHA-256 mismatch!
   Expected: 
-  Actual  : d3f0575a68f6aab97fb5b6519a995c7714fec3e35e99b5ffb7935f210ccdce06
+  Actual  : a8c9df11dfdb06f3a3ff88ac81ab5c4468520ae37abe6182aed0a63eb1138cfe
 airparrot: SHA-256 mismatch!
   Expected: 
   Actual  : 9f7e869c17b5555d25ba0ab7591735b1abcbfc3e44f694358c9c20283f108bc2
@@ -70,7 +70,7 @@ appzapper: SHA-256 mismatch!
   Actual  : 43ff7155c63cce219919f9f5463e5ad07a80924955dd669791ce37f018a49df3
 arq: SHA-256 mismatch!
   Expected: 
-  Actual  : 00b2a84283786195c5755128b450b7fa536b48f3d7aa1be007e9775ec0f59981
+  Actual  : a65b44c47274c95e98d28f27e26a0bab04b2feda5553acaf9e2e09b9b86cb537
 asteroid: download failed
 atext: SHA-256 mismatch!
   Expected: 
@@ -182,10 +182,10 @@ brytonbridge: SHA-256 mismatch!
   Actual  : 68c58e72080ce1823039bb3c4b3d49966cfd0ebc316f0ff8fa78b22a12ac4428
 buddi: SHA-256 mismatch!
   Expected: 
-  Actual  : d6aeaf9fb1b10734382350e795ab7355f9786b01cc0dc16783c56475175f686a
+  Actual  : 4f1179abee76c53f9165b84dd7167efb93270da1ce62312ee74d0363c8cf43f1
 calibre: SHA-256 mismatch!
   Expected: 
-  Actual  : b52d465c3269e3abd74810a2004bc4a3441d78195117e999c568e694e63bb0ec
+  Actual  : ca0a2253145ccbdfeade093c3cd625da07298ffe79819a2f694d53bbc7a7325d
 camtasia: SHA-256 mismatch!
   Expected: 
   Actual  : d6954f7b69288351a327349f22b6759e67650c356ae3627aa6014c4049da3704
@@ -209,7 +209,7 @@ chromatic: SHA-256 mismatch!
   Actual  : ee1c8b80d804445183c3b52bbcdf232c54d90ff4cea58169a4bf424567826e98
 chrome-remote-desktop-host: SHA-256 mismatch!
   Expected: 
-  Actual  : 304ee59e7bc73edb64c05263942ae99e40c319163cee39d46986a27d914402e3
+  Actual  : 752c3d133687a23c1cf9becef985c5f8b7f488869bbd8625aa17c402876d1873
 chronicle: SHA-256 mismatch!
   Expected: 
   Actual  : 3541ffb68b8a6900e310dc788dd80850746d3628b2a91d606a820d6621b6af4d
@@ -242,7 +242,7 @@ cloudpull: SHA-256 mismatch!
   Actual  : 37ed26b313a79daa0b036b918c352392df988eddc08cf7ee7c4c52424e9e30f7
 cloudup: SHA-256 mismatch!
   Expected: 
-  Actual  : ab84677b2103087b5055b1a0a7ef1f1f372ad17ab59269d0e0d676a6fd52c3aa
+  Actual  : b84e58575384e09238164130e8a9c3ea96c647ef17299eea2a9b86d42acbcd01
 cocktail: SHA-256 mismatch!
   Expected: 
   Actual  : e87b33e060a9d908a0ecf43d54823831d3ffbbdb3fad67c3b48a9404e63bd795
@@ -264,6 +264,9 @@ color-picker-pro: SHA-256 mismatch!
 colorpicker-developer: SHA-256 mismatch!
   Expected: 
   Actual  : aec40fd978e7fb07b9a1743bf73f5a45f03243ec0f76ac559368050e1c6476b8
+colorpicker-skalacolor: SHA-256 mismatch!
+  Expected: 
+  Actual  : 211c32672318f137c4f70835507347eac16e81408440e0e95a85c11a7ac29fc6
 colorschemer-studio: SHA-256 mismatch!
   Expected: 
   Actual  : 6c2fb0ac5fa628ab5cca6e9b34579e800824a50bc46d47b6c95da53403911163
@@ -290,7 +293,7 @@ crashlytics: SHA-256 mismatch!
   Actual  : 61c80f3c209ed5030506b90fd339347e37b72be6dc61b963feec3c9455ef3baf
 crushftp: SHA-256 mismatch!
   Expected: 
-  Actual  : 609e9e360176d3f2a021cdfa6296e5ba64440aa35b247694b428326d21da137d
+  Actual  : 81a9b3d1753e2b01c48044de22d1a814131910581f111924d9f7ca9233ae1742
 cuppa: SHA-256 mismatch!
   Expected: 
   Actual  : d8be48b618b8d6bb1e435de379d88fe5697041e2a2ec52bf68218c76b9d21fe2
@@ -643,7 +646,7 @@ jing: SHA-256 mismatch!
   Actual  : b026b02c7c5b1142a4cb266b9d31a60233817230ece7f56a7759ce8e5a57cb40
 joinme: SHA-256 mismatch!
   Expected: 
-  Actual  : 1bfbd6de2964de1374dc31d46e444b8a99aaf897dfd94d413467e19f9db83fff
+  Actual  : b29e0225aec80cf247d42b5c43c50275cc61c5114adeb8f1703d7fcf0742c7ee
 josm: SHA-256 mismatch!
   Expected: 
   Actual  : 3975638786edd22d7642485048c5fab4187da0d7d68a97da151764c8dfd1288a
@@ -652,7 +655,7 @@ jsonlook: SHA-256 mismatch!
   Actual  : f1caa026da1966c2cb512e5e16463a0b82666e5293d272ba719d81a905c167c3
 kext-drop: SHA-256 mismatch!
   Expected: 
-  Actual  : d86673ff032f07d3cab0302a1a2edfb5c61e1036982f6c50c633d8ae0529eaab
+  Actual  : 14a5aa4e8637c1be7270f5bd36ca1f3ed7d83e859c90a65f78803f75784f5672
 kext-wizard: SHA-256 mismatch!
   Expected: 
   Actual  : 8b8f5d6c57dfdba74dde4c5bc1d3fa958f56bf981190d250734924b8e366839d
@@ -676,7 +679,7 @@ kuaipan: SHA-256 mismatch!
   Actual  : 67f15d4612be33a6bb830259cd34c9c958457be4ad5625fd41fa201b71b0051d
 kugoumusic: SHA-256 mismatch!
   Expected: 
-  Actual  : def4464822f0adc28a2e77fabb62f1635ee78dd69ac01149cee5b4cd26c44be3
+  Actual  : 3f4bd6e6df93b12b0a3901500292dde878ddf4e2f22f6688ca9b69f7dbb58f9a
 lastfm: SHA-256 mismatch!
   Expected: 
   Actual  : d61d4947117080998937c0d63148caf693f1bed5ec768d86feeb3a86f84d1ff9
@@ -687,9 +690,6 @@ layervault: download failed
 league-of-legends: SHA-256 mismatch!
   Expected: 
   Actual  : c24c48cc54e8df1e1ab7186686786aaaaadfaee0f5984d41e5825637bf21f4d0
-leap-motion: SHA-256 mismatch!
-  Expected: 
-  Actual  : 5c7b58fc955595b6978239d4475c3a596f91c2956f146be30888a1f4c0750d58
 less: SHA-256 mismatch!
   Expected: 
   Actual  : 9d830c631f03146ec1f810fe7d72069ae24697b447a88e68bbb7ca0eed954a66
@@ -788,7 +788,7 @@ menumeters: SHA-256 mismatch!
   Actual  : aa92266a783eb0e9782ba6701d13c3c465cbc65708b169f188f22a8c9fbd4c50
 messenger-for-telegram: SHA-256 mismatch!
   Expected: 
-  Actual  : 32c98e0183f3877dc2dd3d7689138d5391567a00607091d6c2c5477bcb62c809
+  Actual  : 87e0eec233bd44598151120d5adaa642529d6cd5b0c1d07eb2bc82871b8706c6
 middleclick: SHA-256 mismatch!
   Expected: 
   Actual  : 74533304ec68f8e6c716a4b7c3ad6ed34d985b88c66eee7e43cce22883dee08e
@@ -824,10 +824,10 @@ mixlr: SHA-256 mismatch!
   Actual  : 84058d18dd0ac6e92cc230a4adb49501f0758b273596bb8cc85369498b8c70f9
 mixture: SHA-256 mismatch!
   Expected: 
-  Actual  : beb51b03f0ce56ada5e967acd4501379f6c66c88494d533080afe8947149c9a8
+  Actual  : c667c54d0cfe4ac078b210b00548fea38c2b1612447b357f397871f000ebafc1
 mocksmtp: SHA-256 mismatch!
   Expected: 
-  Actual  : 497eb87f63776b425eef116df3ce582e99e5235e390a6da7e4b2450005186d91
+  Actual  : e35465e2acbdb543013679b9115ae32783695f2a23fb5be1beeb07b21fc428ef
 moneymoney: SHA-256 mismatch!
   Expected: 
   Actual  : 321b9230dd2c871a3b6e5a7087786e8b2f53e753849af2e521cfea915d1e4a61
@@ -883,6 +883,9 @@ nicecast: SHA-256 mismatch!
 nitrous-desktop: SHA-256 mismatch!
   Expected: 
   Actual  : 724a14239af713ac75b692abdf99f811cf9c6c57a39644672b1c16b0e0cd573a
+noisy: SHA-256 mismatch!
+  Expected: 
+  Actual  : 3202991c21891ba6485b0eeeb6f9eccfd469db2e778c0be687819f89b50ebeb5
 notational-velocity: SHA-256 mismatch!
   Expected: 
   Actual  : 301ee466e866b4f665d5d126f4775b3a004f8b95776a75bcf42385a6266b6298
@@ -1014,7 +1017,7 @@ poison: SHA-256 mismatch!
   Actual  : da70c07d284d32eda026bd6398c1a2416eb1ec2094185aa62e729b469a8ae9d8
 pokerstars: SHA-256 mismatch!
   Expected: 
-  Actual  : c98cea17daa151bee5fa0d6dd54b05cec5ae7d7a4264b9f4c59d73a1f90abb6c
+  Actual  : 44f56aa5d4e368c0a7a2d29039b1dd5f78e24ae0ba38fda6a206bfa36841f63e
 porthole: SHA-256 mismatch!
   Expected: 
   Actual  : 43eb605ae1315fbd729631bd852653e5943ba89b4efd2d9875ac961975246fb8
@@ -1209,7 +1212,7 @@ slack: SHA-256 mismatch!
   Actual  : 1da29ee0ec069d9b7ed7968fcfa66aecc22e8add5dcf343b954763932879be42
 slate: SHA-256 mismatch!
   Expected: 
-  Actual  : 428e375d5b1c64f79f1536acb309e4414c3178051c6fe0b2f01a94a0803e223f
+  Actual  : 31c184f85661d8adcbf3d54ef09e90b243d5282a3b1d4580286de55e040915df
 sleep-monitor: SHA-256 mismatch!
   Expected: 
   Actual  : 0656bdfc9ee91dbb3f04cd7fabb7ca49b9af6b3c6bfddbc368075fd6079d2204
@@ -1363,6 +1366,9 @@ toggldesktop: SHA-256 mismatch!
 tonido: SHA-256 mismatch!
   Expected: 
   Actual  : 77108254364283470c8ca55c15eecb5071d3dbfdca45062aba7af82b6d5d2175
+torpedo: SHA-256 mismatch!
+  Expected: 
+  Actual  : 72f0a027ea525755e07e43d90464aa00f1c45167b30d333272017f64e0496dcf
 tower: SHA-256 mismatch!
   Expected: 
   Actual  : 6faf387ad1d4dc37657ade49b27c9029f2ff268284769a9bf04bc4fbb13ca99a
@@ -1407,7 +1413,7 @@ unified-remote: SHA-256 mismatch!
   Actual  : 101f7c901f5fe3afbf01ad3596619ddb521f512571218ce99b16a609e2d5a4db
 utorrent: SHA-256 mismatch!
   Expected: 
-  Actual  : 25a4d8e644002699a578b55e7d19f7bfbcadc8ebd91f2984879d7c26bbc85833
+  Actual  : de280859604b6141ac9afd1116b484ed4e51f52a220ac98de1f795645a195ac7
 valentina-studio: SHA-256 mismatch!
   Expected: 
   Actual  : cc7e8ee50c871a2261a71d553412cd1c9cfc3e06468d90d5a65814171d3cf733
@@ -1422,13 +1428,13 @@ vinoteka: SHA-256 mismatch!
   Actual  : 584d8640078c9840afbdc0e620bb7c69d1dbb2a0e17f629b015cdeafa7c688f1
 virtualhostx: SHA-256 mismatch!
   Expected: 
-  Actual  : 482daa178fa9b109c916b22024d7dbafe8a8346781128d0fc865ab6a1777f9f2
+  Actual  : 288915044bbd70442afb16278c93cc768ad581e06da818451035014dd8f982e7
 viscosity: SHA-256 mismatch!
   Expected: 
   Actual  : ef50afc6b8704106cf82a3f3d9c9d1d67f2fa2911467ce92bdf9581befe517c4
 vitamin-r: SHA-256 mismatch!
   Expected: 
-  Actual  : 8a6a4cbff68b90057c8ecdf12266b25aae134f0db2ecfb4a0b4cb79bd4267c58
+  Actual  : 96eb3e69798781d7efb1e6ab0834a5e440a2d6d6196d9070d578653543d04024
 vlc-remote: SHA-256 mismatch!
   Expected: 
   Actual  : e41e1a2d5fadc2ceaf21ee4595db371f04498a6523e839fa0169f0f3fc192884
@@ -1485,7 +1491,7 @@ xtrafinder: SHA-256 mismatch!
   Actual  : cb1c91fa4a3aeb56dbfbdeda3cfe080384f3c33d9709be1b8d6f3809e2b585e0
 yandexdisk: SHA-256 mismatch!
   Expected: 
-  Actual  : 0206ada5a3bc50d1becdef91aeb49be6d814ff8bb587283751a8c3f0c2042b79
+  Actual  : 5e69550694dc415e749dc5bc65b23b99ab5d3ea69160924027e00b356e4a56c0
 yemuzip: SHA-256 mismatch!
   Expected: 
   Actual  : 98ec4cc30103c088d7e1897a5d6032fad6e1ebfc9af4ff24feb0f86d74f6013f
@@ -1507,6 +1513,9 @@ zepheer: SHA-256 mismatch!
 zephyros: SHA-256 mismatch!
   Expected: 
   Actual  : 3bede9a32e19168c9f0f382c2df70448a9e398c41c20362409fbf8c258aa91fd
+zeroxed: SHA-256 mismatch!
+  Expected: 
+  Actual  : 56b68898c7a8c1169e9f42790091b100841c3d43549445dc3c4986fae7152793
 zipcleaner: SHA-256 mismatch!
   Expected: 
   Actual  : e4edf2869e715430a1e9ad442faee6c442d4fb5268b1b62f8ea6246abe456ed6
