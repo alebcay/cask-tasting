@@ -13,7 +13,7 @@ brew detox >/dev/null 2>&1
 
 TOTAL=$( ls -1 /usr/local/Library/Taps/caskroom/homebrew-cask/Casks | wc -l | sed -e 's/^ *//' -e 's/ *$//')
 # TOTAL=$(echo $TOTALSTRING | sed -E 's/^.{4}//')
-FILES=/usr/local/Library/Taps/phinze/homebrew-cask/Casks/*.rb
+FILES=/usr/local/Library/Taps/caskroom/homebrew-cask/Casks/*.rb
 counter=0
 echo "Check started at $(date)" >> CaskTasting.part
 echo "Check started at $(date)"

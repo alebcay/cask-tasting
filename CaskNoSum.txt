@@ -22,6 +22,7 @@ appfresh
 appmenuboy
 apptivate
 appzapper
+archiver
 arq
 asteroid
 atext
@@ -382,7 +383,6 @@ rtx
 runtastic-connect
 sandbox
 sauce
-scansnap-manager
 scapple
 screenflick
 screenhero
@@ -416,7 +416,6 @@ smaller
 smoothmouse
 snagit
 soleol
-soqlxplorer
 soulver
 soundcleod
 soundnote

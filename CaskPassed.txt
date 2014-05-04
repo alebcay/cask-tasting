@@ -95,7 +95,6 @@ camtwist
 candybar
 capo
 carbon-copy-cloner
-carlson-minot
 catch
 ccleaner
 ccmenu
@@ -186,6 +185,7 @@ displaylink
 djview
 dmm
 dnscrypt
+dockmod
 dogecoin
 dolphin
 dosbox
@@ -227,6 +227,7 @@ fantastical
 fastscripts
 feeder
 feeds
+fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -515,6 +516,7 @@ nimbus
 ninjablocks
 nitroshare
 nmap
+no-ip-duc
 nocturne
 node-webkit
 node
@@ -658,6 +660,7 @@ sabnzbd
 sage
 satellite-eyes
 scala-ide
+scansnap-manager
 screenflow
 screenstagram
 screensteps
@@ -665,7 +668,6 @@ scribus
 scroll-reverser
 scrup
 scummvm
-seafile-client
 seamonkey
 seashore
 second-life-viewer
@@ -715,6 +717,7 @@ sonic-visualiser
 sonos
 sopcast
 sophos-anti-virus-home-edition
+soqlxplorer
 soundflower
 sourcetree
 sparkle
@@ -767,7 +770,6 @@ tagr
 tagspaces
 tapaal
 tcpblock
-teamspeak-client
 teamviz
 teensy
 teeworlds
@@ -859,6 +861,7 @@ visualvm
 vlc
 vmware-fusion
 vocabulist
+vuescan
 vyprvpn
 wacom-bamboo-tablet
 wacom-tablet
@@ -871,6 +874,7 @@ weibox
 weka
 welly
 wesnoth
+whatpulse
 whiteclock
 widelands
 wineskin-winery
