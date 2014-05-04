@@ -1,6 +1,1 @@
-growl-fork
-iannix
-identify
-logisim
-macupdate-desktop
-sevenzx
+*
