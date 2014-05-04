@@ -11,7 +11,7 @@ brew detox >/dev/null 2>&1
 [ -e "CaskSumError.part" ] && rm "CaskSumError.part"
 [ -e "CaskNoSum.part" ] && rm "CaskNoSum.part"
 
-TOTAL=$( ls -1 /usr/local/Library/Taps/phinze/homebrew-cask/Casks | wc -l | sed -e 's/^ *//' -e 's/ *$//')
+TOTAL=$( ls -1 /usr/local/Library/Taps/caskroom/homebrew-cask/Casks | wc -l | sed -e 's/^ *//' -e 's/ *$//')
 # TOTAL=$(echo $TOTALSTRING | sed -E 's/^.{4}//')
 FILES=/usr/local/Library/Taps/phinze/homebrew-cask/Casks/*.rb
 counter=0
@@ -91,8 +91,6 @@ mv CaskPassed.part CaskPassed.txt
 mv CaskDLFailed.part CaskDLFailed.txt
 mv CaskSumError.part CaskSumError.txt
 mv CaskNoSum.part CaskNoSum.txt
-
-bash ./nosumcheck.sh
 
 echo "Sending data to master..."
 [ -e "Testfile" ] && rm Testfile
