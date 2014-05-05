@@ -57,6 +57,7 @@ basecamp
 bathyscaphe
 battery-time-remaining
 bbedit
+beacon-scanner
 beardedspice
 bibdesk
 bino
@@ -85,6 +86,7 @@ burn
 butter
 c3
 caffeine
+cakebrew
 calcservice
 calibre2opds
 callnote
@@ -227,7 +229,6 @@ fantastical
 fastscripts
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -415,7 +416,6 @@ logic
 logitech-control-center
 logitech-harmony
 logitech-unifying
-love
 ltspice
 lucidor
 lyn
@@ -668,6 +668,7 @@ scribus
 scroll-reverser
 scrup
 scummvm
+seafile-client
 seamonkey
 seashore
 second-life-viewer
@@ -770,6 +771,7 @@ tagr
 tagspaces
 tapaal
 tcpblock
+teamspeak-client
 teamviz
 teensy
 teeworlds
@@ -874,7 +876,6 @@ weibox
 weka
 welly
 wesnoth
-whatpulse
 whiteclock
 widelands
 wineskin-winery
@@ -897,7 +898,6 @@ xamarin-ios
 xamarin-studio
 xampp
 xbench
-xbmc
 xee
 xiami
 xld

@@ -22,6 +22,7 @@ appfresh
 appmenuboy
 apptivate
 appzapper
+arRsync
 archiver
 arq
 asteroid
@@ -199,6 +200,7 @@ iboostup
 icompta
 icursor
 ideskcal
+idris
 ifilex
 ifunbox
 imageoptim
@@ -217,6 +219,7 @@ ivolume
 izip
 jdownloader
 jing
+jitouch
 joinme
 josm
 jsonlook
@@ -499,6 +502,7 @@ xbox360-controller-driver
 xca
 xnviewmp
 xtrafinder
+yandex
 yandexdisk
 yemuzip
 yorufukurou

@@ -5,4 +5,3 @@ identify
 logisim
 macupdate-desktop
 sevenzx
-teamspeak-client
