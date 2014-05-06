@@ -1,4 +1,5 @@
-baiduinput
+geektool
+gridwars
 growl-fork
 iannix
 identify

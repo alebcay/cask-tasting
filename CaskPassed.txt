@@ -27,7 +27,6 @@ appcode
 appium
 apptrap
 aptanastudio
-aquamacs
 aquaterm
 arduino-galileo
 arduino
@@ -97,6 +96,7 @@ camtwist
 candybar
 capo
 carbon-copy-cloner
+carlson-minot
 catch
 ccleaner
 ccmenu
@@ -267,7 +267,6 @@ garmin-communicator
 garmin-training-center
 gas-mask
 geekbench
-geektool
 genymotion
 gephi
 geppetto
@@ -295,7 +294,6 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
-gridwars
 growler
 growlnotify
 growlvoice
@@ -359,6 +357,7 @@ jaspersoft-studio
 jawbone-updater
 jd-gui
 jedit
+jenkins-menu
 jewelrybox
 jitsi
 jubler
@@ -416,6 +415,7 @@ logic
 logitech-control-center
 logitech-harmony
 logitech-unifying
+love
 ltspice
 lucidor
 lyn
@@ -435,6 +435,7 @@ magic-launch
 mailfollowup
 mailplane
 makehuman
+makemkv
 makerware
 mame
 mamp
@@ -456,6 +457,7 @@ meerkat
 mendeley-desktop
 menubar-countdown
 menuola
+meocloud
 mesasqlite
 meshlab
 metanota
@@ -598,6 +600,7 @@ powerword
 praat
 preen
 prepros
+printrun
 prismatik
 processing
 programmer-dvorak
@@ -617,9 +620,11 @@ pwnagetool
 pycharm-ce
 pycharm
 qbittorrent
+qdesktop
 qlcolorcode
 qlmarkdown
 qlprettypatch
+qmind
 qq
 qqbrowser
 qqmusic
@@ -703,6 +708,7 @@ skim
 skitch
 skreenics
 skydrive
+slic3r
 slidemode
 slimbatterymonitor
 sloth
@@ -779,6 +785,7 @@ testflight
 tex-live-utility
 texmacs
 texnicle
+texpad
 textadept
 textexpander
 textroom
@@ -884,7 +891,6 @@ witgui
 wiztoolsorg-restclient
 wjoy
 woodhouse
-wordservice
 worksnaps-client
 wowhead-client
 wraparound
@@ -898,6 +904,7 @@ xamarin-ios
 xamarin-studio
 xampp
 xbench
+xbmc
 xee
 xiami
 xld
