@@ -1,8 +1,7 @@
-geektool
-gridwars
 growl-fork
-iannix
 identify
 logisim
 macupdate-desktop
+meshlab
 sevenzx
+synergy
