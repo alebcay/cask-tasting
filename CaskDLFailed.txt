@@ -1,7 +1,7 @@
+baiduinput
 growl-fork
 identify
 logisim
 macupdate-desktop
-meshlab
 sevenzx
 synergy
