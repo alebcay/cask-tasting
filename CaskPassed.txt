@@ -19,6 +19,7 @@ angry-ip-scanner
 anki
 anonym
 antirsi
+anypass
 apache-directory-studio
 apikitchen
 apns-pusher
@@ -26,6 +27,7 @@ appcleaner
 appcode
 appium
 apptrap
+aptanastudio
 aquamacs
 aquaterm
 arduino-galileo
@@ -97,7 +99,6 @@ camtwist
 candybar
 capo
 carbon-copy-cloner
-carlson-minot
 catch
 ccleaner
 ccmenu
@@ -107,7 +108,6 @@ cert-quicklook
 cfxr
 chainsaw
 charles
-chefdk
 chicken
 choosy
 chromecast
@@ -149,6 +149,7 @@ cord
 cornerstone
 corsixth
 coteditor
+couchbase-server-community
 couchbase-server-enterprise
 crashplan
 crosspack-avr
@@ -162,7 +163,6 @@ curse-client
 cutesdr
 cx
 cyberduck
-darktable
 dashlane
 dataurlmaker
 dbeaver
@@ -176,6 +176,7 @@ deluge
 deskfun
 desmume
 devonthink-pro-office
+devonthink-pro
 dewdrop
 dfontsplitter
 dia
@@ -188,6 +189,7 @@ djview
 dmm
 dnscrypt
 dockmod
+dogecoin
 dolphin
 dosbox
 double-commander
@@ -195,6 +197,7 @@ doubletwist
 doxie
 doxygen
 dragondisk
+dragthing
 drobo-dashboard
 dropbox-encore
 dropletmanager
@@ -204,13 +207,16 @@ dukto
 dupscanub
 dvdstyler
 eagle
+easyfind
 easysimbl
 easyvpn
+eclipse-ide
 eclipse-platform
 ecoute
 ejector
 electric-sheep
 electrum
+elm-platform
 elyse
 emacs
 enjoyable
@@ -226,6 +232,7 @@ fastscripts
 feeder
 feeds
 fender-fuse
+file-juicer
 filebot
 fileshuttle
 filezilla
@@ -254,6 +261,7 @@ fs-uae
 fugu
 functionflip
 gambit-c
+gamesalad
 ganttproject
 garagebuy
 garagesale
@@ -276,6 +284,7 @@ gitifier
 gitter
 gitx-l
 glimmerblocker
+gmail-notifr
 gnucash
 goagentx
 gog-downloader
@@ -379,6 +388,7 @@ kindle-previewer
 kindle
 kindlegen
 kismac
+kiwi
 knox
 kobito
 komodo-edit
@@ -386,6 +396,7 @@ kompozer
 ksdiff
 kylo
 latexit
+launchbar
 launchcontrol
 launchrocket
 launchy
@@ -419,6 +430,7 @@ lyx
 macaw
 macdrops
 macfusion
+macgdbp
 machg
 macmoney
 macpass
@@ -484,8 +496,8 @@ multibit
 multidoge
 mumble
 musescore
+music-manager
 musicbrainz-picard
-musicmanager
 myphonedesktop
 mysqlworkbench
 nally
@@ -622,6 +634,7 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
+qvod-player
 r
 racket
 radiant-player
@@ -680,7 +693,6 @@ shimo
 shiori
 shoes
 shortcat
-shotcut
 shuttle
 sickbeard-anime
 sickbeard
@@ -712,6 +724,7 @@ sonos
 sopcast
 sophos-anti-virus-home-edition
 soqlxplorer
+soulseek
 soundflower
 sourcetree
 sparkle
@@ -723,6 +736,7 @@ spek
 splashtop-personal
 splashtop-streamer
 splayerx
+spotify-notifications
 spyder
 sqleditor
 sqlexplorer
@@ -893,7 +907,6 @@ xampp
 xbench
 xbmc
 xee
-xiami
 xld
 xmarks-safari
 xmind

@@ -80,6 +80,7 @@ cinch
 citrix-receiver
 clarify
 cleanmymac
+clear
 clonk
 cloudpull
 cloudup
@@ -164,12 +165,12 @@ gitx-rowanj
 gitx
 gity
 glo
-google-auto-backup
 google-chrome
 google-drive
 google-earth
 google-hangouts
 google-japanese-ime
+google-plus-auto-backup
 google-web-designer
 gopanda
 grandtotal
@@ -186,7 +187,7 @@ hexels
 hipchat
 hippoconnect
 hiss
-hockey-app
+hockeyapp
 hopper-disassembler
 hostbuddy
 houdahgeo
@@ -201,6 +202,7 @@ iboostup
 icompta
 icursor
 ideskcal
+idocument-plus
 idris
 ifilex
 ifunbox
@@ -304,6 +306,7 @@ netshade
 netspot
 ngrok
 nicecast
+nike-plus-connect
 nitrous-desktop
 noisy
 notational-velocity
@@ -372,6 +375,7 @@ quickhue
 quicklook-csv
 quicklook-json
 r-name
+rapidweaver
 rdio
 readefine-desktop
 readytalk
@@ -388,6 +392,7 @@ ripit
 rss
 rtx
 runtastic-connect
+safemonk
 sandbox
 sauce
 scapple
@@ -430,6 +435,7 @@ spacemonkey
 spacious
 spark-inspector
 spark
+sparkbox
 sparrow
 speedlimit
 spideroak
@@ -453,6 +459,7 @@ teamviewer
 teleport
 texmaker
 textmate
+thaiwitter
 the-escapers-flux
 the-hit-list
 things
