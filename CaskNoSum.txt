@@ -196,6 +196,7 @@ hpuload
 hype
 hyperdock
 hyperswitch
+ibabel
 ibank
 ibettercharge
 iboostup
@@ -237,6 +238,7 @@ kuaipan
 kugoumusic
 lastfm
 lastpass-universal
+latexian
 layervault
 league-of-legends
 less
@@ -337,6 +339,7 @@ parallels
 pashua
 password-practice
 path-finder
+paw
 peepopen
 pentaho-data-integration
 phoenix
@@ -416,6 +419,7 @@ simulator-folders
 sitesucker
 sizeup
 sizzlingkeys
+sketch-tool
 sketch
 skype
 slack

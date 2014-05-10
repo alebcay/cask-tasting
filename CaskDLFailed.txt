@@ -1,4 +1,3 @@
-carlson-minot
 growl-fork
 identify
 logisim

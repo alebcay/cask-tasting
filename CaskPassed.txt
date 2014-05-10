@@ -30,6 +30,7 @@ apptrap
 aptanastudio
 aquamacs
 aquaterm
+araxis-merge
 arduino-galileo
 arduino
 aria-maestosa
@@ -99,6 +100,7 @@ camtwist
 candybar
 capo
 carbon-copy-cloner
+carlson-minot
 catch
 ccleaner
 ccmenu
@@ -106,8 +108,9 @@ cd-to
 celestia
 cert-quicklook
 cfxr
-chainsaw
 charles
+chefdk
+chemdoodle
 chicken
 choosy
 chromecast
@@ -148,7 +151,6 @@ cooviewer
 cord
 cornerstone
 corsixth
-coteditor
 couchbase-server-community
 couchbase-server-enterprise
 crashplan
@@ -163,6 +165,7 @@ curse-client
 cutesdr
 cx
 cyberduck
+darktable
 dashlane
 dataurlmaker
 dbeaver
@@ -227,7 +230,6 @@ factor
 fairmount
 fake
 fakethunder
-fantastical
 fastscripts
 feeder
 feeds
@@ -385,7 +387,6 @@ keyremap4macbook
 keystore-explorer
 kid3
 kindle-previewer
-kindle
 kindlegen
 kismac
 kiwi
@@ -416,7 +417,6 @@ litecoin
 liteicon
 liteide
 little-snitch
-livereload
 livestation
 logic
 logitech-control-center
@@ -493,7 +493,6 @@ mpv
 mucommander
 mudlet
 multibit
-multidoge
 mumble
 musescore
 music-manager
@@ -538,7 +537,6 @@ onepassword
 openemu
 openlp
 openoffice
-openra
 openscad
 opensesame
 opensong
@@ -617,7 +615,6 @@ pusher
 putio-adder
 pwnagetool
 pycharm-ce
-pycharm
 qbittorrent
 qdesktop
 qlcolorcode
@@ -767,8 +764,8 @@ surplusmeter
 sweet-home3d
 synology-assistant
 synology-cloud-station
-synology-photo-station-uploader
 synthesia
+tabula
 tactor
 tagger
 tagoman
@@ -785,6 +782,7 @@ tex-live-utility
 texmacs
 texnicle
 texpad
+texshop
 textadept
 textexpander
 textroom
@@ -907,6 +905,7 @@ xampp
 xbench
 xbmc
 xee
+xiami
 xld
 xmarks-safari
 xmind
