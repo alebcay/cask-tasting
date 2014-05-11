@@ -66,7 +66,7 @@ bino
 binreader
 bit-slicer
 bitcasa
-bitcoin
+bitcoin-core
 bitlord
 bitmessage
 black-ink
@@ -98,7 +98,6 @@ camino
 camranger
 camtwist
 candybar
-capo
 carbon-copy-cloner
 carlson-minot
 catch
@@ -122,7 +121,6 @@ clipmenu
 clix
 cloak
 clock
-cloud
 cloudera-hive-odbc
 cloudytabs
 cn3d
@@ -151,8 +149,8 @@ cooviewer
 cord
 cornerstone
 corsixth
+coteditor
 couchbase-server-community
-couchbase-server-enterprise
 crashplan
 crosspack-avr
 cryptol
@@ -224,21 +222,22 @@ elyse
 emacs
 enjoyable
 evasi0n
-eye-fi
 eyetv
 factor
 fairmount
 fake
 fakethunder
+fantastical
 fastscripts
+feedbinnotifier
 feeder
 feeds
+fender-amp-drivers
 fender-fuse
 file-juicer
 filebot
 fileshuttle
 filezilla
-find-any-file
 fitbit-connect
 flame
 flash-player
@@ -270,7 +269,6 @@ garagesale
 gargoyle
 garmin-communicator
 garmin-training-center
-gas-mask
 geekbench
 geektool
 genymotion
@@ -286,9 +284,9 @@ gitifier
 gitter
 gitx-l
 glimmerblocker
+gmail-notifier
 gmail-notifr
 gnucash
-goagentx
 gog-downloader
 google-notifier
 google-quick-search-box
@@ -354,7 +352,6 @@ iphone-configuration-utility
 iphoney
 ireadfast
 isolator
-istat-menus
 istopmotion
 istumbler
 iterm2
@@ -387,7 +384,7 @@ keyremap4macbook
 keystore-explorer
 kid3
 kindle-previewer
-kindlegen
+kindle
 kismac
 kiwi
 knox
@@ -406,7 +403,6 @@ leap-motion
 librecad
 libreoffice
 licecap
-lightpaper
 lighttable
 lilypond
 limechat
@@ -417,6 +413,7 @@ litecoin
 liteicon
 liteide
 little-snitch
+livereload
 livestation
 logic
 logitech-control-center
@@ -426,8 +423,8 @@ love
 lucidor
 lyn
 lynxlet
+lyrics-master
 lyx
-macaw
 macdrops
 macfusion
 macgdbp
@@ -474,7 +471,6 @@ milkytracker
 mini-metro
 mixxx
 mkvtoolnix
-money
 moneywell
 mongodb
 mono-mdk
@@ -493,6 +489,7 @@ mpv
 mucommander
 mudlet
 multibit
+multidoge
 mumble
 musescore
 music-manager
@@ -533,10 +530,10 @@ oclint
 omnidazzle
 omnipresence
 omniweb
-onepassword
 openemu
 openlp
 openoffice
+openra
 openscad
 opensesame
 opensong
@@ -571,6 +568,7 @@ pester
 pg-commander
 pgadmin3
 pharo
+phoenix-slides
 photoninja
 phpstorm
 pi-filler
@@ -615,6 +613,7 @@ pusher
 putio-adder
 pwnagetool
 pycharm-ce
+pycharm
 qbittorrent
 qdesktop
 qlcolorcode
@@ -640,7 +639,6 @@ razer-synapse
 rcdefaultapp
 rcenvironment
 rdm
-recovery-disk-assistant
 reeddit
 reeder
 refresh-finder
@@ -659,6 +657,7 @@ rstudio
 rubymine
 rythem
 sabnzbd
+sage
 satellite-eyes
 scala-ide
 scansnap-manager
@@ -764,6 +763,7 @@ surplusmeter
 sweet-home3d
 synology-assistant
 synology-cloud-station
+synology-photo-station-uploader
 synthesia
 tabula
 tactor
@@ -850,6 +850,7 @@ unity3d
 unpkg
 unrarx
 usb-overdrive
+vagrant-manager
 vagrant
 vassal
 vico
@@ -916,7 +917,6 @@ xslimmer
 xtorrent
 ynab
 yubikey-personalization-gui
-yubiswitch
 zendserver
 zendstudio
 zeroad
