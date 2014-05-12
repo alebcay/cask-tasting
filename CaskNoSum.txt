@@ -123,6 +123,7 @@ dradio
 dropbox
 dropin
 dropzone
+dterm
 dump-truck
 duplicate-annihilator
 emin-webpquicklook
@@ -216,6 +217,7 @@ inky
 integrity
 intermission
 invisorql
+ionu
 irip
 itunes-volume-control
 itweax

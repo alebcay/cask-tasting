@@ -85,7 +85,6 @@ brightness
 brogue
 broomstick
 burn
-butter
 c3
 caffeine
 cakebrew
@@ -98,6 +97,7 @@ camino
 camranger
 camtwist
 candybar
+capo
 carbon-copy-cloner
 carlson-minot
 catch
@@ -121,6 +121,7 @@ clipmenu
 clix
 cloak
 clock
+cloud
 cloudera-hive-odbc
 cloudytabs
 cn3d
@@ -148,7 +149,6 @@ controlplane
 cooviewer
 cord
 cornerstone
-corsixth
 coteditor
 couchbase-server-community
 crashplan
@@ -177,7 +177,6 @@ deluge
 deskfun
 desmume
 devonthink-pro-office
-devonthink-pro
 dewdrop
 dfontsplitter
 dia
@@ -194,7 +193,6 @@ dogecoin
 dolphin
 dosbox
 double-commander
-doubletwist
 doxie
 doxygen
 dragondisk
@@ -211,8 +209,6 @@ eagle
 easyfind
 easysimbl
 easyvpn
-eclipse-ide
-eclipse-platform
 ecoute
 ejector
 electric-sheep
@@ -222,6 +218,7 @@ elyse
 emacs
 enjoyable
 evasi0n
+eye-fi
 eyetv
 factor
 fairmount
@@ -238,6 +235,7 @@ file-juicer
 filebot
 fileshuttle
 filezilla
+find-any-file
 fitbit-connect
 flame
 flash-player
@@ -269,6 +267,7 @@ garagesale
 gargoyle
 garmin-communicator
 garmin-training-center
+gas-mask
 geekbench
 geektool
 genymotion
@@ -287,6 +286,7 @@ glimmerblocker
 gmail-notifier
 gmail-notifr
 gnucash
+goagentx
 gog-downloader
 google-notifier
 google-quick-search-box
@@ -297,7 +297,6 @@ gpower
 gqrx
 grabbox
 grandperspective
-graphsketcher
 gridwars
 growler
 growlnotify
@@ -356,6 +355,7 @@ istopmotion
 istumbler
 iterm2
 itools
+itsycal
 itunesscrobbler
 jabref
 jaspersoft-studio
@@ -385,6 +385,7 @@ keystore-explorer
 kid3
 kindle-previewer
 kindle
+kindlegen
 kismac
 kiwi
 knox
@@ -412,7 +413,6 @@ linphone
 litecoin
 liteicon
 liteide
-little-snitch
 livereload
 livestation
 logic
@@ -425,6 +425,7 @@ lyn
 lynxlet
 lyrics-master
 lyx
+macaw
 macdrops
 macfusion
 macgdbp
@@ -471,6 +472,8 @@ milkytracker
 mini-metro
 mixxx
 mkvtoolnix
+mnemosyne
+money
 moneywell
 mongodb
 mono-mdk
@@ -479,6 +482,7 @@ monolingual
 monotype-skyfonts
 moreamp
 mosh
+mountain
 movieply
 mozart
 mp4tools
@@ -530,6 +534,7 @@ oclint
 omnidazzle
 omnipresence
 omniweb
+onepassword
 openemu
 openlp
 openoffice
@@ -594,6 +599,7 @@ powerword
 praat
 preen
 prepros
+prezi
 printrun
 prismatik
 processing
@@ -629,7 +635,6 @@ quicklook-pfm
 quicknfo
 quickradar
 quicksilver
-quotefixformac
 qvod-player
 r
 racket
@@ -666,9 +671,7 @@ screenstagram
 screensteps
 scribus
 scroll-reverser
-scrup
 scummvm
-seafile-client
 seamonkey
 seashore
 second-life-viewer
@@ -794,6 +797,7 @@ the-brain
 the-unarchiver
 theremin
 thetube
+thisservice
 thong
 thumbsup
 thunder
@@ -814,7 +818,6 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
 torbrowser
 torustrooper
 totalfinder
@@ -840,12 +843,10 @@ uber-network-fuser
 uberpov
 ukelele
 ultrastardeluxe
-uncrustifyx
 undercover
 unetbootin
 uninstallpkg
 unison
-unity-web-player
 unity3d
 unpkg
 unrarx
@@ -917,6 +918,7 @@ xslimmer
 xtorrent
 ynab
 yubikey-personalization-gui
+yubiswitch
 zendserver
 zendstudio
 zeroad
