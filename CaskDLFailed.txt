@@ -1,5 +1,5 @@
-baiduinput
 growl-fork
+iannix
 identify
 logisim
 macupdate-desktop

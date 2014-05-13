@@ -435,6 +435,7 @@ smaller
 smoothmouse
 snagit
 soleol
+sonora
 soulver
 soundcleod
 soundnote
@@ -495,6 +496,7 @@ typewriter
 typinator
 ubuntu-one
 unified-remote
+unity-web-player
 utorrent
 valentina-studio
 versions

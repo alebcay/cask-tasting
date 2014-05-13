@@ -25,7 +25,6 @@ apikitchen
 apns-pusher
 appcleaner
 appcode
-appium
 apptrap
 aptanastudio
 aquamacs
@@ -85,6 +84,7 @@ brightness
 brogue
 broomstick
 burn
+butter
 c3
 caffeine
 cakebrew
@@ -149,8 +149,10 @@ controlplane
 cooviewer
 cord
 cornerstone
+corsixth
 coteditor
 couchbase-server-community
+couchbase-server-enterprise
 crashplan
 crosspack-avr
 cryptol
@@ -177,6 +179,7 @@ deluge
 deskfun
 desmume
 devonthink-pro-office
+devonthink-pro
 dewdrop
 dfontsplitter
 dia
@@ -193,6 +196,7 @@ dogecoin
 dolphin
 dosbox
 double-commander
+doubletwist
 doxie
 doxygen
 dragondisk
@@ -209,6 +213,8 @@ eagle
 easyfind
 easysimbl
 easyvpn
+eclipse-ide
+eclipse-platform
 ecoute
 ejector
 electric-sheep
@@ -229,7 +235,6 @@ fastscripts
 feedbinnotifier
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 file-juicer
 filebot
@@ -291,12 +296,12 @@ gog-downloader
 google-notifier
 google-quick-search-box
 google-refine
-googleappenginelauncher
 gpgtools
 gpower
 gqrx
 grabbox
 grandperspective
+graphsketcher
 gridwars
 growler
 growlnotify
@@ -322,12 +327,10 @@ hubic
 hugin
 hush
 hyro
-iannix
 ibackup
 icefloor
 ichm
 icolors
-id3-editor
 iexplorer
 igetter
 imagealpha
@@ -351,6 +354,7 @@ iphone-configuration-utility
 iphoney
 ireadfast
 isolator
+istat-menus
 istopmotion
 istumbler
 iterm2
@@ -404,6 +408,7 @@ leap-motion
 librecad
 libreoffice
 licecap
+lightpaper
 lighttable
 lilypond
 limechat
@@ -413,6 +418,7 @@ linphone
 litecoin
 liteicon
 liteide
+little-snitch
 livereload
 livestation
 logic
@@ -474,7 +480,6 @@ mixxx
 mkvtoolnix
 mnemosyne
 money
-moneywell
 mongodb
 mono-mdk
 mono-mre
@@ -514,7 +519,6 @@ neu
 nide
 nightingale
 nimbus
-ninjablocks
 nitroshare
 nmap
 no-ip-duc
@@ -555,7 +559,6 @@ owncloud
 p4merge
 pagico
 paintbrush
-pandoc
 pandora-one
 panic-unison
 paparazzi
@@ -635,6 +638,7 @@ quicklook-pfm
 quicknfo
 quickradar
 quicksilver
+quotefixformac
 qvod-player
 r
 racket
@@ -664,13 +668,13 @@ rythem
 sabnzbd
 sage
 satellite-eyes
-scala-ide
 scansnap-manager
 screenflow
 screenstagram
 screensteps
 scribus
 scroll-reverser
+scrup
 scummvm
 seamonkey
 seashore
@@ -818,6 +822,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 torustrooper
 totalfinder
@@ -843,6 +848,7 @@ uber-network-fuser
 uberpov
 ukelele
 ultrastardeluxe
+uncrustifyx
 undercover
 unetbootin
 uninstallpkg
