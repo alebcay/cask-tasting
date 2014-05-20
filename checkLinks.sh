@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# YOU NOW NEED gtimeout (part of coreutils, run "brew install coreutils") TO RUN THE SCRIPT
-
 echo "Preparing for check..."
 cd /Volumes/MacData/homebrew/cask-tasting
 git checkout master
@@ -49,9 +47,9 @@ do
     STATUS_CODE=$(curl -sIL "$URL" | grep "^HTTP" | tail -1 | perl -pe "s/.* (\d{3}) .*/\1/")
     if [[ "$STATUS_CODE" == "200" ]]
       then
-      gtimeout 1800 curl -L# "$URL" > Testfile
+      curl -L# "$URL" > Testfile
     else
-      gtimeout 1800 curl -L#H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36" "$URL" > Testfile
+      curl -L#H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36" "$URL" > Testfile
     fi
     # ACTUAL_SHA=$(echo $(curl -Ls "$URL" | shasum -a $SHA_ALG) | cut -d \  -f 1)
     ACTUAL_SHA=$(shasum -a 256 Testfile | cut -d \  -f 1)
