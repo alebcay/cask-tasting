@@ -1,3 +1,4 @@
+a-better-finder-attributes
 a-better-finder-rename
 acorn
 activity-audit
@@ -37,6 +38,7 @@ aviator
 axure-rp-pro
 back-in-time
 backblaze-downloader
+backtobed
 bahamut
 baidumusic
 balsamiq-mockups
@@ -53,8 +55,10 @@ bee
 bettertouchtool
 betterzip
 betterzipql
+big-mean-folder-machine
 bill
 bittorrent-sync
+blink1control
 bodega
 bonjour-browser
 boom
@@ -66,6 +70,7 @@ brytonbridge
 buddi
 calibre
 camtasia
+catchmouse
 chameleon-ssd-optimizer
 changes
 chatology
@@ -103,6 +108,7 @@ copy
 crashlytics
 crushftp
 cuppa
+cursorcerer
 daisydisk
 darteditor
 dash
@@ -118,6 +124,7 @@ dispcalgui
 displaperture
 diumoo
 divvy
+djay
 doubanradio
 dradio
 dropbox
@@ -149,6 +156,7 @@ flow
 flowdock
 flux
 focus
+focuswriter
 foldit
 folx
 fontprep
@@ -219,6 +227,7 @@ intermission
 invisorql
 ionu
 irip
+istat-server
 itunes-volume-control
 itweax
 iupx
@@ -236,7 +245,9 @@ keyboard-cleaner
 keyboard-maestro
 keyboardcleantool
 keyfinder
+kindle-previewer
 knock
+kobo
 kuaipan
 kugoumusic
 lastfm
@@ -268,6 +279,7 @@ macterm
 mactex
 magican
 mailmate
+mailplane
 majic
 mangao
 marked
@@ -279,6 +291,7 @@ menumeters
 messenger-for-telegram
 middleclick
 mikogo
+minbox
 minco
 mindnode-pro
 minecraft
@@ -316,6 +329,7 @@ nitrous-desktop
 noisy
 notational-velocity
 nothing-to-hide
+notifyr
 nzbvortex
 objektiv
 ocenaudio
@@ -326,6 +340,7 @@ omnigraffle
 omnioutliner
 omniplan
 oneswarm
+onlive-client
 onyx
 oovoo
 optimal-layout
@@ -404,6 +419,7 @@ sauce
 scapple
 screenflick
 screenhero
+screenmailer
 screens-connect
 scriptql
 scrivener
@@ -420,6 +436,7 @@ simple-css
 simpletag
 simulator-folders
 sitesucker
+sixtyforce
 sizeup
 sizzlingkeys
 sketch-tool
@@ -431,6 +448,7 @@ sleep-monitor
 slice
 slicy
 slimboat
+slingshot
 smaller
 smoothmouse
 snagit
@@ -446,6 +464,7 @@ spark
 sparkbox
 sparrow
 speedlimit
+speedtao
 spideroak
 spirited-away
 spotdox
@@ -463,6 +482,7 @@ swinsian
 tag
 tagalicious
 taskpaper
+tau
 teamviewer
 teleport
 texmaker
@@ -521,8 +541,10 @@ wuala
 x-mirage
 xbox360-controller-driver
 xca
+xmrouter
 xnviewmp
 xtrafinder
+yabumi
 yandex
 yandexdisk
 yemuzip
