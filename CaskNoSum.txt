@@ -72,6 +72,7 @@ calibre
 camtasia
 catchmouse
 chameleon-ssd-optimizer
+changes-meter
 changes
 chatology
 cheatsheet
