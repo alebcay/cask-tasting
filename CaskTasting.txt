@@ -1,13 +1,11 @@
-Check started at Wed Jun  4 00:00:48 EDT 2014
+Check started at Thu Jun  5 00:00:57 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
 acorn: no checksum
 actiontastic: passed
 activity-audit: no checksum
-actotracker: SHA-256 mismatch!
-  Expected: 5ac8837e039444a46ae29d9920186e7ff14d52a4f80e7efa7eb6a5d887e3aff7
-  Actual  : c73ecd6e601bb8c26d30d68ca4e6cdfc89b412f42e376200d82b842a78908eeb
+actotracker: no checksum
 actprinter: passed
 adapter: passed
 adium: passed
@@ -20,8 +18,8 @@ adobe-reader: passed
 adventure: no checksum
 aegisub: passed
 aerofs: SHA-256 mismatch!
-  Expected: 5c5e52266f48f0aa6d1f49353c35c1152eda4e850325b1e7f25e958ee0ed4fbe
-  Actual  : 75c9b24c81a0d632710020e069483ff7c918f310c27327ed631781f4f71c81cb
+  Expected: 1a416dacbe1e465b3925a6ee21a438e45b05a285cc039ea96b558d95933f0586
+  Actual  : 62ec2acb99e87e01c1815efde7fe43dafc502c77e88f25c069a7cbccb3b22382
 air-video-server: passed
 airdisplay: no checksum
 airfoil: no checksum
@@ -56,9 +54,7 @@ appcleaner: passed
 appcode: passed
 appdelete: no checksum
 appfresh: no checksum
-appium: SHA-256 mismatch!
-  Expected: c54a7af32870ec7046d9978ecd3545d8e10496a1599211debeb723b8deeeea68
-  Actual  : 18b5147cc7ce6b559c39d5b931fa8536fa4764244702f5575923dab96613f3a1
+appium: passed
 appmenuboy: no checksum
 apptivate: no checksum
 apptrap: passed
@@ -109,10 +105,8 @@ backuploupe: passed
 bahamut: no checksum
 baiducloud: SHA-256 mismatch!
   Expected: 194e049020bc11110807d7a157c5ab1f25f987b3e14ead7b452319420b97ad51
-  Actual  : 17b31f8039b2e2bc6a2dd07cdb36821585fc2e54ad056288053ff8407612b837
-baiduinput: SHA-256 mismatch!
-  Expected: a74ef75bee54e6d563f795a943d9328c3229205b273be38c6df144f49c9d67d5
-  Actual  : 852b72fb59bc8f4974d8af33cbb1aa61bc6c5e8679a4cbabd48a2ea883270603
+  Actual  : f37d1c202db7cb998d515bfe0e9a4ac9acb9905da2daf853f0818603170ba2ca
+baiduinput: download error
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -201,6 +195,7 @@ catchmouse: no checksum
 ccleaner: passed
 ccmenu: passed
 cd-to: passed
+cdock: passed
 celestia: passed
 cert-quicklook: passed
 cfxr: passed
@@ -388,9 +383,7 @@ ecoute: passed
 ejector: passed
 electric-sheep: passed
 electrum: passed
-elm-platform: SHA-256 mismatch!
-  Expected: f20d3dfb221af5b31eeabf8f77f9828b37bf802d39448f2ae6cf6a01e839e1fc
-  Actual  : cd08cc3cd7dbd890951754b1e187e2fbe4d68d6a77b2618eb00740a8281c9b56
+elm-platform: passed
 elyse: passed
 emacs: passed
 emin-webpquicklook: no checksum
@@ -468,8 +461,8 @@ free-ruler: passed
 freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
-  Expected: df00b3b719618894d495ed20b7cc8452fceb0c464111374a4d300c2a7da02cf7
-  Actual  : 4cdff1cbe69cdb303f4f1899cfcb9817877ffce8dbb003a397ca60ee4a87e846
+  Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
+  Actual  : e60f3fbd632d4242689828fb6e6e2735217fa4ecf83b398fe3d4ac1db3066866
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -522,7 +515,7 @@ goagentx: passed
 gog-downloader: passed
 golly: SHA-256 mismatch!
   Expected: 6fee35e8e4f63ee2c1b0913b7e8009b2548c4e4469050f9c31791900e1e97f16
-  Actual  : 291b2e04e6ab9be61a8229919b4a1f2bb81b61cce70aff74edb0d8abf2086be8
+  Actual  : f5b0299e4f7ee104901ad6544733ae1452cd7489bd306ce5674da708161f7003
 google-adwords-editor: passed
 google-chrome: no checksum
 google-drive: no checksum
@@ -531,7 +524,9 @@ google-hangouts: no checksum
 google-japanese-ime: no checksum
 google-notifier: passed
 google-plus-auto-backup: no checksum
-google-refine: passed
+google-refine: SHA-256 mismatch!
+  Expected: 16454020c402fa0ab0fedfff44b63e8f027194723ae6ade9b5bb5b9223c68fcc
+  Actual  : 63cea340b757adae313a9cc89b85ea48326507451adc943cfa793456b980a85b
 google-web-designer: no checksum
 googleappenginelauncher: passed
 gopanda: no checksum
@@ -818,7 +813,9 @@ mailplane: no checksum
 majic: no checksum
 makehuman: passed
 makemkv: passed
-makerware: passed
+makerware: SHA-256 mismatch!
+  Expected: bb01a6b2b2f46d8e1ec9522fe3f914646c39550f10d9fde8f0e830f670e933a8
+  Actual  : 06b0ea3d35c155699a790341751d156f07e48b6a7833e15175d2dc12f7fbf51a
 mame: passed
 mamp: passed
 manager: passed
@@ -1261,7 +1258,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: d6c19e082f9d96b1831692d308a4d5512608e6ca8d58c52d7e95bb2da0832a8c
-  Actual  : c2b97c716ce0e1c6f4ff91a50cc05657e847648ceff305252dcb51672263906b
+  Actual  : b23bf4d438fd012602cb59cdd8963571bbde7c2a5d17e526a1430554b98df4bf
 shelf-leveler: no checksum
 shiftit: passed
 shimo: passed
@@ -1282,7 +1279,7 @@ simon: passed
 simpholders: passed
 simple-comic: SHA-256 mismatch!
   Expected: 06b05ca40dbd4833b6d30e9dbc8840237a476f7bc91970867e3de5c47f72a0b4
-  Actual  : 44d4387d39aa36a93f675072756a6894a67db462881c0fa1987390bfe0559642
+  Actual  : 2d868e96fd0618bb1e60964ec6ba0eb77dfe57c5ac23706238ef4d02de0d3bdf
 simple-css: no checksum
 simplecap: passed
 simpletag: no checksum
@@ -1455,9 +1452,7 @@ things: no checksum
 thisservice: passed
 thong: passed
 thumbsup: passed
-thunder: SHA-256 mismatch!
-  Expected: 0ba42722fc50bc40211d08c0816bca780c6115e04f5ce25f2389ad85c258aaca
-  Actual  : d51cb3205aa56937d8e4cb7f6b8511430a4143eddc639436211e79d18fca4015
+thunder: passed
 thunderbird: passed
 thyme: passed
 tickets: passed
@@ -1596,9 +1591,7 @@ winxound: passed
 wireover: no checksum
 wireshark: passed
 witch: no checksum
-witgui: SHA-256 mismatch!
-  Expected: 4e108153a2cce9fede1358b265dfcd7d9f03c15658e2c9278ddad8a04260cf9b
-  Actual  : 9afff5dfdfa10488c317ead7ccd7b4607644fdda30dc449216deb48d85a15edb
+witgui: passed
 wiztoolsorg-restclient: passed
 wjoy: passed
 woodhouse: passed
@@ -1638,6 +1631,7 @@ yabumi: no checksum
 yacreader: passed
 yandex: no checksum
 yandexdisk: no checksum
+yasu: no checksum
 yemuzip: no checksum
 ynab: passed
 yorufukurou: no checksum
@@ -1660,4 +1654,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Jun  4 12:17:42 EDT 2014
+Check finished at Thu Jun  5 13:01:14 EDT 2014

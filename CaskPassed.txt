@@ -27,6 +27,7 @@ apikitchen
 apns-pusher
 appcleaner
 appcode
+appium
 apptrap
 aquamacs
 aquaterm
@@ -108,6 +109,7 @@ catch
 ccleaner
 ccmenu
 cd-to
+cdock
 celestia
 cert-quicklook
 cfxr
@@ -226,6 +228,7 @@ ecoute
 ejector
 electric-sheep
 electrum
+elm-platform
 elyse
 emacs
 enfusegui
@@ -306,7 +309,6 @@ goagentx
 gog-downloader
 google-adwords-editor
 google-notifier
-google-refine
 googleappenginelauncher
 gpgtools
 gpower
@@ -465,7 +467,6 @@ magic-launch
 mailfollowup
 makehuman
 makemkv
-makerware
 mame
 mamp
 manager
@@ -833,6 +834,7 @@ thetube
 thisservice
 thong
 thumbsup
+thunder
 thunderbird
 thyme
 tickets
@@ -925,6 +927,7 @@ widelands
 wineskin-winery
 winxound
 wireshark
+witgui
 wiztoolsorg-restclient
 wjoy
 woodhouse

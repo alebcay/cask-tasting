@@ -1,16 +1,13 @@
-actotracker
 aerofs
-appium
 aptanastudio
 baiducloud
-baiduinput
 delivery-status
 disk-inventory-x
-elm-platform
 file-juicer
 flightgear
 freefilesync
 golly
+google-refine
 gpsbabel
 imagemin
 java
@@ -19,6 +16,7 @@ lincastor
 ltspice
 lyrics-master
 macmoney
+makerware
 mountain
 mp4tools
 navicat-for-mariadb
@@ -37,5 +35,3 @@ steermouse
 strongvpn-client
 tactor
 tagoman
-thunder
-witgui

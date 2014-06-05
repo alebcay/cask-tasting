@@ -1,4 +1,5 @@
 ax88772
+baiduinput
 growl-fork
 identify
 logisim

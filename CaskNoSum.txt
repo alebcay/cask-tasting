@@ -2,6 +2,7 @@ a-better-finder-attributes
 a-better-finder-rename
 acorn
 activity-audit
+actotracker
 adobe-arh
 adobe-creative-cloud
 adventure
@@ -548,6 +549,7 @@ xtrafinder
 yabumi
 yandex
 yandexdisk
+yasu
 yemuzip
 yorufukurou
 youdao
