@@ -1,5 +1,5 @@
 ax88772
-baiduinput
+bar-magnet
 growl-fork
 identify
 logisim
@@ -9,3 +9,4 @@ pl2303
 platypus
 sevenzx
 sloth
+vimediamanager
