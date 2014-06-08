@@ -1,6 +1,6 @@
 anypass
 ax88772
-baiduinput
+b2designer
 bar-magnet
 growl-fork
 identify
@@ -11,3 +11,4 @@ pl2303
 platypus
 sevenzx
 sloth
+xact

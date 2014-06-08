@@ -6,6 +6,7 @@ actotracker
 adobe-arh
 adobe-creative-cloud
 adventure
+air-connect
 airdisplay
 airfoil
 airmail-amt
@@ -270,6 +271,7 @@ logmein-client
 logmein-hamachi
 loom
 lpk25-editor
+ltspice
 mac-informer
 mac-linux-usb-loader
 macbreakz
@@ -312,6 +314,7 @@ moneymoney
 mongohub
 moom
 mou
+mountain
 mover
 movist
 mpfreaker
@@ -381,6 +384,7 @@ plug
 poison
 pokerstars
 porthole
+postbox
 power-manager-pro
 power-manager
 pref-setter
@@ -485,9 +489,10 @@ supersync
 suspicious-package
 swingfish
 swinsian
-switchresx
+tactor
 tag
 tagalicious
+tagoman
 taskpaper
 tau
 teamviewer
@@ -498,6 +503,7 @@ thaiwitter
 the-escapers-flux
 the-hit-list
 things
+thinkorswim
 timemachineeditor
 tinkertool
 titanium-studio

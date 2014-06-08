@@ -49,7 +49,6 @@ authy-bluetooth
 avidemux
 avogadro
 awareness
-b2designer
 backuploupe
 baiducloud
 bankid
@@ -291,6 +290,7 @@ genymotion
 gephi
 geppetto
 gfxcardstatus
+ghc
 gifrocket
 gimp-lisanet
 gimp
@@ -385,6 +385,7 @@ itools
 itsycal
 itunesscrobbler
 jabref
+jaikoz
 jaspersoft-studio
 jawbone-updater
 jd-gui
@@ -394,6 +395,7 @@ jenkins-menu
 jewelrybox
 jitsi
 jubler
+julia
 jumpcut
 jumpshare
 justlooking
@@ -440,6 +442,7 @@ linphone
 litecoin
 liteicon
 liteide
+little-snitch
 livereload
 livestation
 logic
@@ -530,7 +533,13 @@ nally
 namebench
 namechanger
 navicat-data-modeler
+navicat-for-mariadb
+navicat-for-mysql
+navicat-for-oracle
 navicat-for-postgresql
+navicat-for-sql-server
+navicat-for-sqlite
+navicat-premium
 netbeans-cpp
 netbeans-php
 netbeans
@@ -791,6 +800,7 @@ stay
 stella
 stellarium
 streamtools
+strongvpn-client
 sts
 subethaedit
 subler
@@ -825,6 +835,7 @@ tex-live-utility
 texmacs
 texnicle
 texpad
+texstudio
 textadept
 textexpander
 textroom
@@ -943,7 +954,6 @@ x-lite
 x-moto
 x2goclient
 x48
-xact
 xamarin-android
 xamarin-ios
 xamarin-studio
