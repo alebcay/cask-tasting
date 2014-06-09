@@ -1,6 +1,5 @@
 anypass
 ax88772
-b2designer
 bar-magnet
 growl-fork
 identify
