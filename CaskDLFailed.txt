@@ -1,4 +1,3 @@
-anypass
 ax88772
 bar-magnet
 growl-fork
