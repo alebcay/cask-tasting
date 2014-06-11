@@ -152,6 +152,7 @@ figtree
 fiji
 file-juicer
 filedrop
+findings
 firefox
 fission
 flash-decompiler-trillix

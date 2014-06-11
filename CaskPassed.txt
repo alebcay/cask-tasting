@@ -52,7 +52,6 @@ avogadro
 awareness
 b2designer
 backuploupe
-baiducloud
 bankid
 banshee
 baretorrent
@@ -164,6 +163,7 @@ couchbase-server-community
 couchbase-server-enterprise
 crashplan
 crosspack-avr
+cryptol
 ctivo
 cuda-z
 cups-pdf
@@ -249,11 +249,8 @@ filebot
 fileshuttle
 filezilla
 find-any-file
-findings
 fitbit-connect
 flame
-flash-player-debugger
-flash-player
 flash
 flickr-uploadr
 flightgear
@@ -389,6 +386,7 @@ jabref
 jaikoz
 jaspersoft-studio
 jawbone-updater
+jbidwatcher
 jd-gui
 jdiskreport
 jedit
@@ -452,7 +450,6 @@ logitech-gaming-software
 logitech-harmony
 logitech-unifying
 love
-lucidor
 lyn
 lynxlet
 lyrics-master
@@ -466,6 +463,7 @@ macmoney
 macpass
 macports
 mactracker
+mactubes
 macvim
 magic-launch
 mailfollowup
@@ -509,6 +507,7 @@ moneywell
 mongodb
 mono-mdk
 mono-mre
+monochrome
 monolingual
 monotype-skyfonts
 moreamp
@@ -676,7 +675,6 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
-qvod-player
 r
 racket
 radiant-player
@@ -814,6 +812,7 @@ subtitles
 sunlogin-remote
 super-otr
 supercollider
+supertuxkart
 surplusmeter
 sweet-home3d
 synergy
@@ -824,7 +823,6 @@ synthesia
 tabula
 tagger
 tagr
-tagspaces
 tapaal
 tcpblock
 teamspeak-client
@@ -851,6 +849,7 @@ thetube
 thisservice
 thong
 thumbsup
+thunder
 thunderbird
 thyme
 tickets
@@ -881,7 +880,6 @@ transmit
 treemaker
 trickster
 truecrypt
-tuneinstructor
 tunnelbear
 tunnelblick
 tuxguitar
