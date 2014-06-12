@@ -33,7 +33,6 @@ aquamacs
 aquaterm
 araxis-merge
 arduino-galileo
-arduino
 aria-maestosa
 armitage
 armory
@@ -52,6 +51,7 @@ avogadro
 awareness
 b2designer
 backuploupe
+baiducloud
 bankid
 banshee
 baretorrent
@@ -244,6 +244,7 @@ fastscripts
 feedbinnotifier
 feeder
 feeds
+fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -251,6 +252,7 @@ filezilla
 find-any-file
 fitbit-connect
 flame
+flash-player
 flash
 flickr-uploadr
 flightgear
@@ -450,6 +452,7 @@ logitech-gaming-software
 logitech-harmony
 logitech-unifying
 love
+lucidor
 lyn
 lynxlet
 lyrics-master
@@ -612,12 +615,10 @@ pester
 petite-chez-scheme
 pg-commander
 pgadmin3
-pharo
 phoenix-slides
 photoninja
 phpstorm
 pi-filler
-pianopub
 picasa
 pinta
 pivotalbooster
@@ -626,7 +627,6 @@ playonmac
 plex-home-theater
 plex-media-server
 plover
-plycounter
 pngcommentator
 poedit
 pokertracker
@@ -650,6 +650,7 @@ provisioning
 provisionql
 proximity
 ps3-media-server
+psi
 psychopy
 punto-switcher
 pupil
@@ -675,6 +676,7 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
+qvod-player
 r
 racket
 radiant-player
@@ -801,7 +803,6 @@ stellarium
 streamtools
 strongvpn-client
 sts
-subethaedit
 subler
 sublime-text
 subnetcalc
@@ -823,6 +824,7 @@ synthesia
 tabula
 tagger
 tagr
+tagspaces
 tapaal
 tcpblock
 teamspeak-client
@@ -868,6 +870,7 @@ tokaido
 tomahawk
 tomighty
 tongbu
+torbrowser
 torustrooper
 totalfinder
 totals
@@ -929,7 +932,6 @@ waterroof
 wavtap
 webp-quicklook
 webstorm
-weibox
 weka
 welly
 wesnoth
