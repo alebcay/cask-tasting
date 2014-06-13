@@ -1,8 +1,9 @@
-Check started at Thu Jun 12 00:00:59 EDT 2014
+Check started at Fri Jun 13 00:00:54 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
 acorn: no checksum
+actions-server: no checksum
 actiontastic: passed
 activity-audit: no checksum
 actotracker: no checksum
@@ -19,7 +20,7 @@ adventure: no checksum
 aegisub: passed
 aerofs: SHA-256 mismatch!
   Expected: 1a416dacbe1e465b3925a6ee21a438e45b05a285cc039ea96b558d95933f0586
-  Actual  : e4359e857c674f50a0618d9d1f83fe386112490ca12e8a7700fadb08cad23499
+  Actual  : 0a8f89f38824d7464b013502b989ea49927d1cd72ed6e297d4a1f89e2d9eb528
 air-connect: no checksum
 air-video-server: passed
 airdisplay: no checksum
@@ -66,9 +67,7 @@ aquaterm: passed
 araxis-merge: passed
 archiver: no checksum
 arduino-galileo: passed
-arduino: SHA-256 mismatch!
-  Expected: 12f2d649b2cfd537317f63d9cb102dc052647c32a5b07c76d344ed959319c05e
-  Actual  : d23d9033dfc267afd57e1f4b6355deffe683cbbb58b64b7386d5bb302e496df2
+arduino: passed
 aria-maestosa: passed
 armitage: passed
 armory: passed
@@ -91,6 +90,7 @@ aurora: passed
 authbuddy: no checksum
 authoxy: passed
 authy-bluetooth: passed
+autodmg: passed
 automatic: no checksum
 aviator: no checksum
 avidemux: passed
@@ -107,7 +107,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a74ef75bee54e6d563f795a943d9328c3229205b273be38c6df144f49c9d67d5
-  Actual  : 1994ab7633b1470e04eaacc73a561277bb2fb08758e6e542772227de7d1ae023
+  Actual  : 9130cb62cd89d9209dae3a7576b64f84bb1230e0977569af227df969218462b8
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -304,6 +304,7 @@ cursorcerer: no checksum
 cutesdr: passed
 cx: passed
 cyberduck: passed
+cycript: passed
 daemon-tools-lite: passed
 daisydisk: no checksum
 darktable: passed
@@ -519,7 +520,7 @@ goagentx: passed
 gog-downloader: passed
 golly: SHA-256 mismatch!
   Expected: 6fee35e8e4f63ee2c1b0913b7e8009b2548c4e4469050f9c31791900e1e97f16
-  Actual  : 4c6863f403dc0bc98849711c2952b0e5ed629b54c9c633b6b68a9fb5d26e3d06
+  Actual  : fdd05be07bae498bcba91d5a8a8d32fd3cb45fc08b090923a16f0fcb1d5725c7
 google-adwords-editor: passed
 google-chrome: no checksum
 google-drive: no checksum
@@ -626,6 +627,7 @@ inform: passed
 injection: passed
 inkscape: passed
 inky: no checksum
+instabridge: passed
 instacast: passed
 instead: passed
 insync: passed
@@ -727,7 +729,9 @@ lastpass-universal: no checksum
 latexian: no checksum
 latexit: passed
 launchbar: passed
-launchcontrol: passed
+launchcontrol: SHA-256 mismatch!
+  Expected: 9351c57b3956e63f5d995dfe4b9f45fa78a39476dbc3a4b7aa8797b600c4d8ad
+  Actual  : 4493aa47c30948503cca9d45e1133c20f3de9b851e5325b1d5efaf1320b59ed6
 launchrocket: passed
 launchy: passed
 layervault: no checksum
@@ -1036,6 +1040,7 @@ pester: passed
 petite-chez-scheme: passed
 pg-commander: passed
 pgadmin3: passed
+pgloader: passed
 pharo: SHA-256 mismatch!
   Expected: 57f251d31726176bf7dff866198ca75f03bb477e1dd024307eb157725acf596f
   Actual  : 45efa43e3d08c0b58bc549defa54c9c14b6a5b82d7044c9f1c19c236833cca8e
@@ -1045,7 +1050,7 @@ phoneclean: no checksum
 photoninja: passed
 phpstorm: passed
 pi-filler: passed
-pianopub: download error
+pianopub: passed
 picasa: passed
 picturelife: no checksum
 picturesque: no checksum
@@ -1067,9 +1072,7 @@ plex-home-theater: passed
 plex-media-server: passed
 plover: passed
 plug: no checksum
-plycounter: SHA-256 mismatch!
-  Expected: f96cba814640596c0aec51a9fc8a0a78db00dfda365de340c21917e0cc1fc091
-  Actual  : 07a015d543902e5533bd497ddc7ec70564da639ca618283e16c736bd015335a3
+plycounter: no checksum
 pngcommentator: passed
 poedit: passed
 poison: no checksum
@@ -1194,6 +1197,7 @@ runtastic-connect: no checksum
 rythem: passed
 sabnzbd: passed
 safaritabswitching: passed
+safe-in-cloud: passed
 safemonk: no checksum
 sage: passed
 sandbox: no checksum
@@ -1243,7 +1247,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: d6c19e082f9d96b1831692d308a4d5512608e6ca8d58c52d7e95bb2da0832a8c
-  Actual  : fc317da7e8183aa020800171702745a3e9ec3f9d74209fa76c2760143be214a7
+  Actual  : d05756f7b7003becddffd1cba3da3760a969e374b605ea724e101b1398938b6f
 shelf-leveler: no checksum
 shiftit: passed
 shimo: passed
@@ -1264,7 +1268,7 @@ simon: passed
 simpholders: passed
 simple-comic: SHA-256 mismatch!
   Expected: 06b05ca40dbd4833b6d30e9dbc8840237a476f7bc91970867e3de5c47f72a0b4
-  Actual  : 1b809c7c039829736af89e2df77cf19b60c1a02e6be55c43f2943a6be2fb364d
+  Actual  : d9ab2499c057eab27a028c1b1bf97a32f3d38e83233d5b61feb5fea0c78236fa
 simple-css: no checksum
 simplecap: passed
 simpletag: no checksum
@@ -1416,9 +1420,7 @@ texmacs: passed
 texmaker: no checksum
 texnicle: passed
 texpad: passed
-texshop: SHA-256 mismatch!
-  Expected: 78940561dde093f9ef2211b0e2f8acb332e4f3d141ffd37e3d654ce7dc112831
-  Actual  : bc29e93f5011d9afc437bbccaaf251a5b30b8de1d9ddab80fcbbf13c5a3f2c86
+texshop: passed
 texstudio: passed
 textadept: passed
 textexpander: passed
@@ -1558,7 +1560,7 @@ vuescan: passed
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : 8f150c8eb3f3f140c3a91f0581b3d803e938d2f29944726dc145f0955d097c0a
+  Actual  : 266a7a5f13c04123de171c4c90556c35e062306cee40e34b86f84f9d5ae57589
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wallpaper-wizard: passed
@@ -1570,7 +1572,7 @@ webp-quicklook: passed
 webstorm: passed
 wechat: no checksum
 wedge: no checksum
-weibox: download error
+weibox: passed
 weka: passed
 welly: passed
 wesnoth: passed
@@ -1582,7 +1584,7 @@ window-switch: no checksum
 wineskin-winery: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : b92150eb29038b6ebaab229fd67668b4c2e88502fcf8de38a806701fdcbfb765
+  Actual  : dda1dc662cfd851f4a8c118f6afaf46b3eb7c0b5d1344404516c7ad8dcb805e6
 wireover: no checksum
 wireshark: passed
 witch: no checksum
@@ -1650,4 +1652,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Thu Jun 12 09:55:05 EDT 2014
+Check finished at Fri Jun 13 09:51:56 EDT 2014

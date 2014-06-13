@@ -1,5 +1,4 @@
 aerofs
-arduino
 baiduinput
 chemdoodle
 cura
@@ -10,17 +9,16 @@ freefilesync
 golly
 gpsbabel
 java
+launchcontrol
 logitech-myharmony
 mp4tools
 pharo
-plycounter
 prey
 sharetool
 simple-comic
 splayerx
 subethaedit
 switchresx
-texshop
 tuneinstructor
 wabbitemu
 winxound

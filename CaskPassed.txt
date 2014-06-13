@@ -33,6 +33,7 @@ aquamacs
 aquaterm
 araxis-merge
 arduino-galileo
+arduino
 aria-maestosa
 armitage
 armory
@@ -46,6 +47,7 @@ audioslicer
 aurora
 authoxy
 authy-bluetooth
+autodmg
 avidemux
 avogadro
 awareness
@@ -172,6 +174,7 @@ curse-client
 cutesdr
 cx
 cyberduck
+cycript
 daemon-tools-lite
 darktable
 dashlane
@@ -359,6 +362,7 @@ induction
 inform
 injection
 inkscape
+instabridge
 instacast
 instead
 insync
@@ -426,7 +430,6 @@ kvirc
 kylo
 latexit
 launchbar
-launchcontrol
 launchrocket
 launchy
 lazarus
@@ -615,10 +618,12 @@ pester
 petite-chez-scheme
 pg-commander
 pgadmin3
+pgloader
 phoenix-slides
 photoninja
 phpstorm
 pi-filler
+pianopub
 picasa
 pinta
 pivotalbooster
@@ -706,6 +711,7 @@ rubymine
 rythem
 sabnzbd
 safaritabswitching
+safe-in-cloud
 sage
 satellite-eyes
 scala-ide
@@ -836,6 +842,7 @@ tex-live-utility
 texmacs
 texnicle
 texpad
+texshop
 texstudio
 textadept
 textexpander
@@ -932,6 +939,7 @@ waterroof
 wavtap
 webp-quicklook
 webstorm
+weibox
 weka
 welly
 wesnoth

@@ -5,10 +5,8 @@ identify
 logisim
 macupdate-desktop
 mcs783x
-pianopub
 pl2303
 platypus
 sevenzx
 sloth
-weibox
 xact
