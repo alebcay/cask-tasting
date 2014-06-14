@@ -62,7 +62,6 @@ betterzipql
 big-mean-folder-machine
 bill
 bittorrent-sync
-blink1control
 bodega
 bonjour-browser
 boom
@@ -442,6 +441,7 @@ servus
 shades
 shadowsweeper
 shelf-leveler
+shimo
 sidekick
 sidplay
 silverback

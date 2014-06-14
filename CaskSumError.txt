@@ -1,17 +1,17 @@
 aerofs
-baiduinput
 chemdoodle
 cura
 delivery-status
 disk-inventory-x
-flash-player-debugger
+fender-amp-drivers
 freefilesync
 golly
 gpsbabel
 java
-launchcontrol
 logitech-myharmony
 mp4tools
+navicat-for-mariadb
+owasp-zap
 pharo
 prey
 sharetool
@@ -22,3 +22,4 @@ switchresx
 tuneinstructor
 wabbitemu
 winxound
+wireshark

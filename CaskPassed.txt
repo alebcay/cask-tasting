@@ -11,7 +11,7 @@ aegisub
 air-video-server
 airserver
 alfred
-amazon-cloud-player
+amazon-music
 amethyst
 ampps
 android-studio-bundle
@@ -76,6 +76,7 @@ bitmessage
 black-ink
 black-light
 blender
+blink1control
 blu-ray-player
 bluegriffon
 blueharvest
@@ -247,7 +248,6 @@ fastscripts
 feedbinnotifier
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -255,6 +255,7 @@ filezilla
 find-any-file
 fitbit-connect
 flame
+flash-player-debugger
 flash-player
 flash
 flickr-uploadr
@@ -400,6 +401,7 @@ jenkins-menu
 jewelrybox
 jitsi
 jubler
+julia-studio
 julia
 jumpcut
 jumpshare
@@ -430,6 +432,7 @@ kvirc
 kylo
 latexit
 launchbar
+launchcontrol
 launchrocket
 launchy
 lazarus
@@ -447,6 +450,7 @@ litecoin
 liteicon
 liteide
 little-snitch
+littleipsum
 livereload
 livestation
 logic
@@ -538,7 +542,6 @@ nally
 namebench
 namechanger
 navicat-data-modeler
-navicat-for-mariadb
 navicat-for-mysql
 navicat-for-oracle
 navicat-for-postgresql
@@ -592,7 +595,6 @@ opera-next
 opera
 orange
 osxfuse
-owasp-zap
 owncloud
 p4merge
 padre
@@ -628,6 +630,7 @@ picasa
 pinta
 pivotalbooster
 pixel-check
+plainview
 playonmac
 plex-home-theater
 plex-media-server
@@ -744,7 +747,6 @@ servetome
 serviio
 shadowsocksx
 shiftit
-shimo
 shiori
 shoes
 shortcat
@@ -947,7 +949,6 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
-wireshark
 witgui
 wiztoolsorg-restclient
 wjoy
@@ -986,6 +987,7 @@ zed
 zendserver
 zendstudio
 zeroad
+zeroinstall
 zooom
 zotero
 zterm
