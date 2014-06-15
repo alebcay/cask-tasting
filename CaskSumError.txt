@@ -1,4 +1,6 @@
 aerofs
+baretorrent
+chainsaw
 chemdoodle
 cura
 delivery-status
@@ -10,8 +12,6 @@ gpsbabel
 java
 logitech-myharmony
 mp4tools
-navicat-for-mariadb
-owasp-zap
 pharo
 prey
 sharetool
@@ -22,4 +22,3 @@ switchresx
 tuneinstructor
 wabbitemu
 winxound
-wireshark

@@ -6,6 +6,7 @@ identify
 logisim
 macupdate-desktop
 mcs783x
+orange
 pl2303
 platypus
 sevenzx

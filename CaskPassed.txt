@@ -56,7 +56,6 @@ backuploupe
 baiducloud
 bankid
 banshee
-baretorrent
 basecamp
 basex
 bassjump
@@ -117,7 +116,6 @@ cdock
 celestia
 cert-quicklook
 cfxr
-chainsaw
 charles
 chefdk
 chicken
@@ -542,6 +540,7 @@ nally
 namebench
 namechanger
 navicat-data-modeler
+navicat-for-mariadb
 navicat-for-mysql
 navicat-for-oracle
 navicat-for-postgresql
@@ -593,8 +592,8 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
-orange
 osxfuse
+owasp-zap
 owncloud
 p4merge
 padre
@@ -949,6 +948,7 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
+wireshark
 witgui
 wiztoolsorg-restclient
 wjoy

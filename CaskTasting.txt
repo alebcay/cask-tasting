@@ -1,4 +1,4 @@
-Check started at Sat Jun 14 00:00:52 EDT 2014
+Check started at Sun Jun 15 00:00:53 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -20,7 +20,7 @@ adventure: no checksum
 aegisub: passed
 aerofs: SHA-256 mismatch!
   Expected: 1a416dacbe1e465b3925a6ee21a438e45b05a285cc039ea96b558d95933f0586
-  Actual  : 9a6b7b042ac2eea5fc41d71d113bc551836238827eff96df9cefd67620ff2720
+  Actual  : f35cde7aae4a9a77056a8611081fefb2fe7ac3d7d058a548d47dd2b804338b2f
 air-connect: no checksum
 air-video-server: passed
 airdisplay: no checksum
@@ -111,7 +111,9 @@ balsamiq-mockups: no checksum
 bankid: passed
 banshee: passed
 bar-magnet: download error
-baretorrent: passed
+baretorrent: SHA-256 mismatch!
+  Expected: dea7c210e9b57b74fc44b498d8f5d238458ffffff3c66b2a91bd77f5cec5238d
+  Actual  : 62c7f9c2c607160792c30c804014ed8f8a2eb397e72b3de388383f51c3a999ea
 bartender: no checksum
 base: no checksum
 basecamp: passed
@@ -200,7 +202,9 @@ cdock: passed
 celestia: passed
 cert-quicklook: passed
 cfxr: passed
-chainsaw: passed
+chainsaw: SHA-256 mismatch!
+  Expected: 06171e5bc285224611c4a1f22922ab781276ce387f8f290948617de7bbfc6f6d
+  Actual  : 3449c1d0fca70f78b656a151dabaf5c8149e1dbec2854b7a662b7f242ce299d2
 chameleon-ssd-optimizer: no checksum
 changes-meter: no checksum
 changes: no checksum
@@ -518,7 +522,7 @@ goagentx: passed
 gog-downloader: passed
 golly: SHA-256 mismatch!
   Expected: 6fee35e8e4f63ee2c1b0913b7e8009b2548c4e4469050f9c31791900e1e97f16
-  Actual  : dcb53534da28f2457fcdfee6c12d16fbb5eef31a268c892447eef0a0f510c228
+  Actual  : ed3a894dcc28e1385d03f4f70747bc093b2eea8a53ddc1c11c36e2bf3b74b0a9
 google-adwords-editor: passed
 google-chrome: no checksum
 google-drive: no checksum
@@ -916,9 +920,7 @@ namechanger: passed
 namely: no checksum
 narrative-uploader: no checksum
 navicat-data-modeler: passed
-navicat-for-mariadb: SHA-256 mismatch!
-  Expected: c0163c0a5027b16a38b6f95635728aee7b36aebb32f3b4603fd5af87627609c0
-  Actual  : 2816e681a5e0ee183dfc2459cd4a012214a4266aa2ee404d81acd885563129f7
+navicat-for-mariadb: passed
 navicat-for-mysql: passed
 navicat-for-oracle: passed
 navicat-for-postgresql: passed
@@ -996,15 +998,13 @@ opera-mobile-emulator: passed
 opera-next: passed
 opera: passed
 optimal-layout: no checksum
-orange: passed
+orange: download error
 orbit: no checksum
 origin: no checksum
 ormr: no checksum
 osxfuse: passed
 outwit-hub: no checksum
-owasp-zap: SHA-256 mismatch!
-  Expected: b83f9808bbda4b9c34c7aba8d62e49c12337457b5ffed423c2ad08c8bcd048fb
-  Actual  : 2d8385c26c024aca9f295bb30e1844a01d19c79eb95575be5e74bc98fabd196a
+owasp-zap: passed
 owncloud: passed
 p4merge: passed
 pacifist: no checksum
@@ -1250,7 +1250,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: d6c19e082f9d96b1831692d308a4d5512608e6ca8d58c52d7e95bb2da0832a8c
-  Actual  : a3a4edd586bb8ffbdd06fd9eae0e9d83581a6aa97e2611075378a51d02006c57
+  Actual  : 85acdb9297177f9595df46d5b2fef0955d0276adde87b496ee9d27a698d59b5e
 shelf-leveler: no checksum
 shiftit: passed
 shimo: no checksum
@@ -1271,7 +1271,7 @@ simon: passed
 simpholders: passed
 simple-comic: SHA-256 mismatch!
   Expected: 06b05ca40dbd4833b6d30e9dbc8840237a476f7bc91970867e3de5c47f72a0b4
-  Actual  : 35d602a51fcb657c4336e0bf9c8943cd50800af7fea517a9a36a4136f8580b0a
+  Actual  : 94d2b51b51f166f0200187a3264c82c883311d1a5bbd775df53baf2311f19d33
 simple-css: no checksum
 simplecap: passed
 simpletag: no checksum
@@ -1563,7 +1563,7 @@ vuescan: passed
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : a894e9c74fbe1f722a6853b3fdbf6dc2782a0baea550c2292c7f7da5556f07a9
+  Actual  : e36615ff2ab0767217ea71df62bc41e29bd8db167dafe7ee5fc978858e65962f
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wallpaper-wizard: passed
@@ -1587,11 +1587,9 @@ window-switch: no checksum
 wineskin-winery: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : b9498c6b8126d0838c21c6a8d1036a35e46f23f4cd3839f4ef1e1e1d8a4de547
+  Actual  : c5319027b675b3b40fd331c7aa56f901fef111c11cddbe1ff36d05cb38850850
 wireover: no checksum
-wireshark: SHA-256 mismatch!
-  Expected: df89621fdca8bd09aa633b2af6fa3e193872797a1cdf3feaf86f2183d68e2a5a
-  Actual  : 1cf50506487636598f6ffacd2d07498d8536368971bf1261033f85ca8b9cf9da
+wireshark: passed
 witch: no checksum
 witgui: passed
 wiztoolsorg-restclient: passed
@@ -1658,4 +1656,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Sat Jun 14 09:13:40 EDT 2014
+Check finished at Sun Jun 15 08:21:22 EDT 2014
