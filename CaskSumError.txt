@@ -1,7 +1,6 @@
 aerofs
-baretorrent
+baiduinput
 chainsaw
-chemdoodle
 cura
 delivery-status
 disk-inventory-x
@@ -12,8 +11,10 @@ gpsbabel
 java
 logitech-myharmony
 mp4tools
+noiz2sa
 pharo
-prey
+rrootage
+safe-in-cloud
 sharetool
 simple-comic
 splayerx

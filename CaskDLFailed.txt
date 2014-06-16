@@ -1,12 +1,11 @@
 ax88772
-baiduinput
 bar-magnet
 growl-fork
 identify
 logisim
 macupdate-desktop
 mcs783x
-orange
+neu
 pl2303
 platypus
 sevenzx

@@ -56,6 +56,7 @@ backuploupe
 baiducloud
 bankid
 banshee
+baretorrent
 basecamp
 basex
 bassjump
@@ -118,6 +119,7 @@ cert-quicklook
 cfxr
 charles
 chefdk
+chemdoodle
 chicken
 choosy
 chromecast
@@ -553,7 +555,6 @@ netbeans
 nethackcocoa
 netlogo
 netnewswire
-neu
 nide
 nightingale
 nimbus
@@ -567,7 +568,6 @@ node
 nodebox
 nodeclipse
 noejectdelay
-noiz2sa
 nomacs
 nosleep
 nottingham
@@ -592,6 +592,7 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
+orange
 osxfuse
 owasp-zap
 owncloud
@@ -644,6 +645,7 @@ powerword
 praat
 preen
 prepros
+prey
 prezi
 printrun
 prismatik
@@ -707,13 +709,11 @@ riffworkst4
 robomongo
 rocks-n-diamonds
 royal-tsx
-rrootage
 rstudio
 rubymine
 rythem
 sabnzbd
 safaritabswitching
-safe-in-cloud
 sage
 satellite-eyes
 scala-ide
