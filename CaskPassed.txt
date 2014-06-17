@@ -425,6 +425,7 @@ kiwi
 klayout
 knox
 kobito
+komanda
 komodo-edit
 kompozer
 ksdiff
@@ -460,7 +461,6 @@ logitech-harmony
 logitech-unifying
 love
 lucidor
-lyn
 lynxlet
 lyrics-master
 lyx
@@ -555,6 +555,7 @@ netbeans
 nethackcocoa
 netlogo
 netnewswire
+neu
 nide
 nightingale
 nimbus
@@ -581,6 +582,7 @@ omniweb
 onepassword
 openemu
 openlp
+opennx
 openoffice
 openra
 openscad
@@ -652,7 +654,6 @@ prismatik
 processing
 programmer-dvorak
 projectlibre
-prolific-usb-serial-driver
 propresenter
 protege
 provisioning
@@ -714,7 +715,6 @@ rubymine
 rythem
 sabnzbd
 safaritabswitching
-sage
 satellite-eyes
 scala-ide
 scansnap-manager
@@ -809,7 +809,6 @@ stella
 stellarium
 streamtools
 strongvpn-client
-sts
 subler
 sublime-text
 subnetcalc

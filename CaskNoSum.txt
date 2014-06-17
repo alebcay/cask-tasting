@@ -188,6 +188,7 @@ google-japanese-ime
 google-plus-auto-backup
 google-web-designer
 gopanda
+grafx2
 grandtotal
 grooveshark
 groovesquid
@@ -239,6 +240,7 @@ iupx
 ivolume
 izip
 jdownloader
+jiggler
 jing
 jitouch
 joinme
@@ -379,6 +381,7 @@ pins
 pixel-winch
 pixelpeeper
 pixelstick
+pixi-paint
 plain-clip
 pleasesleep
 plug
@@ -398,6 +401,7 @@ prizmo
 propane
 proxpn
 puush
+puzzles
 qlimagesize
 qlrest
 qlstephen

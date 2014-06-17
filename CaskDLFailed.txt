@@ -1,13 +1,15 @@
 ax88772
+baiduinput
 bar-magnet
 growl-fork
 identify
 logisim
+lyn
 macupdate-desktop
 mcs783x
-neu
-pl2303
 platypus
+prolific-usb-serial-driver
 sevenzx
 sloth
+sts
 xact

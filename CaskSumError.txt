@@ -1,5 +1,4 @@
 aerofs
-baiduinput
 chainsaw
 cura
 delivery-status
@@ -15,6 +14,7 @@ noiz2sa
 pharo
 rrootage
 safe-in-cloud
+sage
 sharetool
 simple-comic
 splayerx
