@@ -3,7 +3,6 @@ actiontastic
 actprinter
 adapter
 adium
-adobe-air
 adobe-digital-editions
 adobe-photoshop-lightroom
 adobe-reader
@@ -248,6 +247,7 @@ fastscripts
 feedbinnotifier
 feeder
 feeds
+fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -342,6 +342,7 @@ honer
 hoppergdbserver
 horndis
 hoster
+hr
 httpscoop
 hubic
 hugin
@@ -425,6 +426,7 @@ kiwi
 klayout
 knox
 kobito
+kod
 komanda
 komodo-edit
 kompozer
@@ -458,9 +460,11 @@ logic
 logitech-control-center
 logitech-gaming-software
 logitech-harmony
+logitech-myharmony
 logitech-unifying
 love
 lucidor
+lyn
 lynxlet
 lyrics-master
 lyx
@@ -469,16 +473,15 @@ macdrops
 macfusion
 macgdbp
 machg
-macmoney
 macpass
 macports
 mactracker
 mactubes
 macvim
+macwinzipper
 magic-launch
 mailfollowup
 makehuman
-makemkv
 makerware
 mame
 mamp
@@ -697,7 +700,6 @@ rcenvironment
 rdm
 recovery-disk-assistant
 reeddit
-reeder
 refresh-finder
 reggy
 remonit
@@ -959,7 +961,6 @@ wraparound
 wyzo
 x-lite
 x-moto
-x2goclient
 x48
 xamarin-android
 xamarin-ios
@@ -979,6 +980,7 @@ xslimmer
 xtorrent
 yacreader
 ynab
+yojimbo
 youll-never-take-me-alive
 yubikey-personalization-gui
 yubiswitch

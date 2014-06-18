@@ -1,14 +1,14 @@
 aerofs
+baiduinput
 chainsaw
 cura
 delivery-status
 disk-inventory-x
-fender-amp-drivers
 freefilesync
 golly
-gpsbabel
 java
-logitech-myharmony
+macmoney
+makemkv
 mp4tools
 noiz2sa
 pharo

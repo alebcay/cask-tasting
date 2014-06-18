@@ -1,10 +1,9 @@
+adobe-air
 ax88772
-baiduinput
 bar-magnet
 growl-fork
 identify
 logisim
-lyn
 macupdate-desktop
 mcs783x
 platypus
@@ -12,4 +11,5 @@ prolific-usb-serial-driver
 sevenzx
 sloth
 sts
+x2goclient
 xact
