@@ -1,4 +1,5 @@
 a-slower-speed-of-light
+accessmenubarapps
 actiontastic
 actprinter
 adapter
@@ -72,7 +73,6 @@ bitcasa
 bitcoin-core
 bitlord
 bitmessage
-black-ink
 black-light
 blender
 blink1control
@@ -243,7 +243,6 @@ fairmount
 fake
 fakethunder
 fantastical
-fastscripts
 feedbinnotifier
 feeder
 feeds
@@ -295,7 +294,6 @@ gephi
 geppetto
 gfxcardstatus
 ghc
-gifrocket
 gimp-lisanet
 gimp
 gisto
@@ -324,7 +322,6 @@ growler
 growlnotify
 growlvoice
 gulp
-gurps-character-sheet
 gyazo
 hall
 handbrake
@@ -490,7 +487,6 @@ manico
 mapture
 maratis
 marble
-marsedit
 mauve
 max
 maxthon
@@ -657,7 +653,6 @@ prismatik
 processing
 programmer-dvorak
 projectlibre
-propresenter
 protege
 provisioning
 provisionql
@@ -939,6 +934,7 @@ wacom-tablet
 wallpaper-wizard
 waterroof
 wavtap
+wd-security
 webp-quicklook
 webstorm
 weibox
@@ -961,6 +957,7 @@ wraparound
 wyzo
 x-lite
 x-moto
+x2goclient
 x48
 xamarin-android
 xamarin-ios
@@ -969,7 +966,6 @@ xampp
 xbench
 xbmc
 xee
-xiami
 xld
 xmarks-safari
 xmind

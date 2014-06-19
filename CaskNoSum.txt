@@ -273,6 +273,7 @@ loadmytracks
 locko
 logmein-client
 logmein-hamachi
+logoist
 loom
 lpk25-editor
 ltspice
@@ -430,6 +431,7 @@ ripit
 rss
 rtx
 runtastic-connect
+runtimebrowser
 safemonk
 sandbox
 sauce
@@ -563,6 +565,7 @@ wuala
 x-mirage
 xbox360-controller-driver
 xca
+xiami
 xmrouter
 xnviewmp
 xtrafinder

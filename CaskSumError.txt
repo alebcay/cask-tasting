@@ -6,6 +6,7 @@ delivery-status
 disk-inventory-x
 freefilesync
 golly
+gurps-character-sheet
 java
 macmoney
 makemkv
