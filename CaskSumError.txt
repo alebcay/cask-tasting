@@ -15,11 +15,9 @@ noiz2sa
 pharo
 rrootage
 safe-in-cloud
-sage
 sharetool
 simple-comic
 splayerx
-subethaedit
 switchresx
 tuneinstructor
 wabbitemu

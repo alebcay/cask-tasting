@@ -712,6 +712,7 @@ rubymine
 rythem
 sabnzbd
 safaritabswitching
+sage
 satellite-eyes
 scala-ide
 scansnap-manager
