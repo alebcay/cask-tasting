@@ -33,7 +33,6 @@ aquamacs
 aquaterm
 araxis-merge
 arduino-galileo
-arduino
 aria-maestosa
 armitage
 armory
@@ -41,6 +40,7 @@ arora
 arranger
 aseprite
 asepsis
+atlantis
 audacity
 audiobookbinder
 audioslicer
@@ -53,7 +53,6 @@ avogadro
 awareness
 b2designer
 backuploupe
-baiducloud
 bankid
 banshee
 baretorrent
@@ -76,7 +75,6 @@ bitmessage
 black-light
 blender
 blink1control
-blu-ray-player
 bluegriffon
 blueharvest
 bluej
@@ -90,6 +88,7 @@ brightness
 brogue
 broomstick
 brow
+brushviewql
 burn
 butter
 c3
@@ -294,6 +293,7 @@ gephi
 geppetto
 gfxcardstatus
 ghc
+gifrocket
 gimp-lisanet
 gimp
 gisto
@@ -322,6 +322,7 @@ growler
 growlnotify
 growlvoice
 gulp
+gurps-character-sheet
 gyazo
 hall
 handbrake
@@ -431,7 +432,6 @@ ksdiff
 kvirc
 kylo
 latexit
-launchbar
 launchcontrol
 launchrocket
 launchy
@@ -472,6 +472,7 @@ macgdbp
 machg
 macpass
 macports
+mactex
 mactracker
 mactubes
 macvim
@@ -527,7 +528,6 @@ mpeg-streamclip
 mplayer-osx-extended
 mplayerx
 mpv
-mucommander
 mudlet
 multibit
 multidoge
@@ -610,7 +610,6 @@ paraview
 password-gorilla
 pastor
 pcalc
-pckeyboardhack
 pd-extended
 pdfsam
 pdftk
@@ -732,6 +731,7 @@ seashore
 second-life-viewer
 secondbar
 secrets
+seil
 selfcontrol
 send-to-kindle
 sensiolabsdesktop
@@ -796,7 +796,6 @@ sqlexplorer
 sqlite-database-browser
 sqlitestudio
 squidman
-squire
 squirrel
 sshfs
 ssx
@@ -840,7 +839,6 @@ tex-live-utility
 texmacs
 texnicle
 texpad
-texshop
 texstudio
 textadept
 textexpander
@@ -947,6 +945,7 @@ whiteclock
 widelands
 wineskin-winery
 wireshark
+wiretap-studio
 witgui
 wiztoolsorg-restclient
 wjoy

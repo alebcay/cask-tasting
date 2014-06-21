@@ -287,7 +287,6 @@ macpaw-gemini
 macpilot
 macs-fan-control
 macterm
-mactex
 magican
 mailmate
 mailplane

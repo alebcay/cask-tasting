@@ -1,13 +1,16 @@
 aerofs
+arduino
+baiducloud
 baiduinput
+blu-ray-player
 chainsaw
 cura
 delivery-status
 disk-inventory-x
 freefilesync
 golly
-gurps-character-sheet
 java
+launchbar
 macmoney
 makemkv
 mp4tools
