@@ -33,6 +33,7 @@ aquamacs
 aquaterm
 araxis-merge
 arduino-galileo
+arduino
 aria-maestosa
 armitage
 armory
@@ -53,6 +54,7 @@ avogadro
 awareness
 b2designer
 backuploupe
+baiducloud
 bankid
 banshee
 baretorrent
@@ -216,6 +218,8 @@ dropletmanager
 droplr
 dsp-radio
 dukto
+dungeon-crawl-stone-soup-console
+dungeon-crawl-stone-soup-tiles
 dupscanub
 dvdstyler
 eagle
@@ -322,7 +326,6 @@ growler
 growlnotify
 growlvoice
 gulp
-gurps-character-sheet
 gyazo
 hall
 handbrake
@@ -356,7 +359,6 @@ iexplorer
 igetter
 imagealpha
 imagemin
-imitone
 inboard
 induction
 inform
@@ -432,6 +434,7 @@ ksdiff
 kvirc
 kylo
 latexit
+launchbar
 launchcontrol
 launchrocket
 launchy
@@ -509,8 +512,8 @@ mi
 miditrail
 milkytracker
 mini-metro
+minitimer
 mixxx
-mkvtoolnix
 mnemosyne
 money
 moneywell
@@ -593,7 +596,6 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
-orange
 osxfuse
 owasp-zap
 owncloud
@@ -642,7 +644,6 @@ port-map
 postgres
 powerkey
 powerword
-praat
 preen
 prepros
 prey
@@ -796,6 +797,7 @@ sqlexplorer
 sqlite-database-browser
 sqlitestudio
 squidman
+squire
 squirrel
 sshfs
 ssx
@@ -839,6 +841,7 @@ tex-live-utility
 texmacs
 texnicle
 texpad
+texshop
 texstudio
 textadept
 textexpander
@@ -911,7 +914,6 @@ vagrant-manager
 vagrant
 vassal
 vico
-videomonkey
 videospec
 vienna
 vimediamanager

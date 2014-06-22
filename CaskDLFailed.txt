@@ -2,10 +2,13 @@ adobe-air
 ax88772
 bar-magnet
 black-ink
+cura
 fastscripts
 fenix
 growl-fork
+gurps-character-sheet
 identify
+imitone
 logisim
 macupdate-desktop
 marsedit
@@ -16,7 +19,6 @@ prolific-usb-serial-driver
 propresenter
 sevenzx
 sloth
-squire
 sts
-texshop
+videomonkey
 xact
