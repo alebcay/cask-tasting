@@ -431,6 +431,7 @@ rss
 rtx
 runtastic-connect
 runtimebrowser
+safe-in-cloud
 safemonk
 sandbox
 sauce

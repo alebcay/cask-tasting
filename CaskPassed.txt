@@ -41,7 +41,6 @@ arora
 arranger
 aseprite
 asepsis
-atlantis
 audacity
 audiobookbinder
 audioslicer
@@ -244,12 +243,10 @@ eyetv
 factor
 fairmount
 fake
-fakethunder
 fantastical
 feedbinnotifier
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -531,6 +528,7 @@ mpeg-streamclip
 mplayer-osx-extended
 mplayerx
 mpv
+mucommander
 mudlet
 multibit
 multidoge
@@ -643,7 +641,6 @@ pokertracker
 port-map
 postgres
 powerkey
-powerword
 preen
 prepros
 prey
@@ -884,7 +881,6 @@ totalspaces
 totalterminal
 trailer
 transmission-remote-gui
-transmission
 transmit
 treemaker
 trickster
@@ -914,6 +910,7 @@ vagrant-manager
 vagrant
 vassal
 vico
+videomonkey
 videospec
 vienna
 vimediamanager

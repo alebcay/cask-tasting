@@ -4,6 +4,7 @@ blu-ray-player
 chainsaw
 delivery-status
 disk-inventory-x
+fender-amp-drivers
 freefilesync
 golly
 java
@@ -14,9 +15,9 @@ mp4tools
 noiz2sa
 orange
 pharo
+powerword
 praat
 rrootage
-safe-in-cloud
 sharetool
 simple-comic
 splayerx

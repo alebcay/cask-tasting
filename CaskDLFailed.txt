@@ -1,8 +1,10 @@
 adobe-air
+atlantis
 ax88772
 bar-magnet
 black-ink
 cura
+fakethunder
 fastscripts
 fenix
 growl-fork
@@ -13,12 +15,11 @@ logisim
 macupdate-desktop
 marsedit
 mcs783x
-mucommander
 platypus
 prolific-usb-serial-driver
 propresenter
 sevenzx
 sloth
 sts
-videomonkey
+transmission
 xact
