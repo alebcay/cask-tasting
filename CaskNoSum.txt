@@ -136,6 +136,7 @@ dropzone
 dterm
 dump-truck
 duplicate-annihilator
+ember
 emin-webpquicklook
 entropy
 epic
@@ -453,7 +454,6 @@ sidekick
 sidplay
 silverback
 simple-css
-simpletag
 simulator-folders
 sitesucker
 sixtyforce
@@ -500,7 +500,6 @@ suspicious-package
 swingfish
 swinsian
 tactor
-tag
 tagalicious
 tagoman
 taskpaper

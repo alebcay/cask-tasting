@@ -34,13 +34,13 @@ aquaterm
 araxis-merge
 arduino-galileo
 arduino
-aria-maestosa
 armitage
 armory
 arora
 arranger
 aseprite
 asepsis
+atlantis
 audacity
 audiobookbinder
 audioslicer
@@ -53,7 +53,6 @@ avogadro
 awareness
 b2designer
 backuploupe
-baiducloud
 bankid
 banshee
 baretorrent
@@ -78,15 +77,12 @@ blender
 blink1control
 bluegriffon
 blueharvest
-bluej
 boot2docker
 bootxchanger
-bowtie
 brackets
 brain-workshop
 breakaway
 brightness
-brogue
 broomstick
 brow
 brushviewql
@@ -98,10 +94,8 @@ cakebrew
 calcservice
 calibre2opds
 callnote
-camed
 camerabag
 camino
-camranger
 camtwist
 candybar
 capo
@@ -111,7 +105,6 @@ carlson-minot
 catch
 ccleaner
 ccmenu
-cd-to
 cdock
 celestia
 cert-quicklook
@@ -124,7 +117,6 @@ choosy
 chromecast
 chromium
 chronomate
-clamxav
 clementine
 clipmenu
 clix
@@ -217,8 +209,6 @@ dropletmanager
 droplr
 dsp-radio
 dukto
-dungeon-crawl-stone-soup-console
-dungeon-crawl-stone-soup-tiles
 dupscanub
 dvdstyler
 eagle
@@ -243,10 +233,12 @@ eyetv
 factor
 fairmount
 fake
+fakethunder
 fantastical
 feedbinnotifier
 feeder
 feeds
+fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -268,13 +260,13 @@ fotomagico
 fourk-video-downloader
 fourk-youtube-to-mp3
 fpc
+framer-studio
 free-ruler
 freecad
 freecol
 freemind
 fritzing
 frostwire
-fs-uae
 fugu
 functionflip
 gambit-c
@@ -294,6 +286,7 @@ gephi
 geppetto
 gfxcardstatus
 ghc
+giffun
 gifrocket
 gimp-lisanet
 gimp
@@ -353,9 +346,7 @@ ichm
 icolors
 id3-editor
 iexplorer
-igetter
 imagealpha
-imagemin
 inboard
 induction
 inform
@@ -385,15 +376,12 @@ istopmotion
 istumbler
 iterm2
 itools
-itsycal
 itunesscrobbler
 jabref
 jaikoz
-jaspersoft-studio
 jawbone-updater
 jbidwatcher
 jd-gui
-jdiskreport
 jedit
 jenkins-menu
 jewelrybox
@@ -474,7 +462,6 @@ macpass
 macports
 mactex
 mactracker
-mactubes
 macvim
 macwinzipper
 magic-launch
@@ -489,7 +476,6 @@ mapture
 maratis
 marble
 mauve
-max
 maxthon
 mcedit
 media-converter
@@ -498,7 +484,6 @@ mediainfo
 mediathekview
 meerkat
 mendeley-desktop
-menubar-countdown
 menuola
 meocloud
 mesasqlite
@@ -506,8 +491,8 @@ meshlab
 metanota
 meteorologist
 mi
+midikeys
 miditrail
-milkytracker
 mini-metro
 minitimer
 mixxx
@@ -553,9 +538,7 @@ netbeans-cpp
 netbeans-php
 netbeans
 nethackcocoa
-netlogo
 netnewswire
-neu
 nide
 nightingale
 nimbus
@@ -587,13 +570,13 @@ openoffice
 openra
 openscad
 opensesame
-opensong
 openttd
 openvanilla
 opera-mail
 opera-mobile-emulator
 opera-next
 opera
+osculator
 osxfuse
 owasp-zap
 owncloud
@@ -629,7 +612,6 @@ pianopub
 picasa
 pinta
 pivotalbooster
-pixel-check
 plainview
 playonmac
 plex-home-theater
@@ -641,6 +623,7 @@ pokertracker
 port-map
 postgres
 powerkey
+powerword
 preen
 prepros
 prey
@@ -702,7 +685,6 @@ retroshare
 rftg
 riffworkst4
 robomongo
-rocks-n-diamonds
 royal-tsx
 rstudio
 rubymine
@@ -755,6 +737,7 @@ silverlight
 simon
 simpholders
 simplecap
+simplesynth
 sketchup
 skim
 skitch
@@ -902,7 +885,6 @@ unetbootin
 uninstallpkg
 unison
 unity3d
-unpkg
 unrarx
 usb-overdrive
 utopia
@@ -957,7 +939,6 @@ wyzo
 x-lite
 x-moto
 x2goclient
-x48
 xamarin-android
 xamarin-ios
 xamarin-studio
