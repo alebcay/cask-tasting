@@ -37,7 +37,6 @@ arduino
 armitage
 armory
 arora
-arranger
 aseprite
 asepsis
 atlantis
@@ -117,6 +116,7 @@ choosy
 chromecast
 chromium
 chronomate
+clamxav
 clementine
 clipmenu
 clix
@@ -238,7 +238,6 @@ fantastical
 feedbinnotifier
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 filebot
 fileshuttle
@@ -251,7 +250,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fluid
 fm-fw-installer
 fontexplorer-x-pro
@@ -408,6 +406,7 @@ kindle
 kindlegen
 kismac
 kiwi
+kkbox
 klayout
 knox
 kobito
@@ -425,7 +424,6 @@ launchrocket
 launchy
 lazarus
 leap-motion
-librecad
 libreoffice
 licecap
 lightpaper
@@ -647,7 +645,6 @@ putio-adder
 pwnagetool
 pycharm-ce
 pycharm
-qbittorrent
 qdesktop
 qlcolorcode
 qlmarkdown
@@ -863,6 +860,7 @@ totals
 totalspaces
 totalterminal
 trailer
+traktable
 transmission-remote-gui
 transmit
 treemaker

@@ -1,5 +1,6 @@
 adobe-air
 aria-maestosa
+arranger
 ax88772
 bar-magnet
 black-ink
@@ -9,7 +10,6 @@ brogue
 camed
 camranger
 cd-to
-clamxav
 cura
 dungeon-crawl-stone-soup-console
 dungeon-crawl-stone-soup-tiles
@@ -26,6 +26,7 @@ imitone
 itsycal
 jaspersoft-studio
 jdiskreport
+librecad
 logisim
 mactubes
 macupdate-desktop
@@ -38,6 +39,7 @@ mp4tools
 netlogo
 neu
 opensong
+orange
 pixel-check
 platypus
 prolific-usb-serial-driver
