@@ -37,6 +37,7 @@ arduino
 armitage
 armory
 arora
+arranger
 aseprite
 asepsis
 atlantis
@@ -52,6 +53,8 @@ avogadro
 awareness
 b2designer
 backuploupe
+baiducloud
+baiduinput
 bankid
 banshee
 baretorrent
@@ -227,6 +230,7 @@ elyse
 emacs
 enfusegui
 enjoyable
+epub-to-pdf
 evasi0n
 eye-fi
 eyetv
@@ -238,8 +242,8 @@ fantastical
 feedbinnotifier
 feeder
 feeds
+fender-amp-drivers
 fender-fuse
-filebot
 fileshuttle
 filezilla
 find-any-file
@@ -424,6 +428,7 @@ launchrocket
 launchy
 lazarus
 leap-motion
+librecad
 libreoffice
 licecap
 lightpaper
@@ -452,6 +457,7 @@ lynxlet
 lyrics-master
 lyx
 macaw
+macdown
 macdrops
 macfusion
 macgdbp
@@ -645,6 +651,7 @@ putio-adder
 pwnagetool
 pycharm-ce
 pycharm
+qbittorrent
 qdesktop
 qlcolorcode
 qlmarkdown
@@ -683,7 +690,6 @@ rftg
 riffworkst4
 robomongo
 royal-tsx
-rstudio
 rubymine
 rythem
 sabnzbd
@@ -740,7 +746,6 @@ skim
 skitch
 skreenics
 skydrive
-slic3r
 slidemode
 slimbatterymonitor
 slowy
@@ -754,7 +759,6 @@ sococo
 sogouinput
 sonic-visualiser
 sonos
-sopcast
 sophos-anti-virus-home-edition
 soqlxplorer
 soulseek
@@ -774,7 +778,6 @@ sqlexplorer
 sqlite-database-browser
 sqlitestudio
 squidman
-squire
 squirrel
 sshfs
 ssx
@@ -964,5 +967,4 @@ zendstudio
 zeroad
 zeroinstall
 zooom
-zotero
 zterm

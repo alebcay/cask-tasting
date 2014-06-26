@@ -1,6 +1,5 @@
 adobe-air
 aria-maestosa
-arranger
 ax88772
 bar-magnet
 black-ink
@@ -15,6 +14,7 @@ dungeon-crawl-stone-soup-console
 dungeon-crawl-stone-soup-tiles
 fastscripts
 fenix
+filebot
 fs-uae
 golly
 growl-fork
@@ -26,7 +26,6 @@ imitone
 itsycal
 jaspersoft-studio
 jdiskreport
-librecad
 logisim
 mactubes
 macupdate-desktop
@@ -39,7 +38,6 @@ mp4tools
 netlogo
 neu
 opensong
-orange
 pixel-check
 platypus
 prolific-usb-serial-driver
@@ -49,6 +47,7 @@ selflanguage-self-control
 sevenzx
 simpletag
 sloth
+sopcast
 sts
 tag
 transmission
