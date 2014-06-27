@@ -54,7 +54,6 @@ awareness
 b2designer
 backuploupe
 baiducloud
-baiduinput
 bankid
 banshee
 baretorrent
@@ -158,7 +157,6 @@ corsixth
 coteditor
 couchbase-server-community
 couchbase-server-enterprise
-crashplan
 crosspack-avr
 cryptol
 ctivo
@@ -212,6 +210,8 @@ dropletmanager
 droplr
 dsp-radio
 dukto
+dungeon-crawl-stone-soup-console
+dungeon-crawl-stone-soup-tiles
 dupscanub
 dvdstyler
 eagle
@@ -242,7 +242,6 @@ fantastical
 feedbinnotifier
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 fileshuttle
 filezilla
@@ -254,6 +253,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fluid
 fm-fw-installer
 fontexplorer-x-pro
@@ -375,7 +375,6 @@ ireadfast
 isolator
 istat-menus
 istopmotion
-istumbler
 iterm2
 itools
 itunesscrobbler
@@ -661,7 +660,6 @@ qq
 qqbrowser
 qqmusic
 qt-creator
-quassel-client
 quick-search-box
 quicklook-pfm
 quicknfo
@@ -690,6 +688,7 @@ rftg
 riffworkst4
 robomongo
 royal-tsx
+rstudio
 rubymine
 rythem
 sabnzbd
@@ -759,6 +758,7 @@ sococo
 sogouinput
 sonic-visualiser
 sonos
+sopcast
 sophos-anti-virus-home-edition
 soqlxplorer
 soulseek
@@ -967,4 +967,5 @@ zendstudio
 zeroad
 zeroinstall
 zooom
+zotero
 zterm

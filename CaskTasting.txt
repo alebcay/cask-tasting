@@ -1,4 +1,4 @@
-Check started at Thu Jun 26 00:01:02 EDT 2014
+Check started at Fri Jun 27 07:45:15 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -21,7 +21,7 @@ adventure: no checksum
 aegisub: passed
 aerofs: SHA-256 mismatch!
   Expected: 1a416dacbe1e465b3925a6ee21a438e45b05a285cc039ea96b558d95933f0586
-  Actual  : 38174ae25e55380a85f48afec225b2db546095794843d29c3ae217726e088756
+  Actual  : 376a6887a602e286b428a1636aad4d6b6a6ccb88e5fb486d765da3c3d73210eb
 air-connect: no checksum
 air-video-server: passed
 airdisplay: no checksum
@@ -107,7 +107,9 @@ backtobed: no checksum
 backuploupe: passed
 bahamut: no checksum
 baiducloud: passed
-baiduinput: passed
+baiduinput: SHA-256 mismatch!
+  Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
+  Actual  : abcf4601cfdf302fb58b3cd7a30c7f17d6f4d476869755bcc1f3e31c30c11859
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -290,7 +292,9 @@ coteditor: passed
 couchbase-server-community: passed
 couchbase-server-enterprise: passed
 crashlytics: no checksum
-crashplan: passed
+crashplan: SHA-256 mismatch!
+  Expected: af6959a5a2e8584195fa7381014ba462ced114763995b50266d6353a95b84a7d
+  Actual  : c3bb61fda36d777395748a6c6946085255e8ffa64c1538c453888e0de8ce2b73
 crosspack-avr: passed
 crushftp: no checksum
 cryptol: passed
@@ -377,8 +381,8 @@ dsp-radio: passed
 dterm: no checksum
 dukto: passed
 dump-truck: no checksum
-dungeon-crawl-stone-soup-console: download error
-dungeon-crawl-stone-soup-tiles: download error
+dungeon-crawl-stone-soup-console: passed
+dungeon-crawl-stone-soup-tiles: passed
 duplicate-annihilator: no checksum
 dupscanub: passed
 dvdstyler: passed
@@ -423,7 +427,9 @@ fdt: no checksum
 feedbinnotifier: passed
 feeder: passed
 feeds: passed
-fender-amp-drivers: passed
+fender-amp-drivers: SHA-256 mismatch!
+  Expected: f73c4c66c6d9bc6492d8f22126415f5a36eb555714adc147590fb3a5d25b8c34
+  Actual  : c9b2189123fa47478587122ee165d846966985632e6ff44b12001a6ae56d50f7
 fender-fuse: passed
 fenix: download error
 ffmpegx: no checksum
@@ -447,9 +453,7 @@ flash: passed
 flavours: no checksum
 flickr-uploadr: passed
 flightgear: passed
-flip4mac: SHA-256 mismatch!
-  Expected: d1574ca9896f8f40bf4d868e8ff91b1da1ac1dcd91a5b7898f3580543b02988e
-  Actual  : 4d1baf831239b9862518a41b83acf29f34d1ff8d21bf68f3bd1904ec4c2cb2f9
+flip4mac: passed
 flow: no checksum
 flowdock: no checksum
 fluid: passed
@@ -659,7 +663,9 @@ isolator: passed
 istat-menus: passed
 istat-server: no checksum
 istopmotion: passed
-istumbler: passed
+istumbler: SHA-256 mismatch!
+  Expected: 867a62f891c8fdc31883f45c1a9d0a3bfef6786acbf0a0eec947c4efd8661eb3
+  Actual  : 2be73736b213d8c6b285ab7bcecd6015d96926f23e0cd6b085ea9614fcd0a5b7
 iterm2: passed
 itools: passed
 itsycal: download error
@@ -1161,7 +1167,7 @@ qqbrowser: passed
 qqmusic: passed
 qt-creator: passed
 qtspim: no checksum
-quassel-client: passed
+quassel-client: download error
 querious: no checksum
 quick-search-box: passed
 quickcast: no checksum
@@ -1215,9 +1221,7 @@ rrootage: SHA-256 mismatch!
   Expected: 466bec698ba02a38601e9de3e98373aea08e2f35ff7341cd0df35355cc03c134
   Actual  : 4acc97d1a88f49ac43e0add28119ea4710deb17c24585f6535c9d5f4f9cf915f
 rss: no checksum
-rstudio: SHA-256 mismatch!
-  Expected: 7df8e8791958903c6073f6269bb8ba24b763ab9ecae3ff6167723aa422f85777
-  Actual  : 418ba8e0a1c6e4827a19cb1bf36c95da770205a5d6648b3843923b5ddc0e928a
+rstudio: passed
 rtx: no checksum
 rubymine: passed
 runtastic-connect: no checksum
@@ -1277,7 +1281,7 @@ shadowsocksx: passed
 shadowsweeper: no checksum
 sharetool: SHA-256 mismatch!
   Expected: d6c19e082f9d96b1831692d308a4d5512608e6ca8d58c52d7e95bb2da0832a8c
-  Actual  : 35bdd7afd2ba6d32f28ff61117ce327014dfe011ddcb451f90abeb17b421af63
+  Actual  : 7423a5c37a83f8a266250a7cc3fc8d568d86ba974f05f7820adfc37f34b1a03a
 shelf-leveler: no checksum
 shiftit: passed
 shimo: no checksum
@@ -1345,7 +1349,7 @@ soleol: no checksum
 sonic-visualiser: passed
 sonora: no checksum
 sonos: passed
-sopcast: download error
+sopcast: passed
 sophos-anti-virus-home-edition: passed
 soqlxplorer: passed
 soulseek: passed
@@ -1387,7 +1391,7 @@ sqlitestudio: passed
 squidman: passed
 squire: SHA-256 mismatch!
   Expected: d37f2cdf5f08ed85e5a1f10a66c70a964e51e3a64e7c7335d97c50b1a7a1691e
-  Actual  : 3fcb778d8ef2a524ba050dcf8245752f364134b26195d11c442460627931bdd3
+  Actual  : e2c8b6bb2a94aaab9f7aff301ac4c820c7096b6b8bab5c2f27723bc741778a84
 squirrel: passed
 sqwiggle: no checksum
 sshfs: passed
@@ -1593,7 +1597,7 @@ vuescan: passed
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : 39edbdbee9a3f076655495f5eea43ca6c7bbe5e83869aa00d619172b4d29efcb
+  Actual  : ddbd1b69dd1d5e5e6ca906214acacc85b193515edf580012a6623c58af7cf0d6
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wallpaper-wizard: passed
@@ -1618,7 +1622,7 @@ window-switch: no checksum
 wineskin-winery: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : 5deed335679430ff3be713726d68251579cc78b5573ac60887803664e423d2bc
+  Actual  : ff614d7851276d4eb6231ddf157800bdb117e9a9f4fe7c2446a00bfc7bf7cfba
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
@@ -1687,8 +1691,6 @@ zipcleaner: no checksum
 zipeg: no checksum
 zoomus: no checksum
 zooom: passed
-zotero: SHA-256 mismatch!
-  Expected: 5206accbc9324a5ca42d660dd1c74ca3bac2397ffa0d503819b4245820feea27
-  Actual  : 19b24ccd0fd7d4375374379fd3182bf7bbfeeca5b93416c51ea0f456f6f942f7
+zotero: passed
 zterm: passed
-Check finished at Thu Jun 26 11:57:25 EDT 2014
+Check finished at Fri Jun 27 16:29:23 EDT 2014

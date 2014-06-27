@@ -1,10 +1,13 @@
 aerofs
+baiduinput
 blu-ray-player
 chainsaw
+crashplan
 delivery-status
 disk-inventory-x
-flip4mac
+fender-amp-drivers
 freefilesync
+istumbler
 java
 macmoney
 makemkv
@@ -14,7 +17,6 @@ orange
 pharo
 praat
 rrootage
-rstudio
 sharetool
 simple-comic
 slic3r
@@ -24,4 +26,3 @@ switchresx
 tuneinstructor
 wabbitemu
 winxound
-zotero
