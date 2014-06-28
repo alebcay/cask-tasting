@@ -5,7 +5,7 @@ chainsaw
 crashplan
 delivery-status
 disk-inventory-x
-fender-amp-drivers
+eclipse-ide
 freefilesync
 istumbler
 java
@@ -19,7 +19,6 @@ praat
 rrootage
 sharetool
 simple-comic
-slic3r
 splayerx
 squire
 switchresx

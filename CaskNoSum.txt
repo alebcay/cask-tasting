@@ -156,6 +156,7 @@ filedrop
 findings
 firefox
 fission
+fivedetails-flow
 flash-decompiler-trillix
 flavours
 flow
@@ -300,6 +301,7 @@ mediafire-desktop
 menubarfilter
 menumeters
 messenger-for-telegram
+microsoft-lync-plugin
 middleclick
 mikogo
 minbox
@@ -414,6 +416,7 @@ quickhue
 quicklook-csv
 quicklook-json
 r-name
+radbeacon
 rapidweaver
 rdio
 readefine-desktop
