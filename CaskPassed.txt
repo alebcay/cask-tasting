@@ -71,11 +71,11 @@ binreader
 bit-slicer
 bitcasa
 bitcoin-core
-bitlord
 bitmessage
 black-light
 blender
 blink1control
+blu-ray-player
 bluegriffon
 blueharvest
 boot2docker
@@ -177,7 +177,6 @@ debt-quencher
 decitime
 default-folder-x
 deltawalker
-deluge
 deskfun
 desmume
 devonthink-pro-office
@@ -191,14 +190,12 @@ diskaid
 diskwave
 displaylink
 djview
-dmm
 dnscrypt
 dockmod
 dogecoin
 dolphin
 dosbox
 double-commander
-doubletwist
 doxie
 doxygen
 dragondisk
@@ -239,7 +236,6 @@ fantastical
 feedbinnotifier
 feeder
 feeds
-fender-amp-drivers
 fender-fuse
 fileshuttle
 filezilla
@@ -266,7 +262,6 @@ freecad
 freecol
 freemind
 fritzing
-frostwire
 fugu
 functionflip
 gambit-c
@@ -416,7 +411,6 @@ komanda
 komodo-edit
 kompozer
 ksdiff
-kvirc
 kylo
 latexit
 launchbar
@@ -426,7 +420,6 @@ launchy
 lazarus
 leap-motion
 librecad
-libreoffice
 licecap
 lightpaper
 lighttable
@@ -453,14 +446,12 @@ lyn
 lynxlet
 lyrics-master
 lyx
-macaw
-macdown
-macdrops
 macfusion
 macgdbp
 machg
 macpass
 macports
+mactex
 mactracker
 macupdate-desktop
 macvim
@@ -527,7 +518,6 @@ myphonedesktop
 mysqlworkbench
 nally
 namebench
-namechanger
 navicat-data-modeler
 navicat-for-mariadb
 navicat-for-mysql
@@ -829,7 +819,6 @@ textroom
 texts
 texturepacker
 textwrangler
-the-archive-browser
 the-brain
 the-unarchiver
 theremin
@@ -837,7 +826,6 @@ thetube
 thisservice
 thong
 thumbsup
-thunder
 thunderbird
 thyme
 tickets
@@ -856,7 +844,6 @@ tokaido
 tomahawk
 tomighty
 tongbu
-torbrowser
 torustrooper
 totalfinder
 totals
@@ -946,7 +933,6 @@ xamarin-studio
 xampp
 xbench
 xbmc
-xee
 xld
 xmarks-safari
 xmind

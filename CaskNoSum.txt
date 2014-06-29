@@ -136,6 +136,7 @@ dropzone
 dterm
 dump-truck
 duplicate-annihilator
+eclipse-jee
 ember
 emin-webpquicklook
 entropy
@@ -566,7 +567,6 @@ witch
 wuala
 x-mirage
 xbox360-controller-driver
-xca
 xiami
 xmrouter
 xnviewmp
