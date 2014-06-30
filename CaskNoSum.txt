@@ -441,6 +441,7 @@ safemonk
 sandbox
 sauce
 scapple
+scratch
 screenflick
 screenhero
 screenmailer
@@ -465,6 +466,8 @@ sizeup
 sizzlingkeys
 sketch-tool
 sketch
+sketchup
+sketchupviewer
 skype
 slack
 slate
@@ -566,6 +569,7 @@ wireover
 witch
 wuala
 x-mirage
+xamarin
 xbox360-controller-driver
 xiami
 xmrouter
