@@ -22,10 +22,6 @@ do
   [ -e "Testfile" ] && rm Testfile
   while read line
   do
-    if [[ $line == *url* ]]
-      then
-      URL=$(echo $line | tr -d "'" | cut -d \  -f 2)
-    fi
     if [[ "$line" == *:no_check* ]]
       then
       SHA_ALG=NONE
@@ -39,14 +35,8 @@ do
   if [ "$SHA_ALG" != "NONE" ]
     then
     echo -e "Downloading $(basename ${f%.*})"
-    # axel -a -o Testfile "$URL"
-    STATUS_CODE=$(curl -sIL "$URL" | grep "^HTTP" | tail -1 | perl -pe "s/.* (\d{3}) .*/\1/")
-    if [[ "$STATUS_CODE" == "200" ]]
-      then
-      curl -L# "$URL" > Testfile
-    else
-      curl -L#H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36" "$URL" > Testfile
-    fi
+    brew cask fetch "${f}"
+    find "$(brew --cache)" -type f -exec mv "{}" "./Testfile" \;
     # ACTUAL_SHA=$(echo $(curl -Ls "$URL" | shasum -a $SHA_ALG) | cut -d \  -f 1)
     ACTUAL_SHA=$(shasum -a 256 Testfile | cut -d \  -f 1)
     if [ "$EXPECTED_SHA" = "$ACTUAL_SHA" ]
@@ -77,6 +67,7 @@ do
     echo "$(basename ${f%.*})" >> CaskNoSum.part
   fi
   [ -e "Testfile" ] && rm Testfile
+  rm -rf "$(brew --cache)"
 done
 echo "Check finished at $(date)" >> ./CaskTasting.part
 echo "Check finished at $(date)"
