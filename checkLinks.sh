@@ -26,11 +26,7 @@ do
       then
       URL=$(echo $line | tr -d "'" | cut -d \  -f 2)
     fi
-    if [[ $line == *no_checksum* ]]
-      then
-      SHA_ALG=NONE
-      EXPECTED_SHA=""
-    elif [[ "$line" == *:no_check* ]]
+    if [[ "$line" == *:no_check* ]]
       then
       SHA_ALG=NONE
       EXPECTED_SHA=""
