@@ -73,6 +73,7 @@ binreader
 bit-slicer
 bitcasa
 bitcoin-core
+bitlord
 bitmessage
 black-light
 blender
@@ -90,7 +91,6 @@ breakaway
 brightness
 brogue
 broomstick
-brow
 brushviewql
 burn
 butter
@@ -154,6 +154,7 @@ colors
 comictagger
 concentrate
 connected-desktop
+connector
 consul
 controllermate
 controlplane
@@ -186,6 +187,7 @@ debt-quencher
 decitime
 default-folder-x
 deltawalker
+deluge
 deskfun
 desmume
 devonthink-pro-office
@@ -199,12 +201,14 @@ disk-inventory-x
 diskaid
 diskwave
 djview
+dmm
 dnscrypt
 dockmod
 dogecoin
 dolphin
 dosbox
 double-commander
+doubletwist
 doxie
 doxygen
 dragondisk
@@ -239,7 +243,6 @@ eyetv
 factor
 fairmount
 fake
-fakethunder
 fantastical
 feedbinnotifier
 feeder
@@ -259,7 +262,6 @@ flightgear
 flip4mac
 fluid
 fm-fw-installer
-fontexplorer-x-pro
 forklift
 fotomagico
 fourk-video-downloader
@@ -269,9 +271,9 @@ framer-studio
 free-ruler
 freecad
 freecol
-freefilesync
 freemind
 fritzing
+frostwire
 fs-uae
 fugu
 functionflip
@@ -308,7 +310,6 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
-googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -384,7 +385,6 @@ isolator
 istat-menus
 istopmotion
 iterm2
-itools
 itsycal
 itunesscrobbler
 jabref
@@ -438,7 +438,6 @@ launchcontrol
 launchrocket
 launchy
 lazarus
-leap-motion
 librecad
 licecap
 lightpaper
@@ -470,6 +469,7 @@ lyrics-master
 lyx
 macaw
 macdown
+macdrops
 macfusion
 macgdbp
 machg
@@ -482,6 +482,7 @@ macupdate-desktop
 macvim
 macwinzipper
 magic-launch
+mailfollowup
 makehuman
 makerware
 mame
@@ -640,6 +641,7 @@ pinta
 pivotalbooster
 pixel-check
 plainview
+platypus
 playonmac
 plex-home-theater
 plex-media-server
@@ -655,6 +657,7 @@ preen
 prepros
 prey
 prezi
+printrun
 prismatik
 processing
 programmer-dvorak
@@ -690,7 +693,6 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
-qvod-player
 r
 racket
 radiant-player
@@ -775,6 +777,7 @@ skydrive
 slic3r
 slidemode
 slimbatterymonitor
+sloth
 slowy
 smartgithg
 smartsynchronize
@@ -857,6 +860,7 @@ textroom
 texts
 texturepacker
 textwrangler
+the-archive-browser
 the-brain
 the-unarchiver
 theremin
@@ -864,6 +868,7 @@ thetube
 thisservice
 thong
 thumbsup
+thunder
 thunderbird
 thyme
 tickets
@@ -881,7 +886,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
+torbrowser
 torustrooper
 totalfinder
 totals
@@ -952,6 +957,7 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
+winxound
 wireshark
 wiretap-studio
 witgui
@@ -968,10 +974,14 @@ x-moto
 x2goclient
 x48
 xact
+xamarin-android
+xamarin-ios
+xamarin-studio
 xampp
 xbench
 xbmc
 xca
+xee
 xld
 xmarks-safari
 xmind

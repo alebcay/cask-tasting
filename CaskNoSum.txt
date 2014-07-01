@@ -14,6 +14,7 @@ airmail-amt
 airmail
 airparrot
 alib1
+alinof-timer
 aliwangwang
 all2mp3
 amadeus-pro
@@ -249,6 +250,7 @@ jitouch
 joinme
 josm
 jsonlook
+kamakiri
 kext-drop
 kext-wizard
 keyboard-cleaner
@@ -387,6 +389,7 @@ pixel-winch
 pixelpeeper
 pixelstick
 pixi-paint
+placeit
 plain-clip
 pleasesleep
 plug
