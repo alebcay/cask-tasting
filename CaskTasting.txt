@@ -1,4 +1,4 @@
-Check started at Tue Jul  1 00:01:03 EDT 2014
+Check started at Wed Jul  2 00:01:10 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -101,6 +101,7 @@ aviator: no checksum
 avidemux: passed
 avogadro: passed
 awareness: passed
+ax88179: passed
 ax88772: SHA-256 mismatch!
   Expected: ea7b2c401855c991cfd9d147632d5bf0478c99a4be034575301eb8549404391f
   Actual  : 
@@ -114,7 +115,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : c4e7f57ca2727747e53aad83f1bf2b15c91fdb5518c5d259d4024e19d6fb3da0
+  Actual  : 17cf60a2722e81804d7a71ac8fac617967dfb9f65cacaed61e834133d1872836
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -182,9 +183,7 @@ breakaway: passed
 brightness: passed
 brogue: passed
 broomstick: passed
-brow: SHA-256 mismatch!
-  Expected: f646b89e63853edab7dfae701f10074b0b966f624d2c1e412f0c07cdeeff2eeb
-  Actual  : 
+brow: passed
 brushviewql: passed
 brytonbridge: no checksum
 buddi: no checksum
@@ -488,11 +487,10 @@ flux: no checksum
 fm-fw-installer: passed
 focus: no checksum
 focuswriter: no checksum
+folding-text: no checksum
 foldit: no checksum
 folx: no checksum
-fontexplorer-x-pro: SHA-256 mismatch!
-  Expected: 6e7d2bfb89e65e78a8551db705ffca86ec6a25371388ad2124b1cbf956f48472
-  Actual  : 
+fontexplorer-x-pro: passed
 fontprep: no checksum
 forklift: passed
 fotomagico: passed
@@ -507,7 +505,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : c11b366fdc52b777199b40280b1ba3c0258f75e9e22d61a4df1dce199c48c79b
+  Actual  : 0c843f939b57156fb869339886d57253b97375443c84db7e1427603b9c1cc12d
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -1103,6 +1101,7 @@ password-practice: no checksum
 pastor: passed
 path-finder: no checksum
 paw: no checksum
+paye-tools: passed
 pcalc: passed
 pd-extended: passed
 pdfsam: passed
@@ -1119,7 +1118,7 @@ pgadmin3: passed
 pgloader: passed
 pharo: SHA-256 mismatch!
   Expected: 57f251d31726176bf7dff866198ca75f03bb477e1dd024307eb157725acf596f
-  Actual  : 5e603f82fcf97c9c790e8ab1d46a85b9a7c541cddecf5b5da00354bfc4b40d3f
+  Actual  : d2e643440f4d768e0659ed01007ac0c061a0f93d6982621ea77a0662699cebfa
 phoenix-slides: passed
 phoenix: no checksum
 phoneclean: no checksum
@@ -1218,9 +1217,7 @@ qqbrowser: passed
 qqmusic: passed
 qt-creator: passed
 qtspim: no checksum
-quassel-client: SHA-256 mismatch!
-  Expected: bdb91065020c56cdb60c252838795e57c8859bd916e29d9559aea47b48b100e8
-  Actual  : 
+quassel-client: passed
 querious: no checksum
 quick-search-box: passed
 quickcast: no checksum
@@ -1481,6 +1478,7 @@ supersync: no checksum
 supertuxkart: passed
 surplusmeter: passed
 suspicious-package: no checksum
+svnx: passed
 sweet-home3d: passed
 swingfish: no checksum
 swinsian: no checksum
@@ -1581,7 +1579,9 @@ trailer: passed
 trailrunner: no checksum
 traktable: passed
 transmission-remote-gui: passed
-transmission: passed
+transmission: SHA-256 mismatch!
+  Expected: 78c90b0cdc4a37064d66bba5976a4e46a778acfd4bf97d5bc18b9aeb21e36a64
+  Actual  : 
 transmit: passed
 treemaker: passed
 treesheets: no checksum
@@ -1659,9 +1659,7 @@ vuescan: SHA-256 mismatch!
   Expected: 6345727c6a2cc5a835c28af7a7c4ce3b602cf6157d364f237b1ab4245a3d6781
   Actual  : 683c6c226cef941d54589e4726dc71d4deeb3207cb5d468303fbc68290b37d94
 vyprvpn: passed
-wabbitemu: SHA-256 mismatch!
-  Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : a9d7f33095b782b61dadd48a0d9d9855be6c2c4cf812edf35f96e2584da82edc
+wabbitemu: passed
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wallpaper-wizard: passed
@@ -1720,6 +1718,7 @@ xld: passed
 xmarks-safari: passed
 xmind: passed
 xmrouter: no checksum
+xnconvert: no checksum
 xnviewmp: no checksum
 xquartz: passed
 xrg: passed
@@ -1756,4 +1755,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Tue Jul  1 16:17:57 EDT 2014
+Check finished at Wed Jul  2 14:49:35 EDT 2014

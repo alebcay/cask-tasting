@@ -4,7 +4,6 @@ ax88772
 baiduinput
 bar-magnet
 black-ink
-brow
 chainsaw
 coconutbattery
 crashplan
@@ -17,7 +16,6 @@ fakethunder
 fastscripts
 fender-amp-drivers
 filebot
-fontexplorer-x-pro
 freefilesync
 gambit-c
 geppetto
@@ -36,7 +34,6 @@ pangu
 pharo
 praat
 propresenter
-quassel-client
 qvod-player
 rrootage
 sharetool
@@ -47,6 +44,6 @@ squire
 streamtools
 switchresx
 tongbu
+transmission
 tuneinstructor
 vuescan
-wabbitemu

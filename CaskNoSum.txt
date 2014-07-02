@@ -166,6 +166,7 @@ flowdock
 flux
 focus
 focuswriter
+folding-text
 foldit
 folx
 fontprep
@@ -576,6 +577,7 @@ xamarin
 xbox360-controller-driver
 xiami
 xmrouter
+xnconvert
 xnviewmp
 xtrafinder
 yabumi

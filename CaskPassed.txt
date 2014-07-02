@@ -52,6 +52,7 @@ autodmg
 avidemux
 avogadro
 awareness
+ax88179
 b2designer
 backuploupe
 baiducloud
@@ -91,6 +92,7 @@ breakaway
 brightness
 brogue
 broomstick
+brow
 brushviewql
 burn
 butter
@@ -262,6 +264,7 @@ flightgear
 flip4mac
 fluid
 fm-fw-installer
+fontexplorer-x-pro
 forklift
 fotomagico
 fourk-video-downloader
@@ -619,6 +622,7 @@ paparazzi
 paraview
 password-gorilla
 pastor
+paye-tools
 pcalc
 pd-extended
 pdfsam
@@ -687,6 +691,7 @@ qq
 qqbrowser
 qqmusic
 qt-creator
+quassel-client
 quick-search-box
 quicklook-pfm
 quicknfo
@@ -830,6 +835,7 @@ super-otr
 supercollider
 supertuxkart
 surplusmeter
+svnx
 sweet-home3d
 synergy
 synology-assistant
@@ -895,7 +901,6 @@ totalterminal
 trailer
 traktable
 transmission-remote-gui
-transmission
 transmit
 treemaker
 trickster
@@ -941,6 +946,7 @@ vlc
 vmware-fusion
 vocabulist
 vyprvpn
+wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
 wallpaper-wizard
