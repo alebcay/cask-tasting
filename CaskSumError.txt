@@ -30,7 +30,6 @@ makemkv
 marsedit
 noiz2sa
 orange
-pangu
 pharo
 praat
 propresenter
@@ -38,12 +37,14 @@ qvod-player
 rrootage
 sharetool
 simple-comic
+slic3r
 sparkle
 splayerx
 squire
 streamtools
+subtitles
 switchresx
 tongbu
-transmission
+torustrooper
 tuneinstructor
 vuescan

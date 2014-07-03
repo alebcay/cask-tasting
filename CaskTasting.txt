@@ -1,4 +1,4 @@
-Check started at Wed Jul  2 00:01:10 EDT 2014
+Check started at Thu Jul  3 00:02:11 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -115,7 +115,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : 17cf60a2722e81804d7a71ac8fac617967dfb9f65cacaed61e834133d1872836
+  Actual  : d2be624ee625fbd394c0257d83894aeed5f1cbb6859c0c1f98f2151b3ee26a25
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -252,6 +252,7 @@ clock: passed
 clonk: no checksum
 cloud: passed
 cloudera-hive-odbc: passed
+cloudfoundry-cli: passed
 cloudpull: no checksum
 cloudup: no checksum
 cloudytabs: passed
@@ -505,7 +506,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : 0c843f939b57156fb869339886d57253b97375443c84db7e1427603b9c1cc12d
+  Actual  : 83776e7cc29a3de9e5f963b5f07a8b6ba7e69703c4accc0994c83fd1da10082d
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -530,6 +531,7 @@ garmin-express: no checksum
 garmin-training-center: passed
 gas-mask: passed
 gawker: no checksum
+gdal-framework: passed
 geekbench: passed
 geektool: passed
 genymotion: passed
@@ -1084,9 +1086,7 @@ paintbrush: passed
 paintcode: no checksum
 pandoc: passed
 pandora-one: passed
-pangu: SHA-256 mismatch!
-  Expected: aa09673355f11a2b0974757f88b61e497156020bf551afde556ce11d843e2a54
-  Actual  : 
+pangu: passed
 panic-unison: passed
 panini: passed
 paparazzi: passed
@@ -1378,7 +1378,9 @@ skype: no checksum
 slack: no checksum
 slate: no checksum
 sleep-monitor: no checksum
-slic3r: passed
+slic3r: SHA-256 mismatch!
+  Expected: 5257d3481cae658cc61353a0582b3e28a351b2a4aad6e5c2240458a1fa4637ec
+  Actual  : 
 slice: no checksum
 slicy: no checksum
 slidemode: passed
@@ -1469,7 +1471,9 @@ subnetcalc: passed
 subsmarine: passed
 subsurface: passed
 subtitle-master: passed
-subtitles: passed
+subtitles: SHA-256 mismatch!
+  Expected: c8f00cd00a85f16b7a74de846b9f03fcd0cd0e144336438aa09aef50d527ce0f
+  Actual  : 
 sunlogin-remote: passed
 super-otr: passed
 supercollider: passed
@@ -1569,7 +1573,9 @@ tongbu: SHA-256 mismatch!
 tonido: no checksum
 torbrowser: passed
 torpedo: no checksum
-torustrooper: passed
+torustrooper: SHA-256 mismatch!
+  Expected: 39b188107620c58f4a60f2f24d01f39ab87d46655203f4bcfe97d3a6fa5b7b3e
+  Actual  : 
 totalfinder: passed
 totals: passed
 totalspaces: passed
@@ -1579,9 +1585,7 @@ trailer: passed
 trailrunner: no checksum
 traktable: passed
 transmission-remote-gui: passed
-transmission: SHA-256 mismatch!
-  Expected: 78c90b0cdc4a37064d66bba5976a4e46a778acfd4bf97d5bc18b9aeb21e36a64
-  Actual  : 
+transmission: passed
 transmit: passed
 treemaker: passed
 treesheets: no checksum
@@ -1755,4 +1759,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Jul  2 14:49:35 EDT 2014
+Check finished at Thu Jul  3 16:15:34 EDT 2014

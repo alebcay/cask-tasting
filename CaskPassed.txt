@@ -136,6 +136,7 @@ cloak
 clock
 cloud
 cloudera-hive-odbc
+cloudfoundry-cli
 cloudytabs
 cn3d
 coccinellida
@@ -289,6 +290,7 @@ garmin-ant-agent
 garmin-communicator
 garmin-training-center
 gas-mask
+gdal-framework
 geekbench
 geektool
 genymotion
@@ -616,6 +618,7 @@ pagico
 paintbrush
 pandoc
 pandora-one
+pangu
 panic-unison
 panini
 paparazzi
@@ -779,7 +782,6 @@ skim
 skitch
 skreenics
 skydrive
-slic3r
 slidemode
 slimbatterymonitor
 sloth
@@ -829,7 +831,6 @@ subnetcalc
 subsmarine
 subsurface
 subtitle-master
-subtitles
 sunlogin-remote
 super-otr
 supercollider
@@ -893,7 +894,6 @@ tokaido
 tomahawk
 tomighty
 torbrowser
-torustrooper
 totalfinder
 totals
 totalspaces
@@ -901,6 +901,7 @@ totalterminal
 trailer
 traktable
 transmission-remote-gui
+transmission
 transmit
 treemaker
 trickster
