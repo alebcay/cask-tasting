@@ -7,6 +7,7 @@ black-ink
 chainsaw
 coconutbattery
 crashplan
+cura
 delivery-status
 displaylink
 eclipse-java
@@ -23,13 +24,14 @@ golly
 googleappenginelauncher
 istumbler
 itools
-leap-motion
 libreoffice
 macmoney
 makemkv
 marsedit
 noiz2sa
 orange
+p4merge
+pangu
 pharo
 praat
 propresenter
@@ -45,6 +47,5 @@ streamtools
 subtitles
 switchresx
 tongbu
-torustrooper
 tuneinstructor
 vuescan

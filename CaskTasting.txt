@@ -1,4 +1,4 @@
-Check started at Thu Jul  3 00:02:11 EDT 2014
+Check started at Fri Jul  4 00:32:07 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -115,7 +115,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : d2be624ee625fbd394c0257d83894aeed5f1cbb6859c0c1f98f2151b3ee26a25
+  Actual  : 4cbeefaf6311bf3fdca0bca1aa3c51b989c29d13d0937a4c640045de7d375f93
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -316,13 +316,16 @@ ctivo: passed
 cuda-z: passed
 cuppa: no checksum
 cups-pdf: passed
-cura: passed
+cura: SHA-256 mismatch!
+  Expected: 0a6fc208cb4a31f7e04a6f9889dfe4723aadd5b435600b8e652a9dba070fcf3c
+  Actual  : 
 curb: passed
 curse-client: passed
 cursorcerer: no checksum
 cutesdr: passed
 cx: passed
 cyberduck: passed
+cycling74-max: passed
 daemon-tools-lite: passed
 daisydisk: no checksum
 darktable: passed
@@ -506,7 +509,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : 83776e7cc29a3de9e5f963b5f07a8b6ba7e69703c4accc0994c83fd1da10082d
+  Actual  : 948744cecfcaac0d3abb7756dd728c8562adadbd4f3f1ce624713a068642ec73
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -636,6 +639,7 @@ httpscoop: passed
 hubic: passed
 hugin: passed
 hush: passed
+hydra: passed
 hype: no checksum
 hyperdock: no checksum
 hyperswitch: no checksum
@@ -685,6 +689,7 @@ intellij-idea-ce: passed
 intellij-idea: passed
 intermission: no checksum
 invisiblix: passed
+invisionsync: no checksum
 invisorql: no checksum
 iograph: passed
 ionu: no checksum
@@ -789,9 +794,7 @@ launchy: passed
 layervault: no checksum
 lazarus: passed
 league-of-legends: no checksum
-leap-motion: SHA-256 mismatch!
-  Expected: 5a9b38764367d91e3a5ebf5bfabc960051605a8532b271a98c95dc5341cbb99d
-  Actual  : 
+leap-motion: passed
 less: no checksum
 librecad: passed
 libreoffice: SHA-256 mismatch!
@@ -1078,7 +1081,9 @@ osxfuse: passed
 outwit-hub: no checksum
 owasp-zap: passed
 owncloud: passed
-p4merge: passed
+p4merge: SHA-256 mismatch!
+  Expected: ff643c91069cb952d35146be5aa3be519119d4abce2a585d6ff307ab42e59d70
+  Actual  : c5d05d78596fe9b4f83193a11805a027b2652fdf87365de1321e671286fdca3f
 pacifist: no checksum
 padre: passed
 pagico: passed
@@ -1086,7 +1091,9 @@ paintbrush: passed
 paintcode: no checksum
 pandoc: passed
 pandora-one: passed
-pangu: passed
+pangu: SHA-256 mismatch!
+  Expected: aa09673355f11a2b0974757f88b61e497156020bf551afde556ce11d843e2a54
+  Actual  : 
 panic-unison: passed
 panini: passed
 paparazzi: passed
@@ -1573,9 +1580,7 @@ tongbu: SHA-256 mismatch!
 tonido: no checksum
 torbrowser: passed
 torpedo: no checksum
-torustrooper: SHA-256 mismatch!
-  Expected: 39b188107620c58f4a60f2f24d01f39ab87d46655203f4bcfe97d3a6fa5b7b3e
-  Actual  : 
+torustrooper: passed
 totalfinder: passed
 totals: passed
 totalspaces: passed
@@ -1759,4 +1764,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Thu Jul  3 16:15:34 EDT 2014
+Check finished at Fri Jul  4 12:27:32 EDT 2014

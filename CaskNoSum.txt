@@ -235,6 +235,7 @@ indigo
 inky
 integrity
 intermission
+invisionsync
 invisorql
 ionu
 irip

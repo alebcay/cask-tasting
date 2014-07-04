@@ -174,12 +174,12 @@ cryptol
 ctivo
 cuda-z
 cups-pdf
-cura
 curb
 curse-client
 cutesdr
 cx
 cyberduck
+cycling74-max
 daemon-tools-lite
 darktable
 dashlane
@@ -350,6 +350,7 @@ httpscoop
 hubic
 hugin
 hush
+hydra
 hyro
 iannix
 ibackup
@@ -443,6 +444,7 @@ launchcontrol
 launchrocket
 launchy
 lazarus
+leap-motion
 librecad
 licecap
 lightpaper
@@ -612,13 +614,11 @@ osculator
 osxfuse
 owasp-zap
 owncloud
-p4merge
 padre
 pagico
 paintbrush
 pandoc
 pandora-one
-pangu
 panic-unison
 panini
 paparazzi
@@ -894,6 +894,7 @@ tokaido
 tomahawk
 tomighty
 torbrowser
+torustrooper
 totalfinder
 totals
 totalspaces
