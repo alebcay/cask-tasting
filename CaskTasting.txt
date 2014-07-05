@@ -1,4 +1,4 @@
-Check started at Fri Jul  4 00:32:07 EDT 2014
+Check started at Sat Jul  5 00:24:07 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -113,9 +113,7 @@ backtobed: no checksum
 backuploupe: passed
 bahamut: no checksum
 baiducloud: passed
-baiduinput: SHA-256 mismatch!
-  Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : 4cbeefaf6311bf3fdca0bca1aa3c51b989c29d13d0937a4c640045de7d375f93
+baiduinput: passed
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -483,7 +481,9 @@ flash: passed
 flavours: no checksum
 flickr-uploadr: passed
 flightgear: passed
-flip4mac: passed
+flip4mac: SHA-256 mismatch!
+  Expected: d1574ca9896f8f40bf4d868e8ff91b1da1ac1dcd91a5b7898f3580543b02988e
+  Actual  : 1f36e0761019816f2c071842be168dd101461eff8d44dd105f4b6e5d8535746b
 flow: no checksum
 flowdock: no checksum
 fluid: passed
@@ -509,7 +509,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : 948744cecfcaac0d3abb7756dd728c8562adadbd4f3f1ce624713a068642ec73
+  Actual  : fd6f97429a1d567fc7b42f45755a3127813e2e5b134dac421d3b5225c6ec5134
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -709,9 +709,7 @@ istumbler: SHA-256 mismatch!
   Expected: 867a62f891c8fdc31883f45c1a9d0a3bfef6786acbf0a0eec947c4efd8661eb3
   Actual  : 
 iterm2: passed
-itools: SHA-256 mismatch!
-  Expected: a73df4876125d00cabcc7bb135436ad1dff5d98ee55db80a6e0bd773308a71c3
-  Actual  : 
+itools: passed
 itsycal: passed
 itunes-volume-control: no checksum
 itunesscrobbler: passed
@@ -787,7 +785,9 @@ lastfm: no checksum
 lastpass-universal: no checksum
 latexian: no checksum
 latexit: passed
-launchbar: passed
+launchbar: SHA-256 mismatch!
+  Expected: a0279114a37bfa5ccf423693ecc142c00c9cc86efdde163f42455abe153c98a9
+  Actual  : 
 launchcontrol: passed
 launchrocket: passed
 launchy: passed
@@ -1236,9 +1236,7 @@ quicknfo: passed
 quickradar: passed
 quicksilver: passed
 quotefixformac: passed
-qvod-player: SHA-256 mismatch!
-  Expected: e824084e6a0539be3f30da795938b45c0f88bdb49794f61615a5753aedd92c4e
-  Actual  : 
+qvod-player: passed
 r-name: no checksum
 r: passed
 racket: passed
@@ -1764,4 +1762,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Fri Jul  4 12:27:32 EDT 2014
+Check finished at Sat Jul  5 13:01:09 EDT 2014

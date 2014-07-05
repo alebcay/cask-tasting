@@ -56,6 +56,7 @@ ax88179
 b2designer
 backuploupe
 baiducloud
+baiduinput
 bankid
 banshee
 baretorrent
@@ -262,7 +263,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fluid
 fm-fw-installer
 fontexplorer-x-pro
@@ -391,6 +391,7 @@ isolator
 istat-menus
 istopmotion
 iterm2
+itools
 itsycal
 itunesscrobbler
 jabref
@@ -439,7 +440,6 @@ ksdiff
 kvirc
 kylo
 latexit
-launchbar
 launchcontrol
 launchrocket
 launchy
@@ -701,6 +701,7 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
+qvod-player
 r
 racket
 radiant-player

@@ -1,7 +1,6 @@
 aerofs
 aquamacs
 ax88772
-baiduinput
 bar-magnet
 black-ink
 chainsaw
@@ -17,13 +16,14 @@ fakethunder
 fastscripts
 fender-amp-drivers
 filebot
+flip4mac
 freefilesync
 gambit-c
 geppetto
 golly
 googleappenginelauncher
 istumbler
-itools
+launchbar
 libreoffice
 macmoney
 makemkv
@@ -35,7 +35,6 @@ pangu
 pharo
 praat
 propresenter
-qvod-player
 rrootage
 sharetool
 simple-comic
