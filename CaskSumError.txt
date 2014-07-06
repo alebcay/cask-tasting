@@ -1,14 +1,17 @@
 aerofs
 aquamacs
 ax88772
+baiducloud
 bar-magnet
 black-ink
+camino
 chainsaw
 coconutbattery
 crashplan
 cura
 delivery-status
 displaylink
+dmm
 eclipse-java
 eclipse-platform
 eye-fi
@@ -23,6 +26,7 @@ geppetto
 golly
 googleappenginelauncher
 istumbler
+itools
 launchbar
 libreoffice
 macmoney

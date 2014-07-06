@@ -1,4 +1,4 @@
-Check started at Sat Jul  5 00:24:07 EDT 2014
+Check started at Sun Jul  6 00:16:11 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -112,7 +112,9 @@ backblaze-downloader: no checksum
 backtobed: no checksum
 backuploupe: passed
 bahamut: no checksum
-baiducloud: passed
+baiducloud: SHA-256 mismatch!
+  Expected: 194e049020bc11110807d7a157c5ab1f25f987b3e14ead7b452319420b97ad51
+  Actual  : 408749d0fa9fb229aea704f314880a4f593a0bb4a816515c474079d426315492
 baiduinput: passed
 baidumusic: no checksum
 balsamiq-mockups: no checksum
@@ -196,7 +198,9 @@ calibre2opds: passed
 callnote: passed
 camed: passed
 camerabag: passed
-camino: passed
+camino: SHA-256 mismatch!
+  Expected: e212aa2b68fb3fa1a63c5d74d570843fd5b432bfde29baeed6c5c4d73ad31b51
+  Actual  : 433133e3f47c8de04ac84a9aa9ea223ef5da5488da175b59a6fc3b55b9c1a6f3
 camranger: passed
 camtasia: no checksum
 camtwist: passed
@@ -370,7 +374,9 @@ diumoo: no checksum
 divvy: no checksum
 djay: no checksum
 djview: passed
-dmm: passed
+dmm: SHA-256 mismatch!
+  Expected: a903754cfa215bea8b041f67269525ba29a9fe34875f819c41d0bd65e5e1628f
+  Actual  : d400fbfadf8ee1e9bf2a66498e8a63150cebe347969be0e16ddb77974db82cb9
 dnscrypt: passed
 dockmod: passed
 dogecoin: passed
@@ -483,7 +489,7 @@ flickr-uploadr: passed
 flightgear: passed
 flip4mac: SHA-256 mismatch!
   Expected: d1574ca9896f8f40bf4d868e8ff91b1da1ac1dcd91a5b7898f3580543b02988e
-  Actual  : 1f36e0761019816f2c071842be168dd101461eff8d44dd105f4b6e5d8535746b
+  Actual  : 851c05120a5bfae8847117da566d347ac148a14b5475c5765464c656e3dcb6b5
 flow: no checksum
 flowdock: no checksum
 fluid: passed
@@ -709,7 +715,9 @@ istumbler: SHA-256 mismatch!
   Expected: 867a62f891c8fdc31883f45c1a9d0a3bfef6786acbf0a0eec947c4efd8661eb3
   Actual  : 
 iterm2: passed
-itools: passed
+itools: SHA-256 mismatch!
+  Expected: a73df4876125d00cabcc7bb135436ad1dff5d98ee55db80a6e0bd773308a71c3
+  Actual  : 
 itsycal: passed
 itunes-volume-control: no checksum
 itunesscrobbler: passed
@@ -1762,4 +1770,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Sat Jul  5 13:01:09 EDT 2014
+Check finished at Sun Jul  6 16:22:43 EDT 2014
