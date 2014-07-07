@@ -146,6 +146,7 @@ espresso
 etrecheck
 eve
 evernote
+everweb
 evom
 exhaust
 expandrive
@@ -161,6 +162,7 @@ fission
 fivedetails-flow
 flash-decompiler-trillix
 flavours
+flexiglass
 flow
 flowdock
 flux
@@ -441,9 +443,11 @@ rss
 rtx
 runtastic-connect
 runtimebrowser
+rust
 safe-in-cloud
 safemonk
 sandbox
+sandvox
 sauce
 scapple
 scratch
@@ -506,6 +510,7 @@ spotify
 sqwiggle
 startninja
 steam
+stockbarjp
 superduper
 supersync
 suspicious-package
@@ -550,6 +555,7 @@ twindocs
 typewriter
 typinator
 ubuntu-one
+unetbootin
 unified-remote
 unity-web-player
 utorrent

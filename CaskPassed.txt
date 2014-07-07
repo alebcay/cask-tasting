@@ -55,6 +55,7 @@ awareness
 ax88179
 b2designer
 backuploupe
+baiducloud
 baiduinput
 bankid
 banshee
@@ -104,6 +105,7 @@ calibre2opds
 callnote
 camed
 camerabag
+camino
 camranger
 camtwist
 candybar
@@ -111,6 +113,7 @@ capo
 capsee
 carbon-copy-cloner
 carlson-minot
+cartao-de-cidadao
 catch
 ccleaner
 ccmenu
@@ -173,6 +176,7 @@ cryptol
 ctivo
 cuda-z
 cups-pdf
+cura
 curb
 curse-client
 cutesdr
@@ -203,6 +207,7 @@ disk-inventory-x
 diskaid
 diskwave
 djview
+dmm
 dnscrypt
 dockmod
 dogecoin
@@ -222,6 +227,7 @@ dsp-radio
 dukto
 dungeon-crawl-stone-soup-console
 dungeon-crawl-stone-soup-tiles
+duplicati
 dupscanub
 dvdstyler
 eagle
@@ -230,6 +236,7 @@ easysimbl
 easyvpn
 eclipse-ide
 ecoute
+eid-mw
 ejector
 electric-sheep
 electrum
@@ -239,6 +246,7 @@ emacs
 enfusegui
 enjoyable
 epub-to-pdf
+escritorio-movistar
 evasi0n
 eyetv
 factor
@@ -260,6 +268,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fluid
 fm-fw-installer
 fontexplorer-x-pro
@@ -386,6 +395,7 @@ iphoney
 ireadfast
 isolator
 istat-menus
+isteg
 istopmotion
 iterm2
 itsycal
@@ -436,6 +446,7 @@ ksdiff
 kvirc
 kylo
 latexit
+launchbar
 launchcontrol
 launchrocket
 launchy
@@ -485,8 +496,8 @@ macupdate-desktop
 macvim
 macwinzipper
 magic-launch
-mailfollowup
 makehuman
+makemkv
 makerware
 mame
 mamp
@@ -565,7 +576,6 @@ netbeans-cpp
 netbeans-php
 netbeans
 nethackcocoa
-netlogo
 netnewswire
 neu
 nide
@@ -582,10 +592,10 @@ nodebox
 nodeclipse
 noejectdelay
 nomacs
+noobproof
 nosleep
 nottingham
 ntfs-free
-nvalt
 obsidian-menu-bar-mountain-lion
 oclint
 omnidazzle
@@ -615,6 +625,7 @@ pagico
 paintbrush
 pandoc
 pandora-one
+pangu
 panic-unison
 panini
 paparazzi
@@ -631,6 +642,7 @@ pencil
 perian
 pester
 petite-chez-scheme
+pflists
 pg-commander
 pgadmin3
 pgloader
@@ -682,6 +694,7 @@ pycharm-ce
 pycharm
 qbittorrent
 qdesktop
+qiyimedia
 qlcolorcode
 qlmarkdown
 qlprettypatch
@@ -697,7 +710,6 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
-qvod-player
 r
 racket
 radiant-player
@@ -779,6 +791,7 @@ skim
 skitch
 skreenics
 skydrive
+slic3r
 slidemode
 slimbatterymonitor
 sloth
@@ -788,7 +801,6 @@ smartsynchronize
 smcfancontrol
 snip
 snippet-edit
-snippets
 sococo
 sogouinput
 sonic-visualiser
@@ -912,12 +924,10 @@ tv-show-tracker
 twine
 twitterrific
 uber-network-fuser
-uberpov
 ukelele
 ultrastardeluxe
 uncrustifyx
 undercover
-unetbootin
 uninstallpkg
 unison
 unity3d
@@ -976,7 +986,6 @@ wraparound
 wyzo
 x-lite
 x-moto
-x2goclient
 x48
 xact
 xamarin-android
