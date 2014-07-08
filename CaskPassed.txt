@@ -56,7 +56,6 @@ ax88179
 b2designer
 backuploupe
 baiducloud
-baiduinput
 bankid
 banshee
 baretorrent
@@ -392,7 +391,6 @@ ipalette
 ipaql
 iphone-configuration-utility
 iphoney
-ireadfast
 isolator
 istat-menus
 isteg
@@ -496,6 +494,7 @@ macupdate-desktop
 macvim
 macwinzipper
 magic-launch
+mailfollowup
 makehuman
 makemkv
 makerware
@@ -565,17 +564,11 @@ nally
 namebench
 namechanger
 navicat-data-modeler
-navicat-for-mariadb
-navicat-for-mysql
-navicat-for-oracle
-navicat-for-postgresql
-navicat-for-sql-server
-navicat-for-sqlite
-navicat-premium
 netbeans-cpp
 netbeans-php
 netbeans
 nethackcocoa
+netlogo
 netnewswire
 neu
 nide
@@ -596,6 +589,7 @@ noobproof
 nosleep
 nottingham
 ntfs-free
+nvalt
 obsidian-menu-bar-mountain-lion
 oclint
 omnidazzle
@@ -625,7 +619,6 @@ pagico
 paintbrush
 pandoc
 pandora-one
-pangu
 panic-unison
 panini
 paparazzi
@@ -670,7 +663,6 @@ powerkey
 powerword
 preen
 prepros
-prey
 prezi
 printrun
 prismatik
@@ -710,6 +702,7 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
+qvod-player
 r
 racket
 radiant-player
@@ -718,7 +711,6 @@ razer-synapse
 rcdefaultapp
 rcenvironment
 rdm
-recovery-disk-assistant
 reeddit
 refresh-finder
 reggy
@@ -801,6 +793,7 @@ smartsynchronize
 smcfancontrol
 snip
 snippet-edit
+snippets
 sococo
 sogouinput
 sonic-visualiser
@@ -840,7 +833,6 @@ subnetcalc
 subsmarine
 subsurface
 subtitle-master
-sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -863,6 +855,7 @@ teamspeak-client
 teamviz
 teensy
 teeworlds
+telephone
 testflight
 tex-live-utility
 texmacs
@@ -903,7 +896,6 @@ tokaido
 tomahawk
 tomighty
 torbrowser
-torustrooper
 totalfinder
 totals
 totalspaces
@@ -924,10 +916,12 @@ tv-show-tracker
 twine
 twitterrific
 uber-network-fuser
+uberpov
 ukelele
 ultrastardeluxe
 uncrustifyx
 undercover
+unetbootin
 uninstallpkg
 unison
 unity3d
@@ -986,6 +980,7 @@ wraparound
 wyzo
 x-lite
 x-moto
+x2goclient
 x48
 xact
 xamarin-android

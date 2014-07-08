@@ -297,6 +297,7 @@ macpilot
 macs-fan-control
 macterm
 magican
+mail-plugin-manager
 mailmate
 mailplane
 majic
@@ -325,6 +326,7 @@ mixlr
 mixture
 mocksmtp
 moneymoney
+moneyplex
 mongohub
 moom
 mou
@@ -555,7 +557,6 @@ twindocs
 typewriter
 typinator
 ubuntu-one
-unetbootin
 unified-remote
 unity-web-player
 utorrent
@@ -576,6 +577,7 @@ wechat
 wedge
 whatsapp-pocket
 window-switch
+windownaut
 wireover
 witch
 wuala
