@@ -125,6 +125,7 @@ charles
 chefdk
 chemdoodle
 chicken
+chirp
 choosy
 chromecast
 chromium
@@ -229,6 +230,7 @@ dungeon-crawl-stone-soup-tiles
 duplicati
 dupscanub
 dvdstyler
+dwarf-fortress
 eagle
 easyfind
 easysimbl
@@ -262,8 +264,6 @@ filezilla
 find-any-file
 fitbit-connect
 flame
-flash-player-debugger
-flash-player
 flash
 flickr-uploadr
 flightgear
@@ -320,6 +320,7 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
+googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -362,6 +363,7 @@ ibackup
 icefloor
 ichm
 icolors
+iconping
 id3-editor
 identify
 iexplorer
@@ -391,6 +393,7 @@ ipalette
 ipaql
 iphone-configuration-utility
 iphoney
+ireadfast
 isolator
 istat-menus
 isteg
@@ -522,7 +525,6 @@ menuola
 meocloud
 mesasqlite
 meshlab
-metanota
 meteorologist
 mi
 midikeys
@@ -619,6 +621,7 @@ pagico
 paintbrush
 pandoc
 pandora-one
+pangu
 panic-unison
 panini
 paparazzi
@@ -628,6 +631,7 @@ pastor
 paye-tools
 pcalc
 pd-extended
+pdfpen
 pdfsam
 pdftk
 pemdas-widget
@@ -683,10 +687,8 @@ pusher
 putio-adder
 pwnagetool
 pycharm-ce
-pycharm
 qbittorrent
 qdesktop
-qiyimedia
 qlcolorcode
 qlmarkdown
 qlprettypatch
@@ -711,6 +713,7 @@ razer-synapse
 rcdefaultapp
 rcenvironment
 rdm
+recovery-disk-assistant
 reeddit
 refresh-finder
 reggy
@@ -719,7 +722,6 @@ remote-desktop-connection
 repetier-host
 retinizer
 retroshare
-rftg
 riffworkst4
 robomongo
 rocks-n-diamonds
@@ -804,6 +806,7 @@ soqlxplorer
 soulseek
 soundflower
 sourcetree
+sparkle
 sparkleshare
 spectacle
 speedcrunch
@@ -917,18 +920,17 @@ twine
 twitterrific
 uber-network-fuser
 uberpov
+ubersicht
 ukelele
 ultrastardeluxe
 uncrustifyx
 undercover
 unetbootin
-uninstallpkg
 unison
 unity3d
 unpkg
 unrarx
 usb-overdrive
-utopia
 vagrant-manager
 vagrant
 vassal

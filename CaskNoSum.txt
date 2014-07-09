@@ -187,6 +187,7 @@ gitx-rowanj
 gitx
 gity
 glo
+globalsync
 google-chrome
 google-drive
 google-earth
