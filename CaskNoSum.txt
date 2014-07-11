@@ -387,7 +387,6 @@ peepopen
 pentaho-data-integration
 phoenix
 phoneclean
-picturelife
 picturesque
 piezo
 pinegrow-web-designer
@@ -489,6 +488,7 @@ slicy
 slimboat
 slingshot
 smaller
+smartloader
 smoothmouse
 snagit
 soleol

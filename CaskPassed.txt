@@ -11,7 +11,6 @@ adobe-reader
 aegisub
 air-video-server
 airserver
-alfred
 amazon-music
 amethyst
 ampps
@@ -53,9 +52,7 @@ avidemux
 avogadro
 awareness
 ax88179
-b2designer
 backuploupe
-baiducloud
 bankid
 banshee
 baretorrent
@@ -171,6 +168,7 @@ corsixth
 coteditor
 couchbase-server-community
 couchbase-server-enterprise
+crashplan
 crosspack-avr
 cryptol
 ctivo
@@ -242,6 +240,7 @@ ejector
 electric-sheep
 electrum
 elm-platform
+eloquent
 elyse
 emacs
 enfusegui
@@ -264,12 +263,13 @@ filezilla
 find-any-file
 fitbit-connect
 flame
+flash-player-debugger
+flash-player
 flash
 flickr-uploadr
 flightgear
 flip4mac
 fluid
-fm-fw-installer
 fontexplorer-x-pro
 forklift
 fotomagico
@@ -356,7 +356,6 @@ httpscoop
 hubic
 hugin
 hush
-hydra
 hyro
 iannix
 ibackup
@@ -421,6 +420,7 @@ jumpshare
 justlooking
 jxplorer
 kaleidoscope
+karabiner
 kdiff3
 keepassx
 keka
@@ -428,7 +428,6 @@ kext-utility
 key-codes
 keycue
 keymo
-keyremap4macbook
 keystore-explorer
 kid3
 kindle
@@ -452,8 +451,6 @@ launchcontrol
 launchrocket
 launchy
 lazarus
-leap-motion
-librecad
 licecap
 lightpaper
 lighttable
@@ -613,6 +610,7 @@ opera-mobile-emulator
 opera-next
 opera
 osculator
+osirix
 osxfuse
 owasp-zap
 owncloud
@@ -667,6 +665,7 @@ powerkey
 powerword
 preen
 prepros
+prey
 prezi
 printrun
 prismatik
@@ -687,8 +686,10 @@ pusher
 putio-adder
 pwnagetool
 pycharm-ce
+pycharm
 qbittorrent
 qdesktop
+qiyimedia
 qlcolorcode
 qlmarkdown
 qlprettypatch
@@ -722,6 +723,7 @@ remote-desktop-connection
 repetier-host
 retinizer
 retroshare
+rftg
 riffworkst4
 robomongo
 rocks-n-diamonds
@@ -814,10 +816,8 @@ spek
 splashtop-personal
 splashtop-streamer
 spotify-notifications
-spyder
 sqleditor
 sqlexplorer
-sqlite-database-browser
 sqlitestudio
 squidman
 squirrel
@@ -836,6 +836,7 @@ subnetcalc
 subsmarine
 subsurface
 subtitle-master
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -906,7 +907,6 @@ totalterminal
 trailer
 traktable
 transmission-remote-gui
-transmission
 transmit
 treemaker
 trickster
@@ -926,6 +926,7 @@ ultrastardeluxe
 uncrustifyx
 undercover
 unetbootin
+uninstallpkg
 unison
 unity3d
 unpkg
@@ -978,7 +979,6 @@ woodhouse
 wordservice
 worksnaps-client
 wowhead-client
-wraparound
 wyzo
 x-lite
 x-moto
