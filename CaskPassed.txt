@@ -1,9 +1,9 @@
 a-slower-speed-of-light
+abgx360
 accessmenubarapps
 actiontastic
 actprinter
 adapter
-adium
 adobe-air
 adobe-digital-editions
 adobe-photoshop-lightroom
@@ -11,6 +11,7 @@ adobe-reader
 aegisub
 air-video-server
 airserver
+alfred
 amazon-music
 amethyst
 ampps
@@ -51,10 +52,11 @@ autodmg
 avidemux
 avogadro
 awareness
-ax88179
 backuploupe
+baiducloud
 bankid
 banshee
+bar-magnet
 baretorrent
 basecamp
 basex
@@ -85,6 +87,7 @@ bootxchanger
 bowtie
 brackets
 brain-workshop
+breach
 breakaway
 brightness
 brogue
@@ -258,6 +261,7 @@ feeder
 feeds
 fender-fuse
 fenix
+filebot
 fileshuttle
 filezilla
 find-any-file
@@ -268,7 +272,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fluid
 fontexplorer-x-pro
 forklift
@@ -330,7 +333,6 @@ graphsketcher
 gridwars
 growl-fork
 growler
-growlnotify
 growlvoice
 gulp
 gurps-character-sheet
@@ -473,7 +475,6 @@ logitech-harmony
 logitech-myharmony
 logitech-unifying
 love
-lucidor
 luminance-hdr
 lyn
 lynxlet
@@ -522,6 +523,7 @@ menuola
 meocloud
 mesasqlite
 meshlab
+metanota
 meteorologist
 mi
 midikeys
@@ -631,6 +633,7 @@ pcalc
 pd-extended
 pdfpen
 pdfsam
+pdfshaver
 pdftk
 pemdas-widget
 pencil
@@ -705,8 +708,6 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
-qvod-player
-r
 racket
 radiant-player
 raw-photo-processor
@@ -780,6 +781,7 @@ sigil
 silverlight
 simon
 simpholders
+simple-comic
 simplecap
 simplesynth
 simpletag
@@ -907,6 +909,7 @@ totalterminal
 trailer
 traktable
 transmission-remote-gui
+transmission
 transmit
 treemaker
 trickster
@@ -995,7 +998,6 @@ xca
 xee
 xld
 xmarks-safari
-xmind
 xquartz
 xrg
 xscope
