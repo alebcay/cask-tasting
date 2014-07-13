@@ -4,6 +4,7 @@ accessmenubarapps
 actiontastic
 actprinter
 adapter
+adium
 adobe-air
 adobe-digital-editions
 adobe-photoshop-lightroom
@@ -54,6 +55,7 @@ avogadro
 awareness
 backuploupe
 baiducloud
+baiduinput
 bankid
 banshee
 bar-magnet
@@ -126,7 +128,6 @@ chefdk
 chemdoodle
 chicken
 chirp
-choosy
 chromecast
 chromium
 chronomate
@@ -180,7 +181,6 @@ cups-pdf
 cura
 curb
 curse-client
-cutesdr
 cx
 cyberduck
 cycling74-max
@@ -255,6 +255,7 @@ eyetv
 factor
 fairmount
 fake
+fakethunder
 fantastical
 feedbinnotifier
 feeder
@@ -272,6 +273,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fluid
 fontexplorer-x-pro
 forklift
@@ -333,6 +335,7 @@ graphsketcher
 gridwars
 growl-fork
 growler
+growlnotify
 growlvoice
 gulp
 gurps-character-sheet
@@ -400,6 +403,7 @@ istat-menus
 isteg
 istopmotion
 iterm2
+itools
 itsycal
 itunesscrobbler
 jabref
@@ -453,6 +457,7 @@ launchcontrol
 launchrocket
 launchy
 lazarus
+leap-motion
 licecap
 lightpaper
 lighttable
@@ -475,6 +480,7 @@ logitech-harmony
 logitech-myharmony
 logitech-unifying
 love
+lucidor
 luminance-hdr
 lyn
 lynxlet
@@ -644,6 +650,7 @@ pflists
 pg-commander
 pgadmin3
 pgloader
+phantomjs
 phoenix-slides
 photoninja
 phpstorm
@@ -708,6 +715,7 @@ quicknfo
 quickradar
 quicksilver
 quotefixformac
+qvod-player
 racket
 radiant-player
 raw-photo-processor
@@ -901,6 +909,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 totalfinder
 totals
@@ -998,6 +1007,7 @@ xca
 xee
 xld
 xmarks-safari
+xmind
 xquartz
 xrg
 xscope
