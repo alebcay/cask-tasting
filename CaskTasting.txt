@@ -1,4 +1,4 @@
-Check started at Sun Jul 13 00:00:58 EDT 2014
+Check started at Mon Jul 14 00:01:09 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -117,7 +117,9 @@ backblaze-downloader: no checksum
 backtobed: no checksum
 backuploupe: passed
 bahamut: no checksum
-baiducloud: passed
+baiducloud: SHA-256 mismatch!
+  Expected: 194e049020bc11110807d7a157c5ab1f25f987b3e14ead7b452319420b97ad51
+  Actual  : 9070ff1625181021446b7436c5716e1ccf45c828671e831c25d59ae907a8d4b7
 baiduinput: passed
 baidumusic: no checksum
 balsamiq-mockups: no checksum
@@ -233,9 +235,7 @@ chemdoodle: passed
 chicken: passed
 chirp: passed
 chocolat: no checksum
-choosy: SHA-256 mismatch!
-  Expected: 87513395c94221ae9a83c787ac78f1a1028099dc9be4883e19924768a354c6ca
-  Actual  : 
+choosy: passed
 chromatic: no checksum
 chrome-remote-desktop-host: no checksum
 chromecast: passed
@@ -518,7 +518,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : 2a6b922c1c3fb14cb0aeadea2bc917c1424c7680388a9b4c6cd00bc111f84ac4
+  Actual  : 5451682de62c3773933630db749b26820951df335a32a365165d8224da3f8549
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -647,9 +647,7 @@ httpscoop: passed
 hubic: passed
 hugin: passed
 hush: passed
-hydra: SHA-256 mismatch!
-  Expected: 719add886941a4fa346cb630daa67e6d3096b7a98725c32e3cce5bf051b07e48
-  Actual  : 
+hydra: passed
 hype: no checksum
 hyperdock: no checksum
 hyperswitch: no checksum
@@ -929,6 +927,7 @@ messenger-for-telegram: no checksum
 metanota: passed
 meteorologist: passed
 mi: passed
+microsoft-intellipoint: passed
 microsoft-lync-plugin: no checksum
 middleclick: no checksum
 midikeys: passed
@@ -1268,9 +1267,7 @@ quicksilver: passed
 quotefixformac: passed
 qvod-player: passed
 r-name: no checksum
-r: SHA-256 mismatch!
-  Expected: 5c1931ab86166afa3aed07a93fad6415fc80017be4b7777838969a2949d4692c
-  Actual  : 
+r: passed
 racket: passed
 radbeacon: no checksum
 radiant-player: passed
@@ -1482,9 +1479,7 @@ spyder: SHA-256 mismatch!
   Actual  : 
 sqleditor: passed
 sqlexplorer: passed
-sqlite-database-browser: SHA-256 mismatch!
-  Expected: 77ff563d108dc2bf224b3628172df31238fe2d74d7a2e1954b120463a865c4d8
-  Actual  : 4f89640ffecf6e663554e07987dc6d555929f9e8c0db55b22824d7025fdc8b97
+sqlite-database-browser: passed
 sqlitestudio: passed
 squidman: passed
 squire: SHA-256 mismatch!
@@ -1516,7 +1511,9 @@ subtitle-master: passed
 subtitles: SHA-256 mismatch!
   Expected: c8f00cd00a85f16b7a74de846b9f03fcd0cd0e144336438aa09aef50d527ce0f
   Actual  : 
-sunlogin-remote: passed
+sunlogin-remote: SHA-256 mismatch!
+  Expected: 81cf6e9b088cf7d05489228fd9f7c84388ab44dbaba5821865089a4d1a1d6a18
+  Actual  : d643fdeb34191e3b242f786f5c4abe1db29f9a09610d0a949b6fe987e64d00f7
 super-otr: passed
 supercollider: passed
 superduper: no checksum
@@ -1743,9 +1740,7 @@ woodhouse: passed
 wordservice: passed
 worksnaps-client: passed
 wowhead-client: passed
-wraparound: SHA-256 mismatch!
-  Expected: f156dfa65dad43d38cb3b0f8febd8de9711f4794bb166a293ced93860ebf7879
-  Actual  : 
+wraparound: passed
 wuala: no checksum
 wyzo: passed
 x-lite: passed
@@ -1806,4 +1801,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Sun Jul 13 08:33:11 EDT 2014
+Check finished at Mon Jul 14 11:17:30 EDT 2014

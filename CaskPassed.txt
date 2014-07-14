@@ -54,7 +54,6 @@ avidemux
 avogadro
 awareness
 backuploupe
-baiducloud
 baiduinput
 bankid
 banshee
@@ -128,6 +127,7 @@ chefdk
 chemdoodle
 chicken
 chirp
+choosy
 chromecast
 chromium
 chronomate
@@ -361,6 +361,7 @@ httpscoop
 hubic
 hugin
 hush
+hydra
 hyro
 iannix
 ibackup
@@ -532,6 +533,7 @@ meshlab
 metanota
 meteorologist
 mi
+microsoft-intellipoint
 midikeys
 miditrail
 milkytracker
@@ -716,6 +718,7 @@ quickradar
 quicksilver
 quotefixformac
 qvod-player
+r
 racket
 radiant-player
 raw-photo-processor
@@ -828,6 +831,7 @@ splashtop-streamer
 spotify-notifications
 sqleditor
 sqlexplorer
+sqlite-database-browser
 sqlitestudio
 squidman
 squirrel
@@ -846,7 +850,6 @@ subnetcalc
 subsmarine
 subsurface
 subtitle-master
-sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -991,6 +994,7 @@ woodhouse
 wordservice
 worksnaps-client
 wowhead-client
+wraparound
 wyzo
 x-lite
 x-moto
