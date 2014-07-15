@@ -1,5 +1,6 @@
 aerofs
 aquamacs
+avogadro
 ax88179
 ax88772
 b2designer
@@ -15,6 +16,7 @@ eclipse-platform
 eye-fi
 fastscripts
 fender-amp-drivers
+flightgear
 fm-fw-installer
 freefilesync
 gambit-c
@@ -31,10 +33,9 @@ navicat-for-oracle
 navicat-for-postgresql
 navicat-for-sql-server
 navicat-for-sqlite
-navicat-premium
 noiz2sa
-orange
 p4merge
+pagico
 pharo
 praat
 propresenter
@@ -46,9 +47,9 @@ spyder
 squire
 streamtools
 subtitles
-sunlogin-remote
 switchresx
 torustrooper
 tuneinstructor
 utopia
 vuescan
+winxound

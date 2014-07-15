@@ -51,7 +51,6 @@ authoxy
 authy-bluetooth
 autodmg
 avidemux
-avogadro
 awareness
 backuploupe
 baiduinput
@@ -272,7 +271,6 @@ flash-player-debugger
 flash-player
 flash
 flickr-uploadr
-flightgear
 flip4mac
 fluid
 fontexplorer-x-pro
@@ -361,7 +359,6 @@ httpscoop
 hubic
 hugin
 hush
-hydra
 hyro
 iannix
 ibackup
@@ -573,6 +570,7 @@ nally
 namebench
 namechanger
 navicat-data-modeler
+navicat-premium
 netbeans-cpp
 netbeans-php
 netbeans
@@ -619,13 +617,13 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
+orange
 osculator
 osirix
 osxfuse
 owasp-zap
 owncloud
 padre
-pagico
 paintbrush
 pandoc
 pandora-one
@@ -850,6 +848,7 @@ subnetcalc
 subsmarine
 subsurface
 subtitle-master
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -984,7 +983,6 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
-winxound
 wireshark
 wiretap-studio
 witgui

@@ -118,6 +118,7 @@ darteditor
 dash
 day-o
 dealalert
+debookee
 deeper
 delibar
 delicious-library
@@ -182,6 +183,7 @@ garmin-express
 gawker
 ghostlab
 git-annex
+gitbook
 github
 gitx-rowanj
 gitx
@@ -390,6 +392,7 @@ phoneclean
 picturesque
 piezo
 pinegrow-web-designer
+pingmenu
 pins
 pixel-winch
 pixelpeeper
@@ -457,6 +460,7 @@ screenflick
 screenhero
 screenmailer
 screens-connect
+scribbleton
 scriptql
 scrivener
 sdrdx
