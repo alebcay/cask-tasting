@@ -237,6 +237,7 @@ imageoptim
 img2icns
 inc
 indigo
+infinit
 inky
 integrity
 intermission
@@ -509,6 +510,7 @@ sparrow
 speedlimit
 speedtao
 spideroak
+spillo
 spirited-away
 spotdox
 spotifree
@@ -562,6 +564,7 @@ twindocs
 typewriter
 typinator
 ubuntu-one
+unicodechecker
 unified-remote
 unity-web-player
 utorrent

@@ -51,9 +51,10 @@ authoxy
 authy-bluetooth
 autodmg
 avidemux
+avogadro
 awareness
 backuploupe
-baiduinput
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -110,7 +111,6 @@ camtwist
 candybar
 capo
 capsee
-carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -201,6 +201,7 @@ devonthink-pro
 dewdrop
 dfontsplitter
 dia
+diashapes
 dictunifier
 diffmerge
 disk-inventory-x
@@ -271,7 +272,7 @@ flash-player-debugger
 flash-player
 flash
 flickr-uploadr
-flip4mac
+flightgear
 fluid
 fontexplorer-x-pro
 forklift
@@ -400,6 +401,7 @@ isolator
 istat-menus
 isteg
 istopmotion
+istumbler
 iterm2
 itools
 itsycal
@@ -607,7 +609,6 @@ openemu
 openlp
 opennx
 openoffice
-openra
 openscad
 opensesame
 opensong
@@ -739,6 +740,7 @@ robomongo
 rocks-n-diamonds
 royal-tsx
 rstudio
+rubitrack
 rubymine
 rythem
 sabnzbd
@@ -747,6 +749,7 @@ sage
 satellite-eyes
 scala-ide
 scansnap-manager
+schnapps
 scilab
 scout
 screenflow
@@ -850,11 +853,8 @@ subsurface
 subtitle-master
 sunlogin-remote
 super-otr
-supercollider
-supertuxkart
 surplusmeter
 svnx
-sweet-home3d
 synergy
 synology-assistant
 synology-cloud-station
@@ -911,7 +911,6 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
 torbrowser
 totalfinder
 totals
@@ -946,6 +945,7 @@ unity3d
 unpkg
 unrarx
 usb-overdrive
+utc-menu-clock
 vagrant-manager
 vagrant
 vassal
@@ -966,7 +966,6 @@ vlc
 vmware-fusion
 vocabulist
 vyprvpn
-wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
 wallpaper-wizard
