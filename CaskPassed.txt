@@ -190,7 +190,6 @@ dataurlmaker
 dbeaver
 deathtodsstore
 debt-quencher
-decitime
 default-folder-x
 deltawalker
 deluge
@@ -599,6 +598,7 @@ nosleep
 nottingham
 ntfs-free
 nvalt
+obs
 obsidian-menu-bar-mountain-lion
 oclint
 omnidazzle
@@ -609,6 +609,7 @@ openemu
 openlp
 opennx
 openoffice
+openra
 openscad
 opensesame
 opensong
@@ -624,6 +625,7 @@ osirix
 osxfuse
 owasp-zap
 owncloud
+p4merge
 padre
 paintbrush
 pandoc
@@ -715,6 +717,7 @@ quicklook-pfm
 quicknfo
 quickradar
 quicksilver
+quiterss
 quotefixformac
 qvod-player
 r
@@ -851,10 +854,14 @@ subnetcalc
 subsmarine
 subsurface
 subtitle-master
+subtitles
 sunlogin-remote
 super-otr
+supercollider
+supertuxkart
 surplusmeter
 svnx
+sweet-home3d
 synergy
 synology-assistant
 synology-cloud-station
@@ -906,11 +913,11 @@ timemachinescheduler
 timings
 tinygrab
 tinyumbrella
-tk-suite-client
 toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 totalfinder
 totals
@@ -966,6 +973,7 @@ vlc
 vmware-fusion
 vocabulist
 vyprvpn
+wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
 wallpaper-wizard
@@ -982,10 +990,10 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
+winxound
 wireshark
 wiretap-studio
 witgui
-wiztoolsorg-restclient
 wjoy
 woodhouse
 wordservice

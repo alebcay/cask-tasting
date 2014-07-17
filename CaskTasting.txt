@@ -1,4 +1,4 @@
-Check started at Wed Jul 16 00:00:55 EDT 2014
+Check started at Thu Jul 17 00:01:04 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -120,7 +120,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : 35ce7f27c84e333cad03dceec854ebbf4d7fcc240b643ed831e8c5bb2245dcaf
+  Actual  : 6ec940bac3615a5f3050f322ba819af6ccaa17500b21bf54dbd8b46b895eb010
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -345,7 +345,9 @@ dealalert: no checksum
 deathtodsstore: passed
 debookee: no checksum
 debt-quencher: passed
-decitime: passed
+decitime: SHA-256 mismatch!
+  Expected: 3fcd9d6af7cf4710abd42df4db418432ca1758ba8db7affecb1a466d1996f877
+  Actual  : 
 deeper: no checksum
 default-folder-x: passed
 delibar: no checksum
@@ -496,7 +498,7 @@ flickr-uploadr: passed
 flightgear: passed
 flip4mac: SHA-256 mismatch!
   Expected: d1574ca9896f8f40bf4d868e8ff91b1da1ac1dcd91a5b7898f3580543b02988e
-  Actual  : a69c5debe923204ebd3a65b5b5226619d10e6721624f8d91779560b4a3bfb7b1
+  Actual  : 11aee4963018796f38409d2d44ab5ece6eef7294fd9faefb448f2935b1b036a1
 flow: no checksum
 flowdock: no checksum
 fluid: passed
@@ -524,7 +526,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : 537c55cc94f16105f59dab2ade58fef84526bcd19dd65d9cd3fd20a6b3e1bc2b
+  Actual  : 161b417739c89cab4824a3bb707756e425112da62f684f37ba6f918893096f2f
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -1067,6 +1069,7 @@ nutstore: no checksum
 nvalt: passed
 nzbvortex: no checksum
 objektiv: no checksum
+obs: passed
 obsidian-menu-bar-mountain-lion: passed
 ocenaudio: no checksum
 oclint: passed
@@ -1088,9 +1091,7 @@ openemu: passed
 openlp: passed
 opennx: passed
 openoffice: passed
-openra: SHA-256 mismatch!
-  Expected: 519cabb3a1de7780479ca9ff247af61aca508cf17eb3129db2b788f314a381ce
-  Actual  : 4918b83a7417c55dfe057bc4e51abf61cabbd0ee69ffe52c34e6d108fc1958ed
+openra: passed
 openscad: passed
 opensesame: passed
 opensong: passed
@@ -1111,9 +1112,7 @@ osxfuse: passed
 outwit-hub: no checksum
 owasp-zap: passed
 owncloud: passed
-p4merge: SHA-256 mismatch!
-  Expected: ff643c91069cb952d35146be5aa3be519119d4abce2a585d6ff307ab42e59d70
-  Actual  : c5d05d78596fe9b4f83193a11805a027b2652fdf87365de1321e671286fdca3f
+p4merge: passed
 pacifist: no checksum
 padre: passed
 pagico: SHA-256 mismatch!
@@ -1270,6 +1269,7 @@ quicklook-pfm: passed
 quicknfo: passed
 quickradar: passed
 quicksilver: passed
+quiterss: passed
 quotefixformac: passed
 qvod-player: passed
 r-name: no checksum
@@ -1287,8 +1287,8 @@ rdm: passed
 readefine-desktop: no checksum
 readytalk: no checksum
 reaper: SHA-256 mismatch!
-  Expected: 98eb52be6e52257285cd4953a79a08591d92cc516890414cda2711418c833c08
-  Actual  : 32d133d1bba84e812a8f50b18d58ace4f726eaa1b649c151286ddabbfde6952c
+  Expected: 1a670d5afb5956e1486c1fdef008ccfb4faa7987cc4d5ea8171a2794ff86ffca
+  Actual  : 3045fd59189bd0fe398b50f511d014a5e385c8cfb88f8a188a8437050f783d71
 recordit: no checksum
 recovery-disk-assistant: passed
 reeddit: passed
@@ -1518,25 +1518,17 @@ subnetcalc: passed
 subsmarine: passed
 subsurface: passed
 subtitle-master: passed
-subtitles: SHA-256 mismatch!
-  Expected: c8f00cd00a85f16b7a74de846b9f03fcd0cd0e144336438aa09aef50d527ce0f
-  Actual  : 
+subtitles: passed
 sunlogin-remote: passed
 super-otr: passed
-supercollider: SHA-256 mismatch!
-  Expected: 3a942aed9d28071bd8354b387d1e436205a1c21f55667e17689d9b361af3409b
-  Actual  : 
+supercollider: passed
 superduper: no checksum
 supersync: no checksum
-supertuxkart: SHA-256 mismatch!
-  Expected: e3205788a42dd830cc1fb2deb100e305bd247d730ddd53bbd9e6601ea0e2a0d0
-  Actual  : 
+supertuxkart: passed
 surplusmeter: passed
 suspicious-package: no checksum
 svnx: passed
-sweet-home3d: SHA-256 mismatch!
-  Expected: c8004cbcec8d587139751a7a39539903f0f555185ce41378056a4549d0f65962
-  Actual  : 
+sweet-home3d: passed
 swingfish: no checksum
 swinsian: no checksum
 switchresx: SHA-256 mismatch!
@@ -1611,7 +1603,9 @@ tinkertool: no checksum
 tinygrab: passed
 tinyumbrella: passed
 titanium-studio: no checksum
-tk-suite-client: passed
+tk-suite-client: SHA-256 mismatch!
+  Expected: 4047cf17e9ca009a2c95e5127fafc145a74ba8320a4c4c94c866aeb49203a5ef
+  Actual  : 
 toad-mac: passed
 toau: no checksum
 todoist: no checksum
@@ -1621,9 +1615,7 @@ toggldesktop: no checksum
 tokaido: passed
 tomahawk: passed
 tomighty: passed
-tongbu: SHA-256 mismatch!
-  Expected: 009756069214508931deda67499f9c0274722ebecba29f5d6c78c55f770b3b9d
-  Actual  : 332de29aa5d54208a880ea8c2bd0053561d0ebc9071ac0d7bc0169d14b40dde0
+tongbu: passed
 tonido: no checksum
 torbrowser: passed
 torpedo: no checksum
@@ -1722,9 +1714,7 @@ vuescan: SHA-256 mismatch!
   Expected: 768d5e568d84097984e7bd55b3d6a93ee38a3856e7bab3a8fad7b005d0b17669
   Actual  : 683c6c226cef941d54589e4726dc71d4deeb3207cb5d468303fbc68290b37d94
 vyprvpn: passed
-wabbitemu: SHA-256 mismatch!
-  Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : 23a257d6983556f17006997600bd1c9851dd39b219d08674c2c3edadfcb7759e
+wabbitemu: passed
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wallpaper-wizard: passed
@@ -1748,15 +1738,15 @@ widelands: passed
 window-switch: no checksum
 windownaut: no checksum
 wineskin-winery: passed
-winxound: SHA-256 mismatch!
-  Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : f4a4a594bff4a328e36b04999cc7187c4a58331cb958ba158ca584fe6b4bbd16
+winxound: passed
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
 witch: no checksum
 witgui: passed
-wiztoolsorg-restclient: passed
+wiztoolsorg-restclient: SHA-256 mismatch!
+  Expected: d920279ef6406acb02a12485e1e8adaf1942cf196f0628c8e6b40744f6120aac
+  Actual  : 12a7de798419c5204987462efafba54fdbddab731313f19de0e2c8c4e1ba9be6
 wjoy: passed
 woodhouse: passed
 wordservice: passed
@@ -1823,4 +1813,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Jul 16 10:56:26 EDT 2014
+Check finished at Thu Jul 17 16:31:47 EDT 2014

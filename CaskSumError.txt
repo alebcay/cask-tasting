@@ -9,6 +9,7 @@ carbon-copy-cloner
 chainsaw
 coconutbattery
 cutesdr
+decitime
 delivery-status
 displaylink
 eclipse-java
@@ -33,8 +34,6 @@ navicat-for-postgresql
 navicat-for-sql-server
 navicat-for-sqlite
 noiz2sa
-openra
-p4merge
 pagico
 pharo
 praat
@@ -46,15 +45,10 @@ splayerx
 spyder
 squire
 streamtools
-subtitles
-supercollider
-supertuxkart
-sweet-home3d
 switchresx
-tongbu
+tk-suite-client
 torustrooper
 tuneinstructor
 utopia
 vuescan
-wabbitemu
-winxound
+wiztoolsorg-restclient
