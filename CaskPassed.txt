@@ -54,7 +54,6 @@ avidemux
 avogadro
 awareness
 backuploupe
-baiducloud
 bankid
 banshee
 bar-magnet
@@ -190,6 +189,7 @@ dataurlmaker
 dbeaver
 deathtodsstore
 debt-quencher
+decitime
 default-folder-x
 deltawalker
 deluge
@@ -222,7 +222,6 @@ dragthing
 drobo-dashboard
 dropbox-encore
 dropletmanager
-droplr
 dsp-radio
 dukto
 dungeon-crawl-stone-soup-console
@@ -272,6 +271,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fluid
 fontexplorer-x-pro
 forklift
@@ -318,6 +318,8 @@ glimmerblocker
 gmail-notifier
 gmail-notifr
 gnucash
+go-agent
+go-server
 goagentx
 gog-downloader
 google-adwords-editor
@@ -358,7 +360,6 @@ hr
 httpscoop
 hubic
 hugin
-hush
 hyro
 iannix
 ibackup
@@ -557,7 +558,6 @@ mpeg-streamclip
 mplayer-osx-extended
 mplayerx
 mpv
-mucommander
 mudlet
 multibit
 multidoge
@@ -724,6 +724,7 @@ r
 racket
 radiant-player
 raw-photo-processor
+raw-therapee
 razer-synapse
 rcdefaultapp
 rcenvironment
@@ -855,13 +856,13 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
-sunlogin-remote
 super-otr
 supercollider
 supertuxkart
 surplusmeter
 svnx
 sweet-home3d
+switchup
 synergy
 synology-assistant
 synology-cloud-station
@@ -994,6 +995,7 @@ winxound
 wireshark
 wiretap-studio
 witgui
+wiztoolsorg-restclient
 wjoy
 woodhouse
 wordservice

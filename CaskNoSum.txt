@@ -219,6 +219,7 @@ hostbuddy
 houdahgeo
 houdahspot
 hpuload
+hush
 hype
 hyperdock
 hyperswitch
@@ -251,6 +252,7 @@ itweax
 iupx
 ivolume
 izip
+jameica
 jdownloader
 jiggler
 jing
@@ -312,6 +314,7 @@ mavensmate
 mediafire-desktop
 menubarfilter
 menumeters
+mercurymover
 messenger-for-telegram
 microsoft-lync-plugin
 middleclick
