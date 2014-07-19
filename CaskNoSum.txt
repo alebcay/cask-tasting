@@ -13,6 +13,7 @@ airfoil
 airmail-amt
 airmail
 airparrot
+airstream
 alib1
 alinof-timer
 aliwangwang
@@ -35,6 +36,7 @@ asteroid
 atext
 atmonitor
 atom
+au-lab
 audio-editor
 audio-hijack-pro
 authbuddy
@@ -190,6 +192,7 @@ gitx
 gity
 glo
 globalsync
+goagentx
 google-chrome
 google-drive
 google-earth
@@ -311,6 +314,7 @@ mangao
 marked
 master-key
 mavensmate
+mdrp
 mediafire-desktop
 menubarfilter
 menumeters
@@ -408,6 +412,7 @@ pleasesleep
 plug
 plycounter
 poison
+pokemon-showdown
 pokerstars
 porthole
 postbox

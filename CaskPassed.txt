@@ -36,13 +36,13 @@ araxis-merge
 arduino-galileo
 arduino
 aria-maestosa
-armitage
 armory
 arora
 arranger
 aseprite
 asepsis
 atlantis
+atraci
 audacity
 audiobookbinder
 audioslicer
@@ -54,6 +54,7 @@ avidemux
 avogadro
 awareness
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -78,7 +79,6 @@ bitmessage
 black-light
 blender
 blink1control
-blu-ray-player
 bluegriffon
 blueharvest
 bluej
@@ -222,6 +222,7 @@ dragthing
 drobo-dashboard
 dropbox-encore
 dropletmanager
+droplr
 dsp-radio
 dukto
 dungeon-crawl-stone-soup-console
@@ -320,7 +321,6 @@ gmail-notifr
 gnucash
 go-agent
 go-server
-goagentx
 gog-downloader
 google-adwords-editor
 google-notifier
@@ -558,6 +558,7 @@ mpeg-streamclip
 mplayer-osx-extended
 mplayerx
 mpv
+mucommander
 mudlet
 multibit
 multidoge
@@ -810,8 +811,6 @@ slidemode
 slimbatterymonitor
 sloth
 slowy
-smartgithg
-smartsynchronize
 smcfancontrol
 snip
 snippet-edit
@@ -844,7 +843,6 @@ sshfs
 ssx
 stackroom
 stay
-steermouse
 stella
 stellarium
 strongvpn-client
@@ -856,6 +854,7 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -974,7 +973,6 @@ vlc
 vmware-fusion
 vocabulist
 vyprvpn
-wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
 wallpaper-wizard
