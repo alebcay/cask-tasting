@@ -65,6 +65,7 @@ betterzipql
 big-mean-folder-machine
 bill
 bittorrent-sync
+blu-ray-player
 bodega
 bonjour-browser
 boom

@@ -31,6 +31,7 @@ appcode
 appium
 apptrap
 aptanastudio
+aquamacs
 aquaterm
 araxis-merge
 arduino-galileo
@@ -145,6 +146,7 @@ cocoadialog
 cocoapacketanalyzer
 cocoarestclient
 cocoaspell
+coconutbattery
 coda
 codekit
 cog
@@ -161,7 +163,6 @@ connected-desktop
 connector
 consul
 controllermate
-controlplane
 cooviewer
 coqide
 cord
@@ -236,6 +237,8 @@ easyfind
 easysimbl
 easyvpn
 eclipse-ide
+eclipse-java
+eclipse-platform
 ecoute
 eid-mw
 ejector
@@ -250,6 +253,7 @@ enjoyable
 epub-to-pdf
 escritorio-movistar
 evasi0n
+eye-fi
 eyetv
 factor
 fairmount
@@ -290,6 +294,7 @@ frostwire
 fs-uae
 fugu
 functionflip
+gambit-c
 gamesalad
 ganttproject
 garagebuy
@@ -304,6 +309,7 @@ geekbench
 geektool
 genymotion
 gephi
+geppetto
 gfxcardstatus
 ghc
 giffun
@@ -458,6 +464,7 @@ launchrocket
 launchy
 lazarus
 leap-motion
+libreoffice
 licecap
 lightpaper
 lighttable
@@ -606,6 +613,7 @@ omnidazzle
 omnipresence
 omniweb
 onepassword
+onionshare
 openemu
 openlp
 opennx
@@ -730,6 +738,7 @@ razer-synapse
 rcdefaultapp
 rcenvironment
 rdm
+reaper
 recovery-disk-assistant
 reeddit
 refresh-finder
@@ -811,6 +820,8 @@ slidemode
 slimbatterymonitor
 sloth
 slowy
+smartgithg
+smartsynchronize
 smcfancontrol
 snip
 snippet-edit
@@ -843,8 +854,10 @@ sshfs
 ssx
 stackroom
 stay
+steermouse
 stella
 stellarium
+streamtools
 strongvpn-client
 sts
 subler
@@ -854,13 +867,13 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
-sunlogin-remote
 super-otr
 supercollider
 supertuxkart
 surplusmeter
 svnx
 sweet-home3d
+switchresx
 switchup
 synergy
 synology-assistant
@@ -989,7 +1002,6 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
-winxound
 wireshark
 wiretap-studio
 witgui
