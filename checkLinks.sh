@@ -20,18 +20,14 @@ for f in $FILES
 do
   ((counter++))
   [ -e "Testfile" ] && rm Testfile
-  while read line
-  do
-    if [[ "$line" == *:no_check* ]]
-      then
-      SHA_ALG=NONE
-      EXPECTED_SHA=""
-    elif [[ $line == *sha256* ]]
-      then
-      SHA_ALG=256
-      EXPECTED_SHA=$(echo $line | cut -d \  -f 2 | sed -e "s/^'//"  -e "s/'$//")
-    fi
-  done < $f
+  if [[ $(brew cask _stanza sha256 $f) == ":no_check" ]]
+    then
+    SHA_ALG=NONE
+    EXPECTED_SHA=""
+  else
+    SHA_ALG=256
+    EXPECTED_SHA="$(brew cask _stanza sha256 $f)"
+  fi
   if [ "$SHA_ALG" != "NONE" ]
     then
     echo -e "Downloading $(basename ${f%.*})"
