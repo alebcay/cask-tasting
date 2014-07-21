@@ -10,6 +10,7 @@ adobe-digital-editions
 adobe-photoshop-lightroom
 adobe-reader
 aegisub
+air-video-server-hd
 air-video-server
 airserver
 alfred
@@ -37,6 +38,7 @@ araxis-merge
 arduino-galileo
 arduino
 aria-maestosa
+armitage
 armory
 arora
 arranger
@@ -83,6 +85,7 @@ blink1control
 bluegriffon
 blueharvest
 bluej
+bob
 boot2docker
 bootxchanger
 bowtie
@@ -111,6 +114,7 @@ camtwist
 candybar
 capo
 capsee
+carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -276,7 +280,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fluid
 fontexplorer-x-pro
 forklift
@@ -540,6 +543,7 @@ metanota
 meteorologist
 mi
 microsoft-intellipoint
+microsoft-intellitype
 midikeys
 miditrail
 milkytracker
@@ -711,7 +715,6 @@ pycharm-ce
 pycharm
 qbittorrent
 qdesktop
-qiyimedia
 qlcolorcode
 qlmarkdown
 qlprettypatch
@@ -867,6 +870,7 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -993,7 +997,6 @@ waterroof
 wavtap
 wd-security
 webp-quicklook
-webstorm
 weibox
 weka
 welly
