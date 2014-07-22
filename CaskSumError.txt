@@ -1,9 +1,13 @@
 aerofs
+atraci
 ax88179
 ax88772
 b2designer
 baiduinput
 black-ink
+brogue
+calibre2opds
+carbon-copy-cloner
 chainsaw
 controlplane
 cutesdr
@@ -15,6 +19,7 @@ flip4mac
 fm-fw-installer
 freefilesync
 golly
+istumbler
 librecad
 macmoney
 marsedit
@@ -26,10 +31,12 @@ navicat-for-sql-server
 navicat-for-sqlite
 noiz2sa
 pagico
+paye-tools
 pharo
 praat
 propresenter
 qiyimedia
+qqbrowser
 rrootage
 sharetool
 splayerx
@@ -40,6 +47,3 @@ torustrooper
 tuneinstructor
 utopia
 vuescan
-wabbitemu
-webstorm
-winxound

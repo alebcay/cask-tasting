@@ -45,7 +45,6 @@ arranger
 aseprite
 asepsis
 atlantis
-atraci
 audacity
 audiobookbinder
 audioslicer
@@ -94,7 +93,6 @@ brain-workshop
 breach
 breakaway
 brightness
-brogue
 broomstick
 brow
 brushviewql
@@ -104,7 +102,6 @@ c3
 caffeine
 cakebrew
 calcservice
-calibre2opds
 callnote
 camed
 camerabag
@@ -114,7 +111,6 @@ camtwist
 candybar
 capo
 capsee
-carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -410,7 +406,6 @@ isolator
 istat-menus
 isteg
 istopmotion
-istumbler
 iterm2
 itools
 itsycal
@@ -650,7 +645,6 @@ paparazzi
 paraview
 password-gorilla
 pastor
-paye-tools
 pcalc
 pd-extended
 pdfpen
@@ -720,7 +714,6 @@ qlmarkdown
 qlprettypatch
 qmind
 qq
-qqbrowser
 qqmusic
 qt-creator
 quassel-client
@@ -990,6 +983,7 @@ vlc
 vmware-fusion
 vocabulist
 vyprvpn
+wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
 wallpaper-wizard
@@ -997,6 +991,7 @@ waterroof
 wavtap
 wd-security
 webp-quicklook
+webstorm
 weibox
 weka
 welly
@@ -1005,6 +1000,7 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
+winxound
 wireshark
 wiretap-studio
 witgui
