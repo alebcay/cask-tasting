@@ -45,6 +45,7 @@ arranger
 aseprite
 asepsis
 atlantis
+atraci
 audacity
 audiobookbinder
 audioslicer
@@ -93,6 +94,7 @@ brain-workshop
 breach
 breakaway
 brightness
+brogue
 broomstick
 brow
 brushviewql
@@ -102,6 +104,7 @@ c3
 caffeine
 cakebrew
 calcservice
+calibre2opds
 callnote
 camed
 camerabag
@@ -160,7 +163,6 @@ colors
 comictagger
 concentrate
 connected-desktop
-connector
 consul
 controllermate
 cooviewer
@@ -276,6 +278,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fluid
 fontexplorer-x-pro
 forklift
@@ -645,6 +648,7 @@ paparazzi
 paraview
 password-gorilla
 pastor
+paye-tools
 pcalc
 pd-extended
 pdfpen
@@ -714,6 +718,7 @@ qlmarkdown
 qlprettypatch
 qmind
 qq
+qqbrowser
 qqmusic
 qt-creator
 quassel-client
@@ -863,7 +868,6 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
-sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -1000,7 +1004,6 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
-winxound
 wireshark
 wiretap-studio
 witgui
