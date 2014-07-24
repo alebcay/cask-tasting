@@ -1,4 +1,4 @@
-Check started at Wed Jul 23 00:08:01 EDT 2014
+Check started at Thu Jul 24 02:59:03 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -78,7 +78,9 @@ armitage: passed
 armory: passed
 arora: passed
 arq: no checksum
-arranger: passed
+arranger: SHA-256 mismatch!
+  Expected: dff93bacfa3f0a00ecde23c55abd7124efe7bcf7f5980bb347f87b9c9f6b62b6
+  Actual  : 
 arrsync: no checksum
 aseprite: passed
 asepsis: passed
@@ -87,7 +89,9 @@ atext: no checksum
 atlantis: passed
 atmonitor: no checksum
 atom: no checksum
-atraci: passed
+atraci: SHA-256 mismatch!
+  Expected: 13746212a40c2402482feda2ac70aa5016f435f8b3abaa1982965d5f4738006a
+  Actual  : f4cb31ce4fe72f0e82a36149fb8025047760ee0fbb1107f3b5fa7a99c0ca1a3b
 au-lab: no checksum
 audacity: passed
 audio-editor: no checksum
@@ -122,7 +126,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : f11c66c822b0ba9633fe4a05b936370843a2c9e23a669fb01510f69e055c27d4
+  Actual  : d925074406a00a5a79a1cd1718d4260a5eeee8157315d395e9e0cb68af565c62
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -212,9 +216,7 @@ camtwist: passed
 candybar: passed
 capo: passed
 capsee: passed
-carbon-copy-cloner: SHA-256 mismatch!
-  Expected: 93ec1d88dedadb5c8d88ed454a363f8e62a5e9908014e9e5a572830a0b670174
-  Actual  : 
+carbon-copy-cloner: passed
 carlson-minot: passed
 cartao-de-cidadao: passed
 catch: passed
@@ -299,9 +301,7 @@ comictagger: passed
 commandq: no checksum
 concentrate: passed
 connected-desktop: passed
-connector: SHA-256 mismatch!
-  Expected: fa05fc0332ead81a16ad43ce64e67e645f6a73e98b845405bbcd827caec6834f
-  Actual  : 212b7fd5a9cfee6af938f1301074f4ad3fbe2755f84bcee88afedf8a282a033e
+connector: passed
 consul: passed
 contexts: no checksum
 controllermate: passed
@@ -521,7 +521,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : 96acfee64fa4d11a6b8be3085de03bb390681dab1370bb6f5237c88e3b91bfa4
+  Actual  : b462e07436d8d0178bb9f479fbb80f1ab7fdb69fe412d17e6fefd1c8960fe9b3
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -776,7 +776,9 @@ keystore-explorer: passed
 kid3: passed
 kindle-previewer: no checksum
 kindle: passed
-kindlegen: passed
+kindlegen: SHA-256 mismatch!
+  Expected: e09ad8f985c7096556f978df15903b71f9cf44d2e1f501139a420ff16931f980
+  Actual  : 418e285c4dad907d920e040e81001736463a5b4b6aa22d58f623d99613cd2822
 kismac: passed
 kiwi: passed
 kkbox: passed
@@ -828,7 +830,9 @@ liquifile: no checksum
 litecoin: passed
 liteicon: passed
 liteide: passed
-little-snitch: passed
+little-snitch: SHA-256 mismatch!
+  Expected: 835395e13b9c96b0a5fa32ae9b9e196fb79fb54cb33f1861dd32d16774d7d3bd
+  Actual  : 
 littleipsum: passed
 livereload: passed
 livestation: passed
@@ -1116,7 +1120,7 @@ pacifist: no checksum
 padre: passed
 pagico: SHA-256 mismatch!
   Expected: ad28214b082208025f9103dfbc2149b8224f0c488dfdcb06b51090e23d285bed
-  Actual  : ef63283ec795f5cb588be7b18a34482caffc16d196742b0716f92de81ffc0265
+  Actual  : 603101329b36379106011eab0c8b16c3ea43423a32b5df3b2fdd263b985a1b48
 paintbrush: passed
 paintcode: no checksum
 pandoc: passed
@@ -1518,9 +1522,7 @@ subsmarine: passed
 subsurface: passed
 subtitle-master: passed
 subtitles: passed
-sunlogin-remote: SHA-256 mismatch!
-  Expected: 81cf6e9b088cf7d05489228fd9f7c84388ab44dbaba5821865089a4d1a1d6a18
-  Actual  : 3a081e73dce64bf8c0191a5f40bb2d2655c51b1849d341f483ca35e57a8ca017
+sunlogin-remote: passed
 super-otr: passed
 supercollider: passed
 superduper: no checksum
@@ -1739,9 +1741,7 @@ wifimasterkey: no checksum
 window-switch: no checksum
 windownaut: no checksum
 wineskin-winery: passed
-winxound: SHA-256 mismatch!
-  Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : e65b01f27bed89c48fe94629423d97b2734537ddba21a294dfb9b01ba2230557
+winxound: passed
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
@@ -1814,4 +1814,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Jul 23 12:26:11 EDT 2014
+Check finished at Thu Jul 24 12:49:44 EDT 2014

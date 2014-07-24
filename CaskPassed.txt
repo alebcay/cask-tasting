@@ -41,11 +41,9 @@ aria-maestosa
 armitage
 armory
 arora
-arranger
 aseprite
 asepsis
 atlantis
-atraci
 audacity
 audiobookbinder
 audioslicer
@@ -114,6 +112,7 @@ camtwist
 candybar
 capo
 capsee
+carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -163,6 +162,7 @@ colors
 comictagger
 concentrate
 connected-desktop
+connector
 consul
 controllermate
 cooviewer
@@ -444,7 +444,6 @@ keymo
 keystore-explorer
 kid3
 kindle
-kindlegen
 kismac
 kiwi
 kkbox
@@ -476,7 +475,6 @@ linphone
 litecoin
 liteicon
 liteide
-little-snitch
 littleipsum
 livereload
 livestation
@@ -868,6 +866,7 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -1004,6 +1003,7 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
+winxound
 wireshark
 wiretap-studio
 witgui

@@ -1,12 +1,12 @@
 aerofs
+arranger
+atraci
 ax88179
 ax88772
 b2designer
 baiduinput
 black-ink
-carbon-copy-cloner
 chainsaw
-connector
 controlplane
 cutesdr
 delivery-status
@@ -17,7 +17,9 @@ fm-fw-installer
 freefilesync
 golly
 istumbler
+kindlegen
 librecad
+little-snitch
 macmoney
 marsedit
 navicat-for-mariadb
@@ -37,10 +39,8 @@ sharetool
 splayerx
 spyder
 squire
-sunlogin-remote
 tk-suite-client
 torustrooper
 tuneinstructor
 utopia
 vuescan
-winxound
