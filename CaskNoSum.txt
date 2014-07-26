@@ -17,6 +17,7 @@ airstream
 alib1
 alinof-timer
 aliwangwang
+all-the-gifs
 all2mp3
 amadeus-pro
 amazon-cloud-drive
@@ -395,6 +396,7 @@ pashua
 password-practice
 path-finder
 paw
+pdfpen
 peepopen
 pentaho-data-integration
 phoenix
@@ -495,7 +497,6 @@ sketch
 sketchup
 sketchupviewer
 skype
-slack
 slate
 sleep-monitor
 slice
@@ -506,6 +507,7 @@ smaller
 smartloader
 smoothmouse
 snagit
+sofortbild
 soleol
 sonora
 soulver

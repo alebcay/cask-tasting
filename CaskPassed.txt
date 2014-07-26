@@ -10,6 +10,7 @@ adobe-digital-editions
 adobe-photoshop-lightroom
 adobe-reader
 aegisub
+aerofs
 air-video-server-hd
 air-video-server
 airserver
@@ -41,6 +42,7 @@ aria-maestosa
 armitage
 armory
 arora
+arranger
 aseprite
 asepsis
 atlantis
@@ -94,7 +96,6 @@ breakaway
 brightness
 brogue
 broomstick
-brow
 brushviewql
 burn
 butter
@@ -223,7 +224,6 @@ doxygen
 dragondisk
 dragthing
 drobo-dashboard
-dropbox-encore
 dropletmanager
 droplr
 dsp-radio
@@ -235,6 +235,7 @@ dupscanub
 dvdstyler
 dwarf-fortress
 eagle
+eaglefiler
 easyfind
 easysimbl
 easyvpn
@@ -340,6 +341,7 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
+graphviz
 gridwars
 growl-fork
 growler
@@ -475,6 +477,7 @@ linphone
 litecoin
 liteicon
 liteide
+little-snitch
 littleipsum
 livereload
 livestation
@@ -579,7 +582,6 @@ nally
 namebench
 namechanger
 navicat-data-modeler
-navicat-premium
 netbeans-cpp
 netbeans-php
 netbeans
@@ -649,7 +651,6 @@ pastor
 paye-tools
 pcalc
 pd-extended
-pdfpen
 pdfsam
 pdfshaver
 pdftk
@@ -711,6 +712,7 @@ pycharm-ce
 pycharm
 qbittorrent
 qdesktop
+qgis
 qlcolorcode
 qlmarkdown
 qlprettypatch
@@ -814,6 +816,7 @@ skim
 skitch
 skreenics
 skydrive
+slack
 slic3r
 slidemode
 slimbatterymonitor
@@ -829,7 +832,6 @@ sococo
 sogouinput
 sonic-visualiser
 sonos
-sopcast
 sophos-anti-virus-home-edition
 soqlxplorer
 soulseek
@@ -930,7 +932,6 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
 torbrowser
 totalfinder
 totals

@@ -1,16 +1,16 @@
-aerofs
-arranger
 atraci
 ax88179
 ax88772
 b2designer
 baiduinput
 black-ink
+brow
 chainsaw
 controlplane
 cutesdr
 delivery-status
 displaylink
+dropbox-encore
 fastscripts
 fender-amp-drivers
 fm-fw-installer
@@ -19,7 +19,6 @@ golly
 istumbler
 kindlegen
 librecad
-little-snitch
 macmoney
 marsedit
 navicat-for-mariadb
@@ -28,6 +27,7 @@ navicat-for-oracle
 navicat-for-postgresql
 navicat-for-sql-server
 navicat-for-sqlite
+navicat-premium
 noiz2sa
 pagico
 pharo
@@ -36,10 +36,12 @@ propresenter
 qiyimedia
 rrootage
 sharetool
+sopcast
 splayerx
 spyder
 squire
 tk-suite-client
+tongbu
 torustrooper
 tuneinstructor
 utopia
