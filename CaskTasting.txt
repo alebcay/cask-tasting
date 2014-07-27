@@ -1,4 +1,4 @@
-Check started at Sat Jul 26 02:43:06 EDT 2014
+Check started at Sun Jul 27 02:35:08 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -48,6 +48,7 @@ android-studio: passed
 angry-ip-scanner: passed
 anki: passed
 anonym: passed
+antetype: no checksum
 antirsi: passed
 anvil: no checksum
 anxiety: no checksum
@@ -123,7 +124,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : d76037cf4cb9920392ff34542fe223c107182b62b373bbe9aafd10f1cc34ea71
+  Actual  : 75db0fb1f72962dfdb8db6098273ee27680fa82f89aa76c0a1a2a4cb25a33114
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -191,9 +192,7 @@ breakaway: passed
 brightness: passed
 brogue: passed
 broomstick: passed
-brow: SHA-256 mismatch!
-  Expected: f646b89e63853edab7dfae701f10074b0b966f624d2c1e412f0c07cdeeff2eeb
-  Actual  : 
+brow: passed
 brushviewql: passed
 brytonbridge: no checksum
 buddi: no checksum
@@ -399,9 +398,7 @@ dradio: no checksum
 dragondisk: passed
 dragthing: passed
 drobo-dashboard: passed
-dropbox-encore: SHA-256 mismatch!
-  Expected: 2dfa8abd5a1b48b5e1f323b5167a1ef53559f862520bf358f9500aa328ecaf90
-  Actual  : 
+dropbox-encore: passed
 dropbox: no checksum
 dropin: no checksum
 dropletmanager: passed
@@ -523,7 +520,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : cbdffd08c07c7e1f0bf8383ff00e797328913e085f480f989ece15fea2e6c808
+  Actual  : 0dbdd61fb37b351d4bada6781f8bb74e4604485ca7d84f2416ec125c1364f1c9
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -640,7 +637,9 @@ hive: passed
 hockeyapp: no checksum
 honer: passed
 hopper-disassembler: no checksum
-hoppergdbserver: passed
+hoppergdbserver: SHA-256 mismatch!
+  Expected: 124ea3e34f970f412de28de0e482edf527e064efdb954b3804aab248edc3c017
+  Actual  : 8646d038d1b156e9eecc9c6cd593226d13a293299cdc4d19b9f5ff0e3f9c1c8e
 horndis: passed
 hostbuddy: no checksum
 hoster: passed
@@ -923,6 +922,7 @@ mediafire-desktop: no checksum
 mediainfo: passed
 mediathekview: passed
 meerkat: passed
+memorytamer: passed
 mendeley-desktop: passed
 menubar-countdown: passed
 menubarfilter: no checksum
@@ -1028,9 +1028,7 @@ navicat-for-sql-server: SHA-256 mismatch!
 navicat-for-sqlite: SHA-256 mismatch!
   Expected: 65522f29707cb26fc2b39aa52687dbd9308150b92c78e4be5c58e0cceaa2629e
   Actual  : 1e74457b44dc02342dd3f59d7880b1eb2415e06654031f8b607f821fc0072a2e
-navicat-premium: SHA-256 mismatch!
-  Expected: 03d32415c29ab3f6c72bcb42f9bdb8167ac864ad15ca36b2639c9a2402c39dad
-  Actual  : 
+navicat-premium: passed
 neofinder: no checksum
 netbeans-cpp: passed
 netbeans-php: passed
@@ -1255,7 +1253,7 @@ qdesktop: passed
 qgis: passed
 qiyimedia: SHA-256 mismatch!
   Expected: 9d66ba83afa84decb5b1a8a5f0032c6f1aae24d05ddf6da2f07ce5e3702e0033
-  Actual  : b21fa14c1194524dd1466538ccf26caa166e713e517cbfdb1436ffdbeb0fd7fb
+  Actual  : fed42d50a1cae977e605b23c22ce7d078f3f838a9b9d99f20fb2a799c8576924
 qlcolorcode: passed
 qlimagesize: no checksum
 qlmarkdown: passed
@@ -1266,6 +1264,7 @@ qmind: passed
 qq: passed
 qqbrowser: passed
 qqmusic: passed
+qrfcview: passed
 qt-creator: passed
 qtspim: no checksum
 quassel-client: passed
@@ -1529,7 +1528,9 @@ subsmarine: passed
 subsurface: passed
 subtitle-master: passed
 subtitles: passed
-sunlogin-remote: passed
+sunlogin-remote: SHA-256 mismatch!
+  Expected: 81cf6e9b088cf7d05489228fd9f7c84388ab44dbaba5821865089a4d1a1d6a18
+  Actual  : 1ff6a59fe3f5d52eda051f3de2fb03c518ed05ac4a733a7a6d46785147248a4c
 super-otr: passed
 supercollider: passed
 superduper: no checksum
@@ -1626,7 +1627,7 @@ tomahawk: passed
 tomighty: passed
 tongbu: SHA-256 mismatch!
   Expected: 009756069214508931deda67499f9c0274722ebecba29f5d6c78c55f770b3b9d
-  Actual  : bb16fe7483b2d87e0d030d12cf0beea7d308510eac3b0cf0f100ad23ec571230
+  Actual  : 60b61a23a574af1e8b6a32943d94a4cc09ec4c62921ac5943f9ce574f375b224
 tonido: no checksum
 torbrowser: passed
 torpedo: no checksum
@@ -1694,7 +1695,9 @@ utorrent: no checksum
 vagrant-manager: passed
 vagrant: passed
 valentina-studio: no checksum
-vassal: passed
+vassal: SHA-256 mismatch!
+  Expected: 30be0f5e7357ac7c39336604aaceef6d3d527e5db1733a8f1b1bfd99ba131ed3
+  Actual  : 
 versions: no checksum
 viber: no checksum
 vico: passed
@@ -1723,7 +1726,7 @@ voicemac: no checksum
 vox-preference-pane: no checksum
 vuescan: SHA-256 mismatch!
   Expected: 683c6c226cef941d54589e4726dc71d4deeb3207cb5d468303fbc68290b37d94
-  Actual  : ab0ce4d84e12a13eddbd003a9f9ae36494fbecf4aff2320c242447300a035732
+  Actual  : a6e82863f7d6fc34400f678fb4de3cf5af6cbde9a20693ff4bfb5d95ad59f398
 vyprvpn: passed
 wabbitemu: passed
 wacom-bamboo-tablet: passed
@@ -1823,4 +1826,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Sat Jul 26 11:29:27 EDT 2014
+Check finished at Sun Jul 27 14:04:11 EDT 2014

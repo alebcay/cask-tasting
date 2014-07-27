@@ -22,6 +22,7 @@ all2mp3
 amadeus-pro
 amazon-cloud-drive
 android-file-transfer
+antetype
 anvil
 anxiety
 ap-grapher

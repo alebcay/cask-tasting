@@ -96,6 +96,7 @@ breakaway
 brightness
 brogue
 broomstick
+brow
 brushviewql
 burn
 butter
@@ -224,6 +225,7 @@ doxygen
 dragondisk
 dragthing
 drobo-dashboard
+dropbox-encore
 dropletmanager
 droplr
 dsp-radio
@@ -363,7 +365,6 @@ hexchat
 historyhound
 hive
 honer
-hoppergdbserver
 horndis
 hoster
 hr
@@ -532,6 +533,7 @@ mediaelch
 mediainfo
 mediathekview
 meerkat
+memorytamer
 mendeley-desktop
 menubar-countdown
 menuola
@@ -582,6 +584,7 @@ nally
 namebench
 namechanger
 navicat-data-modeler
+navicat-premium
 netbeans-cpp
 netbeans-php
 netbeans
@@ -720,6 +723,7 @@ qmind
 qq
 qqbrowser
 qqmusic
+qrfcview
 qt-creator
 quassel-client
 quick-search-box
@@ -868,7 +872,6 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
-sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -969,7 +972,6 @@ usb-overdrive
 utc-menu-clock
 vagrant-manager
 vagrant
-vassal
 vico
 videomonkey
 videospec
