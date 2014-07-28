@@ -57,7 +57,6 @@ avidemux
 avogadro
 awareness
 backuploupe
-baiducloud
 bankid
 banshee
 bar-magnet
@@ -195,7 +194,6 @@ dbeaver
 deathtodsstore
 debt-quencher
 decitime
-default-folder-x
 deltawalker
 deluge
 deskfun
@@ -365,6 +363,7 @@ hexchat
 historyhound
 hive
 honer
+hoppergdbserver
 horndis
 hoster
 hr
@@ -390,6 +389,7 @@ induction
 inform
 injection
 inkscape
+insertpic
 instabridge
 instacast
 instead
@@ -551,7 +551,6 @@ milkytracker
 mini-metro
 minitimer
 mixxx
-mkvtoolnix
 mnemosyne
 money
 moneywell
@@ -809,6 +808,7 @@ sickbeard-anime
 sickbeard
 sidestep
 sigil
+silo
 silverlight
 simon
 simpholders
@@ -833,7 +833,6 @@ snip
 snippet-edit
 snippets
 sococo
-sogouinput
 sonic-visualiser
 sonos
 sophos-anti-virus-home-edition
@@ -872,6 +871,7 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -910,7 +910,6 @@ textroom
 texts
 texturepacker
 textwrangler
-the-archive-browser
 the-brain
 the-unarchiver
 theremin
@@ -935,6 +934,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 totalfinder
 totals

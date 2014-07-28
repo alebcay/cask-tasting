@@ -85,6 +85,7 @@ changes-meter
 changes
 chatology
 cheatsheet
+cheetah3d
 chocolat
 chromatic
 chrome-remote-desktop-host
@@ -121,6 +122,7 @@ cursorcerer
 daisydisk
 darteditor
 dash
+datagraph
 day-o
 dealalert
 debookee
@@ -494,6 +496,7 @@ sixtyforce
 sizeup
 sizzlingkeys
 sketch-tool
+sketch-toolbox
 sketch
 sketchup
 sketchupviewer
