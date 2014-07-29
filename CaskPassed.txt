@@ -17,7 +17,6 @@ airserver
 alfred
 amazon-music
 amethyst
-ampps
 android-studio-bundle
 android-studio
 angry-ip-scanner
@@ -30,7 +29,6 @@ apikitchen
 apns-pusher
 appcleaner
 appcode
-appium
 apptrap
 aptanastudio
 aquamacs
@@ -63,6 +61,7 @@ bar-magnet
 baretorrent
 basecamp
 basex
+basictex
 bassjump
 bassshapes
 bathyscaphe
@@ -113,7 +112,6 @@ camtwist
 candybar
 capo
 capsee
-carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -166,6 +164,7 @@ connected-desktop
 connector
 consul
 controllermate
+controlplane
 cooviewer
 coqide
 cord
@@ -209,6 +208,7 @@ diffmerge
 disk-inventory-x
 diskaid
 diskwave
+displaylink
 djview
 dmm
 dnscrypt
@@ -281,6 +281,7 @@ flickr-uploadr
 flightgear
 flip4mac
 fluid
+fluke
 fontexplorer-x-pro
 forklift
 fotomagico
@@ -319,6 +320,7 @@ giffun
 gifrocket
 gimp-lisanet
 gimp
+gingr
 gisto
 gitbox
 gitifier
@@ -540,7 +542,6 @@ menuola
 meocloud
 mesasqlite
 meshlab
-metanota
 meteorologist
 mi
 microsoft-intellipoint
@@ -688,6 +689,7 @@ port-map
 postgres
 powerkey
 powerword
+praat
 preen
 prepros
 prey
@@ -722,7 +724,6 @@ qmind
 qq
 qqbrowser
 qqmusic
-qrfcview
 qt-creator
 quassel-client
 quick-search-box
@@ -746,7 +747,6 @@ reaper
 recovery-disk-assistant
 reeddit
 refresh-finder
-reggy
 remonit
 remote-desktop-connection
 repetier-host
@@ -829,12 +829,14 @@ slowy
 smartgithg
 smartsynchronize
 smcfancontrol
+snes9x
 snip
 snippet-edit
 snippets
 sococo
 sonic-visualiser
 sonos
+sopcast
 sophos-anti-virus-home-edition
 soqlxplorer
 soulseek
@@ -910,6 +912,7 @@ textroom
 texts
 texturepacker
 textwrangler
+the-archive-browser
 the-brain
 the-unarchiver
 theremin
@@ -988,6 +991,7 @@ visualvm
 vlc
 vmware-fusion
 vocabulist
+vuescan
 vyprvpn
 wabbitemu
 wacom-bamboo-tablet
@@ -998,7 +1002,6 @@ wavtap
 wd-security
 webp-quicklook
 webstorm
-weibox
 weka
 welly
 wesnoth

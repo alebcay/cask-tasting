@@ -53,7 +53,6 @@ baidumusic
 balsamiq-mockups
 bartender
 base
-basictex
 battery-guardian
 battery-report
 baygenie
@@ -435,6 +434,7 @@ propane
 proxpn
 puush
 puzzles
+qgroundcontrol
 qlimagesize
 qlrest
 qlstephen
