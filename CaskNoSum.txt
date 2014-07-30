@@ -149,6 +149,7 @@ ember
 emin-webpquicklook
 entropy
 epic
+espionage
 espresso
 etrecheck
 eve
@@ -202,6 +203,7 @@ google-drive
 google-earth
 google-hangouts
 google-japanese-ime
+google-nik-collection
 google-plus-auto-backup
 google-web-designer
 gopanda
@@ -254,6 +256,7 @@ invisorql
 ionu
 irip
 istat-server
+iswiff
 itunes-volume-control
 itweax
 iupx
@@ -550,6 +553,7 @@ teamviewer
 teleport
 texmaker
 textmate
+textsoap
 thaiwitter
 the-escapers-flux
 the-hit-list
@@ -607,6 +611,7 @@ wireover
 witch
 wuala
 x-mirage
+x2goclient
 xamarin
 xbox360-controller-driver
 xiami

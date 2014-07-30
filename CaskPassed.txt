@@ -17,6 +17,7 @@ airserver
 alfred
 amazon-music
 amethyst
+ampps
 android-studio-bundle
 android-studio
 angry-ip-scanner
@@ -29,6 +30,7 @@ apikitchen
 apns-pusher
 appcleaner
 appcode
+appium
 apptrap
 aptanastudio
 aquamacs
@@ -42,9 +44,9 @@ armory
 arora
 arranger
 aseprite
-asepsis
 atlantis
 audacity
+audio-mate
 audiobookbinder
 audioslicer
 aurora
@@ -55,6 +57,7 @@ avidemux
 avogadro
 awareness
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -69,6 +72,7 @@ battery-time-remaining
 bbedit
 beacon-scanner
 beardedspice
+beatport-pro
 bibdesk
 bino
 binreader
@@ -217,8 +221,8 @@ dogecoin
 dolphin
 dosbox
 double-commander
+doublecommand
 doubletwist
-doxie
 doxygen
 dragondisk
 dragthing
@@ -336,7 +340,6 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
-googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -364,6 +367,7 @@ hermes
 hexchat
 historyhound
 hive
+homestream
 honer
 hoppergdbserver
 horndis
@@ -442,6 +446,7 @@ karabiner
 kdiff3
 keepassx
 keka
+kensington-trackball-works
 kext-utility
 key-codes
 keycue
@@ -513,7 +518,6 @@ macupdate-desktop
 macvim
 macwinzipper
 magic-launch
-mailfollowup
 makehuman
 makemkv
 makerware
@@ -542,6 +546,7 @@ menuola
 meocloud
 mesasqlite
 meshlab
+metanota
 meteorologist
 mi
 microsoft-intellipoint
@@ -583,7 +588,6 @@ mysqlworkbench
 nally
 namebench
 namechanger
-navicat-data-modeler
 navicat-premium
 netbeans-cpp
 netbeans-php
@@ -633,7 +637,6 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
-orange
 osculator
 osirix
 osxfuse
@@ -724,6 +727,7 @@ qmind
 qq
 qqbrowser
 qqmusic
+qrfcview
 qt-creator
 quassel-client
 quick-search-box
@@ -747,6 +751,8 @@ reaper
 recovery-disk-assistant
 reeddit
 refresh-finder
+reggy
+rekordbox
 remonit
 remote-desktop-connection
 repetier-host
@@ -834,6 +840,7 @@ snip
 snippet-edit
 snippets
 sococo
+sogouinput
 sonic-visualiser
 sonos
 sopcast
@@ -990,10 +997,10 @@ visualack
 visualvm
 vlc
 vmware-fusion
+vmware-horizon-view-client
 vocabulist
 vuescan
 vyprvpn
-wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
 wallpaper-wizard
@@ -1009,7 +1016,6 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
-winxound
 wireshark
 wiretap-studio
 witgui
@@ -1023,7 +1029,6 @@ wraparound
 wyzo
 x-lite
 x-moto
-x2goclient
 x48
 xact
 xamarin-android
@@ -1040,6 +1045,7 @@ xmind
 xquartz
 xrg
 xscope
+xscreensaver
 xslimmer
 xtorrent
 yacreader
