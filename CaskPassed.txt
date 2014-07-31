@@ -10,7 +10,6 @@ adobe-digital-editions
 adobe-photoshop-lightroom
 adobe-reader
 aegisub
-aerofs
 air-video-server-hd
 air-video-server
 airserver
@@ -44,6 +43,7 @@ armory
 arora
 arranger
 aseprite
+asepsis
 atlantis
 audacity
 audio-mate
@@ -57,7 +57,6 @@ avidemux
 avogadro
 awareness
 backuploupe
-baiducloud
 bankid
 banshee
 bar-magnet
@@ -276,6 +275,7 @@ filebot
 fileshuttle
 filezilla
 find-any-file
+firewall-builder
 fitbit-connect
 flame
 flash-player-debugger
@@ -340,6 +340,7 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
+googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -454,6 +455,7 @@ keymo
 keystore-explorer
 kid3
 kindle
+kindlegen
 kismac
 kiwi
 kkbox
@@ -469,7 +471,6 @@ kvirc
 kylo
 latexit
 launchbar
-launchcontrol
 launchrocket
 launchy
 lazarus
@@ -518,6 +519,7 @@ macupdate-desktop
 macvim
 macwinzipper
 magic-launch
+mailfollowup
 makehuman
 makemkv
 makerware
@@ -588,7 +590,7 @@ mysqlworkbench
 nally
 namebench
 namechanger
-navicat-premium
+navicat-data-modeler
 netbeans-cpp
 netbeans-php
 netbeans
@@ -637,6 +639,7 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
+orange
 osculator
 osirix
 osxfuse
@@ -686,6 +689,7 @@ plex-home-theater
 plex-media-server
 plover
 pngcommentator
+pngyu
 poedit
 pokertracker
 port-map
@@ -944,7 +948,6 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
 torbrowser
 totalfinder
 totals
@@ -1001,6 +1004,7 @@ vmware-horizon-view-client
 vocabulist
 vuescan
 vyprvpn
+wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
 wallpaper-wizard
@@ -1016,6 +1020,7 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
+winxound
 wireshark
 wiretap-studio
 witgui
