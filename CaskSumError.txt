@@ -1,10 +1,12 @@
 aerofs
+aptanastudio
 atraci
 ax88179
 ax88772
 b2designer
 baiducloud
 baiduinput
+basecamp
 black-ink
 carbon-copy-cloner
 chainsaw
@@ -17,8 +19,9 @@ fender-amp-drivers
 fm-fw-installer
 freefilesync
 golly
+graphviz
+istat-menus
 istumbler
-launchcontrol
 librecad
 macmoney
 marsedit
@@ -40,10 +43,11 @@ sharetool
 splayerx
 spyder
 squire
+switchresx
+texshop
 tk-suite-client
-tongbu
 torustrooper
 tuneinstructor
 utopia
 vassal
-weibox
+vuescan

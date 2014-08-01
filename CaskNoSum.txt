@@ -327,7 +327,6 @@ mediafire-desktop
 menubarfilter
 menumeters
 mercurymover
-messenger-for-telegram
 microsoft-lync-plugin
 middleclick
 mikogo
@@ -550,6 +549,7 @@ tagoman
 taskpaper
 tau
 teamviewer
+telegram
 teleport
 texmaker
 textmate

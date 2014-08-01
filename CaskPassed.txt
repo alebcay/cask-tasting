@@ -31,7 +31,6 @@ appcleaner
 appcode
 appium
 apptrap
-aptanastudio
 aquamacs
 aquaterm
 araxis-merge
@@ -61,7 +60,6 @@ bankid
 banshee
 bar-magnet
 baretorrent
-basecamp
 basex
 basictex
 bassjump
@@ -212,6 +210,7 @@ disk-inventory-x
 diskaid
 diskwave
 displaylink
+djv
 djview
 dmm
 dnscrypt
@@ -347,7 +346,6 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
-graphviz
 gridwars
 growl-fork
 growler
@@ -416,7 +414,6 @@ iphone-configuration-utility
 iphoney
 ireadfast
 isolator
-istat-menus
 isteg
 istopmotion
 iterm2
@@ -471,6 +468,7 @@ kvirc
 kylo
 latexit
 launchbar
+launchcontrol
 launchrocket
 launchy
 lazarus
@@ -878,6 +876,7 @@ streamtools
 strongvpn-client
 sts
 subler
+sublercli
 sublime-text
 subnetcalc
 subsmarine
@@ -891,7 +890,6 @@ supertuxkart
 surplusmeter
 svnx
 sweet-home3d
-switchresx
 switchup
 synergy
 synology-assistant
@@ -915,7 +913,6 @@ tex-live-utility
 texmacs
 texnicle
 texpad
-texshop
 texstudio
 textadept
 textexpander
@@ -935,6 +932,7 @@ thunder
 thunderbird
 thyme
 tickets
+tiddlywiki
 tikz-editor
 tiled
 tilemill
@@ -948,6 +946,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 totalfinder
 totals
@@ -1002,7 +1001,6 @@ vlc
 vmware-fusion
 vmware-horizon-view-client
 vocabulist
-vuescan
 vyprvpn
 wabbitemu
 wacom-bamboo-tablet
@@ -1013,6 +1011,7 @@ wavtap
 wd-security
 webp-quicklook
 webstorm
+weibox
 weka
 welly
 wesnoth
