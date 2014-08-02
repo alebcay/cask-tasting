@@ -19,7 +19,6 @@ fender-amp-drivers
 fm-fw-installer
 freefilesync
 golly
-graphviz
 istat-menus
 istumbler
 librecad
@@ -51,3 +50,4 @@ tuneinstructor
 utopia
 vassal
 vuescan
+yojimbo

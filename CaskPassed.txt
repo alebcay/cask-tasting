@@ -346,6 +346,7 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
+graphviz
 gridwars
 growl-fork
 growler
@@ -644,6 +645,7 @@ osxfuse
 owasp-zap
 owncloud
 p4merge
+p4v
 padre
 paintbrush
 pandoc
@@ -967,6 +969,7 @@ tv-browser
 tv-show-tracker
 twine
 twitterrific
+typinator
 uber-network-fuser
 uberpov
 ubersicht
@@ -1054,7 +1057,6 @@ xslimmer
 xtorrent
 yacreader
 ynab
-yojimbo
 youll-never-take-me-alive
 yubikey-personalization-gui
 yubiswitch

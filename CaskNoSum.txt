@@ -582,7 +582,6 @@ tvshows
 twentytwo
 twindocs
 typewriter
-typinator
 ubuntu-one
 unicodechecker
 unified-remote
