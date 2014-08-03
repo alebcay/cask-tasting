@@ -56,6 +56,7 @@ avidemux
 avogadro
 awareness
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -113,6 +114,7 @@ camtwist
 candybar
 capo
 capsee
+carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -741,7 +743,6 @@ quickradar
 quicksilver
 quiterss
 quotefixformac
-qvod-player
 r
 racket
 radiant-player
@@ -885,7 +886,6 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
-sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -915,6 +915,7 @@ tex-live-utility
 texmacs
 texnicle
 texpad
+texshop
 texstudio
 textadept
 textexpander
@@ -948,7 +949,6 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
 torbrowser
 totalfinder
 totals
@@ -1057,6 +1057,7 @@ xslimmer
 xtorrent
 yacreader
 ynab
+yojimbo
 youll-never-take-me-alive
 yubikey-personalization-gui
 yubiswitch

@@ -1,4 +1,4 @@
-Check started at Sat Aug  2 00:01:00 EDT 2014
+Check started at Sun Aug  3 01:39:13 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -23,6 +23,7 @@ aegisub: passed
 aerofs: SHA-256 mismatch!
   Expected: 99768572e8fc5a508cb4e4c1653a54de51b8b0a37a242234e520ff86f183c786
   Actual  : 
+affinity-designer: no checksum
 air-connect: no checksum
 air-video-server-hd: passed
 air-video-server: passed
@@ -126,12 +127,10 @@ backblaze-downloader: no checksum
 backtobed: no checksum
 backuploupe: passed
 bahamut: no checksum
-baiducloud: SHA-256 mismatch!
-  Expected: 194e049020bc11110807d7a157c5ab1f25f987b3e14ead7b452319420b97ad51
-  Actual  : 6930b076279c52371f263f4e9afcd36f74d0f030e971af149de4f16ce4ba1d9e
+baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : da60222cbee28052447df14b004ccd9b5e1cab47a29f83e69af61c15cc17f9c9
+  Actual  : e0cd63508b1ac00807871dd8392164d67dc8208ae984fffe503f5304f06d31be
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -224,9 +223,7 @@ camtwist: passed
 candybar: passed
 capo: passed
 capsee: passed
-carbon-copy-cloner: SHA-256 mismatch!
-  Expected: 93ec1d88dedadb5c8d88ed454a363f8e62a5e9908014e9e5a572830a0b670174
-  Actual  : 
+carbon-copy-cloner: passed
 carlson-minot: passed
 cartao-de-cidadao: passed
 catch: passed
@@ -1280,7 +1277,7 @@ qgis: passed
 qgroundcontrol: no checksum
 qiyimedia: SHA-256 mismatch!
   Expected: 9d66ba83afa84decb5b1a8a5f0032c6f1aae24d05ddf6da2f07ce5e3702e0033
-  Actual  : cf9b473cf651f7703e8cdbee2301247bfea6d28d00854b6ea8f596a526ec0a9a
+  Actual  : b21fa14c1194524dd1466538ccf26caa166e713e517cbfdb1436ffdbeb0fd7fb
 qlcolorcode: passed
 qlimagesize: no checksum
 qlmarkdown: passed
@@ -1307,7 +1304,9 @@ quickradar: passed
 quicksilver: passed
 quiterss: passed
 quotefixformac: passed
-qvod-player: passed
+qvod-player: SHA-256 mismatch!
+  Expected: e824084e6a0539be3f30da795938b45c0f88bdb49794f61615a5753aedd92c4e
+  Actual  : 
 r-name: no checksum
 r: passed
 racket: passed
@@ -1558,7 +1557,9 @@ subsmarine: passed
 subsurface: passed
 subtitle-master: passed
 subtitles: passed
-sunlogin-remote: passed
+sunlogin-remote: SHA-256 mismatch!
+  Expected: 81cf6e9b088cf7d05489228fd9f7c84388ab44dbaba5821865089a4d1a1d6a18
+  Actual  : cbfb8e4e1095378441babe665d1c6b8200aee0a8bed65c85c24217fac0f6a103
 super-otr: passed
 supercollider: passed
 superduper: no checksum
@@ -1605,9 +1606,7 @@ texmacs: passed
 texmaker: no checksum
 texnicle: passed
 texpad: passed
-texshop: SHA-256 mismatch!
-  Expected: 5571887f176c4d3a7ffdc1e239a06042a9c852eed4fa964cf789b1b532afe2de
-  Actual  : 
+texshop: passed
 texstudio: passed
 textadept: passed
 textexpander: passed
@@ -1660,7 +1659,9 @@ toggldesktop: no checksum
 tokaido: passed
 tomahawk: passed
 tomighty: passed
-tongbu: passed
+tongbu: SHA-256 mismatch!
+  Expected: 009756069214508931deda67499f9c0274722ebecba29f5d6c78c55f770b3b9d
+  Actual  : e59e3e82011c69db6c6be236c702e9a171f1e888c28993ef2603d62e81c98b53
 tonido: no checksum
 torbrowser: passed
 torpedo: no checksum
@@ -1839,9 +1840,7 @@ yandexdisk: no checksum
 yasu: no checksum
 yemuzip: no checksum
 ynab: passed
-yojimbo: SHA-256 mismatch!
-  Expected: 3d56523799db955ddf362e3b4b43a4a193b426ea76cf02d1647ecd56e5231c3b
-  Actual  : 
+yojimbo: passed
 yorufukurou: no checksum
 youdao: no checksum
 youll-never-take-me-alive: passed
@@ -1863,4 +1862,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Sat Aug  2 13:38:17 EDT 2014
+Check finished at Sun Aug  3 09:55:15 EDT 2014
