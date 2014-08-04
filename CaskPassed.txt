@@ -224,7 +224,6 @@ double-commander
 doublecommand
 doubletwist
 doxygen
-dragondisk
 dragthing
 drobo-dashboard
 dropbox-encore
@@ -743,6 +742,7 @@ quickradar
 quicksilver
 quiterss
 quotefixformac
+qvod-player
 r
 racket
 radiant-player
@@ -832,7 +832,6 @@ skitch
 skreenics
 skydrive
 slack
-slic3r
 slidemode
 slimbatterymonitor
 sloth

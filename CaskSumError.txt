@@ -12,6 +12,7 @@ cutesdr
 default-folder-x
 delivery-status
 doxie
+dragondisk
 fastscripts
 fender-amp-drivers
 fm-fw-installer
@@ -35,9 +36,9 @@ pagico
 pharo
 propresenter
 qiyimedia
-qvod-player
 rrootage
 sharetool
+slic3r
 splayerx
 spyder
 squire
