@@ -7,12 +7,12 @@ b2designer
 baiduinput
 basecamp
 black-ink
+carbon-copy-cloner
 chainsaw
 cutesdr
 default-folder-x
 delivery-status
 doxie
-dragondisk
 fastscripts
 fender-amp-drivers
 fm-fw-installer
@@ -20,9 +20,14 @@ freefilesync
 golly
 istat-menus
 istumbler
+jaikoz
+justlooking
+kindlegen
 librecad
+love
 macmoney
 marsedit
+mesasqlite
 mkvtoolnix
 navicat-for-mariadb
 navicat-for-mysql
@@ -42,7 +47,6 @@ slic3r
 splayerx
 spyder
 squire
-sunlogin-remote
 switchresx
 tk-suite-client
 tongbu
@@ -50,4 +54,5 @@ torustrooper
 tuneinstructor
 utopia
 vassal
+videomonkey
 vuescan

@@ -114,7 +114,6 @@ camtwist
 candybar
 capo
 capsee
-carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -224,6 +223,7 @@ double-commander
 doublecommand
 doubletwist
 doxygen
+dragondisk
 dragthing
 drobo-dashboard
 dropbox-encore
@@ -423,7 +423,6 @@ itools
 itsycal
 itunesscrobbler
 jabref
-jaikoz
 jaspersoft-studio
 java
 jawbone-updater
@@ -439,7 +438,6 @@ julia-studio
 julia
 jumpcut
 jumpshare
-justlooking
 jxplorer
 kaleidoscope
 karabiner
@@ -454,7 +452,6 @@ keymo
 keystore-explorer
 kid3
 kindle
-kindlegen
 kismac
 kiwi
 kkbox
@@ -497,7 +494,6 @@ logitech-gaming-software
 logitech-harmony
 logitech-myharmony
 logitech-unifying
-love
 lucidor
 luminance-hdr
 lyn
@@ -546,7 +542,6 @@ mendeley-desktop
 menubar-countdown
 menuola
 meocloud
-mesasqlite
 meshlab
 metanota
 meteorologist
@@ -885,6 +880,7 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -987,7 +983,6 @@ utc-menu-clock
 vagrant-manager
 vagrant
 vico
-videomonkey
 videospec
 vienna
 vimediamanager
