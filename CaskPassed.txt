@@ -114,6 +114,7 @@ camtwist
 candybar
 capo
 capsee
+carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -507,7 +508,6 @@ macfusion
 macgdbp
 machg
 macpass
-macports
 mactex
 mactracker
 mactubes
@@ -542,6 +542,7 @@ mendeley-desktop
 menubar-countdown
 menuola
 meocloud
+mesasqlite
 meshlab
 metanota
 meteorologist
@@ -839,7 +840,6 @@ snip
 snippet-edit
 snippets
 sococo
-sogouinput
 sonic-visualiser
 sonos
 sopcast
@@ -944,6 +944,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 totalfinder
 totals
@@ -983,6 +984,7 @@ utc-menu-clock
 vagrant-manager
 vagrant
 vico
+videomonkey
 videospec
 vienna
 vimediamanager

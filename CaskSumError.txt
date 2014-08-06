@@ -7,7 +7,6 @@ b2designer
 baiduinput
 basecamp
 black-ink
-carbon-copy-cloner
 chainsaw
 cutesdr
 default-folder-x
@@ -26,8 +25,8 @@ kindlegen
 librecad
 love
 macmoney
+macports
 marsedit
-mesasqlite
 mkvtoolnix
 navicat-for-mariadb
 navicat-for-mysql
@@ -44,15 +43,14 @@ qiyimedia
 rrootage
 sharetool
 slic3r
+sogouinput
 splayerx
 spyder
 squire
 switchresx
 tk-suite-client
-tongbu
 torustrooper
 tuneinstructor
 utopia
 vassal
-videomonkey
 vuescan

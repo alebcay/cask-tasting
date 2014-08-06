@@ -1,4 +1,4 @@
-Check started at Tue Aug  5 01:23:19 EDT 2014
+Check started at Wed Aug  6 00:48:43 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -130,7 +130,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: a8599116bb9248a06b7a26f7be73061cb00263263fe685cb0b7c6c99fce6cf56
-  Actual  : 312ba8d1cb02b03bb035b45b5d50b9ab7d1e3c58fbfba6c14b87fc109b648100
+  Actual  : a34936299e21e69a15adfa01c073d1109dfa29017a966bce868be1b58b30d1f3
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -223,9 +223,7 @@ camtwist: passed
 candybar: passed
 capo: passed
 capsee: passed
-carbon-copy-cloner: SHA-256 mismatch!
-  Expected: 93ec1d88dedadb5c8d88ed454a363f8e62a5e9908014e9e5a572830a0b670174
-  Actual  : 
+carbon-copy-cloner: passed
 carlson-minot: passed
 cartao-de-cidadao: passed
 catch: passed
@@ -538,7 +536,7 @@ freecad: passed
 freecol: passed
 freefilesync: SHA-256 mismatch!
   Expected: f6dbcc1516369a16928bf8fa7a583413c57402df7bf20453958581e68c7d758c
-  Actual  : 7d13f4e96546f26a170805520dc3a394e35329697d04c5a95e9882ff5fa8f440
+  Actual  : aefe31fd3cae38ce81484d6ec97d4e46f74c4a0dfcbb80809923e0d5f81be3ed
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -879,7 +877,7 @@ logoist: no checksum
 loom: no checksum
 love: SHA-256 mismatch!
   Expected: ce8e31a1bbb5eb628c9edf8a823b877743f2e0fa60ad8ec51db4957a13c09084
-  Actual  : 
+  Actual  : 861a8581562917d4458c8f2e8e79ace8fb1478d5849b5f7abc4de7f404488f6e
 lpk25-editor: no checksum
 ltspice: no checksum
 lucidor: passed
@@ -906,7 +904,9 @@ macpar-deluxe: no checksum
 macpass: passed
 macpaw-gemini: no checksum
 macpilot: no checksum
-macports: passed
+macports: SHA-256 mismatch!
+  Expected: d10bf4a27f89709501e1370d7d80f415eaf16bae23fd9ff3d4e96f86afdf8cd6
+  Actual  : 
 macs-fan-control: no checksum
 macterm: no checksum
 mactex: passed
@@ -960,9 +960,7 @@ menumeters: no checksum
 menuola: passed
 meocloud: passed
 mercurymover: no checksum
-mesasqlite: SHA-256 mismatch!
-  Expected: 16741eb458127db0ce72e71824ddf938ee7b30a8b6ea4bc0e82357aab5b3359b
-  Actual  : 
+mesasqlite: passed
 meshlab: passed
 metanota: passed
 meteorologist: passed
@@ -992,7 +990,7 @@ mixture: no checksum
 mixxx: passed
 mkvtoolnix: SHA-256 mismatch!
   Expected: ae0f2dff515a3b82188b50b1358023ca3a738e34a9262775fb6de6f06e7c4b00
-  Actual  : 2c0bb6399fae97d293d8a3d7ef17d7bb15e2d6dcf628f52c9677f614b554d0a7
+  Actual  : 693f71cd60db9cbcced48aecf2bee4e94249e17e0cc75f6983bf0d1d31f1f118
 mnemosyne: passed
 mocksmtp: no checksum
 money: passed
@@ -1495,7 +1493,9 @@ snippet-edit: passed
 snippets: passed
 sococo: passed
 sofortbild: no checksum
-sogouinput: passed
+sogouinput: SHA-256 mismatch!
+  Expected: bd42ec923c457e9186bc2ebddb1c27f1e62122e41515a77d8e701efaedf1a28e
+  Actual  : dd8bfdce79243bb84fcc44b1b1c59091d28e31bd0a1b9d666c9d1afc4d505204
 soleol: no checksum
 sonic-visualiser: passed
 sonora: no checksum
@@ -1669,9 +1669,7 @@ toggldesktop: no checksum
 tokaido: passed
 tomahawk: passed
 tomighty: passed
-tongbu: SHA-256 mismatch!
-  Expected: 009756069214508931deda67499f9c0274722ebecba29f5d6c78c55f770b3b9d
-  Actual  : 7e0f23e24352524b22d633984fa9c00c3f6c9f9e99abe022c103e82e9bb1cc59
+tongbu: passed
 tonido: no checksum
 torbrowser: passed
 torpedo: no checksum
@@ -1745,9 +1743,7 @@ vassal: SHA-256 mismatch!
 versions: no checksum
 viber: no checksum
 vico: passed
-videomonkey: SHA-256 mismatch!
-  Expected: ab09a3bb98a78d32ae48c55b6572e4d1e10ead0f26d5ba895a9a2ee5c105088c
-  Actual  : 
+videomonkey: passed
 videospec: passed
 vienna: passed
 vimediamanager: passed
@@ -1874,4 +1870,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Tue Aug  5 09:40:45 EDT 2014
+Check finished at Wed Aug  6 09:13:20 EDT 2014
