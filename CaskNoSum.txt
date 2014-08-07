@@ -12,7 +12,6 @@ air-connect
 airdisplay
 airfoil
 airmail-amt
-airmail
 airparrot
 airstream
 alib1
@@ -138,6 +137,7 @@ diumoo
 divvy
 djay
 doubanradio
+doxie
 dradio
 dropbox
 dropin
@@ -256,6 +256,7 @@ invisionsync
 invisorql
 ionu
 irip
+istat-menus
 istat-server
 iswiff
 itunes-volume-control
@@ -386,6 +387,7 @@ oneswarm
 onlive-client
 onyx
 oovoo
+opendns-updater
 optimal-layout
 orbit
 origin
@@ -434,6 +436,7 @@ prefs-editor
 private-eye
 prizmo
 propane
+proxifier
 proxpn
 puush
 puzzles
@@ -560,6 +563,7 @@ the-escapers-flux
 the-hit-list
 things
 thinkorswim
+thirty-three-rpm
 time-sink
 timemachineeditor
 tinkertool
@@ -604,6 +608,7 @@ web-sharing
 wechat
 wedge
 whatsapp-pocket
+whatsize
 wifimasterkey
 window-switch
 windownaut

@@ -7,6 +7,7 @@ adapter
 adium
 adobe-air
 adobe-digital-editions
+adobe-dng-converter
 adobe-photoshop-lightroom
 adobe-reader
 aegisub
@@ -75,7 +76,6 @@ bibdesk
 bino
 binreader
 bit-slicer
-bitcasa
 bitcoin-core
 bitlord
 bitmessage
@@ -114,7 +114,6 @@ camtwist
 candybar
 capo
 capsee
-carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -196,6 +195,7 @@ dbeaver
 deathtodsstore
 debt-quencher
 decitime
+default-folder-x
 deltawalker
 deluge
 deskfun
@@ -284,12 +284,12 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fluid
 fluke
 fontexplorer-x-pro
 forklift
 fotomagico
+fotowall
 fourk-video-downloader
 fourk-youtube-to-mp3
 fpc
@@ -374,6 +374,7 @@ honer
 hoppergdbserver
 horndis
 hoster
+hosts
 hr
 httpscoop
 hubic
@@ -432,6 +433,7 @@ jd-gui
 jdiskreport
 jedit
 jenkins-menu
+jetphoto-studio
 jewelrybox
 jitsi
 jubler
@@ -447,7 +449,6 @@ keepassx
 keka
 kensington-trackball-works
 kext-utility
-key-codes
 keycue
 keymo
 keystore-explorer
@@ -508,6 +509,7 @@ macfusion
 macgdbp
 machg
 macpass
+macports
 mactex
 mactracker
 mactubes
@@ -586,7 +588,12 @@ mysqlworkbench
 nally
 namebench
 namechanger
-navicat-data-modeler
+navicat-for-mariadb
+navicat-for-mysql
+navicat-for-oracle
+navicat-for-postgresql
+navicat-for-sql-server
+navicat-for-sqlite
 netbeans-cpp
 netbeans-php
 netbeans
@@ -670,6 +677,7 @@ pg-commander
 pgadmin3
 pgloader
 phantomjs
+pharo
 phoenix-slides
 photoninja
 phpstorm
@@ -683,7 +691,6 @@ plainview
 platypus
 playonmac
 plex-home-theater
-plex-media-server
 plover
 pngcommentator
 pngyu
@@ -727,6 +734,7 @@ qlprettypatch
 qmind
 qq
 qqbrowser
+qqinput
 qqmusic
 qrfcview
 qt-creator
@@ -745,6 +753,7 @@ radiant-player
 raw-photo-processor
 raw-therapee
 razer-synapse
+razorsql
 rcdefaultapp
 rcenvironment
 rdm
@@ -840,6 +849,7 @@ snip
 snippet-edit
 snippets
 sococo
+sogouinput
 sonic-visualiser
 sonos
 sopcast
@@ -887,6 +897,7 @@ supertuxkart
 surplusmeter
 svnx
 sweet-home3d
+switchresx
 switchup
 synergy
 synology-assistant
@@ -900,6 +911,7 @@ tagr
 tagspaces
 tapaal
 tcpblock
+td-agent
 teamspeak-client
 teamviz
 teensy
@@ -987,7 +999,6 @@ vico
 videomonkey
 videospec
 vienna
-vimediamanager
 vine-server
 virtaal
 virtualbox
@@ -1004,6 +1015,7 @@ vyprvpn
 wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
+wake-on-lan
 wallpaper-wizard
 waterroof
 wavtap
@@ -1018,6 +1030,7 @@ whatpulse
 whiteclock
 widelands
 wineskin-winery
+wings3d
 winxound
 wireshark
 wiretap-studio
