@@ -6,9 +6,7 @@ ax88772
 b2designer
 baiduinput
 basecamp
-bitcasa
 black-ink
-carbon-copy-cloner
 chainsaw
 cutesdr
 delivery-status
@@ -18,6 +16,8 @@ flip4mac
 fm-fw-installer
 freefilesync
 golly
+googleappenginelauncher
+iexplorer
 istumbler
 jaikoz
 justlooking
@@ -28,11 +28,10 @@ love
 macmoney
 marsedit
 mkvtoolnix
-navicat-data-modeler
 navicat-premium
 noiz2sa
 pagico
-plex-media-server
+pharo
 propresenter
 qiyimedia
 rrootage
@@ -41,10 +40,12 @@ slic3r
 splayerx
 spyder
 squire
+strongvpn-client
+subsurface
+td-agent
 tk-suite-client
 torustrooper
 tuneinstructor
 utopia
 vassal
-vimediamanager
 vuescan

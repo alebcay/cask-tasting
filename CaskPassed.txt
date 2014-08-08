@@ -14,6 +14,7 @@ aegisub
 air-video-server-hd
 air-video-server
 airserver
+alarm-clock
 alfred
 amazon-music
 amethyst
@@ -76,6 +77,7 @@ bibdesk
 bino
 binreader
 bit-slicer
+bitcasa
 bitcoin-core
 bitlord
 bitmessage
@@ -114,6 +116,7 @@ camtwist
 candybar
 capo
 capsee
+carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -341,7 +344,6 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
-googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -388,7 +390,6 @@ icolors
 iconping
 id3-editor
 identify
-iexplorer
 igetter
 imagealpha
 imagemin
@@ -588,6 +589,7 @@ mysqlworkbench
 nally
 namebench
 namechanger
+navicat-data-modeler
 navicat-for-mariadb
 navicat-for-mysql
 navicat-for-oracle
@@ -614,6 +616,7 @@ node
 nodebox
 nodeclipse
 noejectdelay
+nomachine
 nomacs
 noobproof
 nosleep
@@ -650,6 +653,7 @@ owasp-zap
 owncloud
 p4merge
 p4v
+p5
 padre
 paintbrush
 pandoc
@@ -677,7 +681,6 @@ pg-commander
 pgadmin3
 pgloader
 phantomjs
-pharo
 phoenix-slides
 photoninja
 phpstorm
@@ -691,6 +694,7 @@ plainview
 platypus
 playonmac
 plex-home-theater
+plex-media-server
 plover
 pngcommentator
 pngyu
@@ -837,6 +841,7 @@ skitch
 skreenics
 skydrive
 slack
+slender
 slidemode
 slimbatterymonitor
 sloth
@@ -880,14 +885,12 @@ steermouse
 stella
 stellarium
 streamtools
-strongvpn-client
 sts
 subler
 sublercli
 sublime-text
 subnetcalc
 subsmarine
-subsurface
 subtitle-master
 subtitles
 sunlogin-remote
@@ -911,7 +914,6 @@ tagr
 tagspaces
 tapaal
 tcpblock
-td-agent
 teamspeak-client
 teamviz
 teensy
@@ -999,6 +1001,7 @@ vico
 videomonkey
 videospec
 vienna
+vimediamanager
 vine-server
 virtaal
 virtualbox
@@ -1035,6 +1038,7 @@ winxound
 wireshark
 wiretap-studio
 witgui
+wiznote
 wiztoolsorg-restclient
 wjoy
 woodhouse

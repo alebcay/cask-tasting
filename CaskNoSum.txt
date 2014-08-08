@@ -347,6 +347,7 @@ mixture
 mocksmtp
 moneymoney
 moneyplex
+mongodbpreferencepane
 mongohub
 moom
 mou
