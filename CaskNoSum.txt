@@ -74,6 +74,7 @@ bootchamp
 box-sync
 boxcryptor-classic
 boxer
+browserstacklocal
 brytonbridge
 buddi
 calibre
@@ -399,12 +400,13 @@ paintcode
 papers
 paragon-extfs
 paragon-ntfs
-parallels
 pashua
 password-practice
 path-finder
 paw
+pdfinfo
 pdfpen
+pdfpenpro
 peepopen
 pentaho-data-integration
 phoenix
@@ -435,6 +437,7 @@ preference-manager
 preferencecleaner
 prefs-editor
 private-eye
+private-internet-access
 prizmo
 propane
 proxifier
@@ -497,6 +500,7 @@ sidekick
 sidplay
 silverback
 simple-css
+simplefloatingclock
 simulator-folders
 sitesucker
 sixtyforce
@@ -559,6 +563,7 @@ teleport
 texmaker
 textmate
 textsoap
+tftpserver
 thaiwitter
 the-escapers-flux
 the-hit-list
@@ -615,6 +620,7 @@ window-switch
 windownaut
 wireover
 witch
+wondershare-player
 wuala
 x-mirage
 x2goclient

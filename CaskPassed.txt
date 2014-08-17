@@ -46,6 +46,7 @@ arranger
 aseprite
 asepsis
 atlantis
+atraci
 audacity
 audio-mate
 audiobookbinder
@@ -64,7 +65,6 @@ banshee
 bar-magnet
 baretorrent
 basex
-basictex
 bassjump
 bassshapes
 bathyscaphe
@@ -102,6 +102,7 @@ brow
 brushviewql
 burn
 butter
+bzflag
 c3
 caffeine
 cakebrew
@@ -116,10 +117,10 @@ camtwist
 candybar
 capo
 capsee
-carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
+cathode
 ccleaner
 ccmenu
 cd-to
@@ -217,7 +218,6 @@ diskwave
 displaylink
 djv
 djview
-dmm
 dnscrypt
 dockmod
 dogecoin
@@ -287,6 +287,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fluid
 fluke
 fontexplorer-x-pro
@@ -300,12 +301,12 @@ framer-studio
 free-ruler
 freecad
 freecol
+freefilesync
 freemind
 fritzing
 frostwire
 fs-uae
 fugu
-functionflip
 gambit-c
 gamesalad
 ganttproject
@@ -351,7 +352,7 @@ grabbox
 grandperspective
 graphsketcher
 graphviz
-gridwars
+gravit
 growl-fork
 growler
 growlnotify
@@ -361,6 +362,7 @@ gurps-character-sheet
 gyazo
 hall
 handbrake
+handbrakecli
 hands-off
 haroopad
 hashcat
@@ -378,6 +380,7 @@ horndis
 hoster
 hosts
 hr
+hsang
 httpscoop
 hubic
 hugin
@@ -390,6 +393,7 @@ icolors
 iconping
 id3-editor
 identify
+iexplorer
 igetter
 imagealpha
 imagemin
@@ -421,6 +425,7 @@ ireadfast
 isolator
 isteg
 istopmotion
+istumbler
 iterm2
 itools
 itsycal
@@ -450,12 +455,14 @@ keepassx
 keka
 kensington-trackball-works
 kext-utility
+keycastr
 keycue
 keymo
 keystore-explorer
 kid3
 kindle
 kismac
+kivy
 kiwi
 kkbox
 klayout
@@ -501,7 +508,6 @@ lucidor
 luminance-hdr
 lyn
 lynxlet
-lyrics-master
 lyx
 macaw
 macdown
@@ -517,6 +523,8 @@ mactubes
 macupdate-desktop
 macvim
 macwinzipper
+maczip4win
+madruby
 magic-launch
 mailfollowup
 makehuman
@@ -556,7 +564,6 @@ midikeys
 miditrail
 milkytracker
 mini-metro
-minitimer
 mixxx
 mnemosyne
 money
@@ -653,7 +660,6 @@ owasp-zap
 owncloud
 p4merge
 p4v
-p5
 padre
 paintbrush
 pandoc
@@ -662,6 +668,7 @@ pangu
 panic-unison
 panini
 paparazzi
+parallels
 paraview
 password-gorilla
 pastor
@@ -704,7 +711,6 @@ port-map
 postgres
 powerkey
 powerword
-praat
 preen
 prepros
 prey
@@ -783,7 +789,6 @@ rubymine
 rythem
 sabnzbd
 safaritabswitching
-sage
 satellite-eyes
 scala-ide
 scansnap-manager
@@ -874,6 +879,7 @@ spotify-notifications
 sqleditor
 sqlexplorer
 sqlite-database-browser
+sqlite-professional
 sqlitestudio
 squidman
 squirrel
@@ -891,6 +897,7 @@ sublercli
 sublime-text
 subnetcalc
 subsmarine
+subsurface
 subtitle-master
 subtitles
 sunlogin-remote
@@ -914,6 +921,7 @@ tagr
 tagspaces
 tapaal
 tcpblock
+td-agent
 teamspeak-client
 teamviz
 teensy
@@ -991,17 +999,21 @@ unetbootin
 uninstallpkg
 unison
 unity3d
+universal-media-server
 unpkg
 unrarx
 usb-overdrive
 utc-menu-clock
 vagrant-manager
 vagrant
+vassal
+vessel
 vico
 videomonkey
 videospec
 vienna
 vimediamanager
+vimr
 vine-server
 virtaal
 virtualbox
@@ -1014,8 +1026,8 @@ vlc
 vmware-fusion
 vmware-horizon-view-client
 vocabulist
+volatility
 vyprvpn
-wabbitemu
 wacom-bamboo-tablet
 wacom-tablet
 wake-on-lan
@@ -1034,11 +1046,9 @@ whiteclock
 widelands
 wineskin-winery
 wings3d
-winxound
 wireshark
 wiretap-studio
 witgui
-wiznote
 wiztoolsorg-restclient
 wjoy
 woodhouse
@@ -1055,6 +1065,7 @@ xamarin-android
 xamarin-ios
 xamarin-studio
 xampp
+xaos
 xbench
 xbmc
 xca
@@ -1079,6 +1090,7 @@ zendserver
 zendstudio
 zeroad
 zeroinstall
+zeroxdbe-eap
 zooom
 zotero
 zterm
