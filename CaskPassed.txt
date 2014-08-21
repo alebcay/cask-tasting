@@ -14,7 +14,6 @@ aegisub
 air-video-server-hd
 air-video-server
 airserver
-alarm-clock
 alfred
 amazon-music
 amethyst
@@ -79,7 +78,6 @@ binreader
 bit-slicer
 bitcasa
 bitcoin-core
-bitlord
 bitmessage
 black-light
 blender
@@ -117,6 +115,7 @@ camtwist
 candybar
 capo
 capsee
+carbon-copy-cloner
 carlson-minot
 cartao-de-cidadao
 catch
@@ -188,6 +187,7 @@ cups-pdf
 cura
 curb
 curse-client
+cutesdr
 cx
 cyberduck
 cycling74-max
@@ -201,7 +201,6 @@ debt-quencher
 decitime
 default-folder-x
 deltawalker
-deluge
 deskfun
 desmume
 devonthink-pro-office
@@ -225,7 +224,6 @@ dolphin
 dosbox
 double-commander
 doublecommand
-doubletwist
 doxygen
 dragondisk
 dragthing
@@ -304,9 +302,9 @@ freecol
 freefilesync
 freemind
 fritzing
-frostwire
 fs-uae
 fugu
+functionflip
 gambit-c
 gamesalad
 ganttproject
@@ -345,6 +343,7 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
+googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -353,6 +352,7 @@ grandperspective
 graphsketcher
 graphviz
 gravit
+gridwars
 growl-fork
 growler
 growlnotify
@@ -455,6 +455,7 @@ keepassx
 keka
 kensington-trackball-works
 kext-utility
+key-codes
 keycastr
 keycue
 keymo
@@ -511,7 +512,6 @@ lynxlet
 lyx
 macaw
 macdown
-macdrops
 macfusion
 macgdbp
 machg
@@ -528,7 +528,6 @@ madruby
 magic-launch
 mailfollowup
 makehuman
-makemkv
 makerware
 mame
 mamp
@@ -564,6 +563,7 @@ midikeys
 miditrail
 milkytracker
 mini-metro
+minitimer
 mixxx
 mnemosyne
 money
@@ -592,7 +592,6 @@ musescore
 music-manager
 musicbrainz-picard
 myphonedesktop
-mysqlworkbench
 nally
 namebench
 namechanger
@@ -847,6 +846,7 @@ skreenics
 skydrive
 slack
 slender
+slic3r
 slidemode
 slimbatterymonitor
 sloth
@@ -876,6 +876,7 @@ spek
 splashtop-personal
 splashtop-streamer
 spotify-notifications
+spyder
 sqleditor
 sqlexplorer
 sqlite-database-browser
@@ -887,7 +888,6 @@ sshfs
 ssx
 stackroom
 stay
-steermouse
 stella
 stellarium
 streamtools
@@ -940,7 +940,6 @@ textroom
 texts
 texturepacker
 textwrangler
-the-archive-browser
 the-brain
 the-unarchiver
 theremin
@@ -948,7 +947,6 @@ thetube
 thisservice
 thong
 thumbsup
-thunder
 thunderbird
 thyme
 tickets
@@ -967,7 +965,6 @@ tokaido
 tomahawk
 tomighty
 tongbu
-torbrowser
 totalfinder
 totals
 totalspaces
@@ -1004,6 +1001,7 @@ unpkg
 unrarx
 usb-overdrive
 utc-menu-clock
+utopia
 vagrant-manager
 vagrant
 vassal
@@ -1069,7 +1067,6 @@ xaos
 xbench
 xbmc
 xca
-xee
 xld
 xmarks-safari
 xmind
@@ -1091,6 +1088,7 @@ zendstudio
 zeroad
 zeroinstall
 zeroxdbe-eap
+zoc
 zooom
 zotero
 zterm
