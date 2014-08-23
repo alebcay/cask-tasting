@@ -47,6 +47,7 @@ aviator
 axure-rp-pro
 back-in-time
 backblaze-downloader
+backblaze
 backtobed
 bahamut
 baidumusic
@@ -115,6 +116,7 @@ commandq
 contexts
 coolterm
 copy
+craftstudio
 crashlytics
 crushftp
 cuppa
@@ -137,6 +139,7 @@ displaperture
 diumoo
 divvy
 djay
+docear
 doubanradio
 doxie
 dradio
@@ -265,6 +268,7 @@ itweax
 iupx
 ivolume
 izip
+jaikoz
 jameica
 jdownloader
 jiggler
@@ -400,6 +404,7 @@ paintcode
 papers
 paragon-extfs
 paragon-ntfs
+parse
 pashua
 password-practice
 path-finder
@@ -544,6 +549,7 @@ spotifree
 spotify-menubar
 spotify
 sqwiggle
+srclib
 startninja
 steam
 stockbarjp
@@ -557,6 +563,7 @@ tagalicious
 tagoman
 taskpaper
 tau
+td-toolbelt
 teamviewer
 telegram
 teleport
