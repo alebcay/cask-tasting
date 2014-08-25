@@ -57,7 +57,7 @@ autodmg
 avidemux
 avogadro
 awareness
-baiducloud
+backuploupe
 bankid
 banshee
 bar-magnet
@@ -116,6 +116,7 @@ candybar
 capo
 capsee
 carbon-copy-cloner
+carlson-minot
 cartao-de-cidadao
 catch
 cathode
@@ -205,7 +206,6 @@ deskfun
 desmume
 devonthink-pro-office
 devonthink-pro
-dewdrop
 dfontsplitter
 dia
 diashapes
@@ -414,6 +414,7 @@ instacast
 instead
 insync
 intel-haxm
+intel-power-gadget
 intel-xdk
 intellij-idea-ce
 intellij-idea
@@ -455,6 +456,7 @@ jumpshare
 jxplorer
 kaleidoscope
 karabiner
+katana
 kdiff3
 keepassx
 keka
@@ -511,6 +513,7 @@ logitech-gaming-software
 logitech-harmony
 logitech-myharmony
 logitech-unifying
+lucidor
 luminance-hdr
 lyn
 lynxlet
@@ -531,7 +534,6 @@ macwinzipper
 maczip4win
 madruby
 magic-launch
-mailbox
 mailfollowup
 makehuman
 makerware
@@ -558,6 +560,7 @@ mendeley-desktop
 menubar-countdown
 menuola
 meocloud
+mesasqlite
 meshlab
 metanota
 meteorologist
@@ -582,10 +585,10 @@ monochrome
 monolingual
 monotype-skyfonts
 moreamp
+mosh
 movieply
 mozart
 mp4tools
-mpeg-streamclip
 mplayer-osx-extended
 mplayerx
 mpv
@@ -697,7 +700,6 @@ pg-commander
 pgadmin3
 pgloader
 phantomjs
-pharo
 phoenix-slides
 photoninja
 phpstorm
