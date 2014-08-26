@@ -58,6 +58,7 @@ avidemux
 avogadro
 awareness
 backuploupe
+baiducloud
 bankid
 banshee
 bar-magnet
@@ -68,7 +69,6 @@ bassjump
 bassshapes
 bathyscaphe
 battery-time-remaining
-bbedit
 beacon-scanner
 beardedspice
 beatport-pro
@@ -206,6 +206,7 @@ deskfun
 desmume
 devonthink-pro-office
 devonthink-pro
+dewdrop
 dfontsplitter
 dia
 diashapes
@@ -303,6 +304,7 @@ framer-studio
 free-ruler
 freecad
 freecol
+freedv
 freefilesync
 freemind
 fritzing
@@ -414,7 +416,6 @@ instacast
 instead
 insync
 intel-haxm
-intel-power-gadget
 intel-xdk
 intellij-idea-ce
 intellij-idea
@@ -435,6 +436,7 @@ iterm2
 itools
 itsycal
 itunesscrobbler
+jabber-video
 jabref
 jaspersoft-studio
 java
@@ -490,7 +492,6 @@ launchcontrol
 launchrocket
 launchy
 lazarus
-leap-motion
 libreoffice
 licecap
 lightpaper
@@ -517,6 +518,7 @@ lucidor
 luminance-hdr
 lyn
 lynxlet
+lyrics-master
 lyx
 macaw
 macdown
@@ -534,8 +536,10 @@ macwinzipper
 maczip4win
 madruby
 magic-launch
+mailbox
 mailfollowup
 makehuman
+makemkv
 makerware
 mame
 mamp
@@ -589,6 +593,7 @@ mosh
 movieply
 mozart
 mp4tools
+mpeg-streamclip
 mplayer-osx-extended
 mplayerx
 mpv
