@@ -14,6 +14,7 @@ aegisub
 air-video-server-hd
 air-video-server
 airserver
+alarm-clock
 alfred
 amazon-music
 amethyst
@@ -77,7 +78,7 @@ bino
 binreader
 bit-slicer
 bitcasa
-bitcoin-core
+bitlord
 bitmessage
 black-light
 blender
@@ -156,7 +157,6 @@ coconutbattery
 coda
 codekit
 cog
-colloquy
 colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
@@ -192,7 +192,6 @@ cutesdr
 cx
 cyberduck
 cycling74-max
-daemon-tools-lite
 darktable
 dashlane
 dataurlmaker
@@ -202,6 +201,7 @@ debt-quencher
 decitime
 default-folder-x
 deltawalker
+deluge
 deskfun
 desmume
 devonthink-pro-office
@@ -225,6 +225,7 @@ dolphin
 dosbox
 double-commander
 doublecommand
+doubletwist
 doxygen
 dragondisk
 dragthing
@@ -308,6 +309,7 @@ freedv
 freefilesync
 freemind
 fritzing
+frostwire
 fs-uae
 fugu
 functionflip
@@ -385,7 +387,6 @@ hoppergdbserver
 horndis
 hoster
 hosts
-hr
 hsang
 httpscoop
 hubic
@@ -451,8 +452,8 @@ jetphoto-studio
 jewelrybox
 jitsi
 jubler
-julia-studio
 julia
+juliastudio
 jumpcut
 jumpshare
 jxplorer
@@ -492,6 +493,7 @@ launchcontrol
 launchrocket
 launchy
 lazarus
+levelator
 libreoffice
 licecap
 lightpaper
@@ -514,7 +516,6 @@ logitech-gaming-software
 logitech-harmony
 logitech-myharmony
 logitech-unifying
-lucidor
 luminance-hdr
 lyn
 lynxlet
@@ -522,6 +523,7 @@ lyrics-master
 lyx
 macaw
 macdown
+macdrops
 macfusion
 macgdbp
 machg
@@ -765,6 +767,7 @@ qqbrowser
 qqinput
 qqmusic
 qrfcview
+qrq
 qt-creator
 quassel-client
 quick-search-box
@@ -802,7 +805,6 @@ robomongo
 rocks-n-diamonds
 royal-tsx
 rstudio
-rubitrack
 rubymine
 rythem
 sabnzbd
@@ -859,6 +861,7 @@ simon
 simpholders
 simple-comic
 simplecap
+simpless
 simplesynth
 simpletag
 skim
@@ -916,6 +919,7 @@ stellarium
 streamtools
 sts
 subclassed-mnemosyne
+subl
 subler
 sublercli
 sublime-text
@@ -964,6 +968,7 @@ textroom
 texts
 texturepacker
 textwrangler
+the-archive-browser
 the-brain
 the-unarchiver
 theremin
@@ -971,6 +976,7 @@ thetube
 thisservice
 thong
 thumbsup
+thunder
 thunderbird
 thyme
 tickets
@@ -989,6 +995,7 @@ tokaido
 tomahawk
 tomighty
 tongbu
+torbrowser
 totalfinder
 totals
 totalspaces
@@ -1089,8 +1096,8 @@ xamarin-studio
 xampp
 xaos
 xbench
-xbmc
 xca
+xee
 xld
 xmarks-safari
 xmind

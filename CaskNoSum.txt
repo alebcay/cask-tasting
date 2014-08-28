@@ -154,6 +154,7 @@ ember
 emin-webpquicklook
 entropy
 epic
+epubquicklook
 espionage
 espresso
 etrecheck
@@ -219,6 +220,7 @@ groovesquid
 handbrakebatch
 harvest
 hazel
+hbuilder
 heart
 heroku-toolbelt
 hex-fiend
@@ -325,7 +327,6 @@ mail-plugin-manager
 mailmate
 mailplane
 majic
-mangao
 marked
 master-key
 mavensmate
