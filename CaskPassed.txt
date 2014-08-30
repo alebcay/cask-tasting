@@ -47,6 +47,7 @@ arranger
 aseprite
 asepsis
 atlantis
+atraci
 audacity
 audio-mate
 audiobookbinder
@@ -78,7 +79,6 @@ bino
 binreader
 bit-slicer
 bitcasa
-bitcoin-core
 bitlord
 bitmessage
 black-light
@@ -187,7 +187,6 @@ cryptol
 ctivo
 cuda-z
 cups-pdf
-cura
 curb
 curse-client
 cutesdr
@@ -271,6 +270,7 @@ epub-to-pdf
 escritorio-movistar
 evasi0n
 eye-fi
+eyetv
 facebook-ios-sdk
 factor
 fairmount
@@ -420,6 +420,7 @@ instacast
 instead
 insync
 intel-haxm
+intel-power-gadget
 intel-xdk
 intellij-idea-ce
 intellij-idea
@@ -486,6 +487,7 @@ kobito
 kod
 komanda
 komodo-edit
+komodo-ide
 kompozer
 ksdiff
 kvirc
@@ -505,6 +507,7 @@ lilypond
 limechat
 lingrradar
 linphone
+litecoin
 liteicon
 liteide
 little-snitch
@@ -681,6 +684,7 @@ owasp-zap
 owncloud
 p4merge
 p4v
+p5
 padre
 paintbrush
 pandoc
@@ -713,8 +717,6 @@ phantomjs
 phoenix-slides
 photoninja
 phpstorm
-pi-filler
-pianopub
 picasa
 pinta
 pivotalbooster
@@ -931,6 +933,7 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -1104,7 +1107,6 @@ xca
 xee
 xld
 xmarks-safari
-xmind
 xquartz
 xrg
 xscope
