@@ -288,6 +288,7 @@ keyboard-maestro
 keyboardcleantool
 keyfinder
 kindle-previewer
+kitematic
 knock
 kobo
 kuaipan

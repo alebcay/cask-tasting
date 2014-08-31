@@ -79,6 +79,7 @@ bino
 binreader
 bit-slicer
 bitcasa
+bitcoin-core
 bitlord
 bitmessage
 black-light
@@ -187,6 +188,7 @@ cryptol
 ctivo
 cuda-z
 cups-pdf
+cura
 curb
 curse-client
 cutesdr
@@ -212,7 +214,6 @@ devonthink-pro
 dewdrop
 dfontsplitter
 dia
-diashapes
 dictunifier
 diffmerge
 disk-inventory-x
@@ -528,7 +529,6 @@ lynxlet
 lyrics-master
 lyx
 macaw
-macdown
 macdrops
 macfusion
 macgdbp
@@ -717,10 +717,12 @@ phantomjs
 phoenix-slides
 photoninja
 phpstorm
+pi-filler
 picasa
 pinta
 pivotalbooster
 pixel-check
+pixlr
 plainview
 platypus
 playonmac
@@ -1083,7 +1085,6 @@ wings3d
 wireshark
 wiretap-studio
 witgui
-wiznote
 wiztoolsorg-restclient
 wjoy
 woodhouse
@@ -1107,6 +1108,7 @@ xca
 xee
 xld
 xmarks-safari
+xmind
 xquartz
 xrg
 xscope

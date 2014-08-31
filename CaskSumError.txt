@@ -5,11 +5,10 @@ b2designer
 baiduinput
 basecamp
 bbedit
-bitcoin-core
 black-ink
 chainsaw
-cura
 delivery-status
+diashapes
 dmm
 electrum-ltc
 fakethunder
@@ -22,6 +21,7 @@ justlooking
 leap-motion
 librecad
 love
+macdown
 macmoney
 mamp
 marsedit
@@ -30,7 +30,6 @@ noiz2sa
 pagico
 pcsxr
 pharo
-pi-filler
 pianopub
 praat
 propresenter
@@ -47,4 +46,4 @@ tuneinstructor
 vuescan
 wabbitemu
 winxound
-xmind
+wiznote
