@@ -3,12 +3,12 @@ ax88179
 ax88772
 b2designer
 baiduinput
+bar-magnet
 basecamp
 bbedit
 black-ink
 chainsaw
 delivery-status
-diashapes
 dmm
 electrum-ltc
 fakethunder
@@ -21,16 +21,13 @@ justlooking
 leap-motion
 librecad
 love
-macdown
 macmoney
-mamp
 marsedit
 navicat-premium
 noiz2sa
 pagico
 pcsxr
 pharo
-pianopub
 praat
 propresenter
 qiyimedia
@@ -46,4 +43,3 @@ tuneinstructor
 vuescan
 wabbitemu
 winxound
-wiznote

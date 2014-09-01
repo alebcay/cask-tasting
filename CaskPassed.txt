@@ -63,7 +63,6 @@ backuploupe
 baiducloud
 bankid
 banshee
-bar-magnet
 baretorrent
 basex
 basictex
@@ -214,6 +213,7 @@ devonthink-pro
 dewdrop
 dfontsplitter
 dia
+diashapes
 dictunifier
 diffmerge
 disk-inventory-x
@@ -529,6 +529,7 @@ lynxlet
 lyrics-master
 lyx
 macaw
+macdown
 macdrops
 macfusion
 macgdbp
@@ -550,6 +551,7 @@ makehuman
 makemkv
 makerware
 mame
+mamp
 manager
 manico
 mapture
@@ -718,6 +720,7 @@ phoenix-slides
 photoninja
 phpstorm
 pi-filler
+pianopub
 picasa
 pinta
 pivotalbooster
@@ -1085,6 +1088,7 @@ wings3d
 wireshark
 wiretap-studio
 witgui
+wiznote
 wiztoolsorg-restclient
 wjoy
 woodhouse
