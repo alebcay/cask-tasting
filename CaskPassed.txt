@@ -61,7 +61,6 @@ avogadro
 awareness
 backuploupe
 baiducloud
-baiduinput
 bankid
 banshee
 bar-magnet
@@ -597,7 +596,6 @@ mono-mre
 monochrome
 monolingual
 monotype-skyfonts
-moreamp
 mosh
 movieply
 mozart
@@ -787,7 +785,6 @@ quickradar
 quicksilver
 quiterss
 quotefixformac
-qvod-player
 r
 racket
 radiant-player
@@ -938,6 +935,7 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
+sunlogin-remote
 super-otr
 supercollider
 supertuxkart
@@ -969,7 +967,6 @@ tex-live-utility
 texmacs
 texnicle
 texpad
-texshop
 texstudio
 textadept
 textexpander
@@ -1004,7 +1001,7 @@ tokaido
 tomahawk
 tomighty
 tongbu
-torbrowser
+tortoisehg
 totalfinder
 totals
 totalspaces
@@ -1087,7 +1084,6 @@ wings3d
 wireshark
 wiretap-studio
 witgui
-wiznote
 wiztoolsorg-restclient
 wjoy
 woodhouse
@@ -1111,3 +1107,26 @@ xca
 xee
 xld
 xmarks-safari
+xmind
+xquartz
+xrg
+xscope
+xscreensaver
+xslimmer
+xtorrent
+yacreader
+ynab
+yojimbo
+youll-never-take-me-alive
+yubikey-personalization-gui
+yubiswitch
+zed
+zendserver
+zendstudio
+zeroad
+zeroinstall
+zeroxdbe-eap
+zoc
+zooom
+zotero
+zterm
