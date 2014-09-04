@@ -7,6 +7,7 @@ basecamp
 bbedit
 black-ink
 chainsaw
+coqide
 delivery-status
 dmm
 electrum-ltc
@@ -25,6 +26,7 @@ macmoney
 makemkv
 marsedit
 moreamp
+navicat-data-modeler
 navicat-premium
 noiz2sa
 pagico
@@ -33,10 +35,10 @@ pharo
 praat
 propresenter
 qiyimedia
-qvod-player
 rrootage
 rubitrack
 sharetool
+sogouinput
 splayerx
 squire
 strongvpn-client
@@ -48,4 +50,3 @@ tuneinstructor
 vuescan
 wabbitemu
 winxound
-wiznote

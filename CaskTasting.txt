@@ -1,4 +1,4 @@
-Check started at Wed Sep  3 00:01:02 EDT 2014
+Check started at Thu Sep  4 00:00:57 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -128,7 +128,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: 57d50c7991e0d833ed5b34297168745590074d838f6948469dbaf8b92a84e082
-  Actual  : 6df6a491cbea81bb19d75e1b497a3f29ad0dbf27239ba344b93eefed36e18d91
+  Actual  : c37a6332d2012f4351b69b1c6aab5e9a7ed60513691b59af59031bb9e77cba6a
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -321,7 +321,9 @@ controlplane: passed
 coolterm: no checksum
 cooviewer: passed
 copy: no checksum
-coqide: passed
+coqide: SHA-256 mismatch!
+  Expected: b476b95b60940f347f515decf4e5d4d35499ffa5080df9027395b47c9561b9b0
+  Actual  : 
 cord: passed
 cornerstone: passed
 corsixth: passed
@@ -554,7 +556,7 @@ freecol: passed
 freedv: passed
 freefilesync: SHA-256 mismatch!
   Expected: e58877de19545e069bf44a0ba2a5c62081fc7d47861cfa997847a762180b9ad0
-  Actual  : be49979183b4e9e3fbc1621d161cc387bc77a1b1afda0a3680858acd1a1ea2c4
+  Actual  : d472fa9283354e075584dc47e5497726ddb35abf223820ce6c890784d3572490
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -1074,7 +1076,9 @@ namebench: passed
 namechanger: passed
 namely: no checksum
 narrative-uploader: no checksum
-navicat-data-modeler: passed
+navicat-data-modeler: SHA-256 mismatch!
+  Expected: de0f1dbb450401f9ce29948886b60167508ccca621162a9ab9a805d54d574bbb
+  Actual  : 0dd1cc2d9b6fff679bf6a179fd4396219ead004fa04bb51bc9a8dc3e3d6237e1
 navicat-for-mariadb: passed
 navicat-for-mysql: passed
 navicat-for-oracle: passed
@@ -1207,7 +1211,7 @@ paye-tools: passed
 pcalc: passed
 pcsxr: SHA-256 mismatch!
   Expected: e7361ceb8dc9089cae084ce119a5dc4119cab22bb5d79ebf55af596b7e7eb916
-  Actual  : b6fe4ebd5f24faeb5af5be4de4a3bafb92f67667b314dbb20b8baf2ea65b2ec2
+  Actual  : 5aeba666da79a04c39b9fa608a4e39c9813b062368bc7c319b7cc803f38e5e8a
 pd-extended: passed
 pdfinfo: no checksum
 pdfmasher: passed
@@ -1356,9 +1360,7 @@ quickradar: passed
 quicksilver: passed
 quiterss: passed
 quotefixformac: passed
-qvod-player: SHA-256 mismatch!
-  Expected: e824084e6a0539be3f30da795938b45c0f88bdb49794f61615a5753aedd92c4e
-  Actual  : d9f2b8627594d53f4831bd7cb4d1111adaa2dd6d90d38a97cddbed4ef1b935c2
+qvod-player: passed
 r-name: no checksum
 r: passed
 racket: passed
@@ -1542,7 +1544,9 @@ snippet-edit: passed
 snippets: passed
 sococo: passed
 sofortbild: no checksum
-sogouinput: passed
+sogouinput: SHA-256 mismatch!
+  Expected: bd42ec923c457e9186bc2ebddb1c27f1e62122e41515a77d8e701efaedf1a28e
+  Actual  : 9df83943493cb6ad1f49de76a5e616c984293ecce9e9b21384e8941c9db2f1af
 soleol: no checksum
 sonic-visualiser: passed
 sonora: no checksum
@@ -1750,6 +1754,7 @@ transmit: passed
 treemaker: passed
 treesheets: no checksum
 tresorit: no checksum
+tribler: passed
 trickster: passed
 trim-enabler: no checksum
 truecrypt: passed
@@ -1829,11 +1834,11 @@ volatility: passed
 vox-preference-pane: no checksum
 vuescan: SHA-256 mismatch!
   Expected: a6e82863f7d6fc34400f678fb4de3cf5af6cbde9a20693ff4bfb5d95ad59f398
-  Actual  : 
+  Actual  : e9e4071e06f65ef2aea54cd29ffa3edfd1d0169dad77febd84792ecddbc7cc5a
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : 6779921521e89ef0f087cb7ec110d5ee22ef16301936799eaf99768acf06be73
+  Actual  : 7aff7290acb917b2fb5e8159429bd4ff231788edfcea17dda87febaa946e5604
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wake-on-lan: passed
@@ -1863,15 +1868,13 @@ wineskin-winery: passed
 wings3d: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : 61d498eb1b9f97b9766f275b2c5e7fd904ad8b876ed8d381b1b20912e3ddb030
+  Actual  : 20bbb15543fbdc9611f185c194af2962f2f312a8e121a4afa349b2f95569220c
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
 witch: no checksum
 witgui: passed
-wiznote: SHA-256 mismatch!
-  Expected: 662887408953881fda4d5aef2f8577a09f495d1c11e6607af578b2418ed62e87
-  Actual  : 73950078c76cbdd52ff0ea98d88f54a1af3967c74e6392e61fccfacd712a5725
+wiznote: passed
 wiztoolsorg-restclient: passed
 wjoy: passed
 wondershare-player: no checksum
@@ -1944,4 +1947,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Sep  3 19:20:18 EDT 2014
+Check finished at Thu Sep  4 13:42:36 EDT 2014

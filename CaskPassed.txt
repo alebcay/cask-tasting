@@ -174,7 +174,6 @@ consul
 controllermate
 controlplane
 cooviewer
-coqide
 cord
 cornerstone
 corsixth
@@ -618,7 +617,6 @@ mysqlworkbench
 nally
 namebench
 namechanger
-navicat-data-modeler
 navicat-for-mariadb
 navicat-for-mysql
 navicat-for-oracle
@@ -785,6 +783,7 @@ quickradar
 quicksilver
 quiterss
 quotefixformac
+qvod-player
 r
 racket
 radiant-player
@@ -890,7 +889,6 @@ snip
 snippet-edit
 snippets
 sococo
-sogouinput
 sonic-visualiser
 sonos
 sopcast
@@ -1012,6 +1010,7 @@ transmission-remote-gui
 transmission
 transmit
 treemaker
+tribler
 trickster
 truecrypt
 tunnelbear
@@ -1084,6 +1083,7 @@ wings3d
 wireshark
 wiretap-studio
 witgui
+wiznote
 wiztoolsorg-restclient
 wjoy
 woodhouse
