@@ -174,6 +174,7 @@ consul
 controllermate
 controlplane
 cooviewer
+coqide
 cord
 cornerstone
 corsixth
@@ -617,6 +618,7 @@ mysqlworkbench
 nally
 namebench
 namechanger
+navicat-data-modeler
 navicat-for-mariadb
 navicat-for-mysql
 navicat-for-oracle
@@ -717,7 +719,6 @@ photoninja
 phpstorm
 pi-filler
 pianopub
-picasa
 pinta
 pivotalbooster
 pixel-check
@@ -889,6 +890,7 @@ snip
 snippet-edit
 snippets
 sococo
+sogouinput
 sonic-visualiser
 sonos
 sopcast
@@ -965,6 +967,7 @@ tex-live-utility
 texmacs
 texnicle
 texpad
+texshop
 texstudio
 textadept
 textexpander
@@ -999,6 +1002,7 @@ tokaido
 tomahawk
 tomighty
 tongbu
+torbrowser
 tortoisehg
 totalfinder
 totals

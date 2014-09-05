@@ -1,4 +1,4 @@
-Check started at Thu Sep  4 00:00:57 EDT 2014
+Check started at Fri Sep  5 00:00:59 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -128,7 +128,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: 57d50c7991e0d833ed5b34297168745590074d838f6948469dbaf8b92a84e082
-  Actual  : c37a6332d2012f4351b69b1c6aab5e9a7ed60513691b59af59031bb9e77cba6a
+  Actual  : 3b2bc08cbbe225208bc6b765df1ddb1bbaa826af54331079a754b907778eae33
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -321,9 +321,7 @@ controlplane: passed
 coolterm: no checksum
 cooviewer: passed
 copy: no checksum
-coqide: SHA-256 mismatch!
-  Expected: b476b95b60940f347f515decf4e5d4d35499ffa5080df9027395b47c9561b9b0
-  Actual  : 
+coqide: passed
 cord: passed
 cornerstone: passed
 corsixth: passed
@@ -556,7 +554,7 @@ freecol: passed
 freedv: passed
 freefilesync: SHA-256 mismatch!
   Expected: e58877de19545e069bf44a0ba2a5c62081fc7d47861cfa997847a762180b9ad0
-  Actual  : d472fa9283354e075584dc47e5497726ddb35abf223820ce6c890784d3572490
+  Actual  : b828f361f92eb31456419e4c661330617291532caabbcc31b2e30dfea9407a80
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -1076,9 +1074,7 @@ namebench: passed
 namechanger: passed
 namely: no checksum
 narrative-uploader: no checksum
-navicat-data-modeler: SHA-256 mismatch!
-  Expected: de0f1dbb450401f9ce29948886b60167508ccca621162a9ab9a805d54d574bbb
-  Actual  : 0dd1cc2d9b6fff679bf6a179fd4396219ead004fa04bb51bc9a8dc3e3d6237e1
+navicat-data-modeler: passed
 navicat-for-mariadb: passed
 navicat-for-mysql: passed
 navicat-for-oracle: passed
@@ -1211,7 +1207,7 @@ paye-tools: passed
 pcalc: passed
 pcsxr: SHA-256 mismatch!
   Expected: e7361ceb8dc9089cae084ce119a5dc4119cab22bb5d79ebf55af596b7e7eb916
-  Actual  : 5aeba666da79a04c39b9fa608a4e39c9813b062368bc7c319b7cc803f38e5e8a
+  Actual  : 71c0ac73f5415953b953b86e8309610de243422544d4c4680fb88fafceaccf58
 pd-extended: passed
 pdfinfo: no checksum
 pdfmasher: passed
@@ -1242,7 +1238,9 @@ photoninja: passed
 phpstorm: passed
 pi-filler: passed
 pianopub: passed
-picasa: passed
+picasa: SHA-256 mismatch!
+  Expected: a3c4f0f0fdb94471e024469f83b29be333a8f3359aea1c5e0bfeca0d6b5c5d62
+  Actual  : 189f57b3dd13fb40fc473c2569400744e82c51221de0d360be513ba0fdeb911e
 picturesque: no checksum
 piezo: no checksum
 pinegrow-web-designer: no checksum
@@ -1544,9 +1542,7 @@ snippet-edit: passed
 snippets: passed
 sococo: passed
 sofortbild: no checksum
-sogouinput: SHA-256 mismatch!
-  Expected: bd42ec923c457e9186bc2ebddb1c27f1e62122e41515a77d8e701efaedf1a28e
-  Actual  : 9df83943493cb6ad1f49de76a5e616c984293ecce9e9b21384e8941c9db2f1af
+sogouinput: passed
 soleol: no checksum
 sonic-visualiser: passed
 sonora: no checksum
@@ -1672,9 +1668,7 @@ texmacs: passed
 texmaker: no checksum
 texnicle: passed
 texpad: passed
-texshop: SHA-256 mismatch!
-  Expected: 5520a66578fde2bf7d9a1e33c446935f5c43f0c2c0f235c710130f0dbd2691f4
-  Actual  : 
+texshop: passed
 texstudio: passed
 textadept: passed
 textexpander: passed
@@ -1732,9 +1726,7 @@ tomighty: passed
 tongbu: passed
 tonido: no checksum
 toodledo: no checksum
-torbrowser: SHA-256 mismatch!
-  Expected: 3f4900230877fc3e8660630e470cd2a4fcf1208787870d74b725347867d525ce
-  Actual  : 
+torbrowser: passed
 torpedo: no checksum
 tortoisehg: passed
 torustrooper: SHA-256 mismatch!
@@ -1838,7 +1830,7 @@ vuescan: SHA-256 mismatch!
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : 7aff7290acb917b2fb5e8159429bd4ff231788edfcea17dda87febaa946e5604
+  Actual  : 565857c248431a760cb46f7b8d995fc59665b3b6d1ffbf01ac611471f7dbe467
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wake-on-lan: passed
@@ -1868,7 +1860,7 @@ wineskin-winery: passed
 wings3d: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : 20bbb15543fbdc9611f185c194af2962f2f312a8e121a4afa349b2f95569220c
+  Actual  : cf884ac7ce24133536daeb0ad166091d70a8aa581302c90109cbf7b31b0fceab
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
@@ -1947,4 +1939,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Thu Sep  4 13:42:36 EDT 2014
+Check finished at Fri Sep  5 09:41:36 EDT 2014
