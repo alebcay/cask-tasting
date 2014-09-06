@@ -1,8 +1,9 @@
-Check started at Fri Sep  5 00:00:59 EDT 2014
+Check started at Sat Sep  6 00:00:59 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
 abgx360: passed
+abscissa: passed
 accessmenubarapps: passed
 acorn: no checksum
 actions-server: no checksum
@@ -10,6 +11,7 @@ actiontastic: passed
 activity-audit: no checksum
 actotracker: no checksum
 actprinter: passed
+actual-odbc-pack: no checksum
 adapter: passed
 adium: passed
 adobe-air: passed
@@ -128,7 +130,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: 57d50c7991e0d833ed5b34297168745590074d838f6948469dbaf8b92a84e082
-  Actual  : 3b2bc08cbbe225208bc6b765df1ddb1bbaa826af54331079a754b907778eae33
+  Actual  : 03bff6260257dcd1476f0a8cad5eadd910ab5ea15a73cec8a19705cb9ef9699b
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: passed
@@ -141,7 +143,9 @@ basecamp: SHA-256 mismatch!
   Expected: 674e75cc54d4e87925f3b6d095bd09efd9551c2a622c790178cf70a28deb85d3
   Actual  : 
 basex: passed
-basictex: passed
+basictex: SHA-256 mismatch!
+  Expected: 02b2c0160ddd7a74f25b2ea58d1a79deec9b2230ff41d0c45c1c3157fa607afc
+  Actual  : 
 bassjump: passed
 bassshapes: passed
 bathyscaphe: passed
@@ -260,7 +264,9 @@ chromecast: passed
 chromium: passed
 chronicle: no checksum
 chronoagent: no checksum
-chronomate: passed
+chronomate: SHA-256 mismatch!
+  Expected: 76b2f87b088c57aac7dfd18215b07e078d453ed351af056db25bb78d67e4862b
+  Actual  : 
 chronosync: no checksum
 chunkulus: no checksum
 cinch: no checksum
@@ -474,6 +480,7 @@ evernote: no checksum
 everweb: no checksum
 evom: no checksum
 exhaust: no checksum
+exist-db: passed
 expandrive: no checksum
 eye-fi: passed
 eyetv: passed
@@ -481,9 +488,7 @@ facebook-ios-sdk: passed
 factor: passed
 fairmount: passed
 fake: passed
-fakethunder: SHA-256 mismatch!
-  Expected: 42ce5c0f836a17b18591816359a5a4656a7910ae3a80f83e1d1422dd995fde00
-  Actual  : 
+fakethunder: passed
 fantastical: passed
 fastscripts: SHA-256 mismatch!
   Expected: 76d8aa61d754f4c94ce53071d6afa2826d0a6390ba6ddae40c2f530475e2cb54
@@ -498,6 +503,7 @@ fender-amp-drivers: SHA-256 mismatch!
   Actual  : 
 fender-fuse: passed
 fenix: passed
+fetch: passed
 ffmpegx: no checksum
 figtree: no checksum
 fiji: no checksum
@@ -554,7 +560,7 @@ freecol: passed
 freedv: passed
 freefilesync: SHA-256 mismatch!
   Expected: e58877de19545e069bf44a0ba2a5c62081fc7d47861cfa997847a762180b9ad0
-  Actual  : b828f361f92eb31456419e4c661330617291532caabbcc31b2e30dfea9407a80
+  Actual  : 9f652b62b66faf694e3344bfcf2f059872326cd8fd53f6353c333b77c42f252e
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -602,6 +608,7 @@ gitx-l: passed
 gitx-rowanj: no checksum
 gitx: no checksum
 gity: no checksum
+glcplayer: passed
 glimmerblocker: passed
 glo: no checksum
 globalsync: no checksum
@@ -703,6 +710,7 @@ ibackup: passed
 ibank: no checksum
 ibettercharge: no checksum
 iboostup: no checksum
+ibrowse: passed
 icefloor: passed
 ichm: passed
 icolors: passed
@@ -1207,7 +1215,7 @@ paye-tools: passed
 pcalc: passed
 pcsxr: SHA-256 mismatch!
   Expected: e7361ceb8dc9089cae084ce119a5dc4119cab22bb5d79ebf55af596b7e7eb916
-  Actual  : 71c0ac73f5415953b953b86e8309610de243422544d4c4680fb88fafceaccf58
+  Actual  : 83afa4b6ad150f0d6caa3c9eb085f2ee74ce19ef2de3f01a10dac225b6e4e05a
 pd-extended: passed
 pdfinfo: no checksum
 pdfmasher: passed
@@ -1723,7 +1731,9 @@ toggldesktop: no checksum
 tokaido: passed
 tomahawk: passed
 tomighty: passed
-tongbu: passed
+tongbu: SHA-256 mismatch!
+  Expected: 009756069214508931deda67499f9c0274722ebecba29f5d6c78c55f770b3b9d
+  Actual  : e58336ba54ff961e23d1646c5263a2d03b6095cd844ff422a24e5d752f007831
 tonido: no checksum
 toodledo: no checksum
 torbrowser: passed
@@ -1830,7 +1840,7 @@ vuescan: SHA-256 mismatch!
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : 565857c248431a760cb46f7b8d995fc59665b3b6d1ffbf01ac611471f7dbe467
+  Actual  : 7e3cfdcb8584515563be919ccaba1f4a8960e5194b5719483f58a06317e93750
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wake-on-lan: passed
@@ -1860,7 +1870,7 @@ wineskin-winery: passed
 wings3d: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : cf884ac7ce24133536daeb0ad166091d70a8aa581302c90109cbf7b31b0fceab
+  Actual  : bbc9d28eec0959a951836e57949c2fb9119a1c43922162828cd90bea028f29d6
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
@@ -1939,4 +1949,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Fri Sep  5 09:41:36 EDT 2014
+Check finished at Sat Sep  6 11:24:00 EDT 2014

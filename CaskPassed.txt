@@ -1,5 +1,6 @@
 a-slower-speed-of-light
 abgx360
+abscissa
 accessmenubarapps
 actiontastic
 actprinter
@@ -66,7 +67,6 @@ banshee
 bar-magnet
 baretorrent
 basex
-basictex
 bassjump
 bassshapes
 bathyscaphe
@@ -138,7 +138,6 @@ chirp
 choosy
 chromecast
 chromium
-chronomate
 clamxav
 clementine
 clipmenu
@@ -271,18 +270,21 @@ enjoyable
 epub-to-pdf
 escritorio-movistar
 evasi0n
+exist-db
 eye-fi
 eyetv
 facebook-ios-sdk
 factor
 fairmount
 fake
+fakethunder
 fantastical
 feedbinnotifier
 feeder
 feeds
 fender-fuse
 fenix
+fetch
 filebot
 fileshuttle
 filezilla
@@ -345,6 +347,7 @@ gitbox
 gitifier
 gitter
 gitx-l
+glcplayer
 glimmerblocker
 gmail-notifier
 gmail-notifr
@@ -398,6 +401,7 @@ hugin
 hyro
 iannix
 ibackup
+ibrowse
 icefloor
 ichm
 icolors
@@ -1001,7 +1005,6 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
 torbrowser
 tortoisehg
 totalfinder

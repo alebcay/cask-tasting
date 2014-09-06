@@ -4,13 +4,14 @@ ax88772
 b2designer
 baiduinput
 basecamp
+basictex
 bbedit
 black-ink
 chainsaw
+chronomate
 delivery-status
 dmm
 electrum-ltc
-fakethunder
 fastscripts
 fender-amp-drivers
 fm-fw-installer
@@ -41,6 +42,7 @@ splayerx
 squire
 strongvpn-client
 tk-suite-client
+tongbu
 torustrooper
 tuneinstructor
 vuescan
