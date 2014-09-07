@@ -67,6 +67,7 @@ banshee
 bar-magnet
 baretorrent
 basex
+basictex
 bassjump
 bassshapes
 bathyscaphe
@@ -138,6 +139,7 @@ chirp
 choosy
 chromecast
 chromium
+chronomate
 clamxav
 clementine
 clipmenu
@@ -589,6 +591,7 @@ milkytracker
 mini-metro
 minitimer
 mixxx
+mjolnir
 mkvtoolnix
 mnemosyne
 money
@@ -1005,6 +1008,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 tortoisehg
 totalfinder

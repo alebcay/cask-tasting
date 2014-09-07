@@ -131,6 +131,7 @@ day-o
 dealalert
 debookee
 deeper
+deeq
 delibar
 delicious-library
 desktop-log
