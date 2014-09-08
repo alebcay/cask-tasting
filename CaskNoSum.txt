@@ -382,6 +382,7 @@ nicecast
 nike-plus-connect
 nitrous-desktop
 noisy
+noiz2sa
 notational-velocity
 nothing-to-hide
 notifyr
@@ -481,6 +482,7 @@ ridibooks
 rightzoom
 ringtones
 ripit
+rrootage
 rss
 rtx
 runtastic-connect
@@ -501,6 +503,7 @@ scribbleton
 scriptql
 scrivener
 sdrdx
+semulov
 serial-tools
 servus
 shades
@@ -595,6 +598,7 @@ toggldesktop
 tonido
 toodledo
 torpedo
+torustrooper
 tower
 trailrunner
 treesheets

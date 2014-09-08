@@ -52,6 +52,7 @@ atraci
 audacity
 audio-mate
 audiobookbinder
+audioscrobbler
 audioslicer
 aurora
 authoxy
@@ -66,12 +67,14 @@ bankid
 banshee
 bar-magnet
 baretorrent
+basecamp
 basex
 basictex
 bassjump
 bassshapes
 bathyscaphe
 battery-time-remaining
+bbedit
 beacon-scanner
 beardedspice
 beatport-pro
@@ -83,6 +86,7 @@ bitcasa
 bitcoin-core
 bitlord
 bitmessage
+black-ink
 black-light
 blender
 blink1control
@@ -299,7 +303,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fliqlo
 fluid
 fluke
@@ -396,6 +399,7 @@ hoppergdbserver
 horndis
 hoster
 hosts
+hr
 hsang
 httpscoop
 hubic
@@ -528,6 +532,7 @@ logitech-gaming-software
 logitech-harmony
 logitech-myharmony
 logitech-unifying
+love
 lucidor
 luminance-hdr
 lyn
@@ -535,7 +540,6 @@ lynxlet
 lyrics-master
 lyx
 macaw
-macdown
 macdrops
 macfusion
 macgdbp
@@ -553,7 +557,6 @@ madruby
 magic-launch
 mailbox
 mailfollowup
-makehuman
 makerware
 mame
 mamp
@@ -562,6 +565,7 @@ manico
 mapture
 maratis
 marble
+marsedit
 matplotlib
 mauve
 max
@@ -721,11 +725,13 @@ pg-commander
 pgadmin3
 pgloader
 phantomjs
+pharo
 phoenix-slides
 photoninja
 phpstorm
 pi-filler
 pianopub
+picasa
 pinta
 pivotalbooster
 pixel-check
