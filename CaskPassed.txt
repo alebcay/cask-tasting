@@ -63,7 +63,6 @@ avogadro
 awareness
 backuploupe
 baiducloud
-bankid
 banshee
 bar-magnet
 baretorrent
@@ -146,6 +145,7 @@ chromium
 chronomate
 clamxav
 clementine
+clion-eap
 clipmenu
 clix
 cloak
@@ -156,6 +156,7 @@ cloudfoundry-cli
 cloudytabs
 cn3d
 coccinellida
+cockatrice
 cocoadialog
 cocoapacketanalyzer
 cocoarestclient
@@ -285,6 +286,7 @@ fairmount
 fake
 fakethunder
 fantastical
+fastest-free-youtube-downloader
 feedbinnotifier
 feeder
 feeds
@@ -303,6 +305,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fliqlo
 fluid
 fluke
@@ -363,7 +366,6 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
-googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -540,6 +542,7 @@ lynxlet
 lyrics-master
 lyx
 macaw
+macdown
 macdrops
 macfusion
 macgdbp
@@ -557,6 +560,7 @@ madruby
 magic-launch
 mailbox
 mailfollowup
+makehuman
 makerware
 mame
 mamp
@@ -703,7 +707,6 @@ pandora-one
 pangu
 panic-unison
 panini
-paparazzi
 parallels
 paraview
 password-gorilla
@@ -854,6 +857,7 @@ secrets
 seil
 selfcontrol
 selflanguage-self-control
+semulov
 send-to-kindle
 sensiolabsdesktop
 sente
@@ -1067,7 +1071,6 @@ vimediamanager
 vimr
 vine-server
 virtaal
-virtualbox
 virustotaluploader
 visit
 vistrails

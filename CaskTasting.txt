@@ -1,4 +1,4 @@
-Check started at Mon Sep  8 00:01:02 EDT 2014
+Check started at Tue Sep  9 00:01:09 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -131,10 +131,10 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: 57d50c7991e0d833ed5b34297168745590074d838f6948469dbaf8b92a84e082
-  Actual  : 66d6a0a30ba49c0fb67316a4e074015fe6617c436e0734a4c56a4aeaa21a010a
+  Actual  : 37af6ccc666c0f0db2fcc37fc5e28e51074520dfc094e747d2200753fd6c4b58
 baidumusic: no checksum
 balsamiq-mockups: no checksum
-bankid: passed
+bankid: no checksum
 banshee: passed
 bar-magnet: passed
 baretorrent: passed
@@ -266,6 +266,7 @@ clamxav: passed
 clarify: no checksum
 cleanmymac: no checksum
 clementine: passed
+clion-eap: passed
 clipmenu: passed
 clix: passed
 cloak: passed
@@ -279,6 +280,7 @@ cloudup: no checksum
 cloudytabs: passed
 cn3d: passed
 coccinellida: passed
+cockatrice: passed
 cocktail: no checksum
 cocoadialog: passed
 cocoapacketanalyzer: passed
@@ -482,6 +484,7 @@ fairmount: passed
 fake: passed
 fakethunder: passed
 fantastical: passed
+fastest-free-youtube-downloader: passed
 fastscripts: SHA-256 mismatch!
   Expected: 76d8aa61d754f4c94ce53071d6afa2826d0a6390ba6ddae40c2f530475e2cb54
   Actual  : 
@@ -520,9 +523,7 @@ flavours: no checksum
 flexiglass: no checksum
 flickr-uploadr: passed
 flightgear: passed
-flip4mac: SHA-256 mismatch!
-  Expected: d1574ca9896f8f40bf4d868e8ff91b1da1ac1dcd91a5b7898f3580543b02988e
-  Actual  : ea6bec9a5fea3981e390366564b7b2927880a9fa53ed84e9c109bf80a4416530
+flip4mac: passed
 fliqlo: passed
 flow: no checksum
 flowdock: no checksum
@@ -554,7 +555,7 @@ freecol: passed
 freedv: passed
 freefilesync: SHA-256 mismatch!
   Expected: e58877de19545e069bf44a0ba2a5c62081fc7d47861cfa997847a762180b9ad0
-  Actual  : fb6ae3b156d3693eb1cb2eb6f3c44d9ea2eaa4827b0f8277188421077d9f239b
+  Actual  : b09950a2b1286e94eccd81a7d09b0caf2958636d2e309577786c94661cbb4e19
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -619,6 +620,7 @@ golly: SHA-256 mismatch!
 google-adwords-editor: passed
 google-chrome: no checksum
 google-drive: no checksum
+google-earth-web-plugin: no checksum
 google-earth: no checksum
 google-hangouts: no checksum
 google-japanese-ime: no checksum
@@ -627,7 +629,9 @@ google-notifier: passed
 google-plus-auto-backup: no checksum
 google-refine: passed
 google-web-designer: no checksum
-googleappenginelauncher: passed
+googleappenginelauncher: SHA-256 mismatch!
+  Expected: 78e8a5235411a7f8122fbf0870273b39024a05c60fdb94430f5e78d95e353d1f
+  Actual  : 
 gopanda: no checksum
 gpgtools: passed
 gpower: passed
@@ -646,6 +650,7 @@ growl-fork: passed
 growler: passed
 growlnotify: passed
 growlvoice: passed
+guitar-tuner: no checksum
 gulp: passed
 gurps-character-sheet: passed
 gyazo: passed
@@ -758,6 +763,9 @@ iphone-configuration-utility: passed
 iphoney: passed
 ireadfast: passed
 irip: no checksum
+isabelle: SHA-256 mismatch!
+  Expected: e4a4b5f454d6cb24d5ef7271adc54e9fa7109addda8c6707bd7414b4d4061a23
+  Actual  : 
 isolator: passed
 istat-menus: no checksum
 istat-server: no checksum
@@ -917,9 +925,7 @@ mac-informer: no checksum
 mac-linux-usb-loader: no checksum
 macaw: passed
 macbreakz: no checksum
-macdown: SHA-256 mismatch!
-  Expected: 8720bb9644b391a9a6fa06af50a57f7fff495c2da80573fc0077445d9ca67367
-  Actual  : d8bdec9c696a70ca88a885fad0d5f1804501921d48ea875ac08e3f5b0a9fe859
+macdown: passed
 macdrops: passed
 macfusion: passed
 macgdbp: passed
@@ -952,9 +958,7 @@ mailfollowup: passed
 mailmate: no checksum
 mailplane: no checksum
 majic: no checksum
-makehuman: SHA-256 mismatch!
-  Expected: c3a4d693a23aff5e4f6dd93c0452d7d753703d48b9d3600d210c436b6dc756f4
-  Actual  : 
+makehuman: passed
 makemkv: SHA-256 mismatch!
   Expected: 06a7868764871cbf9b1db90def501bee1f4563a7c9bc54f2b1dab2302317aef0
   Actual  : bf35191ae9c0597b60e95cec43069a38ad500037558cdef11f0dec610495ebd3
@@ -1189,7 +1193,9 @@ pandora-one: passed
 pangu: passed
 panic-unison: passed
 panini: passed
-paparazzi: passed
+paparazzi: SHA-256 mismatch!
+  Expected: 111c94994176a7690512aa5303bff14761f308c720b527b541e39edd054777bd
+  Actual  : 
 papers: no checksum
 paragon-extfs: no checksum
 paragon-ntfs: no checksum
@@ -1206,7 +1212,7 @@ paye-tools: passed
 pcalc: passed
 pcsxr: SHA-256 mismatch!
   Expected: e7361ceb8dc9089cae084ce119a5dc4119cab22bb5d79ebf55af596b7e7eb916
-  Actual  : 65049bf42858d827bd7c409e56decc3b103ceb7720fae0f6d8d9d367beb75960
+  Actual  : a982537a127ff56a82087031acc914243108668fdbe85e4c2d7848a649b3d4e3
 pd-extended: passed
 pdfinfo: no checksum
 pdfmasher: passed
@@ -1450,7 +1456,7 @@ secrets: passed
 seil: passed
 selfcontrol: passed
 selflanguage-self-control: passed
-semulov: no checksum
+semulov: passed
 send-to-kindle: passed
 sensiolabsdesktop: passed
 sente: passed
@@ -1603,7 +1609,7 @@ stockbarjp: no checksum
 streamtools: passed
 strongvpn-client: SHA-256 mismatch!
   Expected: cacf4f7a94b1601bae2cf19fe94b6dbae827ed531e05ff0f91723aea5b3845b9
-  Actual  : 
+  Actual  : 3808d538e007b705a518aa4b3f9545f8a20a870f3609d41a3891cc3349e1ec2e
 sts: passed
 subclassed-mnemosyne: passed
 subl: passed
@@ -1798,7 +1804,9 @@ vimr: passed
 vine-server: passed
 vinoteka: no checksum
 virtaal: passed
-virtualbox: passed
+virtualbox: SHA-256 mismatch!
+  Expected: c89b22f3e5ba5d93ccf762c5922c1f21d2c4e7c21b9487d892ac0516d6f4d55a
+  Actual  : 
 virtualhostx: no checksum
 virustotaluploader: passed
 viscosity: no checksum
@@ -1822,7 +1830,7 @@ vuescan: SHA-256 mismatch!
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : f8dae0b68198ccc2553845363b85d7417d3ffd3a2df41b5c51486f05dd1f9e84
+  Actual  : d6973d6a3ed67be6a1e4b0d38c1945f80feb9484a54bc5ba4084cc297a0ccfce
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wake-on-lan: passed
@@ -1852,7 +1860,7 @@ wineskin-winery: passed
 wings3d: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : 8098cc4fd0863f2db8ab2456d103873afc19a7069918a150dad2857af9287fc4
+  Actual  : 2136a2ab9447f227a3606650db13c24d2e00ad58cf59ab2185636df847db0152
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
@@ -1931,4 +1939,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Mon Sep  8 09:48:17 EDT 2014
+Check finished at Tue Sep  9 11:32:12 EDT 2014

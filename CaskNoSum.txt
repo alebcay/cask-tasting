@@ -53,6 +53,7 @@ backtobed
 bahamut
 baidumusic
 balsamiq-mockups
+bankid
 bartender
 base
 battery-guardian
@@ -210,6 +211,7 @@ globalsync
 goagentx
 google-chrome
 google-drive
+google-earth-web-plugin
 google-earth
 google-hangouts
 google-japanese-ime
@@ -221,6 +223,7 @@ grafx2
 grandtotal
 grooveshark
 groovesquid
+guitar-tuner
 handbrakebatch
 harvest
 hazel
@@ -503,7 +506,6 @@ scribbleton
 scriptql
 scrivener
 sdrdx
-semulov
 serial-tools
 servus
 shades
