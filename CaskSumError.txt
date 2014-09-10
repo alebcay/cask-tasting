@@ -3,6 +3,7 @@ ax88179
 ax88772
 b2designer
 baiduinput
+bar-magnet
 chainsaw
 delivery-status
 dmm
@@ -13,7 +14,6 @@ fm-fw-installer
 freefilesync
 golly
 googleappenginelauncher
-isabelle
 justlooking
 leap-motion
 librecad
@@ -22,7 +22,6 @@ makemkv
 moreamp
 navicat-premium
 pagico
-paparazzi
 pcsxr
 praat
 propresenter
@@ -32,9 +31,10 @@ sharetool
 splayerx
 squire
 strongvpn-client
+td-agent
 tk-suite-client
+tongbu
 tuneinstructor
-virtualbox
 vuescan
 wabbitemu
 winxound

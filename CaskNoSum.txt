@@ -527,7 +527,6 @@ sketch-toolbox
 sketch
 sketchup
 sketchupviewer
-skype
 slate
 sleep-monitor
 slice

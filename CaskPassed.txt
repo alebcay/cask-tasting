@@ -64,7 +64,6 @@ awareness
 backuploupe
 baiducloud
 banshee
-bar-magnet
 baretorrent
 basecamp
 basex
@@ -386,6 +385,7 @@ hall
 handbrake
 handbrakecli
 hands-off
+happygrep
 haroopad
 hashcat
 haskell-platform
@@ -446,6 +446,7 @@ ipaql
 iphone-configuration-utility
 iphoney
 ireadfast
+isabelle
 isolator
 isteg
 istopmotion
@@ -584,6 +585,7 @@ meerkat
 memorytamer
 mendeley-desktop
 menubar-countdown
+menucalendarclock-ical
 menuola
 meocloud
 mesasqlite
@@ -707,6 +709,7 @@ pandora-one
 pangu
 panic-unison
 panini
+paparazzi
 parallels
 paraview
 password-gorilla
@@ -892,6 +895,7 @@ skim
 skitch
 skreenics
 skydrive
+skype
 slack
 slender
 slic3r
@@ -973,7 +977,6 @@ tagr
 tagspaces
 tapaal
 tcpblock
-td-agent
 teamspeak-client
 teamviz
 teensy
@@ -1018,7 +1021,6 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
 torbrowser
 tortoisehg
 totalfinder
@@ -1071,6 +1073,7 @@ vimediamanager
 vimr
 vine-server
 virtaal
+virtualbox
 virustotaluploader
 visit
 vistrails
