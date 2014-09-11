@@ -79,7 +79,6 @@ beatport-pro
 bibdesk
 bino
 binreader
-bit-slicer
 bitcasa
 bitcoin-core
 bitlord
@@ -117,7 +116,6 @@ camed
 camerabag
 camino
 camranger
-camtwist
 candybar
 capo
 capsee
@@ -133,6 +131,7 @@ cdock
 celestia
 cert-quicklook
 cfxr
+chainsaw
 charles
 chefdk
 chemdoodle
@@ -176,7 +175,6 @@ concentrate
 connected-desktop
 connector
 consul
-controllermate
 controlplane
 cooviewer
 coqide
@@ -320,6 +318,7 @@ free-ruler
 freecad
 freecol
 freedv
+freefilesync
 freemind
 fritzing
 frostwire
@@ -354,6 +353,7 @@ gitbox
 gitifier
 gitter
 gitx-l
+gitx-rowanj
 glcplayer
 glimmerblocker
 gmail-notifier
@@ -371,7 +371,6 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
-graphviz
 gravit
 gridwars
 growl-fork
@@ -466,7 +465,6 @@ jd-gui
 jdiskreport
 jedit
 jenkins-menu
-jetphoto-studio
 jewelrybox
 jitsi
 jubler
@@ -616,14 +614,12 @@ monotype-skyfonts
 mosh
 movieply
 mozart
-mp4tools
 mpeg-streamclip
 mplayer-osx-extended
 mplayerx
 mpv
 mucommander
 mudlet
-multibit
 multidoge
 mumble
 murasaki
@@ -702,6 +698,7 @@ owncloud
 p4merge
 p4v
 p5
+packer
 padre
 paintbrush
 pandoc
@@ -977,11 +974,13 @@ tagr
 tagspaces
 tapaal
 tcpblock
+td-agent
 teamspeak-client
 teamviz
 teensy
 teeworlds
 telephone
+terraform
 testflight
 tex-live-utility
 texmacs

@@ -117,6 +117,7 @@ comicbooklover
 comicbookloversync
 commandq
 contexts
+controllermate
 coolterm
 copy
 craftstudio
@@ -203,7 +204,6 @@ ghostlab
 git-annex
 gitbook
 github
-gitx-rowanj
 gitx
 gity
 glo

@@ -1,4 +1,4 @@
-Check started at Wed Sep 10 00:00:58 EDT 2014
+Check started at Thu Sep 11 00:01:01 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -131,7 +131,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: 57d50c7991e0d833ed5b34297168745590074d838f6948469dbaf8b92a84e082
-  Actual  : 5d91808feb7c9577b39d273221bc74d4225f0a41d3e477e362089309946e6be7
+  Actual  : d57485055f8c605ad16effdde7e0138235fa02be9520c16af40d8d1259495072
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: no checksum
@@ -168,7 +168,9 @@ big-mean-folder-machine: no checksum
 bill: no checksum
 bino: passed
 binreader: passed
-bit-slicer: passed
+bit-slicer: SHA-256 mismatch!
+  Expected: d1a2fa33852ec95f52070e6b4d9c16f4a8741b41d384f8d1aab7c501d5a78b24
+  Actual  : be8e7638ef29b2fe85f4dc8d237176887c7de86debdb514ef4160d73597d99e7
 bitcasa: passed
 bitcoin-core: passed
 bitlord: passed
@@ -220,7 +222,9 @@ camerabag: passed
 camino: passed
 camranger: passed
 camtasia: no checksum
-camtwist: passed
+camtwist: SHA-256 mismatch!
+  Expected: d81576971abe2bc1a8b1e3d8c894cfe18f0442c49a6a242a6ab25b247de01fec
+  Actual  : 
 candybar: passed
 capo: passed
 capsee: passed
@@ -237,9 +241,7 @@ cdock: passed
 celestia: passed
 cert-quicklook: passed
 cfxr: passed
-chainsaw: SHA-256 mismatch!
-  Expected: 06171e5bc285224611c4a1f22922ab781276ce387f8f290948617de7bbfc6f6d
-  Actual  : 3449c1d0fca70f78b656a151dabaf5c8149e1dbec2854b7a662b7f242ce299d2
+chainsaw: passed
 chameleon-ssd-optimizer: no checksum
 changes-meter: no checksum
 changes: no checksum
@@ -317,7 +319,7 @@ connected-desktop: passed
 connector: passed
 consul: passed
 contexts: no checksum
-controllermate: passed
+controllermate: no checksum
 controlplane: passed
 coolterm: no checksum
 cooviewer: passed
@@ -555,9 +557,7 @@ free-ruler: passed
 freecad: passed
 freecol: passed
 freedv: passed
-freefilesync: SHA-256 mismatch!
-  Expected: e58877de19545e069bf44a0ba2a5c62081fc7d47861cfa997847a762180b9ad0
-  Actual  : 460950dfb245f2fbb03a7fffe2c2fb49fb4512f1f13174dc5995af13dc4f6f5d
+freefilesync: passed
 freemind: passed
 freezer: no checksum
 fritzing: passed
@@ -602,7 +602,7 @@ github: no checksum
 gitifier: passed
 gitter: passed
 gitx-l: passed
-gitx-rowanj: no checksum
+gitx-rowanj: passed
 gitx: no checksum
 gity: no checksum
 glcplayer: passed
@@ -643,7 +643,9 @@ grafx2: no checksum
 grandperspective: passed
 grandtotal: no checksum
 graphsketcher: passed
-graphviz: passed
+graphviz: SHA-256 mismatch!
+  Expected: 6b84c663b29ac7b3e96de709f80159ffc060eeaea71a80c1b199f3dc1fe5a9e6
+  Actual  : 
 gravit: passed
 gridwars: passed
 grooveshark: no checksum
@@ -797,7 +799,9 @@ jdiskreport: passed
 jdownloader: no checksum
 jedit: passed
 jenkins-menu: passed
-jetphoto-studio: passed
+jetphoto-studio: SHA-256 mismatch!
+  Expected: c583a173d018696d613545acacba4c43f641d770de4e5d5bbb0964c1cb2e9f7f
+  Actual  : 
 jewelrybox: passed
 jiggler: no checksum
 jing: no checksum
@@ -1053,7 +1057,9 @@ mover: no checksum
 movieply: passed
 movist: no checksum
 mozart: passed
-mp4tools: passed
+mp4tools: SHA-256 mismatch!
+  Expected: faddeb243aedf2387abff39bfd86b538053045f53596cc0650df63b110f0c087
+  Actual  : 
 mpeg-streamclip: passed
 mpfreaker: no checksum
 mplayer-osx-extended: passed
@@ -1061,7 +1067,9 @@ mplayerx: passed
 mpv: passed
 mucommander: passed
 mudlet: passed
-multibit: passed
+multibit: SHA-256 mismatch!
+  Expected: 0d2fe6fa68385c1ca964d9588272787dabffbc2061f29ebaab422317d0972257
+  Actual  : 
 multibrowser: no checksum
 multidoge: passed
 multifirefox: no checksum
@@ -1184,6 +1192,7 @@ p4merge: passed
 p4v: passed
 p5: passed
 pacifist: no checksum
+packer: passed
 padre: passed
 pagico: SHA-256 mismatch!
   Expected: ad28214b082208025f9103dfbc2149b8224f0c488dfdcb06b51090e23d285bed
@@ -1212,7 +1221,7 @@ paye-tools: passed
 pcalc: passed
 pcsxr: SHA-256 mismatch!
   Expected: e7361ceb8dc9089cae084ce119a5dc4119cab22bb5d79ebf55af596b7e7eb916
-  Actual  : b57d0870efe29a31cf5832074c69b662a4b2291647eeec6fb6d4ccb62b620200
+  Actual  : e82cfbe94cd0ef62bd6dfba5dfc40b3c39c17204aecdc65a150c1b15521ea0c0
 pd-extended: passed
 pdfinfo: no checksum
 pdfmasher: passed
@@ -1652,9 +1661,7 @@ tapaal: passed
 taskpaper: no checksum
 tau: no checksum
 tcpblock: passed
-td-agent: SHA-256 mismatch!
-  Expected: 7e730682879dc199cc712205f22ba93fb9bee20a5dad16b113c8f32d11109cb8
-  Actual  : 2c9f2d35678290ec56cc026eb2434c5fe537c5d9ad5c33dfed38a251ed389112
+td-agent: passed
 td-toolbelt: no checksum
 teamspeak-client: passed
 teamviewer: no checksum
@@ -1664,6 +1671,7 @@ teeworlds: passed
 telegram: no checksum
 telephone: passed
 teleport: no checksum
+terraform: passed
 testflight: passed
 tex-live-utility: passed
 texmacs: passed
@@ -1727,7 +1735,7 @@ tomahawk: passed
 tomighty: passed
 tongbu: SHA-256 mismatch!
   Expected: 009756069214508931deda67499f9c0274722ebecba29f5d6c78c55f770b3b9d
-  Actual  : 02a67696d76cd96584e45a2daf161cc8e6b0eb2435ae9e6595a81addac0730a1
+  Actual  : ff3bfb6fe625af68d8ad4105c3b7e001c59754f171d23a0d3a3cf5ec2b50de76
 tonido: no checksum
 toodledo: no checksum
 torbrowser: passed
@@ -1832,7 +1840,7 @@ vuescan: SHA-256 mismatch!
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : f14fc067aec1ca7ba2be91287b5cdda9ae98baddf5448e4587508dea406e16ce
+  Actual  : 70373ae2a5ab51ba17ac5675d1ac0a6c286d42bb315f00c685db7882a2c3c2fb
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wake-on-lan: passed
@@ -1862,7 +1870,7 @@ wineskin-winery: passed
 wings3d: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : 2c58606074d0c74b7978d83317a3cd76dfe3ef9d656adcc2ad368935a17c6050
+  Actual  : d8a1a88008a5bd3737d64bcd5a42231f20592e43f4d18dda88a1516fec1847ed
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
@@ -1941,4 +1949,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Sep 10 12:45:04 EDT 2014
+Check finished at Thu Sep 11 10:14:36 EDT 2014
