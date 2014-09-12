@@ -204,6 +204,7 @@ ghostlab
 git-annex
 gitbook
 github
+gitx-rowanj
 gitx
 gity
 glo

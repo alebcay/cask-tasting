@@ -79,6 +79,7 @@ beatport-pro
 bibdesk
 bino
 binreader
+bit-slicer
 bitcasa
 bitcoin-core
 bitlord
@@ -116,6 +117,7 @@ camed
 camerabag
 camino
 camranger
+camtwist
 candybar
 capo
 capsee
@@ -302,7 +304,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fliqlo
 fluid
 fluke
@@ -353,7 +354,6 @@ gitbox
 gitifier
 gitter
 gitx-l
-gitx-rowanj
 glcplayer
 glimmerblocker
 gmail-notifier
@@ -371,6 +371,7 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
+graphviz
 gravit
 gridwars
 growl-fork
@@ -465,6 +466,7 @@ jd-gui
 jdiskreport
 jedit
 jenkins-menu
+jetphoto-studio
 jewelrybox
 jitsi
 jubler
@@ -565,6 +567,7 @@ mame
 mamp
 manager
 manico
+mapbox-studio
 mapture
 maratis
 marble
@@ -614,12 +617,14 @@ monotype-skyfonts
 mosh
 movieply
 mozart
+mp4tools
 mpeg-streamclip
 mplayer-osx-extended
 mplayerx
 mpv
 mucommander
 mudlet
+multibit
 multidoge
 mumble
 murasaki
@@ -698,7 +703,6 @@ owncloud
 p4merge
 p4v
 p5
-packer
 padre
 paintbrush
 pandoc
@@ -1020,6 +1024,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 tortoisehg
 totalfinder
