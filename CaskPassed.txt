@@ -64,6 +64,7 @@ awareness
 backuploupe
 baiducloud
 banshee
+bar-magnet
 baretorrent
 basecamp
 basex
@@ -304,6 +305,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fliqlo
 fluid
 fluke
@@ -823,7 +825,6 @@ reggy
 rekordbox
 remonit
 remote-desktop-connection
-repetier-host
 retinizer
 retroshare
 rftg
@@ -1024,7 +1025,6 @@ toad-mac
 tokaido
 tomahawk
 tomighty
-tongbu
 torbrowser
 tortoisehg
 totalfinder
@@ -1036,6 +1036,7 @@ traktable
 transmission-remote-gui
 transmission
 transmit
+transporter-desktop
 treemaker
 tribler
 trickster
@@ -1058,7 +1059,7 @@ undercover
 unetbootin
 uninstallpkg
 unison
-unity3d
+unity
 universal-media-server
 unpkg
 unrarx
