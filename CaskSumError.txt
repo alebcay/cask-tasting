@@ -16,15 +16,15 @@ leap-motion
 librecad
 macmoney
 makemkv
+mkvtoolnix
 moreamp
 navicat-premium
-packer
 pagico
 pcsxr
 praat
 propresenter
 qiyimedia
-repetier-host
+riffworkst4
 rubitrack
 sharetool
 splayerx

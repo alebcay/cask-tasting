@@ -14,6 +14,7 @@ adobe-reader
 aegisub
 air-video-server-hd
 air-video-server
+airflick
 airserver
 alarm-clock
 alfred
@@ -605,7 +606,6 @@ mini-metro
 minitimer
 mixxx
 mjolnir
-mkvtoolnix
 mnemosyne
 money
 moneyguru
@@ -705,6 +705,7 @@ owncloud
 p4merge
 p4v
 p5
+packer
 padre
 paintbrush
 pandoc
@@ -825,10 +826,10 @@ reggy
 rekordbox
 remonit
 remote-desktop-connection
+repetier-host
 retinizer
 retroshare
 rftg
-riffworkst4
 robomongo
 rocks-n-diamonds
 royal-tsx

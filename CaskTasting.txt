@@ -1,4 +1,4 @@
-Check started at Sat Sep 13 00:01:09 EDT 2014
+Check started at Sun Sep 14 00:01:04 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -31,6 +31,7 @@ air-connect: no checksum
 air-video-server-hd: passed
 air-video-server: passed
 airdisplay: no checksum
+airflick: passed
 airfoil: no checksum
 airmail-amt: no checksum
 airparrot: no checksum
@@ -131,7 +132,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: 57d50c7991e0d833ed5b34297168745590074d838f6948469dbaf8b92a84e082
-  Actual  : 3580abb1d69f25a79b0cab2056b594502f2c982e094a69635b18726f15012cef
+  Actual  : 66f05c73034532d1eaf72591e2b57b35ad67cdbf2654aa674fd10e3393b86384
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: no checksum
@@ -1021,7 +1022,9 @@ mixlr: no checksum
 mixture: no checksum
 mixxx: passed
 mjolnir: passed
-mkvtoolnix: passed
+mkvtoolnix: SHA-256 mismatch!
+  Expected: 33a26c756b4763c781913b2db20a1419d530aad6919e63b4f4aa931f442e2310
+  Actual  : c8d5fb2b2586b534d9b04bd133725db8cebab1fed7782ee5cc08a0860fbba1cf
 mnemosyne: passed
 mocksmtp: no checksum
 money: passed
@@ -1179,9 +1182,7 @@ p4merge: passed
 p4v: passed
 p5: passed
 pacifist: no checksum
-packer: SHA-256 mismatch!
-  Expected: 1b490d4ef86b074c658681b550e98e40fcbdd407fa8f6eb5da8191e5808b8ec3
-  Actual  : 10b266d9020b72ff09a38cd7b6b42a3ec4bd78b1b13a83e9a5c433d504378322
+packer: passed
 padre: passed
 pagico: SHA-256 mismatch!
   Expected: ad28214b082208025f9103dfbc2149b8224f0c488dfdcb06b51090e23d285bed
@@ -1210,7 +1211,7 @@ paye-tools: passed
 pcalc: passed
 pcsxr: SHA-256 mismatch!
   Expected: e7361ceb8dc9089cae084ce119a5dc4119cab22bb5d79ebf55af596b7e7eb916
-  Actual  : 0dd24cad8f2f7cc2018dda3f621bc989a8c44c51bf431d34a35fcf339baa3bb3
+  Actual  : e73608e305869254e39efb631747b1f9c371286317cf9c9f5c69c3bd2dc3915c
 pd-extended: passed
 pdfinfo: no checksum
 pdfmasher: passed
@@ -1385,9 +1386,7 @@ rekordbox: passed
 remonit: passed
 remote-desktop-connection: passed
 renamer: no checksum
-repetier-host: SHA-256 mismatch!
-  Expected: 0d4b43ec7bec5ac85133d00e1a2cf61956ef90abc255c253029e0ef26160adfa
-  Actual  : 74eafc544e401dbeb41e87088a287be98197735458d688e7b5155a3b59cbf813
+repetier-host: passed
 rescuetime: no checksum
 retinacapture: no checksum
 retinizer: passed
@@ -1395,7 +1394,9 @@ retroshare: passed
 reveal: no checksum
 rftg: passed
 ridibooks: no checksum
-riffworkst4: passed
+riffworkst4: SHA-256 mismatch!
+  Expected: 83c51fa4a08ad19f92418572e11b09ebb33f9a0341ff9e0173d0eb0c7709cddb
+  Actual  : ba1724310a288998934894bfc2cafb4c62230ff90a01dcf878440d02f2540063
 rightzoom: no checksum
 ringtones: no checksum
 ripit: no checksum
@@ -1726,7 +1727,7 @@ tomahawk: passed
 tomighty: passed
 tongbu: SHA-256 mismatch!
   Expected: 009756069214508931deda67499f9c0274722ebecba29f5d6c78c55f770b3b9d
-  Actual  : 31e7a8803b3dc1abb02a598e62928a0d6f702dbf1345e2879bed932581b50947
+  Actual  : b234d15287f60379c500c0bc199086ed39a1830b93d10a36b3e33ef212f919be
 tonido: no checksum
 toodledo: no checksum
 torbrowser: passed
@@ -1828,11 +1829,11 @@ volatility: passed
 vox-preference-pane: no checksum
 vuescan: SHA-256 mismatch!
   Expected: a6e82863f7d6fc34400f678fb4de3cf5af6cbde9a20693ff4bfb5d95ad59f398
-  Actual  : 6fcfc1f0f6eb20d513803dc2b93bcc0ed0e310da04c855770dc7ce3484c1cc84
+  Actual  : 245504e72ac44ca2590408906a3afa71d576267532c8159e10313ff60760d447
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : 7b8787b908ccb395223a35b2cff1da8dd75003417fe67c708fd29f52f0ab58dc
+  Actual  : 31a8e0766b1445a9134511400d6312d6aa0522e08447cff60bcac52545d3d947
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wake-on-lan: passed
@@ -1862,7 +1863,7 @@ wineskin-winery: passed
 wings3d: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : e09c9873eae2b07b1694194be82624096bfc07005ac74572a47e88a613e7dedf
+  Actual  : efc95670320a21a856638b40ef4f5e0b6542e3dbd1c110321fab23e3ae080765
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
@@ -1942,4 +1943,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Sat Sep 13 12:10:21 EDT 2014
+Check finished at Sun Sep 14 10:24:18 EDT 2014
