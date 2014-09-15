@@ -243,6 +243,7 @@ hostbuddy
 houdahgeo
 houdahspot
 hpuload
+hunt-x
 hush
 hype
 hyperdock
@@ -628,6 +629,7 @@ vitamin-r
 vlc-remote
 vlcstreamer
 voicemac
+voodoopad
 vox-preference-pane
 wasted
 web-sharing

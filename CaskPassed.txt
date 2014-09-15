@@ -329,7 +329,6 @@ frostwire
 fs-uae
 fugu
 functionflip
-gambit-c
 gamesalad
 ganttproject
 garagebuy
@@ -830,6 +829,7 @@ repetier-host
 retinizer
 retroshare
 rftg
+riffworkst4
 robomongo
 rocks-n-diamonds
 royal-tsx
@@ -1026,6 +1026,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 tortoisehg
 totalfinder

@@ -9,6 +9,7 @@ electrum-ltc
 fastscripts
 fender-amp-drivers
 fm-fw-installer
+gambit-c
 golly
 googleappenginelauncher
 justlooking
@@ -24,14 +25,12 @@ pcsxr
 praat
 propresenter
 qiyimedia
-riffworkst4
 rubitrack
 sharetool
 splayerx
 squire
 strongvpn-client
 tk-suite-client
-tongbu
 tuneinstructor
 vuescan
 wabbitemu
