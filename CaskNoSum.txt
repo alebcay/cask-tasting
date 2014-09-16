@@ -335,6 +335,7 @@ macterm
 magican
 mail-plugin-manager
 mailmate
+mailpile
 mailplane
 majic
 marked
