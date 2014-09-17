@@ -22,6 +22,7 @@ all-the-gifs
 all2mp3
 amadeus-pro
 amazon-cloud-drive
+amazon-zocalo
 android-file-transfer
 antetype
 anvil

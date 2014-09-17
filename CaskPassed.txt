@@ -188,6 +188,7 @@ cornerstone
 corsixth
 coteditor
 couchbase-server-community
+couchbase-server-enterprise
 crashplan
 crosspack-avr
 crypt
@@ -470,7 +471,6 @@ jedit
 jenkins-menu
 jetphoto-studio
 jewelrybox
-jitsi
 jubler
 julia
 juliastudio
@@ -575,6 +575,7 @@ maratis
 marble
 marsedit
 matplotlib
+mauve
 max
 maxthon
 mcedit
@@ -613,7 +614,6 @@ mono-mdk
 mono-mre
 monochrome
 monolingual
-monotype-skyfonts
 mosh
 movieply
 mozart
@@ -684,7 +684,6 @@ openemu
 openlp
 opennx
 openoffice
-openra
 openscad
 opensesame
 opensong
@@ -991,7 +990,6 @@ tex-live-utility
 texmacs
 texnicle
 texpad
-texshop
 texstudio
 textadept
 textexpander
@@ -1025,6 +1023,7 @@ toad-mac
 tokaido
 tomahawk
 tomighty
+tongbu
 torbrowser
 tortoisehg
 totalfinder
@@ -1106,7 +1105,6 @@ wesnoth
 whatpulse
 whiteclock
 widelands
-wineskin-winery
 wings3d
 wireshark
 wiretap-studio
