@@ -70,6 +70,7 @@ betterzipql
 big-mean-folder-machine
 bill
 bittorrent-sync
+bleep
 blu-ray-player
 bodega
 bonjour-browser
@@ -81,6 +82,7 @@ boxer
 browserstacklocal
 brytonbridge
 buddi
+cajviewer
 calibre
 camtasia
 catchmouse
@@ -158,6 +160,7 @@ duplicate-annihilator
 eclipse-jee
 ember
 emin-webpquicklook
+enolsoft-chm-view
 entropy
 epic
 epubquicklook

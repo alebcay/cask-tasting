@@ -5,8 +5,6 @@ accessmenubarapps
 actiontastic
 actprinter
 adapter
-adium
-adobe-air
 adobe-digital-editions
 adobe-dng-converter
 adobe-photoshop-lightroom
@@ -307,7 +305,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fliqlo
 fluid
 fluke
@@ -460,6 +457,7 @@ itsycal
 itunesscrobbler
 jabber-video
 jabref
+jaksta
 jaspersoft-studio
 java
 javafx-scene-builder
@@ -471,6 +469,7 @@ jedit
 jenkins-menu
 jetphoto-studio
 jewelrybox
+jitsi
 jubler
 julia
 juliastudio
@@ -564,6 +563,7 @@ magic-launch
 mailbox
 mailfollowup
 makehuman
+makemkv
 makerware
 mame
 mamp
@@ -573,6 +573,7 @@ mapbox-studio
 mapture
 maratis
 marble
+mari0
 marsedit
 matplotlib
 mauve
@@ -614,6 +615,7 @@ mono-mdk
 mono-mre
 monochrome
 monolingual
+monotype-skyfonts
 mosh
 movieply
 mozart
@@ -732,7 +734,6 @@ pg-commander
 pgadmin3
 pgloader
 phantomjs
-pharo
 phoenix-slides
 photoninja
 phpstorm
@@ -1105,6 +1106,7 @@ wesnoth
 whatpulse
 whiteclock
 widelands
+wineskin-winery
 wings3d
 wireshark
 wiretap-studio
