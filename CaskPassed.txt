@@ -5,6 +5,8 @@ accessmenubarapps
 actiontastic
 actprinter
 adapter
+adium
+adobe-air
 adobe-digital-editions
 adobe-dng-converter
 adobe-photoshop-lightroom
@@ -16,6 +18,7 @@ airflick
 airserver
 alarm-clock
 alfred
+alice
 amazon-music
 amethyst
 ampps
@@ -57,6 +60,7 @@ aurora
 authoxy
 authy-bluetooth
 autodmg
+autopano-pro
 avidemux
 avogadro
 awareness
@@ -66,25 +70,26 @@ baiducloud
 banshee
 bar-magnet
 baretorrent
-basecamp
 basex
 basictex
 bassjump
 bassshapes
 bathyscaphe
 battery-time-remaining
+baudline
 bbedit
 beacon-scanner
+beaker
 beardedspice
 beatport-pro
 bibdesk
 bino
-binreader
 bit-slicer
 bitcasa
 bitcoin-core
 bitlord
 bitmessage
+bitwig-studio
 black-ink
 black-light
 blender
@@ -116,7 +121,6 @@ calibre2opds
 callnote
 camed
 camerabag
-camino
 camranger
 camtwist
 candybar
@@ -157,7 +161,6 @@ cloudfoundry-cli
 cloudytabs
 cn3d
 coccinellida
-cockatrice
 cocoadialog
 cocoapacketanalyzer
 cocoarestclient
@@ -194,7 +197,6 @@ cryptol
 ctivo
 cuda-z
 cups-pdf
-cura
 curb
 curse-client
 cutesdr
@@ -215,6 +217,7 @@ deluge
 deskfun
 desmume
 detune
+devcenter
 devonthink-pro-office
 devonthink-pro
 dewdrop
@@ -224,10 +227,8 @@ diashapes
 dictunifier
 diffmerge
 disk-inventory-x
-diskaid
 diskwave
 displaylink
-djv
 djview
 dnscrypt
 dockmod
@@ -268,7 +269,6 @@ eid-mw
 ejector
 electric-sheep
 electrum
-elm-platform
 eloquent
 elyse
 emacs
@@ -291,13 +291,13 @@ feedbinnotifier
 feeder
 feeds
 fender-fuse
+fenics
 fenix
 fetch
 filebot
 fileshuttle
 filezilla
 find-any-file
-firewall-builder
 fitbit-connect
 flame
 flash-player-debugger
@@ -315,7 +315,6 @@ fourk-video-downloader
 fourk-youtube-to-mp3
 fpc
 framer-studio
-free-ruler
 freecad
 freecol
 freedv
@@ -326,6 +325,7 @@ frostwire
 fs-uae
 fugu
 functionflip
+fwbuilder
 gambit-c
 gamesalad
 ganttproject
@@ -339,6 +339,7 @@ gas-mask
 gdal-framework
 geekbench
 geektool
+geneious
 genymotion
 gephi
 geppetto
@@ -392,10 +393,8 @@ haskell-platform
 hear
 hedgewars
 hermes
-hexchat
 historyhound
 hive
-homestream
 honer
 hoppergdbserver
 horndis
@@ -406,6 +405,7 @@ hsang
 httpscoop
 hubic
 hugin
+hyperdither
 hyro
 iannix
 ibackup
@@ -419,6 +419,7 @@ identify
 iexplorer
 igetter
 iloc
+image-tool
 imagealpha
 imagemin
 imitone
@@ -446,11 +447,12 @@ ipalette
 ipaql
 iphone-configuration-utility
 iphoney
+iphoto-library-manager
 ireadfast
 isabelle
 isolator
 isteg
-istumbler
+isyncr
 iterm2
 itools
 itsycal
@@ -471,7 +473,6 @@ jetphoto-studio
 jewelrybox
 jitsi
 jubler
-julia
 juliastudio
 jumpcut
 jumpshare
@@ -490,9 +491,9 @@ keycue
 keymo
 keystore-explorer
 kid3
-kindle
 kindlegen
 kismac
+kitematic
 kivy
 kiwi
 kkbox
@@ -525,7 +526,6 @@ linphone
 litecoin
 liteicon
 liteide
-little-snitch
 littleipsum
 livereload
 livestation
@@ -551,7 +551,6 @@ macgdbp
 machg
 macpass
 macports
-mactex
 mactracker
 mactubes
 macupdate-desktop
@@ -568,13 +567,14 @@ makerware
 mame
 mamp
 manager
-manico
+manopen
 mapbox-studio
 mapture
 maratis
 marble
 mari0
 marsedit
+mass-replace-it
 matplotlib
 mauve
 max
@@ -613,9 +613,9 @@ moneywell
 mongodb
 mono-mdk
 mono-mre
-monochrome
 monolingual
 monotype-skyfonts
+moscow-ml
 mosh
 movieply
 mozart
@@ -626,7 +626,6 @@ mplayerx
 mpv
 mucommander
 mudlet
-multibit
 multidoge
 mumble
 murasaki
@@ -665,7 +664,6 @@ node
 nodebox
 nodeclipse
 noejectdelay
-nomachine
 nomacs
 noobproof
 nosleep
@@ -677,6 +675,7 @@ obsidian-menu-bar-mountain-lion
 oclint
 octave
 omnidazzle
+omnifocus-clip-o-tron
 omnipresence
 omniweb
 onepassword
@@ -691,13 +690,13 @@ opensesame
 opensong
 openttd
 openvanilla
+openzfs
 opera-mail
 opera-mobile-emulator
 opera-next
 opera
 orange
 osculator
-osirix
 osxfuse
 owasp-zap
 owncloud
@@ -743,6 +742,7 @@ picasa
 pinta
 pivotalbooster
 pixel-check
+pixelapse
 pixlr
 plainview
 platypus
@@ -760,6 +760,7 @@ postgres
 powerkey
 powerword
 preen
+preform
 prepros
 prey
 prezi
@@ -776,7 +777,6 @@ proximity
 ps3-media-server
 psi
 psychopy
-punto-switcher
 pupil
 pusher
 putio-adder
@@ -786,8 +786,10 @@ pycharm
 qbittorrent
 qdesktop
 qgis
+qiyimedia
 qlcolorcode
 qlmarkdown
+qlnetcdf
 qlprettypatch
 qmind
 qq
@@ -819,18 +821,22 @@ rdm
 reaper
 recovery-disk-assistant
 reeddit
-refresh-finder
 reggy
 rekordbox
 remonit
 remote-desktop-connection
+remote-desktop-manager
 repetier-host
+rethinkdb
 retinizer
+retroarch
 retroshare
 rftg
+ricochet
 riffworkst4
 robomongo
 rocks-n-diamonds
+rowmote-helper
 royal-tsx
 rstudio
 rubymine
@@ -843,7 +849,6 @@ sauerbraten
 scala-ide
 scansnap-manager
 schnapps
-scilab
 scout
 screenflow
 screenstagram
@@ -878,7 +883,6 @@ shiftit
 shiori
 shoes
 shortcat
-shotcut
 shuttle
 sickbeard-anime
 sickbeard
@@ -893,6 +897,7 @@ simplecap
 simpless
 simplesynth
 simpletag
+skii
 skim
 skitch
 skreenics
@@ -908,6 +913,7 @@ slowy
 smartgithg
 smartsynchronize
 smcfancontrol
+smlnj
 snes9x
 snip
 snippet-edit
@@ -930,6 +936,7 @@ spek
 splashtop-personal
 splashtop-streamer
 spotify-notifications
+sputnik
 spyder
 sqleditor
 sqlexplorer
@@ -958,7 +965,9 @@ subsmarine
 subsurface
 subtitle-master
 subtitles
+sumbolon
 sunlogin-remote
+supaview
 super-otr
 supercollider
 supertuxkart
@@ -977,6 +986,7 @@ tag
 tagger
 tagr
 tagspaces
+tangerine
 tapaal
 tcpblock
 td-agent
@@ -1000,6 +1010,7 @@ texturepacker
 textwrangler
 the-archive-browser
 the-brain
+the-cheat
 the-unarchiver
 theremin
 thetube
@@ -1020,6 +1031,7 @@ timemachinescheduler
 timings
 tinygrab
 tinyumbrella
+tk-suite-client
 toad-mac
 tokaido
 tomahawk
@@ -1031,6 +1043,7 @@ totalfinder
 totals
 totalspaces
 totalterminal
+track-o-bot
 trailer
 traktable
 transmission-remote-gui
@@ -1046,9 +1059,12 @@ tunnelblick
 tuxguitar
 tv-browser
 tv-show-tracker
+tvrenamer
+twelf
 twine
 twitterrific
 typinator
+ubar
 uber-network-fuser
 uberpov
 ubersicht
@@ -1059,7 +1075,6 @@ undercover
 unetbootin
 uninstallpkg
 unison
-unity
 universal-media-server
 unpkg
 unrarx
@@ -1071,9 +1086,9 @@ vagrant
 vassal
 vessel
 vico
-videomonkey
 videospec
 vienna
+viewit
 vimediamanager
 vimr
 vine-server
@@ -1143,9 +1158,11 @@ xscreensaver
 xslimmer
 xtorrent
 yacreader
+yed
 ynab
 yojimbo
 youll-never-take-me-alive
+youtrack-workflow
 yubikey-personalization-gui
 yubiswitch
 zed
@@ -1154,7 +1171,6 @@ zendstudio
 zeroad
 zeroinstall
 zeroxdbe-eap
-zoc
 zooom
 zotero
 zterm

@@ -8,7 +8,6 @@ actual-odbc-pack
 adobe-arh
 adobe-creative-cloud
 adventure
-affinity-designer
 air-connect
 airdisplay
 airfoil
@@ -28,6 +27,7 @@ antetype
 anvil
 anxiety
 ap-grapher
+apimac-timer
 appdelete
 appfresh
 appmenuboy
@@ -82,6 +82,7 @@ boxer
 browserstacklocal
 brytonbridge
 buddi
+budget
 cajviewer
 calibre
 camtasia
@@ -127,6 +128,7 @@ craftstudio
 crashlytics
 crushftp
 cuppa
+curio
 cursorcerer
 daisydisk
 darteditor
@@ -160,6 +162,7 @@ duplicate-annihilator
 eclipse-jee
 ember
 emin-webpquicklook
+endnote
 enolsoft-chm-view
 entropy
 epic
@@ -173,6 +176,7 @@ everweb
 evom
 exhaust
 expandrive
+ezeep
 faux-pas
 fdt
 ffmpegx
@@ -198,9 +202,11 @@ folx
 fontprep
 fourpeaks
 foxmail
+freelancy
 freezer
 frizzix
 fseventer
+fstream
 fuze
 garmin-express
 gawker
@@ -264,6 +270,7 @@ idris
 ifilex
 ifunbox
 imageoptim
+imazing
 img2icns
 inc
 indigo
@@ -274,6 +281,7 @@ intermission
 invisionsync
 invisorql
 ionu
+iphone-backup-extractor
 irip
 istat-menus
 istat-server
@@ -291,7 +299,9 @@ jing
 jitouch
 joinme
 josm
+jotta
 jsonlook
+jump-desktop
 kamakiri
 kext-drop
 kext-wizard
@@ -300,7 +310,6 @@ keyboard-maestro
 keyboardcleantool
 keyfinder
 kindle-previewer
-kitematic
 knock
 kobo
 kuaipan
@@ -335,18 +344,21 @@ macpar-deluxe
 macpaw-gemini
 macpilot
 macs-fan-control
+macscale
 macterm
 magican
 mail-plugin-manager
 mailmate
 mailpile
 mailplane
+maintenance
 majic
 marked
 master-key
 mavensmate
 mdrp
 mediafire-desktop
+mention
 menubarfilter
 menumeters
 mercurymover
@@ -385,6 +397,7 @@ name-mangler
 namely
 narrative-uploader
 neofinder
+netease-music
 netshade
 netspot
 ngrok
@@ -452,6 +465,7 @@ pokemon-showdown
 pokerstars
 porthole
 postbox
+powder
 power-manager-pro
 power-manager
 pref-setter
@@ -462,6 +476,7 @@ private-eye
 private-internet-access
 prizmo
 propane
+prott
 proxifier
 proxpn
 puush
@@ -546,6 +561,7 @@ smoothmouse
 snagit
 sofortbild
 soleol
+sonic-pi
 sonora
 soulver
 soundcleod
@@ -560,7 +576,6 @@ speedlimit
 speedtao
 spideroak
 spillo
-spirited-away
 spotdox
 spotifree
 spotify-menubar
@@ -575,9 +590,12 @@ supersync
 suspicious-package
 swingfish
 swinsian
+tableau-public
+tableau
 tactor
 tagalicious
 tagoman
+tal-chorus-lx
 taskpaper
 tau
 td-toolbelt
@@ -612,7 +630,9 @@ trailrunner
 treesheets
 tresorit
 trim-enabler
+triumph
 tubbler
+tuneup
 tunewiki
 tvmobili
 tvshows
@@ -636,6 +656,7 @@ vlcstreamer
 voicemac
 voodoopad
 vox-preference-pane
+vox
 wasted
 web-sharing
 wechat
@@ -654,6 +675,7 @@ x2goclient
 xamarin
 xbox360-controller-driver
 xiami
+xmplify
 xmrouter
 xnconvert
 xnviewmp
@@ -664,6 +686,7 @@ yandexdisk
 yasu
 yemuzip
 yep
+yimello
 yorufukurou
 youdao
 younited
