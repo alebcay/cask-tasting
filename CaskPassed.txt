@@ -67,6 +67,7 @@ awareness
 ax88179
 backuploupe
 baiducloud
+baiduinput
 banshee
 bar-magnet
 baretorrent
@@ -197,6 +198,7 @@ cryptol
 ctivo
 cuda-z
 cups-pdf
+cura
 curb
 curse-client
 cutesdr
@@ -233,7 +235,6 @@ djview
 dnscrypt
 dockmod
 dogecoin
-dolphin
 dosbox
 double-commander
 doublecommand
@@ -305,6 +306,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fliqlo
 fluid
 fluke
@@ -315,6 +317,7 @@ fourk-video-downloader
 fourk-youtube-to-mp3
 fpc
 framer-studio
+free-ruler
 freecad
 freecol
 freedv
@@ -372,7 +375,6 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
-graphviz
 gravit
 gridwars
 growl-fork
@@ -551,6 +553,7 @@ macgdbp
 machg
 macpass
 macports
+mactex
 mactracker
 mactubes
 macupdate-desktop
@@ -695,7 +698,6 @@ opera-mail
 opera-mobile-emulator
 opera-next
 opera
-orange
 osculator
 osxfuse
 owasp-zap
@@ -762,7 +764,6 @@ powerword
 preen
 preform
 prepros
-prey
 prezi
 printrun
 prismatik
@@ -807,7 +808,6 @@ quickradar
 quicksilver
 quiterss
 quotefixformac
-qvod-player
 r
 racket
 radiant-player
@@ -897,7 +897,6 @@ simplecap
 simpless
 simplesynth
 simpletag
-skii
 skim
 skitch
 skreenics
@@ -935,6 +934,7 @@ speedcrunch
 spek
 splashtop-personal
 splashtop-streamer
+splitshow
 spotify-notifications
 sputnik
 spyder
@@ -949,6 +949,7 @@ sshfs
 ssx
 stackato
 stackroom
+stattransfer
 stay
 steermouse
 stella
@@ -1032,7 +1033,7 @@ timings
 tinygrab
 tinyumbrella
 tk-suite-client
-toad-mac
+toad
 tokaido
 tomahawk
 tomighty
@@ -1075,6 +1076,7 @@ undercover
 unetbootin
 uninstallpkg
 unison
+unity
 universal-media-server
 unpkg
 unrarx
@@ -1126,7 +1128,6 @@ wings3d
 wireshark
 wiretap-studio
 witgui
-wiznote
 wiztoolsorg-restclient
 wjoy
 woodhouse

@@ -86,6 +86,7 @@ budget
 cajviewer
 calibre
 camtasia
+cartographica
 catchmouse
 chameleon-ssd-optimizer
 changes-meter
