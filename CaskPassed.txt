@@ -2,6 +2,7 @@ a-slower-speed-of-light
 abgx360
 abscissa
 accessmenubarapps
+acslogo
 actiontastic
 actprinter
 adapter
@@ -67,7 +68,6 @@ awareness
 ax88179
 backuploupe
 baiducloud
-baiduinput
 banshee
 bar-magnet
 baretorrent
@@ -174,7 +174,6 @@ colloquy
 colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
-colorpicker-rcwebcolorpicker
 colorpicker
 colors
 comictagger
@@ -323,6 +322,7 @@ freecol
 freedv
 freefilesync
 freemind
+freeplane
 fritzing
 frostwire
 fs-uae
@@ -375,6 +375,7 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
+graphviz
 gravit
 gridwars
 growl-fork
@@ -528,6 +529,7 @@ linphone
 litecoin
 liteicon
 liteide
+little-snitch
 littleipsum
 livereload
 livestation
@@ -553,7 +555,6 @@ macgdbp
 machg
 macpass
 macports
-mactex
 mactracker
 mactubes
 macupdate-desktop
@@ -570,7 +571,6 @@ makerware
 mame
 mamp
 manager
-manopen
 mapbox-studio
 mapture
 maratis
@@ -687,7 +687,6 @@ openarena
 openemu
 openlp
 opennx
-openoffice
 openscad
 opensesame
 opensong
@@ -764,6 +763,7 @@ powerword
 preen
 preform
 prepros
+prey
 prezi
 printrun
 prismatik
@@ -808,6 +808,7 @@ quickradar
 quicksilver
 quiterss
 quotefixformac
+qvod-player
 r
 racket
 radiant-player
@@ -815,8 +816,6 @@ raw-photo-processor
 raw-therapee
 razer-synapse
 razorsql
-rcdefaultapp
-rcenvironment
 rdm
 reaper
 recovery-disk-assistant
@@ -1079,7 +1078,6 @@ unison
 unity
 universal-media-server
 unpkg
-unrarx
 usb-overdrive
 utc-menu-clock
 utopia
@@ -1172,6 +1170,7 @@ zendstudio
 zeroad
 zeroinstall
 zeroxdbe-eap
+zoom
 zooom
 zotero
 zterm

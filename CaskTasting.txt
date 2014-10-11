@@ -1,4 +1,4 @@
-Check started at Fri Oct 10 00:01:07 EDT 2014
+Check started at Sat Oct 11 00:00:55 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -6,6 +6,7 @@ abgx360: passed
 abscissa: passed
 accessmenubarapps: passed
 acorn: no checksum
+acslogo: passed
 actions-server: no checksum
 actiontastic: passed
 activity-audit: no checksum
@@ -131,7 +132,9 @@ backtobed: no checksum
 backuploupe: passed
 bahamut: no checksum
 baiducloud: passed
-baiduinput: passed
+baiduinput: SHA-256 mismatch!
+  Expected: 7fbfd7270ce5c8d3a7e801ce67b4e858089299ef3ba96b3c0feb110d87da24e2
+  Actual  : 9417eb02533f2d20510eaeef30825ded3dec2e16c87a2c7a66877155e5b22aea
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: no checksum
@@ -232,6 +235,7 @@ candybar: passed
 capo: passed
 capsee: passed
 carbon-copy-cloner: passed
+cargo: no checksum
 carlson-minot: passed
 cartao-de-cidadao: passed
 cartographica: no checksum
@@ -311,7 +315,9 @@ colorpicker-antetype: passed
 colorpicker-developer: no checksum
 colorpicker-hex: passed
 colorpicker-propicker: passed
-colorpicker-rcwebcolorpicker: passed
+colorpicker-rcwebcolorpicker: SHA-256 mismatch!
+  Expected: 04a1965f756695ef0387e388aceb598d3fcde39ec82119d298bf3802f09b3f70
+  Actual  : 
 colorpicker-skalacolor: no checksum
 colorpicker: passed
 colors: passed
@@ -411,7 +417,7 @@ djv: SHA-256 mismatch!
 djview: passed
 dmm: SHA-256 mismatch!
   Expected: a903754cfa215bea8b041f67269525ba29a9fe34875f819c41d0bd65e5e1628f
-  Actual  : 832353ed55522050abc30d87a1127f1fb5a6d795e0b678b525482563c0cb69e3
+  Actual  : 
 dnscrypt: passed
 docear: no checksum
 dockmod: passed
@@ -578,6 +584,7 @@ freedv: passed
 freefilesync: passed
 freelancy: no checksum
 freemind: passed
+freeplane: passed
 freezer: no checksum
 fritzing: passed
 frizzix: no checksum
@@ -665,9 +672,7 @@ grafx2: no checksum
 grandperspective: passed
 grandtotal: no checksum
 graphsketcher: passed
-graphviz: SHA-256 mismatch!
-  Expected: 6b84c663b29ac7b3e96de709f80159ffc060eeaea71a80c1b199f3dc1fe5a9e6
-  Actual  : 
+graphviz: passed
 gravit: passed
 gridwars: passed
 grooveshark: no checksum
@@ -946,9 +951,7 @@ liquifile: no checksum
 litecoin: passed
 liteicon: passed
 liteide: passed
-little-snitch: SHA-256 mismatch!
-  Expected: c474c9e65004d88af529365c21db46580e9a6c420dbc1106213ac20e1fdfb1cd
-  Actual  : 
+little-snitch: passed
 littleipsum: passed
 livereload: passed
 livestation: passed
@@ -996,7 +999,9 @@ macports: passed
 macs-fan-control: no checksum
 macscale: no checksum
 macterm: no checksum
-mactex: passed
+mactex: SHA-256 mismatch!
+  Expected: 4e7fc21dbddae436f604dbeb3db2dc13c44aa9e2dd827a669a170418e84fc7e6
+  Actual  : 2d26fdcc330741c2d1db151b28e37711f80ba52a578d9eaec415525624840cce
 mactracker: passed
 mactubes: passed
 macupdate-desktop: passed
@@ -1023,7 +1028,9 @@ manager: passed
 manico: SHA-256 mismatch!
   Expected: e29c4b0ccba830f0296fbec27122b2016c6dae0f76d5635d5d080d2031fe2d88
   Actual  : 8bdaf093bddbdefde59e0961a31581a8ebe372f04695ae9e32a2a67b93c2a969
-manopen: passed
+manopen: SHA-256 mismatch!
+  Expected: 7b383ca493b0b360bb58e65f7e7ce0a92383ff38c5221cc410eaf03f1117a958
+  Actual  : 
 mapbox-studio: passed
 mapture: passed
 maratis: passed
@@ -1184,7 +1191,7 @@ noisy: no checksum
 noiz2sa: no checksum
 nomachine: SHA-256 mismatch!
   Expected: b210543612f9f99e120b356ef38754bd9b8f20c54d5d657e88a1d73b644cf145
-  Actual  : 1970224e29056a85474dd92647c91190a1276be31758868f4e97abb68fcd479a
+  Actual  : ad4918e8274bc7373dfc1c720890b6c6fd563685fc17dfe18583d4e062600078
 nomacs: passed
 noobproof: passed
 nosleep: passed
@@ -1223,7 +1230,9 @@ opendns-updater: no checksum
 openemu: passed
 openlp: passed
 opennx: passed
-openoffice: passed
+openoffice: SHA-256 mismatch!
+  Expected: 7becbdbe2abbcfd9d27953d2e11dc07da308d80f208b5f27f6213d225dc95e64
+  Actual  : 
 openra: SHA-256 mismatch!
   Expected: 0f9bc52de1e4569371ae643d505c66d5196a73537f6810fad2a1c49baad37995
   Actual  : fbdeeb68287a5117d2c03980124bfe677eb8006815e512f1fb439d002fc1032f
@@ -1285,7 +1294,7 @@ paye-tools: passed
 pcalc: passed
 pcsxr: SHA-256 mismatch!
   Expected: e7361ceb8dc9089cae084ce119a5dc4119cab22bb5d79ebf55af596b7e7eb916
-  Actual  : 990a745128a4460fda00813975204a5c72ddbc10b6ed1a034cfdbe74893ca308
+  Actual  : 807af5002fb737c5a1daf4235aa07ac134892c4f824a5694a122714289e5d0e0
 pd-extended: passed
 pdfinfo: no checksum
 pdfmasher: passed
@@ -1369,9 +1378,7 @@ preferencecleaner: no checksum
 preform: passed
 prefs-editor: no checksum
 prepros: passed
-prey: SHA-256 mismatch!
-  Expected: 7193cf76a776a015c7b533372506963c9ec2720966245dab1e0c02d149da1010
-  Actual  : 
+prey: passed
 prezi: passed
 printrun: passed
 prismatik: passed
@@ -1441,9 +1448,7 @@ quickradar: passed
 quicksilver: passed
 quiterss: passed
 quotefixformac: passed
-qvod-player: SHA-256 mismatch!
-  Expected: e824084e6a0539be3f30da795938b45c0f88bdb49794f61615a5753aedd92c4e
-  Actual  : 86c7f1bea5ea3aa4469e929ca1ed4ce31985bef5e3ae763154638885d21a6c46
+qvod-player: passed
 r-name: no checksum
 r: passed
 racket: passed
@@ -1454,8 +1459,12 @@ raw-photo-processor: passed
 raw-therapee: passed
 razer-synapse: passed
 razorsql: passed
-rcdefaultapp: passed
-rcenvironment: passed
+rcdefaultapp: SHA-256 mismatch!
+  Expected: eb940bf74628f94ac3bfe39e360cb8fb8bbbc9a3c314d2214d5f1476b5d8b6a4
+  Actual  : 
+rcenvironment: SHA-256 mismatch!
+  Expected: 8c2db3e0e2493393cad70ba55157ce5b4aed2d718dff792a7249b118a8f51456
+  Actual  : 
 rdio: no checksum
 rdm: passed
 readefine-desktop: no checksum
@@ -1897,7 +1906,9 @@ unity-web-player: no checksum
 unity: passed
 universal-media-server: passed
 unpkg: passed
-unrarx: passed
+unrarx: SHA-256 mismatch!
+  Expected: 616c5c536efb29a35fe45c8171874592cc28b269e5d7ed6947c19c8cbb686955
+  Actual  : 07f99e34de6b4f4707f502d1cfcf2957b330c5ff713cf377d1eb82b85f975539
 usb-overdrive: passed
 utc-menu-clock: passed
 utopia: passed
@@ -1943,11 +1954,11 @@ vox-preference-pane: no checksum
 vox: no checksum
 vuescan: SHA-256 mismatch!
   Expected: a6e82863f7d6fc34400f678fb4de3cf5af6cbde9a20693ff4bfb5d95ad59f398
-  Actual  : d3307e941b90640af9467de7a5883c5b108bac2d17dcaf4c9f3d63d32bb19d9f
+  Actual  : b825444b6afc0d6f98efa7cf530a01539f719c5e8402d311b9feee86251a8567
 vyprvpn: passed
 wabbitemu: SHA-256 mismatch!
   Expected: 23fc164767da10389eec858d022967fb58fdca1debaa5b9e022f2e9280a4f4e8
-  Actual  : 3f1f01d9bfdd6fb766da70c8daa91a734c044ddaafd6b3cf7bbe397dc4e8c502
+  Actual  : d492973651c2119537bd95a84700ef4732995f34d4e9812c55633a4b4969c50e
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
 wake-on-lan: passed
@@ -1977,7 +1988,7 @@ wineskin-winery: passed
 wings3d: passed
 winxound: SHA-256 mismatch!
   Expected: c3460eeeff3fec917fb91cad0aafe5df5779f226fc6296bfa6d0c757fbd6ad47
-  Actual  : d9506122e2cbe294d7434c7ae38fed75330e5142fb94a7a67cb6fe664db9e0df
+  Actual  : 5b8fd517e0447e539d7f901ef37765f0aeee652ad0359dfced97aaee52b73463
 wireover: no checksum
 wireshark: passed
 wiretap-studio: passed
@@ -1985,7 +1996,7 @@ witch: no checksum
 witgui: passed
 wiznote: SHA-256 mismatch!
   Expected: 5735502f06e93013f1350df89dd0423c1c250da798d7e5970d18a67034bb032f
-  Actual  : 7a89def8a22b0d679168d5669ccf4b210f3a132302c86a5ebca0f79d7f357bd5
+  Actual  : 36e4592efe49b31e014b0b5aaa78d19f37e5d916012a13742aafe2abaf54571e
 wiztoolsorg-restclient: passed
 wjoy: passed
 wondershare-player: no checksum
@@ -2061,8 +2072,9 @@ zipeg: no checksum
 zoc: SHA-256 mismatch!
   Expected: e5bab1efba9920129e7e829f255a73bf6abea443533c428ec797b787379b7827
   Actual  : 
+zoom: passed
 zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Fri Oct 10 15:18:36 EDT 2014
+Check finished at Sat Oct 11 10:38:59 EDT 2014
