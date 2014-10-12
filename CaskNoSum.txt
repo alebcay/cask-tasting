@@ -663,6 +663,7 @@ wasted
 web-sharing
 wechat
 wedge
+wercker
 whatsapp-pocket
 whatsize
 wifimasterkey

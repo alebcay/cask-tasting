@@ -169,11 +169,11 @@ cocoaspell
 coconutbattery
 coda
 codekit
-cog
 colloquy
 colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
+colorpicker-rcwebcolorpicker
 colorpicker
 colors
 comictagger
@@ -305,7 +305,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fliqlo
 fluid
 fluke
@@ -490,7 +489,6 @@ kensington-trackball-works
 kext-utility
 key-codes
 keycastr
-keycue
 keymo
 keystore-explorer
 kid3
@@ -555,6 +553,7 @@ macgdbp
 machg
 macpass
 macports
+mactex
 mactracker
 mactubes
 macupdate-desktop
@@ -571,6 +570,7 @@ makerware
 mame
 mamp
 manager
+manopen
 mapbox-studio
 mapture
 maratis
@@ -672,11 +672,11 @@ noobproof
 nosleep
 nottingham
 ntfs-free
+ntfsmounter
 nvalt
 obs
 obsidian-menu-bar-mountain-lion
 oclint
-octave
 omnidazzle
 omnifocus-clip-o-tron
 omnipresence
@@ -695,7 +695,6 @@ openvanilla
 openzfs
 opera-mail
 opera-mobile-emulator
-opera-next
 opera
 osculator
 osxfuse
@@ -816,6 +815,8 @@ raw-photo-processor
 raw-therapee
 razer-synapse
 razorsql
+rcdefaultapp
+rcenvironment
 rdm
 reaper
 recovery-disk-assistant
