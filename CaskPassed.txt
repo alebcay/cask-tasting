@@ -169,6 +169,7 @@ cocoaspell
 coconutbattery
 coda
 codekit
+cog
 colloquy
 colorpicker-antetype
 colorpicker-hex
@@ -677,6 +678,7 @@ nvalt
 obs
 obsidian-menu-bar-mountain-lion
 oclint
+octave
 omnidazzle
 omnifocus-clip-o-tron
 omnipresence
@@ -967,7 +969,6 @@ subsurface
 subtitle-master
 subtitles
 sumbolon
-sunlogin-remote
 supaview
 super-otr
 supercollider
@@ -1079,6 +1080,7 @@ unison
 unity
 universal-media-server
 unpkg
+unrarx
 usb-overdrive
 utc-menu-clock
 utopia
@@ -1127,6 +1129,7 @@ wings3d
 wireshark
 wiretap-studio
 witgui
+wiznote
 wiztoolsorg-restclient
 wjoy
 woodhouse

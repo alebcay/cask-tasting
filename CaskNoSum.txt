@@ -283,6 +283,7 @@ intermission
 invisionsync
 invisorql
 ionu
+ip-in-menu-bar
 iphone-backup-extractor
 irip
 istat-menus

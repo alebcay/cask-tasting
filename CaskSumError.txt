@@ -5,7 +5,6 @@ baiduinput
 basecamp
 binreader
 cockatrice
-cog
 delivery-status
 djv
 dmm
@@ -36,7 +35,6 @@ moreamp
 multibit
 navicat-premium
 nomachine
-octave
 openoffice
 openra
 orange
@@ -55,12 +53,11 @@ shotcut
 splayerx
 squire
 strongvpn-client
+sunlogin-remote
 texshop
 tuneinstructor
-unrarx
 videomonkey
 vuescan
 wabbitemu
 winxound
-wiznote
 zoc
