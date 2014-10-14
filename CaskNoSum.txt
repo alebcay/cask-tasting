@@ -43,6 +43,7 @@ atom
 au-lab
 audio-editor
 audio-hijack-pro
+audiobook-builder
 authbuddy
 automatic
 aviator
@@ -74,6 +75,7 @@ bleep
 blu-ray-player
 bodega
 bonjour-browser
+bookends
 boom
 bootchamp
 box-sync
@@ -322,6 +324,7 @@ lastpass-universal
 latexian
 layervault
 league-of-legends
+leech
 less
 licensed
 lincastor
@@ -429,8 +432,10 @@ oovoo
 opendns-updater
 optimal-layout
 orbit
+order-of-twilight
 origin
 ormr
+ortho-robot
 outwit-hub
 pacifist
 paintcode

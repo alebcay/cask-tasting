@@ -15,6 +15,7 @@ adobe-reader
 aegisub
 air-video-server-hd
 air-video-server
+airfile
 airflick
 airserver
 alarm-clock
@@ -99,6 +100,7 @@ bluegriffon
 blueharvest
 bluej
 bob
+boinxtv
 boot2docker
 bootxchanger
 bowtie
@@ -209,7 +211,8 @@ daemon-tools-lite
 darktable
 dashlane
 dataurlmaker
-dbeaver
+dbeaver-community
+dbeaver-enterprise
 deathtodsstore
 debt-quencher
 decitime
@@ -306,6 +309,7 @@ flash-player
 flash
 flickr-uploadr
 flightgear
+flip4mac
 fliqlo
 fluid
 fluke
@@ -369,6 +373,7 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
+googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -476,6 +481,7 @@ jetphoto-studio
 jewelrybox
 jitsi
 jubler
+julia
 juliastudio
 jumpcut
 jumpshare
@@ -641,7 +647,6 @@ mysqlworkbench
 nally
 namebench
 namechanger
-navicat-data-modeler
 navicat-for-mariadb
 navicat-for-mysql
 navicat-for-oracle
@@ -671,6 +676,8 @@ noejectdelay
 nomacs
 noobproof
 nosleep
+not-pacman
+not-tetris
 nottingham
 ntfs-free
 ntfsmounter
@@ -689,6 +696,7 @@ openarena
 openemu
 openlp
 opennx
+openoffice
 openscad
 opensesame
 opensong
@@ -770,6 +778,7 @@ printrun
 prismatik
 processing
 programmer-dvorak
+progressive-downloader
 projectlibre
 prolific-usb-serial-driver
 protege
@@ -969,6 +978,7 @@ subsurface
 subtitle-master
 subtitles
 sumbolon
+sunlogin-remote
 supaview
 super-otr
 supercollider
@@ -1003,6 +1013,7 @@ tex-live-utility
 texmacs
 texnicle
 texpad
+texshop
 texstudio
 textadept
 textexpander
@@ -1084,6 +1095,7 @@ unrarx
 usb-overdrive
 utc-menu-clock
 utopia
+vagrant-bar
 vagrant-manager
 vagrant
 vassal
