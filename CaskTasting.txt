@@ -1,4 +1,4 @@
-Check started at Tue Oct 14 00:01:03 EDT 2014
+Check started at Wed Oct 15 00:01:07 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -15,7 +15,9 @@ actprinter: passed
 actual-odbc-pack: no checksum
 adapter: passed
 adium: passed
-adobe-air: passed
+adobe-air: SHA-256 mismatch!
+  Expected: 07f7ae83b9d9005c830ce7592d651c378e235a20f62da692410035a703af20c7
+  Actual  : d0b82ca3c266034b9bc3029e3bb2e69e1a242af5012e6eebafb68cc489609f2d
 adobe-arh: no checksum
 adobe-creative-cloud: no checksum
 adobe-digital-editions: passed
@@ -96,7 +98,6 @@ asepsis: passed
 asteroid: no checksum
 atext: no checksum
 atlantis: passed
-atmonitor: no checksum
 atom: no checksum
 atraci: passed
 au-lab: no checksum
@@ -136,7 +137,7 @@ bahamut: no checksum
 baiducloud: passed
 baiduinput: SHA-256 mismatch!
   Expected: 7fbfd7270ce5c8d3a7e801ce67b4e858089299ef3ba96b3c0feb110d87da24e2
-  Actual  : be412bfed3f85fbf44634d6510ebf52729a22996e68201284f0d808426eede56
+  Actual  : e398fcd769ac6a68f3be734196578cf861f30fe238aa009b954a08d19cce7c8b
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: no checksum
@@ -289,7 +290,9 @@ cloak: passed
 clock: passed
 clonk: no checksum
 cloud: passed
-cloudera-hive-odbc: passed
+cloudera-hive-odbc: SHA-256 mismatch!
+  Expected: cf31ace79ca995e8b7b57f1b49761777168c9f4b103092a74f6cb111084d71d8
+  Actual  : 
 cloudfoundry-cli: passed
 cloudpull: no checksum
 cloudup: no checksum
@@ -546,13 +549,17 @@ fivedetails-flow: no checksum
 flame: passed
 flash-decompiler-trillix: no checksum
 flash-player-debugger: passed
-flash-player: passed
+flash-player: SHA-256 mismatch!
+  Expected: 471dc1b5b1838afcc7f78a47c194081687c2c44a1fb59d4e51e25e4715c68d80
+  Actual  : d164d1eb7075c2b25124cbbc8078272a4e08b78c15126588a67aa033889de63b
 flash: passed
 flavours: no checksum
 flexiglass: no checksum
 flickr-uploadr: passed
 flightgear: passed
-flip4mac: passed
+flip4mac: SHA-256 mismatch!
+  Expected: d1574ca9896f8f40bf4d868e8ff91b1da1ac1dcd91a5b7898f3580543b02988e
+  Actual  : be85cc76b2993eaacbd2071f2afdfcfc69c05ed45a2c4edb72d3234d11ba599d
 fliqlo: passed
 flow: no checksum
 flowdock: no checksum
@@ -643,7 +650,9 @@ glo: no checksum
 globalsync: no checksum
 gmail-notifier: passed
 gmail-notifr: passed
-gnucash: passed
+gnucash: SHA-256 mismatch!
+  Expected: d80385c30f7e647b6f8af711cf9f34cd1de8c7dc49794f94d15aa63d82cefc56
+  Actual  : 
 go-agent: passed
 go-server: passed
 goagentx: no checksum
@@ -728,7 +737,9 @@ hosts: passed
 houdahgeo: no checksum
 houdahspot: no checksum
 hpuload: no checksum
-hr: passed
+hr: SHA-256 mismatch!
+  Expected: 7d07901a88d449fcb352b17408d8bdbc98c849e12080f5dad5259a009dda5c4b
+  Actual  : 
 hsang: passed
 httpscoop: passed
 hubic: passed
@@ -927,9 +938,7 @@ launchy: passed
 layervault: no checksum
 lazarus: passed
 league-of-legends: no checksum
-leap-motion: SHA-256 mismatch!
-  Expected: 70507658b029398f5839603ed0e5998db690608f17dc6d55386f12a41a70edee
-  Actual  : 
+leap-motion: passed
 leech: no checksum
 less: no checksum
 levelator: passed
@@ -1021,7 +1030,9 @@ mailplane: no checksum
 maintenance: no checksum
 majic: no checksum
 makehuman: passed
-makemkv: passed
+makemkv: SHA-256 mismatch!
+  Expected: bf35191ae9c0597b60e95cec43069a38ad500037558cdef11f0dec610495ebd3
+  Actual  : 
 makerware: passed
 mame: passed
 mamp: passed
@@ -1068,8 +1079,12 @@ meshlab: passed
 metanota: passed
 meteorologist: passed
 mi: passed
-microsoft-intellipoint: passed
-microsoft-intellitype: passed
+microsoft-intellipoint: SHA-256 mismatch!
+  Expected: 1a4612d3237084d0502d947793c097575febc95442130e2384c8fbf4b52cac9e
+  Actual  : 
+microsoft-intellitype: SHA-256 mismatch!
+  Expected: 8aaaef8fc2722f1e896facb23c69ef759f7ecd92d94031c51ca0a890d198cd58
+  Actual  : 
 microsoft-lync-plugin: no checksum
 middleclick: no checksum
 midikeys: passed
@@ -1148,9 +1163,7 @@ namebench: passed
 namechanger: passed
 namely: no checksum
 narrative-uploader: no checksum
-navicat-data-modeler: SHA-256 mismatch!
-  Expected: de0f1dbb450401f9ce29948886b60167508ccca621162a9ab9a805d54d574bbb
-  Actual  : 
+navicat-data-modeler: passed
 navicat-for-mariadb: passed
 navicat-for-mysql: passed
 navicat-for-oracle: passed
@@ -1192,7 +1205,7 @@ noisy: no checksum
 noiz2sa: no checksum
 nomachine: SHA-256 mismatch!
   Expected: b210543612f9f99e120b356ef38754bd9b8f20c54d5d657e88a1d73b644cf145
-  Actual  : 4d9e25e958f6a0a0f0dfe8a40a3f5d5c486f674dbb8e756ec4a9093df78e95de
+  Actual  : 7b45bc60a2c6fee0a1b932c97ef1bb31a900bb53d75e1066a92645c54d9d4791
 nomacs: passed
 noobproof: passed
 nosleep: passed
@@ -1676,9 +1689,7 @@ spideroak: no checksum
 spillo: no checksum
 splashtop-personal: passed
 splashtop-streamer: passed
-splayerx: SHA-256 mismatch!
-  Expected: 75a3decacd5a8efe5b6f5638999281159cb7ddf598d158a89f3d6e157c276433
-  Actual  : 
+splayerx: passed
 splitshow: passed
 spotdox: no checksum
 spotifree: no checksum
@@ -1714,7 +1725,7 @@ stockbarjp: no checksum
 streamtools: passed
 strongvpn-client: SHA-256 mismatch!
   Expected: cacf4f7a94b1601bae2cf19fe94b6dbae827ed531e05ff0f91723aea5b3845b9
-  Actual  : 3808d538e007b705a518aa4b3f9545f8a20a870f3609d41a3891cc3349e1ec2e
+  Actual  : 593d5d52547adf3e9d8d39c56c0b6606992ab91784cd26edd1418abbeb982c6e
 sts: passed
 subclassed-mnemosyne: passed
 subl: passed
@@ -1915,9 +1926,7 @@ versions: no checksum
 vessel: passed
 viber: no checksum
 vico: passed
-videomonkey: SHA-256 mismatch!
-  Expected: ab09a3bb98a78d32ae48c55b6572e4d1e10ead0f26d5ba895a9a2ee5c105088c
-  Actual  : 
+videomonkey: passed
 videospec: passed
 vienna: passed
 viewit: passed
@@ -1948,7 +1957,7 @@ vox-preference-pane: no checksum
 vox: no checksum
 vuescan: SHA-256 mismatch!
   Expected: a6e82863f7d6fc34400f678fb4de3cf5af6cbde9a20693ff4bfb5d95ad59f398
-  Actual  : 6557eb3368e352c8bd91275a7604e2cfbc2712604d51ac56eb73ef17b58df533
+  Actual  : 73e7ea159f1b7cc44c3033bfca60d202294ec4f70c68d0013d7b59f25691e2d7
 vyprvpn: passed
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
@@ -2064,4 +2073,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Tue Oct 14 13:23:58 EDT 2014
+Check finished at Wed Oct 15 14:22:48 EDT 2014

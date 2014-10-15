@@ -7,7 +7,6 @@ actiontastic
 actprinter
 adapter
 adium
-adobe-air
 adobe-digital-editions
 adobe-dng-converter
 adobe-photoshop-lightroom
@@ -159,7 +158,6 @@ clix
 cloak
 clock
 cloud
-cloudera-hive-odbc
 cloudfoundry-cli
 cloudytabs
 cn3d
@@ -305,11 +303,9 @@ find-any-file
 fitbit-connect
 flame
 flash-player-debugger
-flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fliqlo
 fluid
 fluke
@@ -366,7 +362,6 @@ glcplayer
 glimmerblocker
 gmail-notifier
 gmail-notifr
-gnucash
 go-agent
 go-server
 gog-downloader
@@ -408,7 +403,6 @@ hoppergdbserver
 horndis
 hoster
 hosts
-hr
 hsang
 httpscoop
 hubic
@@ -522,6 +516,7 @@ launchcontrol
 launchrocket
 launchy
 lazarus
+leap-motion
 levelator
 libreoffice
 licecap
@@ -572,7 +567,6 @@ magic-launch
 mailbox
 mailfollowup
 makehuman
-makemkv
 makerware
 mame
 mamp
@@ -607,8 +601,6 @@ meshlab
 metanota
 meteorologist
 mi
-microsoft-intellipoint
-microsoft-intellitype
 midikeys
 miditrail
 milkytracker
@@ -647,6 +639,7 @@ mysqlworkbench
 nally
 namebench
 namechanger
+navicat-data-modeler
 navicat-for-mariadb
 navicat-for-mysql
 navicat-for-oracle
@@ -945,6 +938,7 @@ speedcrunch
 spek
 splashtop-personal
 splashtop-streamer
+splayerx
 splitshow
 spotify-notifications
 sputnik
@@ -1101,6 +1095,7 @@ vagrant
 vassal
 vessel
 vico
+videomonkey
 videospec
 vienna
 viewit
