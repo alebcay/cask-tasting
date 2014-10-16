@@ -72,7 +72,6 @@ bill
 bittorrent-sync
 bleep
 blu-ray-player
-bodega
 bonjour-browser
 bookends
 boom
