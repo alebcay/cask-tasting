@@ -31,7 +31,6 @@ anki
 anonym
 antirsi
 anypass
-apache-directory-studio
 apikitchen
 apns-pusher
 appcleaner
@@ -124,7 +123,6 @@ calibre2opds
 callnote
 camed
 camerabag
-camranger
 camtwist
 candybar
 capo
@@ -213,7 +211,6 @@ dataurlmaker
 dbeaver-community
 dbeaver-enterprise
 dbvisualizer
-deathtodsstore
 debt-quencher
 decitime
 deltawalker
@@ -229,6 +226,7 @@ dfontsplitter
 dia
 diashapes
 dictunifier
+difffork
 diffmerge
 disk-inventory-x
 diskwave
@@ -357,7 +355,6 @@ gifrocket
 gimp-lisanet
 gimp
 gingr
-gisto
 gitbox
 gitifier
 gitter
@@ -518,7 +515,6 @@ ksdiff
 kvirc
 kylo
 latexit
-launchbar
 launchcontrol
 launchrocket
 launchy
@@ -578,7 +574,6 @@ makehuman
 makemkv
 makerware
 mame
-mamp
 manager
 manopen
 mapbox-studio
@@ -619,6 +614,7 @@ mini-metro
 minitimer
 mixxx
 mjolnir
+mmex
 mnemosyne
 money
 moneyguru
@@ -686,6 +682,7 @@ not-tetris
 nottingham
 ntfs-free
 ntfsmounter
+nvalt
 obs
 obsidian-menu-bar-mountain-lion
 oclint
@@ -761,6 +758,8 @@ pixlr
 plainview
 platypus
 playonmac
+plex-home-theater
+plex-media-server
 pliny
 plover
 pngcommentator
@@ -821,6 +820,7 @@ quiterss
 quotefixformac
 qvod-player
 r
+racket
 radiant-player
 raw-photo-processor
 raw-therapee
@@ -932,7 +932,6 @@ sogouinput
 sonic-visualiser
 sonos
 sopcast
-sophos-anti-virus-home-edition
 soqlxplorer
 soulseek
 soundflower
@@ -1085,7 +1084,6 @@ ultrastardeluxe
 uncrustifyx
 undercover
 unetbootin
-uninstallpkg
 unison
 unity
 universal-media-server
@@ -1128,7 +1126,6 @@ wavtap
 wd-security
 webp-quicklook
 webstorm
-weibox
 weka
 welly
 wesnoth
