@@ -31,6 +31,7 @@ apimac-timer
 appdelete
 appfresh
 appmenuboy
+appstore-quickview
 apptivate
 appzapper
 archiver
@@ -98,6 +99,7 @@ cheetah3d
 chocolat
 chromatic
 chrome-remote-desktop-host
+chromium
 chronicle
 chronoagent
 chronosync
@@ -109,6 +111,7 @@ cleanmymac
 clonk
 cloudpull
 cloudup
+cockatrice
 cocktail
 cocoasplit
 codebox
@@ -274,11 +277,14 @@ ifunbox
 imageoptim
 imazing
 img2icns
+imodsign
+import-io
 inc
 indigo
 infinit
 inky
 integrity
+interface-inspector
 intermission
 invisionsync
 invisorql
@@ -413,6 +419,7 @@ noiz2sa
 notational-velocity
 nothing-to-hide
 notifyr
+nsregextester
 nutstore
 nzbvortex
 objektiv
@@ -485,6 +492,7 @@ propane
 prott
 proxifier
 proxpn
+punto-switcher
 puush
 puzzles
 qgroundcontrol
@@ -499,6 +507,7 @@ quicklook-csv
 quicklook-json
 r-name
 radbeacon
+radi
 rapidweaver
 rdio
 readefine-desktop
@@ -627,6 +636,7 @@ todoist
 todos
 tofu
 toggldesktop
+tokens
 tonido
 toodledo
 torpedo
@@ -700,6 +710,7 @@ younited
 youview
 zepheer
 zephyros
+zero10-editor
 zeroxed
 zipcleaner
 zipeg

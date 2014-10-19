@@ -8,11 +8,13 @@ actprinter
 adafruit-arduino
 adapter
 adium
+adobe-air
 adobe-digital-editions
 adobe-dng-converter
 adobe-photoshop-lightroom
 adobe-reader
 aegisub
+aether
 air-video-server-hd
 air-video-server
 airfile
@@ -23,6 +25,7 @@ alfred
 alice
 amazon-music
 amethyst
+ammonite
 ampps
 android-studio-bundle
 android-studio
@@ -31,6 +34,7 @@ anki
 anonym
 antirsi
 anypass
+apache-directory-studio
 apikitchen
 apns-pusher
 appcleaner
@@ -73,6 +77,7 @@ bar-magnet
 baretorrent
 basex
 basictex
+basis-sync
 bassjump
 bassshapes
 bathyscaphe
@@ -100,6 +105,7 @@ blueharvest
 bluej
 bob
 boinxtv
+boom-recorder
 boot2docker
 bootxchanger
 bowtie
@@ -107,6 +113,7 @@ brackets
 brain-workshop
 breach
 breakaway
+bricksmith
 brightness
 brogue
 broomstick
@@ -147,7 +154,6 @@ chicken
 chirp
 choosy
 chromecast
-chromium
 chronomate
 clamxav
 clementine
@@ -170,7 +176,6 @@ coconutbattery
 coda
 codekit
 cog
-colloquy
 colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
@@ -184,7 +189,6 @@ connector
 consul
 controlplane
 cooviewer
-coqide
 cord
 cornerstone
 corsixth
@@ -192,6 +196,7 @@ coteditor
 couchbase-server-community
 couchbase-server-enterprise
 crashplan
+cronnix
 crosspack-avr
 crypt
 cryptol
@@ -213,6 +218,7 @@ dbeaver-enterprise
 dbvisualizer
 debt-quencher
 decitime
+default-folder-x
 deltawalker
 deluge
 deskfun
@@ -235,6 +241,7 @@ djview
 dnscrypt
 dockmod
 dogecoin
+dolphin
 dosbox
 double-commander
 doublecommand
@@ -257,6 +264,7 @@ duplicati
 dupscanub
 dvdstyler
 dwarf-fortress
+dynamiclyrics
 e-tax-2014
 eagle
 eaglefiler
@@ -271,6 +279,7 @@ eid-mw
 ejector
 electric-sheep
 electrum
+elm-platform
 eloquent
 elyse
 emacs
@@ -318,7 +327,6 @@ fourk-video-downloader
 fourk-youtube-to-mp3
 fpc
 framer-studio
-free-ruler
 freecad
 freecol
 freedv
@@ -355,6 +363,7 @@ gifrocket
 gimp-lisanet
 gimp
 gingr
+gisto
 gitbox
 gitifier
 gitter
@@ -363,6 +372,7 @@ glcplayer
 glimmerblocker
 gmail-notifier
 gmail-notifr
+gnucash
 go-agent
 go-server
 gog-downloader
@@ -442,6 +452,7 @@ intel-power-gadget
 intel-xdk
 intellij-idea-ce
 intellij-idea
+intensify-pro
 invisiblix
 iograph
 ioquake3
@@ -515,6 +526,7 @@ ksdiff
 kvirc
 kylo
 latexit
+launchbar
 launchcontrol
 launchrocket
 launchy
@@ -559,7 +571,6 @@ macgdbp
 machg
 macpass
 macports
-mactex
 mactracker
 mactubes
 macupdate-desktop
@@ -647,10 +658,10 @@ mysqlworkbench
 nally
 namebench
 namechanger
+nanostudio
 navicat-data-modeler
 navicat-for-mariadb
 navicat-for-mysql
-navicat-for-oracle
 navicat-for-postgresql
 navicat-for-sql-server
 navicat-for-sqlite
@@ -706,6 +717,7 @@ openzfs
 opera-mail
 opera-mobile-emulator
 opera
+orange
 osculator
 osxfuse
 owasp-zap
@@ -750,6 +762,7 @@ phpstorm
 pi-filler
 pianopub
 picasa
+pingendo
 pinta
 pivotalbooster
 pixel-check
@@ -761,6 +774,7 @@ playonmac
 plex-home-theater
 plex-media-server
 pliny
+plotdevice
 plover
 pngcommentator
 pngyu
@@ -822,7 +836,6 @@ qvod-player
 r
 racket
 radiant-player
-raw-photo-processor
 raw-therapee
 razer-synapse
 razorsql
@@ -889,6 +902,7 @@ servetome
 serviio
 sevenzx
 shadowsocksx
+shady
 shiftit
 shiori
 shoes
@@ -932,6 +946,7 @@ sogouinput
 sonic-visualiser
 sonos
 sopcast
+sophos-anti-virus-home-edition
 soqlxplorer
 soulseek
 soundflower
@@ -1048,7 +1063,9 @@ toad
 tokaido
 tomahawk
 tomighty
+tonality-pro
 tongbu
+torbrowser
 tortoisehg
 totalfinder
 totals
@@ -1183,6 +1200,7 @@ zendstudio
 zeroad
 zeroinstall
 zeroxdbe-eap
+zoc
 zoom
 zooom
 zotero
