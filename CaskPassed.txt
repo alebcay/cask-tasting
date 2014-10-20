@@ -8,7 +8,6 @@ actprinter
 adafruit-arduino
 adapter
 adium
-adobe-air
 adobe-digital-editions
 adobe-dng-converter
 adobe-photoshop-lightroom
@@ -30,7 +29,6 @@ ampps
 android-studio-bundle
 android-studio
 angry-ip-scanner
-anki
 anonym
 antirsi
 anypass
@@ -95,7 +93,6 @@ bitcasa
 bitcoin-core
 bitlord
 bitmessage
-bitwig-studio
 black-ink
 black-light
 blender
@@ -139,6 +136,7 @@ carlson-minot
 cartao-de-cidadao
 catch
 cathode
+caustic
 ccleaner
 ccmenu
 cd-to
@@ -176,6 +174,7 @@ coconutbattery
 coda
 codekit
 cog
+colloquy
 colorpicker-antetype
 colorpicker-hex
 colorpicker-propicker
@@ -189,6 +188,7 @@ connector
 consul
 controlplane
 cooviewer
+coqide
 cord
 cornerstone
 corsixth
@@ -274,7 +274,6 @@ easyvpn
 eclipse-ide
 eclipse-java
 eclipse-platform
-ecoute
 eid-mw
 ejector
 electric-sheep
@@ -316,7 +315,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fliqlo
 fluid
 fluke
@@ -325,8 +323,8 @@ forklift
 fotowall
 fourk-video-downloader
 fourk-youtube-to-mp3
-fpc
 framer-studio
+free-ruler
 freecad
 freecol
 freedv
@@ -571,6 +569,7 @@ macgdbp
 machg
 macpass
 macports
+mactex
 mactracker
 mactubes
 macupdate-desktop
@@ -585,9 +584,9 @@ makehuman
 makemkv
 makerware
 mame
+mamp
 manager
 manopen
-mapbox-studio
 mapture
 maratis
 marble
@@ -662,6 +661,7 @@ nanostudio
 navicat-data-modeler
 navicat-for-mariadb
 navicat-for-mysql
+navicat-for-oracle
 navicat-for-postgresql
 navicat-for-sql-server
 navicat-for-sqlite
@@ -816,6 +816,7 @@ qlcolorcode
 qlmarkdown
 qlnetcdf
 qlprettypatch
+qlvideo
 qmind
 qq
 qqbrowser
@@ -872,6 +873,7 @@ sauerbraten
 scala-ide
 scansnap-manager
 schnapps
+scilab
 scout
 screenflow
 screenstagram
@@ -1008,7 +1010,6 @@ synology-cloud-station
 synology-photo-station-uploader
 synthesia
 tabula
-tag
 tagger
 tagr
 tagspaces
@@ -1028,7 +1029,6 @@ texmacs
 texnicle
 texpad
 texshop
-texstudio
 textadept
 textexpander
 textroom
@@ -1176,7 +1176,6 @@ xaos
 xbench
 xbmc
 xca
-xee
 xld
 xmarks-safari
 xmind
@@ -1195,7 +1194,6 @@ youtrack-workflow
 yubikey-personalization-gui
 yubiswitch
 zed
-zendserver
 zendstudio
 zeroad
 zeroinstall
