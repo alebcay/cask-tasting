@@ -13,6 +13,7 @@ adobe-dng-converter
 adobe-photoshop-lightroom
 adobe-reader
 aegisub
+aerofs
 aether
 air-video-server-hd
 air-video-server
@@ -25,10 +26,9 @@ alice
 amazon-music
 amethyst
 ammonite
-ampps
-android-studio-bundle
 android-studio
 angry-ip-scanner
+anki
 anonym
 antirsi
 anypass
@@ -63,7 +63,6 @@ aurora
 authoxy
 authy-bluetooth
 autodmg
-autopano-pro
 avidemux
 avogadro
 awareness
@@ -93,6 +92,7 @@ bitcasa
 bitcoin-core
 bitlord
 bitmessage
+bitwig-studio
 black-ink
 black-light
 blender
@@ -216,6 +216,7 @@ dataurlmaker
 dbeaver-community
 dbeaver-enterprise
 dbvisualizer
+deathtodsstore
 debt-quencher
 decitime
 default-folder-x
@@ -280,7 +281,6 @@ electric-sheep
 electrum
 elm-platform
 eloquent
-elyse
 emacs
 enfusegui
 enjoyable
@@ -289,7 +289,6 @@ escritorio-movistar
 evasi0n
 exist-db
 eye-fi
-eyetv
 facebook-ios-sdk
 factor
 fairmount
@@ -300,7 +299,6 @@ fastest-free-youtube-downloader
 feedbinnotifier
 feeder
 feeds
-fender-fuse
 fenics
 fenix
 fetch
@@ -314,7 +312,6 @@ flash-player-debugger
 flash-player
 flash
 flickr-uploadr
-flightgear
 fliqlo
 fluid
 fluke
@@ -323,6 +320,7 @@ forklift
 fotowall
 fourk-video-downloader
 fourk-youtube-to-mp3
+fpc
 framer-studio
 free-ruler
 freecad
@@ -568,7 +566,6 @@ macfusion
 macgdbp
 machg
 macpass
-macports
 mactex
 mactracker
 mactubes
@@ -587,6 +584,7 @@ mame
 mamp
 manager
 manopen
+mapbox-studio
 mapture
 maratis
 marble
@@ -713,6 +711,7 @@ openscad
 opensesame
 opensong
 openttd
+openvanilla
 openzfs
 opera-mail
 opera-mobile-emulator
@@ -772,7 +771,6 @@ plainview
 platypus
 playonmac
 plex-home-theater
-plex-media-server
 pliny
 plotdevice
 plover
@@ -787,7 +785,6 @@ powerword
 preen
 preform
 prepros
-prey
 prezi
 printrun
 prismatik
@@ -812,6 +809,7 @@ pycharm
 qbittorrent
 qdesktop
 qgis
+qiyimedia
 qlcolorcode
 qlmarkdown
 qlnetcdf
@@ -1008,8 +1006,10 @@ synergy
 synology-assistant
 synology-cloud-station
 synology-photo-station-uploader
+synologyeiauthenticator
 synthesia
 tabula
+tag
 tagger
 tagr
 tagspaces
@@ -1029,6 +1029,7 @@ texmacs
 texnicle
 texpad
 texshop
+texstudio
 textadept
 textexpander
 textroom
@@ -1176,6 +1177,7 @@ xaos
 xbench
 xbmc
 xca
+xee
 xld
 xmarks-safari
 xmind
@@ -1194,6 +1196,7 @@ youtrack-workflow
 yubikey-personalization-gui
 yubiswitch
 zed
+zendserver
 zendstudio
 zeroad
 zeroinstall

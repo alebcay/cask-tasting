@@ -323,6 +323,7 @@ knock
 kobo
 kuaipan
 kugoumusic
+laplock
 lastfm
 lastpass-universal
 latexian
@@ -357,6 +358,7 @@ macs-fan-control
 macscale
 macterm
 magican
+magicprefs
 mail-plugin-manager
 mailmate
 mailpile
@@ -597,12 +599,14 @@ spotify-menubar
 spotify
 sqwiggle
 srclib
+sslmate
 startninja
 steam
 stockbarjp
 superduper
 supersync
 suspicious-package
+swift-publisher
 swingfish
 swinsian
 tableau-public
