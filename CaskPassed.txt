@@ -8,6 +8,7 @@ actprinter
 adafruit-arduino
 adapter
 adium
+adobe-air
 adobe-digital-editions
 adobe-dng-converter
 adobe-photoshop-lightroom
@@ -26,6 +27,8 @@ alice
 amazon-music
 amethyst
 ammonite
+ampps
+android-studio-bundle
 android-studio
 angry-ip-scanner
 anki
@@ -69,6 +72,7 @@ awareness
 ax88179
 backuploupe
 baiducloud
+baiduinput
 banshee
 bar-magnet
 baretorrent
@@ -80,7 +84,6 @@ bassshapes
 bathyscaphe
 battery-time-remaining
 baudline
-bbedit
 beacon-scanner
 beaker
 beardedspice
@@ -95,6 +98,7 @@ bitmessage
 bitwig-studio
 black-ink
 black-light
+blackvue-viewer
 blender
 blink1control
 bluegriffon
@@ -105,6 +109,7 @@ boinxtv
 boom-recorder
 boot2docker
 bootxchanger
+bowery
 bowtie
 brackets
 brain-workshop
@@ -186,6 +191,7 @@ concentrate
 connected-desktop
 connector
 consul
+continuity-keypad
 controlplane
 cooviewer
 coqide
@@ -266,7 +272,7 @@ dupscanub
 dvdstyler
 dwarf-fortress
 dynamiclyrics
-e-tax-2014
+e-tax2014
 eagle
 eaglefiler
 easyfind
@@ -281,6 +287,7 @@ electric-sheep
 electrum
 elm-platform
 eloquent
+elyse
 emacs
 enfusegui
 enjoyable
@@ -289,6 +296,7 @@ escritorio-movistar
 evasi0n
 exist-db
 eye-fi
+eyetv
 facebook-ios-sdk
 factor
 fairmount
@@ -299,6 +307,7 @@ fastest-free-youtube-downloader
 feedbinnotifier
 feeder
 feeds
+fender-fuse
 fenics
 fenix
 fetch
@@ -312,6 +321,8 @@ flash-player-debugger
 flash-player
 flash
 flickr-uploadr
+flightgear
+flip4mac
 fliqlo
 fluid
 fluke
@@ -578,7 +589,6 @@ magic-launch
 mailbox
 mailfollowup
 makehuman
-makemkv
 makerware
 mame
 mamp
@@ -676,7 +686,6 @@ nimbus
 ninjablocks
 nitroshare
 nmap
-no-ip-duc
 nocturne
 node-webkit
 node
@@ -771,6 +780,7 @@ plainview
 platypus
 playonmac
 plex-home-theater
+plex-media-server
 pliny
 plotdevice
 plover
@@ -907,6 +917,7 @@ shiftit
 shiori
 shoes
 shortcat
+shotcut
 shuttle
 sickbeard-anime
 sickbeard
@@ -979,6 +990,7 @@ stay
 steermouse
 stella
 stellarium
+stepmania
 streamtools
 sts
 subclassed-mnemosyne
@@ -1035,7 +1047,6 @@ textexpander
 textroom
 texts
 texturepacker
-textwrangler
 the-archive-browser
 the-brain
 the-cheat
