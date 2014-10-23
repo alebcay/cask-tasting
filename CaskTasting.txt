@@ -1,4 +1,4 @@
-Check started at Wed Oct 22 00:01:06 EDT 2014
+Check started at Thu Oct 23 00:01:08 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -95,6 +95,7 @@ arranger: passed
 arrsync: no checksum
 aseprite: passed
 asepsis: passed
+astah-community: passed
 asteroid: no checksum
 atext: no checksum
 atlantis: passed
@@ -134,7 +135,9 @@ backtobed: no checksum
 backuploupe: passed
 bahamut: no checksum
 baiducloud: passed
-baiduinput: passed
+baiduinput: SHA-256 mismatch!
+  Expected: 7fbfd7270ce5c8d3a7e801ce67b4e858089299ef3ba96b3c0feb110d87da24e2
+  Actual  : 78b8eb4eef0f60d0ca47334ee417434ceedbf86f36cef295f61f6d4d66718272
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: no checksum
@@ -324,6 +327,7 @@ colorpicker-propicker: passed
 colorpicker-rcwebcolorpicker: passed
 colorpicker-skalacolor: no checksum
 colorpicker: passed
+colorport: passed
 colors: passed
 colorschemer-studio: no checksum
 comicbooklover: no checksum
@@ -513,6 +517,7 @@ exhaust: no checksum
 exist-db: passed
 expandrive: no checksum
 eye-fi: passed
+eye-one-profiler: passed
 eyetv: passed
 ezeep: no checksum
 facebook-ios-sdk: passed
@@ -583,7 +588,9 @@ fotomagico: SHA-256 mismatch!
   Actual  : 
 fotowall: passed
 fourk-video-downloader: passed
-fourk-youtube-to-mp3: passed
+fourk-youtube-to-mp3: SHA-256 mismatch!
+  Expected: 6c60b0830964bf682d9140e79bd732baa01299fb5f27f4eb67cdbe94231c6094
+  Actual  : df2ab809e371949e70cef2eb49eeb8b230025f3b356b9b9c62899897d34d7781
 fourpeaks: no checksum
 foxmail: no checksum
 fpc: passed
@@ -1034,7 +1041,7 @@ majic: no checksum
 makehuman: passed
 makemkv: SHA-256 mismatch!
   Expected: bf35191ae9c0597b60e95cec43069a38ad500037558cdef11f0dec610495ebd3
-  Actual  : 099acced826a05d1013c03705d07a344731b3f078d866437f54568f2e3065c53
+  Actual  : 
 makerware: passed
 mame: passed
 mamp: passed
@@ -1195,9 +1202,7 @@ ninjablocks: passed
 nitroshare: passed
 nitrous-desktop: no checksum
 nmap: passed
-no-ip-duc: SHA-256 mismatch!
-  Expected: b59b159d1f9e2b64d6514577946b77f2c7f11767aa507a9c2bc2aa39ae9e4ffd
-  Actual  : 
+no-ip-duc: passed
 nocturne: passed
 node-webkit: passed
 node: passed
@@ -1468,14 +1473,13 @@ quotefixformac: passed
 qvod-player: passed
 r-name: no checksum
 r: passed
+race-for-the-galaxy: passed
 racket: passed
 radbeacon: no checksum
 radi: no checksum
 radiant-player: passed
-rapidweaver: no checksum
-raw-photo-processor: SHA-256 mismatch!
-  Expected: ce003b7c78916baaf51b39e26633f9ac069e78b7e5bf8904b966c4c409c06f39
-  Actual  : ef300adaaf3399f43741a51f06c062a34c4e809eecdbbffce2cd15af414fbd7f
+rapidweaver: passed
+raw-photo-processor: passed
 raw-therapee: passed
 razer-synapse: passed
 razorsql: passed
@@ -1509,7 +1513,6 @@ retroarch: SHA-256 mismatch!
   Actual  : 9d2232663f5dade1b4f648cc0cf0bb605c630b1c6bcbfe5ddce265ddab0d9d2a
 retroshare: passed
 reveal: no checksum
-rftg: passed
 ricochet: passed
 ridibooks: no checksum
 riffworkst4: passed
@@ -1732,7 +1735,7 @@ stockbarjp: no checksum
 streamtools: passed
 strongvpn-client: SHA-256 mismatch!
   Expected: cacf4f7a94b1601bae2cf19fe94b6dbae827ed531e05ff0f91723aea5b3845b9
-  Actual  : 
+  Actual  : 7058980325ba50fde4b3bbb2f21d7b5e4d49b57ce87eaaae08aef47063522af4
 sts: passed
 subclassed-mnemosyne: passed
 subl: passed
@@ -1761,6 +1764,7 @@ swingfish: no checksum
 swinsian: no checksum
 switchresx: passed
 switchup: passed
+synalyze-it-pro: passed
 synergy: passed
 synology-assistant: passed
 synology-cloud-station: passed
@@ -1809,9 +1813,7 @@ textroom: passed
 texts: passed
 textsoap: no checksum
 texturepacker: passed
-textwrangler: SHA-256 mismatch!
-  Expected: 52eb092165f86a7a6faddd9b97c75f9781ef13462fcdf9a16d919960db8613a8
-  Actual  : 
+textwrangler: passed
 tftpserver: no checksum
 thaiwitter: no checksum
 the-archive-browser: passed
@@ -1851,6 +1853,7 @@ toad: passed
 toau: no checksum
 todoist: no checksum
 todos: no checksum
+todotxtmac: passed
 tofu: no checksum
 toggldesktop: no checksum
 tokaido: passed
@@ -1941,6 +1944,7 @@ versions: no checksum
 vessel: passed
 viber: no checksum
 vico: passed
+videobox: passed
 videomonkey: SHA-256 mismatch!
   Expected: ab09a3bb98a78d32ae48c55b6572e4d1e10ead0f26d5ba895a9a2ee5c105088c
   Actual  : 
@@ -2093,4 +2097,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Oct 22 09:34:02 EDT 2014
+Check finished at Thu Oct 23 09:41:27 EDT 2014

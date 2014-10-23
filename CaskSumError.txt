@@ -1,5 +1,6 @@
 autopano-pro
 ax88772
+baiduinput
 basecamp
 bbedit
 camranger
@@ -13,6 +14,7 @@ fastscripts
 fender-amp-drivers
 fm-fw-installer
 fotomagico
+fourk-youtube-to-mp3
 golly
 hexchat
 homestream
@@ -28,7 +30,6 @@ manico
 moreamp
 multibit
 navicat-premium
-no-ip-duc
 nomachine
 openra
 osirix
@@ -36,14 +37,12 @@ pagico
 praat
 prey
 propresenter
-raw-photo-processor
 refresh-finder
 retroarch
 rubitrack
 sharetool
 squire
 strongvpn-client
-textwrangler
 tuneinstructor
 uninstallpkg
 videomonkey

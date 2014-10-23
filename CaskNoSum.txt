@@ -510,7 +510,6 @@ quicklook-json
 r-name
 radbeacon
 radi
-rapidweaver
 rdio
 readefine-desktop
 readytalk

@@ -55,6 +55,7 @@ arora
 arranger
 aseprite
 asepsis
+astah-community
 atlantis
 atraci
 audacity
@@ -72,7 +73,6 @@ awareness
 ax88179
 backuploupe
 baiducloud
-baiduinput
 banshee
 bar-magnet
 baretorrent
@@ -185,6 +185,7 @@ colorpicker-hex
 colorpicker-propicker
 colorpicker-rcwebcolorpicker
 colorpicker
+colorport
 colors
 comictagger
 concentrate
@@ -296,6 +297,7 @@ escritorio-movistar
 evasi0n
 exist-db
 eye-fi
+eye-one-profiler
 eyetv
 facebook-ios-sdk
 factor
@@ -330,7 +332,6 @@ fontexplorer-x-pro
 forklift
 fotowall
 fourk-video-downloader
-fourk-youtube-to-mp3
 fpc
 framer-studio
 free-ruler
@@ -686,6 +687,7 @@ nimbus
 ninjablocks
 nitroshare
 nmap
+no-ip-duc
 nocturne
 node-webkit
 node
@@ -843,8 +845,11 @@ quiterss
 quotefixformac
 qvod-player
 r
+race-for-the-galaxy
 racket
 radiant-player
+rapidweaver
+raw-photo-processor
 raw-therapee
 razer-synapse
 razorsql
@@ -863,7 +868,6 @@ repetier-host
 rethinkdb
 retinizer
 retroshare
-rftg
 ricochet
 riffworkst4
 robomongo
@@ -1014,6 +1018,7 @@ svnx
 sweet-home3d
 switchresx
 switchup
+synalyze-it-pro
 synergy
 synology-assistant
 synology-cloud-station
@@ -1047,6 +1052,7 @@ textexpander
 textroom
 texts
 texturepacker
+textwrangler
 the-archive-browser
 the-brain
 the-cheat
@@ -1072,6 +1078,7 @@ tinygrab
 tinyumbrella
 tk-suite-client
 toad
+todotxtmac
 tokaido
 tomahawk
 tomighty
@@ -1127,6 +1134,7 @@ vagrant
 vassal
 vessel
 vico
+videobox
 videospec
 vienna
 viewit
