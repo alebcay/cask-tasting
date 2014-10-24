@@ -9,12 +9,10 @@ adafruit-arduino
 adapter
 adium
 adobe-air
-adobe-digital-editions
 adobe-dng-converter
 adobe-photoshop-lightroom
 adobe-reader
 aegisub
-aerofs
 aether
 air-video-server-hd
 air-video-server
@@ -73,6 +71,7 @@ awareness
 ax88179
 backuploupe
 baiducloud
+baiduinput
 banshee
 bar-magnet
 baretorrent
@@ -88,6 +87,7 @@ beacon-scanner
 beaker
 beardedspice
 beatport-pro
+beyond-compare
 bibdesk
 bino
 bit-slicer
@@ -193,7 +193,6 @@ connected-desktop
 connector
 consul
 continuity-keypad
-controlplane
 cooviewer
 coqide
 cord
@@ -243,6 +242,7 @@ dictunifier
 difffork
 diffmerge
 disk-inventory-x
+diskmaker-x
 diskwave
 displaylink
 djview
@@ -313,6 +313,7 @@ fender-fuse
 fenics
 fenix
 fetch
+fiery-color-profiler-suite
 filebot
 fileshuttle
 filezilla
@@ -332,6 +333,7 @@ fontexplorer-x-pro
 forklift
 fotowall
 fourk-video-downloader
+fourk-youtube-to-mp3
 fpc
 framer-studio
 free-ruler
@@ -394,7 +396,6 @@ gqrx
 grabbox
 grandperspective
 graphsketcher
-graphviz
 gravit
 gridwars
 growl-fork
@@ -406,7 +407,6 @@ gurps-character-sheet
 gyazo
 hall
 handbrake
-handbrakecli
 hands-off
 happygrep
 haroopad
@@ -540,6 +540,7 @@ launchrocket
 launchy
 lazarus
 leap-motion
+leksah
 levelator
 librecad
 libreoffice
@@ -735,6 +736,7 @@ owncloud
 p4merge
 p4v
 p5
+packages
 packer
 padre
 paintbrush
@@ -781,8 +783,6 @@ pixlr
 plainview
 platypus
 playonmac
-plex-home-theater
-plex-media-server
 pliny
 plotdevice
 plover
@@ -875,6 +875,7 @@ rocks-n-diamonds
 rowmote-helper
 royal-tsx
 rstudio
+rubitrack
 rubymine
 rythem
 sabnzbd
@@ -959,7 +960,6 @@ snippets
 sococo
 sogouinput
 sonic-visualiser
-sonos
 sopcast
 sophos-anti-virus-home-edition
 soqlxplorer
@@ -1153,6 +1153,7 @@ vmware-fusion
 vmware-horizon-view-client
 vocabulist
 volatility
+vuescan
 vyprvpn
 wacom-bamboo-tablet
 wacom-tablet
@@ -1221,7 +1222,6 @@ zeroad
 zeroinstall
 zeroxdbe-eap
 zoc
-zoom
 zooom
 zotero
 zterm

@@ -148,7 +148,6 @@ delibar
 delicious-library
 desktop-log
 disk-drill
-diskmaker-x
 dispcalgui
 displaperture
 diumoo
@@ -185,6 +184,7 @@ ezeep
 faux-pas
 fdt
 ffmpegx
+fiery-software-manager
 figtree
 fiji
 file-juicer
@@ -579,6 +579,7 @@ sofortbild
 soleol
 sonic-pi
 sonora
+sonos
 soulver
 soundcleod
 soundnote

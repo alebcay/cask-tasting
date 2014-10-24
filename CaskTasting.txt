@@ -1,4 +1,4 @@
-Check started at Thu Oct 23 00:01:08 EDT 2014
+Check started at Fri Oct 24 00:01:04 EDT 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -19,13 +19,17 @@ adium: passed
 adobe-air: passed
 adobe-arh: no checksum
 adobe-creative-cloud: no checksum
-adobe-digital-editions: passed
+adobe-digital-editions: SHA-256 mismatch!
+  Expected: 359f62e8fc2d89d6aa411fc4ed69a5be9e19d433226640b3ddbaec35e66f646c
+  Actual  : d8a7febdd1d949aba6fc385bea0aa24c6c381db6beb7f35d76bf16afa5701697
 adobe-dng-converter: passed
 adobe-photoshop-lightroom: passed
 adobe-reader: passed
 adventure: no checksum
 aegisub: passed
-aerofs: passed
+aerofs: SHA-256 mismatch!
+  Expected: abb05bfdea788520f02ec5f526d10ab336d183a96598007cc98e29c088b8b567
+  Actual  : 
 aether: passed
 air-connect: no checksum
 air-video-server-hd: passed
@@ -135,9 +139,7 @@ backtobed: no checksum
 backuploupe: passed
 bahamut: no checksum
 baiducloud: passed
-baiduinput: SHA-256 mismatch!
-  Expected: 7fbfd7270ce5c8d3a7e801ce67b4e858089299ef3ba96b3c0feb110d87da24e2
-  Actual  : 78b8eb4eef0f60d0ca47334ee417434ceedbf86f36cef295f61f6d4d66718272
+baiduinput: passed
 baidumusic: no checksum
 balsamiq-mockups: no checksum
 bankid: no checksum
@@ -174,6 +176,7 @@ bee: no checksum
 bettertouchtool: no checksum
 betterzip: no checksum
 betterzipql: no checksum
+beyond-compare: passed
 bibdesk: passed
 big-mean-folder-machine: no checksum
 bill: no checksum
@@ -341,7 +344,9 @@ consul: passed
 contexts: no checksum
 continuity-keypad: passed
 controllermate: no checksum
-controlplane: passed
+controlplane: SHA-256 mismatch!
+  Expected: e2e151797eb356c43c9a07fa39df375c87fa8671541cad0895c696fd6026c5eb
+  Actual  : 5c65999114f6d7aed6002f535c7ebcc60efeb978bd266e8da657f0705e71772e
 coolterm: no checksum
 cooviewer: passed
 copy: no checksum
@@ -418,7 +423,7 @@ difffork: passed
 diffmerge: passed
 disk-drill: no checksum
 disk-inventory-x: passed
-diskmaker-x: no checksum
+diskmaker-x: passed
 diskwave: passed
 dispcalgui: no checksum
 displaperture: no checksum
@@ -432,7 +437,7 @@ djv: SHA-256 mismatch!
 djview: passed
 dmm: SHA-256 mismatch!
   Expected: a903754cfa215bea8b041f67269525ba29a9fe34875f819c41d0bd65e5e1628f
-  Actual  : 472861d6b9a1047942a287ed73a0fa7d54ba7d34d6f8a71e96d63ea7fa28a33a
+  Actual  : 1c1deda076d45d1c7e5ea3bee7bdbea376696629bcc9e3982e31d8ca1264c653
 dnscrypt: passed
 docear: no checksum
 dockmod: passed
@@ -543,6 +548,8 @@ fenics: passed
 fenix: passed
 fetch: passed
 ffmpegx: no checksum
+fiery-color-profiler-suite: passed
+fiery-software-manager: no checksum
 figtree: no checksum
 fiji: no checksum
 file-juicer: no checksum
@@ -588,9 +595,7 @@ fotomagico: SHA-256 mismatch!
   Actual  : 
 fotowall: passed
 fourk-video-downloader: passed
-fourk-youtube-to-mp3: SHA-256 mismatch!
-  Expected: 6c60b0830964bf682d9140e79bd732baa01299fb5f27f4eb67cdbe94231c6094
-  Actual  : df2ab809e371949e70cef2eb49eeb8b230025f3b356b9b9c62899897d34d7781
+fourk-youtube-to-mp3: passed
 fourpeaks: no checksum
 foxmail: no checksum
 fpc: passed
@@ -688,7 +693,9 @@ grafx2: no checksum
 grandperspective: passed
 grandtotal: no checksum
 graphsketcher: passed
-graphviz: passed
+graphviz: SHA-256 mismatch!
+  Expected: 6b84c663b29ac7b3e96de709f80159ffc060eeaea71a80c1b199f3dc1fe5a9e6
+  Actual  : 
 gravit: passed
 gridwars: passed
 grooveshark: no checksum
@@ -704,7 +711,9 @@ gyazo: passed
 hall: passed
 handbrake: passed
 handbrakebatch: no checksum
-handbrakecli: passed
+handbrakecli: SHA-256 mismatch!
+  Expected: 120d7d0a9af5d15813d05781cbbf2599e454b4400f0266db4fa1acd4f62d244e
+  Actual  : 
 hands-off: passed
 happygrep: passed
 haroopad: passed
@@ -948,6 +957,7 @@ lazarus: passed
 league-of-legends: no checksum
 leap-motion: passed
 leech: no checksum
+leksah: passed
 less: no checksum
 levelator: passed
 librecad: passed
@@ -1041,7 +1051,7 @@ majic: no checksum
 makehuman: passed
 makemkv: SHA-256 mismatch!
   Expected: bf35191ae9c0597b60e95cec43069a38ad500037558cdef11f0dec610495ebd3
-  Actual  : 
+  Actual  : 099acced826a05d1013c03705d07a344731b3f078d866437f54568f2e3065c53
 makerware: passed
 mame: passed
 mamp: passed
@@ -1213,7 +1223,7 @@ noisy: no checksum
 noiz2sa: no checksum
 nomachine: SHA-256 mismatch!
   Expected: b210543612f9f99e120b356ef38754bd9b8f20c54d5d657e88a1d73b644cf145
-  Actual  : cc34a366d351752c5b41c05796064c2a033911a9f30cae6b4b4a3f57bcaf4989
+  Actual  : 818ba3014f3e01818ee1b64ef66a170a688569a6bad7f32b4f195bae38e6fc45
 nomacs: passed
 noobproof: passed
 nosleep: passed
@@ -1288,6 +1298,7 @@ p4merge: passed
 p4v: passed
 p5: passed
 pacifist: no checksum
+packages: passed
 packer: passed
 padre: passed
 pagico: SHA-256 mismatch!
@@ -1365,8 +1376,12 @@ plainview: passed
 platypus: passed
 playonmac: passed
 pleasesleep: no checksum
-plex-home-theater: passed
-plex-media-server: passed
+plex-home-theater: SHA-256 mismatch!
+  Expected: 7a862680a04867db422c811c3afc1285c9b133e8a00f8fbe04a58a87b9e94cb5
+  Actual  : 
+plex-media-server: SHA-256 mismatch!
+  Expected: 7cd91e89f74569409b12f8151d66c731ca8658e6df61aaaac41accf6e6cba337
+  Actual  : 
 pliny: passed
 plotdevice: passed
 plover: passed
@@ -1399,8 +1414,8 @@ preform: passed
 prefs-editor: no checksum
 prepros: passed
 prey: SHA-256 mismatch!
-  Expected: 7193cf76a776a015c7b533372506963c9ec2720966245dab1e0c02d149da1010
-  Actual  : 
+  Expected: e46b24cb602f590f8a756d7995e8720cbfc96044a303ac163194e63ba4765a00
+  Actual  : 361996d067539da7881aa3618b737ba4a0846df13ca8c9b8b07151d42f81fb86
 prezi: passed
 printrun: passed
 prismatik: passed
@@ -1527,9 +1542,7 @@ rrootage: no checksum
 rss: no checksum
 rstudio: passed
 rtx: no checksum
-rubitrack: SHA-256 mismatch!
-  Expected: f1ac426726b93ae144afd6809e2acc00b139cb64d4a89da7677795d7c11cffc4
-  Actual  : 1069a99e1c5faa5565fa89fa6f886298ab6e695f2942a3fc91895c5792d20be6
+rubitrack: passed
 rubymine: passed
 runtastic-connect: no checksum
 runtimebrowser: no checksum
@@ -1670,7 +1683,7 @@ soleol: no checksum
 sonic-pi: no checksum
 sonic-visualiser: passed
 sonora: no checksum
-sonos: passed
+sonos: no checksum
 sopcast: passed
 sophos-anti-virus-home-edition: passed
 soqlxplorer: passed
@@ -1976,9 +1989,7 @@ volatility: passed
 voodoopad: no checksum
 vox-preference-pane: no checksum
 vox: no checksum
-vuescan: SHA-256 mismatch!
-  Expected: a6e82863f7d6fc34400f678fb4de3cf5af6cbde9a20693ff4bfb5d95ad59f398
-  Actual  : 0e87cdc0e8e6d26f57ed89046148d0ca8f0a561d4dc025e2240a6b2de4367475
+vuescan: passed
 vyprvpn: passed
 wacom-bamboo-tablet: passed
 wacom-tablet: passed
@@ -2092,9 +2103,11 @@ zeroxed: no checksum
 zipcleaner: no checksum
 zipeg: no checksum
 zoc: passed
-zoom: passed
+zoom: SHA-256 mismatch!
+  Expected: ab9584758d922f3fa2c607ae6bf58841969fdd5740ff17af76f41ecfd7c6ae11
+  Actual  : 
 zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Thu Oct 23 09:41:27 EDT 2014
+Check finished at Fri Oct 24 09:55:56 EDT 2014
