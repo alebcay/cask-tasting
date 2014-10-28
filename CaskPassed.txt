@@ -146,6 +146,7 @@ ccleaner
 ccmenu
 cd-to
 cdock
+celestia
 cert-quicklook
 cfxr
 chainsaw
@@ -192,6 +193,7 @@ connected-desktop
 connector
 consul
 continuity-keypad
+controlplane
 cooviewer
 coqide
 cord
@@ -223,7 +225,6 @@ dataurlmaker
 dbeaver-community
 dbeaver-enterprise
 dbvisualizer
-deathtodsstore
 debt-quencher
 decitime
 default-folder-x
@@ -326,7 +327,6 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fliqlo
 fluid
 fluke
@@ -350,7 +350,6 @@ fs-uae
 fugu
 functionflip
 fwbuilder
-gambit-c
 gamesalad
 ganttproject
 garagebuy
@@ -389,7 +388,6 @@ gog-downloader
 google-adwords-editor
 google-notifier
 google-refine
-googleappenginelauncher
 gpgtools
 gpower
 gqrx
@@ -424,6 +422,7 @@ hoppergdbserver
 horndis
 hoster
 hosts
+hr
 hsang
 httpscoop
 hubic
@@ -456,7 +455,6 @@ insomniax
 instabridge
 instacast
 instead
-insync
 intel-haxm
 intel-power-gadget
 intel-xdk
@@ -514,6 +512,7 @@ kensington-trackball-works
 kext-utility
 key-codes
 keycastr
+keycue
 keymo
 keystore-explorer
 kid3
@@ -634,7 +633,6 @@ microsoft-intellitype
 midikeys
 miditrail
 milkytracker
-mini-metro
 minitimer
 mixxx
 mjolnir
@@ -771,6 +769,7 @@ pflists
 pg-commander
 pgadmin3
 pgloader
+pgweb
 phantomjs
 pharo
 phoenix-slides
@@ -800,6 +799,7 @@ pokertracker
 port-map
 postgres
 powerkey
+powerword
 praat
 preen
 preform
@@ -865,6 +865,7 @@ rdm
 reaper
 recovery-disk-assistant
 reeddit
+refresh-finder
 reggy
 rekordbox
 remonit
