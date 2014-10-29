@@ -320,6 +320,7 @@ filebot
 fileshuttle
 filezilla
 find-any-file
+fing
 fitbit-connect
 flame
 flash-player-debugger
@@ -350,6 +351,7 @@ fs-uae
 fugu
 functionflip
 fwbuilder
+gambit-c
 gamesalad
 ganttproject
 garagebuy
@@ -393,6 +395,7 @@ gpower
 gqrx
 grabbox
 grandperspective
+graphicconverter
 graphsketcher
 graphviz
 gravit
@@ -455,6 +458,7 @@ insomniax
 instabridge
 instacast
 instead
+insync
 intel-haxm
 intel-power-gadget
 intel-xdk
@@ -594,6 +598,7 @@ magic-launch
 mailbox
 mailfollowup
 makehuman
+makemkv
 makerware
 mame
 mamp
@@ -633,6 +638,7 @@ microsoft-intellitype
 midikeys
 miditrail
 milkytracker
+mini-metro
 minitimer
 mixxx
 mjolnir
@@ -678,6 +684,7 @@ navicat-for-oracle
 navicat-for-postgresql
 navicat-for-sql-server
 navicat-for-sqlite
+ncmeta
 netbeans-cpp
 netbeans-php
 netbeans
@@ -742,6 +749,7 @@ p5
 packages
 packer
 padre
+pagico
 paintbrush
 pandoc
 pandora-one
@@ -767,7 +775,6 @@ pester
 petite-chez-scheme
 pflists
 pg-commander
-pgadmin3
 pgloader
 pgweb
 phantomjs
@@ -804,6 +811,7 @@ praat
 preen
 preform
 prepros
+prey
 prezi
 printrun
 prismatik
@@ -850,11 +858,11 @@ quickradar
 quicksilver
 quiterss
 quotefixformac
+qvod-player
 r
 race-for-the-galaxy
 racket
 radiant-player
-rapidweaver
 raw-photo-processor
 raw-therapee
 razer-synapse
