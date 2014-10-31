@@ -679,6 +679,7 @@ voicemac
 voodoopad
 vox-preference-pane
 vox
+voxox
 wasted
 web-sharing
 wechat
