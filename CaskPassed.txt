@@ -14,6 +14,7 @@ adobe-photoshop-lightroom
 adobe-reader
 aegisub
 aether
+aimersoft-video-converter-ultimate
 air-video-server-hd
 air-video-server
 airfile
@@ -45,7 +46,6 @@ aquamacs
 aquaterm
 araxis-merge
 arduino-galileo
-arduino
 aria-maestosa
 armitage
 armory
@@ -171,7 +171,6 @@ cloudfoundry-cli
 cloudytabs
 cn3d
 coccinellida
-cocoadialog
 cocoapacketanalyzer
 cocoarestclient
 cocoaspell
@@ -195,7 +194,6 @@ consul
 continuity-keypad
 controlplane
 cooviewer
-coqide
 cord
 cornerstone
 corsixth
@@ -276,7 +274,6 @@ dvdstyler
 dwarf-fortress
 dynamiclyrics
 e-tax2014
-eagle
 eaglefiler
 easyfind
 easysimbl
@@ -305,7 +302,6 @@ facebook-ios-sdk
 factor
 fairmount
 fake
-fakethunder
 fantastical
 fastest-free-youtube-downloader
 feedbinnotifier
@@ -328,18 +324,17 @@ flash-player
 flash
 flickr-uploadr
 flightgear
-flip4mac
 fliqlo
 fluid
 fluke
 fontexplorer-x-pro
+fontprep
 forklift
 fotowall
 fourk-video-downloader
 fourk-youtube-to-mp3
 fpc
 framer-studio
-free-ruler
 freecad
 freecol
 freedv
@@ -427,7 +422,6 @@ hoppergdbserver
 horndis
 hoster
 hosts
-hr
 hsang
 httpscoop
 hubic
@@ -436,6 +430,7 @@ hyperdither
 hyro
 iannix
 ibackup
+ibored
 ibrowse
 icefloor
 ichm
@@ -666,6 +661,7 @@ mpv
 mucommander
 mudlet
 multibit
+multidoge
 multipatch
 mumble
 munki
@@ -712,6 +708,7 @@ noobproof
 nosleep
 not-pacman
 not-tetris
+notedup
 nottingham
 ntfs-free
 ntfsmounter
@@ -749,6 +746,7 @@ p4v
 p5
 packages
 packer
+packet-peeper
 padre
 pagico
 paintbrush
@@ -786,6 +784,7 @@ phoenix-slides
 photoninja
 phpstorm
 pi-filler
+pianopub
 picasa
 pingendo
 pinta
@@ -861,10 +860,8 @@ quicksilver
 quiterss
 quotefixformac
 qvod-player
-r
 race-for-the-galaxy
 racket
-radiant-player
 raw-photo-processor
 raw-therapee
 razer-synapse
@@ -900,6 +897,7 @@ safaritabswitching
 sage
 satellite-eyes
 sauerbraten
+save-as-wwf
 scala-ide
 scansnap-manager
 schnapps
@@ -1040,7 +1038,6 @@ synalyze-it-pro
 synergy
 synology-assistant
 synology-cloud-station
-synology-photo-station-uploader
 synologyeiauthenticator
 synthesia
 tabula
@@ -1063,6 +1060,7 @@ tex-live-utility
 texmacs
 texnicle
 texpad
+texshop
 texstudio
 textadept
 textexpander
@@ -1115,6 +1113,7 @@ transporter-desktop
 treemaker
 tribler
 trickster
+trim-ios-screenshots
 truecrypt
 tunnelbear
 tunnelblick
@@ -1136,7 +1135,6 @@ uncrustifyx
 undercover
 unetbootin
 unison
-unity
 universal-media-server
 unpkg
 unrarx
@@ -1154,6 +1152,7 @@ videomonkey
 videospec
 vienna
 viewit
+vimediamanager
 vimr
 vine-server
 virtaal

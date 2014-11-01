@@ -159,6 +159,7 @@ doxie
 dradio
 dropbox
 dropin
+dropshare
 dropzone
 dterm
 dump-truck
@@ -183,6 +184,7 @@ expandrive
 ezeep
 faux-pas
 fdt
+feisty-dog-tag
 ffmpegx
 fiery-software-manager
 figtree
@@ -204,7 +206,6 @@ focuswriter
 folding-text
 foldit
 folx
-fontprep
 fourpeaks
 foxmail
 freelancy
@@ -258,6 +259,7 @@ hostbuddy
 houdahgeo
 houdahspot
 hpuload
+hr
 hunt-x
 hush
 hype
@@ -268,6 +270,7 @@ ibank
 ibettercharge
 iboostup
 icompta
+icons8
 icursor
 ideskcal
 idocument-plus
@@ -365,6 +368,7 @@ mailpile
 mailplane
 maintenance
 majic
+managenameext
 marked
 master-key
 mavensmate
@@ -409,6 +413,7 @@ name-mangler
 namely
 narrative-uploader
 neofinder
+nestopia
 netease-music
 netshade
 netspot
@@ -436,6 +441,7 @@ oneswarm
 onlive-client
 onyx
 oovoo
+opacity
 opendns-updater
 optimal-layout
 orbit
@@ -638,6 +644,7 @@ timemachineeditor
 tinkertool
 titanium-studio
 toau
+today-scripts
 todoist
 todos
 tofu
