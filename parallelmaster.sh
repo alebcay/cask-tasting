@@ -28,6 +28,7 @@ mv CaskSumError.part CaskSumError.txt
 mv CaskNoSum.part CaskNoSum.txt
 
 rm -r ppss_dir
+ppss -d /Library/Caches/Homebrew -c 'rm '
 
 echo "Sending data to master..."
 git add . 2>/dev/null
