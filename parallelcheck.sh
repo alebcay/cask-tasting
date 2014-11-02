@@ -22,6 +22,7 @@ if [[ "$SHA_ALG" != "NONE" ]]
   else
     echo -e "\033[1;31mSHA-$SHA_ALG mismatch!\033[22;0m"
     echo -e "$(basename ${f%.*}): SHA-$SHA_ALG mismatch!" >> CaskTasting.part
+    echo "$(basename ${f%.*})" >> CaskSumError.part
   fi
   #find $(brew --cache) -name "$f*" -type f -delete
   brew cask cleanup >/dev/null 2>&1
