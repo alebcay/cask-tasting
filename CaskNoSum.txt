@@ -1,5 +1,5 @@
-a-better-finder-attributes
 a-better-finder-rename
+a-better-finder-attributes
 acorn
 actions-server
 activity-audit
@@ -38,11 +38,13 @@ archiver
 arq
 arrsync
 asteroid
+astrill
 atext
 atom
 au-lab
 audio-editor
 audio-hijack-pro
+audio-notetaker
 audiobook-builder
 authbuddy
 automatic
@@ -726,7 +728,7 @@ yummy-ftp
 zepheer
 zephyros
 zero10-editor
-zeroxed
 zipcleaner
+zeroxed
 zipeg
 zoomus

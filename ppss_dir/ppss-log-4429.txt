@@ -1,0 +1,38 @@
+Nov 03 07:53:24: DSPLY 
+Nov 03 07:53:24: DSPLY =========================================================
+Nov 03 07:53:24: DSPLY                        |P|P|S|S|                         
+Nov 03 07:53:24: DSPLY Distributed Parallel Processing Shell Script vers. 2.97
+Nov 03 07:53:24: DSPLY =========================================================
+Nov 03 07:53:24: DSPLY Hostname:		calebxu.tk
+Nov 03 07:53:24: DSPLY ---------------------------------------------------------
+Nov 03 07:53:24: DSPLY CPU:  Intel Core i5  3.40 GHz
+Nov 03 07:53:24: DSPLY Found 4 logic processors.
+Nov 03 07:53:25: DSPLY Starting 4 parallel workers.
+Nov 03 07:53:25: DSPLY ---------------------------------------------------------
+Nov 03 07:53:25: INFO  Current active workers is 4
+Nov 03 07:53:25: INFO  Now processing /Library/Caches/Homebrew//baiduinput-3.3_1000e.dmg.incomplete
+Nov 03 07:53:25: INFO  Current active workers is 4
+Nov 03 07:53:25: INFO  Now processing /Library/Caches/Homebrew//flip4mac-3.2.0.16.dmg.incomplete
+Nov 03 07:53:25: INFO  Current active workers is 4
+Nov 03 07:53:25: INFO  Now processing /Library/Caches/Homebrew//libreoffice-4.3.3.dmg.incomplete
+Nov 03 07:53:25: INFO  Current active workers is 4
+Nov 03 07:53:25: INFO  Now processing /Library/Caches/Homebrew//mactex-20140525.pkg.incomplete
+Nov 03 07:53:25: INFO  Current active workers is 4
+Nov 03 07:53:25: INFO  Now processing /Library/Caches/Homebrew//unity-4.5.4.dmg.incomplete
+Nov 03 07:53:25: INFO  Current active workers is 4
+Nov 03 07:53:25: INFO  Now processing /Library/Caches/Homebrew//wiznote-2.1.13.dmg.incomplete
+Nov 03 07:53:25: INFO  Current active workers is 4
+Nov 03 07:53:25: INFO  Now processing /Library/Caches/Homebrew//yed-3.13.dmg.incomplete
+Nov 03 07:53:25: INFO  Current active workers is 4
+Nov 03 07:53:25: INFO  Now processing /Library/Caches/Homebrew//zendstudio-10.6.1.dmg.incomplete
+Nov 03 07:53:31: INFO  Current active workers is 4
+Nov 03 07:53:31: INFO  Now processing /Library/Caches/Homebrew//zeroad-0.0.16-alpha.dmg.incomplete
+Nov 03 07:53:31: DSPLY ETA: Mon Nov  3 07:53:57 EST 2014
+Nov 03 07:53:31: INFO  Current active workers is 4
+Nov 03 07:53:31: INFO  Now processing /Library/Caches/Homebrew//zeroxdbe-eap-138.2221.3.dmg.incomplete
+Nov 03 07:53:36: INFO  Current active workers is 4
+Nov 03 07:53:37: INFO  Current active workers is 3
+Nov 03 07:53:40: INFO  Current active workers is 2
+Nov 03 07:53:40: INFO  Current active workers is 1
+Nov 03 07:53:40: DSPLY Total processing time (hh:mm:ss): 00:00:16
+Nov 03 07:53:40: DSPLY Finished. Consult ppss_dir/job_log for job output.

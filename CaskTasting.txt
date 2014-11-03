@@ -1,4 +1,4 @@
-Check started at Sun Nov  2 00:05:16 EDT 2014
+Check started at Mon Nov  3 00:39:24 EST 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -98,6 +98,7 @@ aseprite: passed
 asepsis: passed
 astah-community: passed
 asteroid: no checksum
+astrill: no checksum
 atext: no checksum
 atlantis: passed
 atom-shell: passed
@@ -108,6 +109,7 @@ audacity: passed
 audio-editor: no checksum
 audio-hijack-pro: no checksum
 audio-mate: passed
+audio-notetaker: no checksum
 audiobook-builder: no checksum
 audiobookbinder: passed
 audioscrobbler: passed
@@ -124,7 +126,7 @@ avidemux: passed
 avogadro: passed
 awareness: passed
 ax88179: passed
-ax88772: SHA-256 mismatch!
+ax88772: passed
 axure-rp-pro: no checksum
 back-in-time: no checksum
 backblaze-downloader: no checksum
@@ -208,7 +210,7 @@ breach: passed
 breakaway: passed
 bricksmith: passed
 brightness: passed
-brogue: SHA-256 mismatch!
+brogue: passed
 broomstick: passed
 brow: passed
 browserstacklocal: no checksum
@@ -218,8 +220,8 @@ buddi: no checksum
 budget: no checksum
 burn: passed
 butter: passed
-bzflag: passed
-c3: passed
+bzflag: SHA-256 mismatch!
+c3: SHA-256 mismatch!
 caffeine: passed
 cajviewer: no checksum
 cakebrew: passed
@@ -445,8 +447,8 @@ dsp-radio: passed
 dterm: no checksum
 dukto: passed
 dump-truck: no checksum
-dungeon-crawl-stone-soup-console: SHA-256 mismatch!
-dungeon-crawl-stone-soup-tiles: SHA-256 mismatch!
+dungeon-crawl-stone-soup-console: passed
+dungeon-crawl-stone-soup-tiles: passed
 dupeguru-me: passed
 dupeguru-pe: passed
 dupeguru: passed
@@ -504,7 +506,7 @@ eyetv: passed
 ezeep: no checksum
 facebook-ios-sdk: passed
 factor: passed
-fairmount: passed
+fairmount: SHA-256 mismatch!
 fake: passed
 fakethunder: passed
 fantastical: passed
@@ -547,7 +549,7 @@ flavours: no checksum
 flexiglass: no checksum
 flickr-uploadr: passed
 flightgear: passed
-flip4mac: passed
+flip4mac: SHA-256 mismatch!
 fliqlo: passed
 flow: no checksum
 flowdock: no checksum
@@ -916,7 +918,7 @@ leksah: passed
 less: no checksum
 levelator: passed
 librecad: passed
-libreoffice: passed
+libreoffice: SHA-256 mismatch!
 licecap: passed
 licensed: no checksum
 lightpaper: passed
@@ -981,7 +983,7 @@ macports: passed
 macs-fan-control: no checksum
 macscale: no checksum
 macterm: no checksum
-mactex: passed
+mactex: SHA-256 mismatch!
 mactracker: passed
 mactubes: passed
 macupdate-desktop: passed
@@ -1320,7 +1322,7 @@ plainview: passed
 platypus: passed
 playonmac: passed
 pleasesleep: no checksum
-plex-home-theater: SHA-256 mismatch!
+plex-home-theater: passed
 plex-media-server: passed
 pliny: passed
 plotdevice: passed
@@ -1608,6 +1610,7 @@ snes9x: passed
 snip: passed
 snippet-edit: passed
 snippets: passed
+snowtape: passed
 sococo: passed
 sofortbild: no checksum
 sogouinput: passed
@@ -1866,7 +1869,7 @@ unified-remote: no checksum
 uninstallpkg: SHA-256 mismatch!
 unison: passed
 unity-web-player: no checksum
-unity: passed
+unity: SHA-256 mismatch!
 universal-media-server: passed
 unpkg: passed
 unrarx: passed
@@ -1949,7 +1952,7 @@ wireshark: passed
 wiretap-studio: passed
 witch: no checksum
 witgui: passed
-wiznote: passed
+wiznote: SHA-256 mismatch!
 wiztoolsorg-restclient: passed
 wjoy: passed
 wkhtmltopdf: passed
@@ -1998,7 +2001,7 @@ yacreader: passed
 yandex: no checksum
 yandexdisk: no checksum
 yasu: no checksum
-yed: passed
+yed: SHA-256 mismatch!
 yemuzip: no checksum
 yep: no checksum
 yimello: no checksum
@@ -2016,20 +2019,20 @@ yubiswitch: passed
 yummy-ftp: no checksum
 zed: passed
 zendserver: passed
-zendstudio: passed
+zendstudio: SHA-256 mismatch!
 zepheer: no checksum
 zephyros: no checksum
 zero10-editor: no checksum
-zeroad: passed
+zeroad: SHA-256 mismatch!
 zeroinstall: passed
-zeroxdbe-eap: passed
+zeroxdbe-eap: SHA-256 mismatch!
 zeroxed: no checksum
 zipcleaner: no checksum
 zipeg: no checksum
-zoc: passed
-zoom: passed
+zoc: SHA-256 mismatch!
+zoom: SHA-256 mismatch!
 zoomus: no checksum
-zooom: passed
-zotero: passed
-zterm: passed
-Check finished at Sun Nov  2 05:34:36 EST 2014
+zooom: SHA-256 mismatch!
+zotero: SHA-256 mismatch!
+zterm: SHA-256 mismatch!
+Check finished at Mon Nov  3 07:53:23 EST 2014
