@@ -439,6 +439,7 @@ omnifocus
 omnigraffle
 omnioutliner
 omniplan
+on-the-job
 oneswarm
 onlive-client
 onyx
@@ -728,7 +729,7 @@ yummy-ftp
 zepheer
 zephyros
 zero10-editor
-zipcleaner
 zeroxed
+zipcleaner
 zipeg
 zoomus
