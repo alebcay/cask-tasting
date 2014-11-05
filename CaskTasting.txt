@@ -1,4 +1,4 @@
-Check started at Tue Nov  4 00:01:02 EST 2014
+Check started at Wed Nov  5 00:00:58 EST 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -16,7 +16,7 @@ actual-odbc-pack: no checksum
 adafruit-arduino: passed
 adapter: passed
 adium: passed
-adobe-air: passed
+adobe-air: SHA-256 mismatch!
 adobe-arh: no checksum
 adobe-creative-cloud: no checksum
 adobe-digital-editions: SHA-256 mismatch!
@@ -26,7 +26,7 @@ adobe-reader: passed
 adventure: no checksum
 aegisub: passed
 aerofs: SHA-256 mismatch!
-aether: SHA-256 mismatch!
+aether: passed
 aimersoft-video-converter-ultimate: passed
 air-connect: no checksum
 air-video-server-hd: passed
@@ -86,10 +86,10 @@ aquaterm: passed
 araxis-merge: passed
 archiver: no checksum
 arduino-galileo: passed
-arduino: SHA-256 mismatch!
+arduino: passed
 aria-maestosa: passed
 armitage: passed
-armory: passed
+armory: SHA-256 mismatch!
 arora: passed
 arq: no checksum
 arranger: passed
@@ -258,7 +258,7 @@ chainsaw: passed
 chameleon-ssd-optimizer: no checksum
 changes-meter: no checksum
 changes: no checksum
-charles: SHA-256 mismatch!
+charles: passed
 chatology: no checksum
 cheatsheet: no checksum
 cheetah3d: no checksum
@@ -613,6 +613,7 @@ geneious: passed
 genymotion: passed
 gephi: passed
 geppetto: passed
+get-lyrical: no checksum
 gfxcardstatus: passed
 ghc: passed
 ghostlab: no checksum
@@ -730,7 +731,7 @@ hyperdither: passed
 hyperdock: no checksum
 hyperswitch: no checksum
 hyro: passed
-iannix: passed
+iannix: SHA-256 mismatch!
 ibabel: no checksum
 ibackup: passed
 ibank: no checksum
@@ -748,6 +749,7 @@ icursor: no checksum
 id3-editor: passed
 identify: passed
 ideskcal: no checksum
+idisplay: passed
 idocument-plus: no checksum
 idris: no checksum
 iexplorer: passed
@@ -828,7 +830,7 @@ jabref: passed
 jaikoz: no checksum
 jaksta: passed
 jameica: no checksum
-jaspersoft-studio: SHA-256 mismatch!
+jaspersoft-studio: passed
 java: passed
 javafx-scene-builder: passed
 jawbone-updater: passed
@@ -919,7 +921,7 @@ leksah: passed
 less: no checksum
 levelator: passed
 librecad: passed
-libreoffice: SHA-256 mismatch!
+libreoffice: passed
 licecap: passed
 licensed: no checksum
 lightpaper: passed
@@ -943,7 +945,7 @@ livereload: passed
 livestation: passed
 loadmytracks: no checksum
 locko: no checksum
-logic: SHA-256 mismatch!
+logic: passed
 logicsniffer: passed
 logisim: passed
 logitech-control-center: passed
@@ -984,7 +986,7 @@ macports: passed
 macs-fan-control: no checksum
 macscale: no checksum
 macterm: no checksum
-mactex: passed
+mactex: SHA-256 mismatch!
 mactracker: passed
 mactubes: passed
 macupdate-desktop: passed
@@ -1007,7 +1009,7 @@ makehuman: passed
 makemkv: passed
 makerware: passed
 mame: passed
-mamp: passed
+mamp: SHA-256 mismatch!
 managenameext: no checksum
 manager: passed
 manico: SHA-256 mismatch!
@@ -1393,7 +1395,7 @@ qbittorrent: passed
 qdesktop: passed
 qgis: passed
 qgroundcontrol: no checksum
-qiyimedia: passed
+qiyimedia: SHA-256 mismatch!
 qlcolorcode: passed
 qlimagesize: no checksum
 qlmarkdown: passed
@@ -1510,7 +1512,7 @@ screens-connect: no checksum
 screenstagram: passed
 screensteps: passed
 scribbleton: no checksum
-scribus: SHA-256 mismatch!
+scribus: passed
 scriptql: no checksum
 scrivener: no checksum
 scroll-reverser: passed
@@ -1694,10 +1696,10 @@ subsurface: passed
 subtitle-master: passed
 subtitles: passed
 sumbolon: passed
-sunlogin-remote: passed
+sunlogin-remote: SHA-256 mismatch!
 supaview: passed
 super-otr: passed
-supercollider: SHA-256 mismatch!
+supercollider: passed
 superduper: no checksum
 supersync: no checksum
 supertuxkart: passed
@@ -1722,6 +1724,7 @@ tableau: no checksum
 tabula: passed
 tactor: no checksum
 tag: passed
+tagaini-jisho: passed
 tagalicious: no checksum
 tagger: passed
 tagoman: no checksum
@@ -1750,7 +1753,7 @@ texmacs: passed
 texmaker: no checksum
 texnicle: passed
 texpad: passed
-texshop: SHA-256 mismatch!
+texshop: passed
 texstudio: passed
 textadept: passed
 textexpander: passed
@@ -1805,7 +1808,7 @@ tofu: no checksum
 toggldesktop: no checksum
 tokaido: passed
 tokens: no checksum
-tomahawk: passed
+tomahawk: SHA-256 mismatch!
 tomighty: passed
 tonality-pro: SHA-256 mismatch!
 tongbu: passed
@@ -1843,7 +1846,7 @@ tuneup: no checksum
 tunewiki: no checksum
 tunnelbear: passed
 tunnelblick: passed
-tuxguitar: SHA-256 mismatch!
+tuxguitar: passed
 tv-browser: passed
 tv-show-tracker: passed
 tvmobili: no checksum
@@ -1858,7 +1861,7 @@ typewriter: no checksum
 typinator: passed
 ubar: passed
 uber-network-fuser: passed
-uberpov: passed
+uberpov: SHA-256 mismatch!
 ubersicht: passed
 ubuntu-one: no checksum
 ukelele: passed
@@ -1883,7 +1886,7 @@ vagrant-bar: passed
 vagrant-manager: passed
 vagrant: passed
 valentina-studio: no checksum
-vassal: SHA-256 mismatch!
+vassal: passed
 versions: no checksum
 vessel: passed
 viber: no checksum
@@ -1893,11 +1896,11 @@ videomonkey: passed
 videospec: passed
 vienna: passed
 viewit: passed
-vimediamanager: passed
+vimediamanager: SHA-256 mismatch!
 vimr: passed
 vine-server: passed
 vinoteka: no checksum
-virtaal: SHA-256 mismatch!
+virtaal: passed
 virtualbox: passed
 virtualhostx: no checksum
 virustotaluploader: passed
@@ -1954,7 +1957,7 @@ wireshark: passed
 wiretap-studio: passed
 witch: no checksum
 witgui: passed
-wiznote: SHA-256 mismatch!
+wiznote: passed
 wiztoolsorg-restclient: passed
 wjoy: passed
 wkhtmltopdf: passed
@@ -2021,7 +2024,7 @@ yubiswitch: passed
 yummy-ftp: no checksum
 zed: passed
 zendserver: passed
-zendstudio: SHA-256 mismatch!
+zendstudio: passed
 zepheer: no checksum
 zephyros: no checksum
 zero10-editor: no checksum
@@ -2036,5 +2039,5 @@ zoom: passed
 zoomus: no checksum
 zooom: passed
 zotero: passed
-zterm: passed
-Check finished at Tue Nov  4 10:31:40 EST 2014
+zterm: SHA-256 mismatch!
+Check finished at Wed Nov  5 06:17:58 EST 2014

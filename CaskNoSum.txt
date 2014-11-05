@@ -2,8 +2,8 @@ a-better-finder-rename
 a-better-finder-attributes
 acorn
 actions-server
-activity-audit
 actotracker
+activity-audit
 actual-odbc-pack
 adobe-arh
 adobe-creative-cloud
@@ -51,8 +51,8 @@ automatic
 aviator
 axure-rp-pro
 back-in-time
-backblaze-downloader
 backblaze
+backblaze-downloader
 backtobed
 bahamut
 baidumusic
@@ -146,8 +146,8 @@ dealalert
 debookee
 deeper
 deeq
-delibar
 delicious-library
+delibar
 desktop-log
 disk-drill
 dispcalgui
@@ -218,6 +218,7 @@ fstream
 fuze
 garmin-express
 gawker
+get-lyrical
 ghostlab
 git-annex
 gitbook
