@@ -14,7 +14,7 @@ echo "Check started at $STARTTIME"
 #FILES=/usr/local/Library/Taps/caskroom/homebrew-cask/Casks/*.rb
 
 #parallel -k --progress ./parallelcheck.sh {} ::: $FILES
-ppss -p 10 -d /usr/local/Library/Taps/caskroom/homebrew-cask/Casks -c './parallelcheck.sh '
+ppss -d /usr/local/Library/Taps/caskroom/homebrew-cask/Casks -c './parallelcheck.sh '
 
 sort ./CaskTasting.part -o ./CaskTasting.part
 echo "Check started at $STARTTIME" | cat - ./CaskTasting.part > tmp.txt

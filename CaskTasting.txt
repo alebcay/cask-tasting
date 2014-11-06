@@ -1,4 +1,4 @@
-Check started at Wed Nov  5 00:00:58 EST 2014
+Check started at Thu Nov  6 06:22:55 EST 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -549,7 +549,7 @@ flash: passed
 flavours: no checksum
 flexiglass: no checksum
 flickr-uploadr: passed
-flightgear: SHA-256 mismatch!
+flightgear: passed
 flip4mac: passed
 fliqlo: passed
 flow: no checksum
@@ -657,7 +657,7 @@ google-notifier: passed
 google-plus-auto-backup: no checksum
 google-refine: passed
 google-web-designer: no checksum
-googleappenginelauncher: SHA-256 mismatch!
+googleappenginelauncher: passed
 gopanda: no checksum
 gpgtools: passed
 gpower: passed
@@ -689,7 +689,7 @@ hands-off: passed
 happygrep: passed
 haroopad: passed
 harvest: no checksum
-hashcat: SHA-256 mismatch!
+hashcat: passed
 haskell-platform: passed
 hazel: no checksum
 hbuilder: no checksum
@@ -731,7 +731,7 @@ hyperdither: passed
 hyperdock: no checksum
 hyperswitch: no checksum
 hyro: passed
-iannix: SHA-256 mismatch!
+iannix: passed
 ibabel: no checksum
 ibackup: passed
 ibank: no checksum
@@ -986,7 +986,7 @@ macports: passed
 macs-fan-control: no checksum
 macscale: no checksum
 macterm: no checksum
-mactex: SHA-256 mismatch!
+mactex: passed
 mactracker: passed
 mactubes: passed
 macupdate-desktop: passed
@@ -1197,6 +1197,7 @@ ocenaudio: no checksum
 oclint: passed
 octave: passed
 odesk: no checksum
+odrive: passed
 omnidazzle: passed
 omnidisksweeper: no checksum
 omnifocus-clip-o-tron: passed
@@ -1313,6 +1314,7 @@ pingmenu: no checksum
 pins: no checksum
 pinta: passed
 pivotalbooster: passed
+pixate: no checksum
 pixel-check: passed
 pixel-winch: no checksum
 pixelapse: passed
@@ -1395,7 +1397,7 @@ qbittorrent: passed
 qdesktop: passed
 qgis: passed
 qgroundcontrol: no checksum
-qiyimedia: SHA-256 mismatch!
+qiyimedia: passed
 qlcolorcode: passed
 qlimagesize: no checksum
 qlmarkdown: passed
@@ -1504,6 +1506,7 @@ schnapps: passed
 scilab: passed
 scout: passed
 scratch: no checksum
+screencloud: passed
 screenflick: no checksum
 screenflow: passed
 screenhero: no checksum
@@ -1696,7 +1699,7 @@ subsurface: passed
 subtitle-master: passed
 subtitles: passed
 sumbolon: passed
-sunlogin-remote: SHA-256 mismatch!
+sunlogin-remote: passed
 supaview: passed
 super-otr: passed
 supercollider: passed
@@ -1749,11 +1752,11 @@ teleport: no checksum
 terraform: passed
 testflight: passed
 tex-live-utility: passed
-texmacs: passed
+texmacs: SHA-256 mismatch!
 texmaker: no checksum
 texnicle: passed
 texpad: passed
-texshop: passed
+texshop: SHA-256 mismatch!
 texstudio: passed
 textadept: passed
 textexpander: passed
@@ -1808,7 +1811,7 @@ tofu: no checksum
 toggldesktop: no checksum
 tokaido: passed
 tokens: no checksum
-tomahawk: SHA-256 mismatch!
+tomahawk: passed
 tomighty: passed
 tonality-pro: SHA-256 mismatch!
 tongbu: passed
@@ -1861,7 +1864,7 @@ typewriter: no checksum
 typinator: passed
 ubar: passed
 uber-network-fuser: passed
-uberpov: SHA-256 mismatch!
+uberpov: passed
 ubersicht: passed
 ubuntu-one: no checksum
 ukelele: passed
@@ -1896,7 +1899,7 @@ videomonkey: passed
 videospec: passed
 vienna: passed
 viewit: passed
-vimediamanager: SHA-256 mismatch!
+vimediamanager: passed
 vimr: passed
 vine-server: passed
 vinoteka: no checksum
@@ -1984,7 +1987,7 @@ xaos: passed
 xbench: passed
 xbmc: passed
 xbox360-controller-driver: no checksum
-xca: passed
+xca: SHA-256 mismatch!
 xee: passed
 xiami: no checksum
 xld: passed
@@ -2039,5 +2042,5 @@ zoom: passed
 zoomus: no checksum
 zooom: passed
 zotero: passed
-zterm: SHA-256 mismatch!
-Check finished at Wed Nov  5 06:17:58 EST 2014
+zterm: passed
+Check finished at Thu Nov  6 12:52:16 EST 2014

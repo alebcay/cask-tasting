@@ -1,9 +1,9 @@
-a-better-finder-rename
 a-better-finder-attributes
+a-better-finder-rename
 acorn
 actions-server
-actotracker
 activity-audit
+actotracker
 actual-odbc-pack
 adobe-arh
 adobe-creative-cloud
@@ -51,8 +51,8 @@ automatic
 aviator
 axure-rp-pro
 back-in-time
-backblaze
 backblaze-downloader
+backblaze
 backtobed
 bahamut
 baidumusic
@@ -146,8 +146,8 @@ dealalert
 debookee
 deeper
 deeq
-delicious-library
 delibar
+delicious-library
 desktop-log
 disk-drill
 dispcalgui
@@ -476,6 +476,7 @@ piezo
 pinegrow-web-designer
 pingmenu
 pins
+pixate
 pixel-winch
 pixelpeeper
 pixelstick
@@ -636,8 +637,8 @@ teleport
 texmaker
 textmate
 textsoap
-tftpserver
 thaiwitter
+tftpserver
 the-escapers-flux
 the-hit-list
 things
