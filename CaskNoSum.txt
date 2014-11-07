@@ -220,6 +220,7 @@ garmin-express
 gawker
 get-lyrical
 ghostlab
+gifzo
 git-annex
 gitbook
 github
@@ -285,8 +286,8 @@ imazing
 img2icns
 imodsign
 import-io
-inc
 indigo
+inc
 infinit
 inky
 integrity
@@ -637,8 +638,8 @@ teleport
 texmaker
 textmate
 textsoap
-thaiwitter
 tftpserver
+thaiwitter
 the-escapers-flux
 the-hit-list
 things
@@ -689,7 +690,7 @@ vlc-remote
 vlcstreamer
 voicemac
 voodoopad
-vox-preference-pane
+vox-preferences-pane
 vox
 voxox
 wasted

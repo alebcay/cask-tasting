@@ -1,4 +1,4 @@
-Check started at Thu Nov  6 06:22:55 EST 2014
+Check started at Fri Nov  7 00:00:56 EST 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -89,7 +89,7 @@ arduino-galileo: passed
 arduino: passed
 aria-maestosa: passed
 armitage: passed
-armory: SHA-256 mismatch!
+armory: passed
 arora: passed
 arq: no checksum
 arranger: passed
@@ -223,7 +223,7 @@ burn: passed
 butter: passed
 bzflag: passed
 c3: passed
-caffeine: passed
+caffeine: SHA-256 mismatch!
 cajviewer: no checksum
 cakebrew: passed
 calcservice: passed
@@ -391,7 +391,7 @@ deeq: no checksum
 default-folder-x: passed
 delibar: no checksum
 delicious-library: no checksum
-delivery-status: SHA-256 mismatch!
+delivery-status: passed
 deltawalker: passed
 deluge: passed
 deskfun: passed
@@ -594,7 +594,7 @@ functionflip: passed
 futuniuniu: passed
 fuze: no checksum
 fwbuilder: passed
-gambit-c: passed
+gambit-c: SHA-256 mismatch!
 gamesalad: passed
 ganttproject: passed
 garagebuy: passed
@@ -619,6 +619,7 @@ ghc: passed
 ghostlab: no checksum
 giffun: passed
 gifrocket: passed
+gifzo: no checksum
 gimp-lisanet: passed
 gimp: passed
 gingr: passed
@@ -682,6 +683,7 @@ gulp: passed
 gurps-character-sheet: passed
 gyazo: passed
 hall: passed
+hammerspoon: passed
 handbrake: passed
 handbrakebatch: no checksum
 handbrakecli: passed
@@ -915,7 +917,7 @@ launchy: passed
 layervault: no checksum
 lazarus: passed
 league-of-legends: no checksum
-leap-motion: passed
+leap-motion: SHA-256 mismatch!
 leech: no checksum
 leksah: passed
 less: no checksum
@@ -965,7 +967,7 @@ luminance-hdr: passed
 lyn: passed
 lynxlet: passed
 lyrics-master: passed
-lyx: passed
+lyx: SHA-256 mismatch!
 mac-informer: no checksum
 mac-linux-usb-loader: no checksum
 macaw: passed
@@ -1297,7 +1299,7 @@ pgadmin3: passed
 pgloader: passed
 pgweb: passed
 phantomjs: passed
-pharo: passed
+pharo: SHA-256 mismatch!
 phoenix-slides: passed
 phoenix: no checksum
 phoneclean: no checksum
@@ -1465,7 +1467,7 @@ rescuetime: no checksum
 rethinkdb: passed
 retinacapture: no checksum
 retinizer: passed
-retroarch: SHA-256 mismatch!
+retroarch: passed
 retroshare: passed
 reveal: no checksum
 ricochet: passed
@@ -1607,7 +1609,7 @@ slowy: passed
 smaller: no checksum
 smartgithg: passed
 smartloader: no checksum
-smartsynchronize: passed
+smartsynchronize: SHA-256 mismatch!
 smcfancontrol: passed
 smlnj: passed
 smoothmouse: no checksum
@@ -1922,7 +1924,7 @@ vocabulist: passed
 voicemac: no checksum
 volatility: passed
 voodoopad: no checksum
-vox-preference-pane: no checksum
+vox-preferences-pane: no checksum
 vox: no checksum
 voxox: no checksum
 vuescan: SHA-256 mismatch!
@@ -1987,7 +1989,7 @@ xaos: passed
 xbench: passed
 xbmc: passed
 xbox360-controller-driver: no checksum
-xca: SHA-256 mismatch!
+xca: passed
 xee: passed
 xiami: no checksum
 xld: passed
@@ -2043,4 +2045,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Thu Nov  6 12:52:16 EST 2014
+Check finished at Fri Nov  7 06:33:14 EST 2014
