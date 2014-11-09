@@ -1,4 +1,4 @@
-Check started at Fri Nov  7 00:00:56 EST 2014
+Check started at Sun Nov  9 00:17:55 EST 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -223,7 +223,7 @@ burn: passed
 butter: passed
 bzflag: passed
 c3: passed
-caffeine: SHA-256 mismatch!
+caffeine: passed
 cajviewer: no checksum
 cakebrew: passed
 calcservice: passed
@@ -248,7 +248,7 @@ catchmouse: no checksum
 cathode: passed
 caustic: passed
 ccleaner: passed
-ccmenu: passed
+ccmenu: SHA-256 mismatch!
 cd-to: passed
 cdock: passed
 celestia: passed
@@ -321,7 +321,7 @@ colorpicker-propicker: passed
 colorpicker-rcwebcolorpicker: passed
 colorpicker-skalacolor: no checksum
 colorpicker: passed
-colorport: passed
+colorport: SHA-256 mismatch!
 colors: passed
 colorschemer-studio: no checksum
 comicbooklover: no checksum
@@ -521,7 +521,7 @@ feeds: passed
 feisty-dog-tag: no checksum
 fender-amp-drivers: SHA-256 mismatch!
 fender-fuse: passed
-fenics: passed
+fenics: SHA-256 mismatch!
 fenix: passed
 fetch: passed
 ffmpegx: no checksum
@@ -594,7 +594,7 @@ functionflip: passed
 futuniuniu: passed
 fuze: no checksum
 fwbuilder: passed
-gambit-c: SHA-256 mismatch!
+gambit-c: passed
 gamesalad: passed
 ganttproject: passed
 garagebuy: passed
@@ -658,7 +658,7 @@ google-notifier: passed
 google-plus-auto-backup: no checksum
 google-refine: passed
 google-web-designer: no checksum
-googleappenginelauncher: passed
+googleappenginelauncher: SHA-256 mismatch!
 gopanda: no checksum
 gpgtools: passed
 gpower: passed
@@ -881,6 +881,7 @@ keycue: passed
 keyfinder: no checksum
 keymo: passed
 keystore-explorer: passed
+kicad: passed
 kid3: passed
 kindle-previewer: no checksum
 kindlegen: passed
@@ -1272,6 +1273,7 @@ parse: no checksum
 pashua: no checksum
 password-gorilla: passed
 password-practice: no checksum
+pastebotsync-pane: no checksum
 pastor: passed
 path-finder: no checksum
 paw: no checksum
@@ -1331,7 +1333,7 @@ platypus: passed
 playonmac: passed
 pleasesleep: no checksum
 plex-home-theater: passed
-plex-media-server: passed
+plex-media-server: SHA-256 mismatch!
 pliny: passed
 plotdevice: passed
 plover: passed
@@ -1373,7 +1375,7 @@ processing: passed
 programmer-dvorak: passed
 progressive-downloader: passed
 projectlibre: passed
-prolific-usb-serial-driver: passed
+prolific-usb-serial-driver: SHA-256 mismatch!
 propane: no checksum
 propresenter: SHA-256 mismatch!
 protege: passed
@@ -1622,7 +1624,7 @@ snippets: passed
 snowtape: passed
 sococo: passed
 sofortbild: no checksum
-sogouinput: passed
+sogouinput: SHA-256 mismatch!
 soleol: no checksum
 sonic-pi: no checksum
 sonic-visualiser: passed
@@ -1754,7 +1756,7 @@ teleport: no checksum
 terraform: passed
 testflight: passed
 tex-live-utility: passed
-texmacs: SHA-256 mismatch!
+texmacs: passed
 texmaker: no checksum
 texnicle: passed
 texpad: passed
@@ -2045,4 +2047,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Fri Nov  7 06:33:14 EST 2014
+Check finished at Sun Nov  9 08:22:43 EST 2014

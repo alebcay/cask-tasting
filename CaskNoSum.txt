@@ -286,8 +286,8 @@ imazing
 img2icns
 imodsign
 import-io
-indigo
 inc
+indigo
 infinit
 inky
 integrity
@@ -463,6 +463,7 @@ paragon-ntfs
 parse
 pashua
 password-practice
+pastebotsync-pane
 path-finder
 paw
 pdfinfo
