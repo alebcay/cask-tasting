@@ -1,4 +1,4 @@
-Check started at Sun Nov  9 00:17:55 EST 2014
+Check started at Tue Nov 11 00:35:59 EST 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -122,9 +122,10 @@ autodmg: passed
 automatic: no checksum
 autopano-pro: SHA-256 mismatch!
 aviator: no checksum
+avidcodecsle: passed
 avidemux: passed
 avogadro: passed
-awareness: passed
+awareness: SHA-256 mismatch!
 ax88179: passed
 ax88772: passed
 axure-rp-pro: no checksum
@@ -238,7 +239,7 @@ camtwist: passed
 candybar: passed
 capo: passed
 capsee: passed
-carbon-copy-cloner: passed
+carbon-copy-cloner: SHA-256 mismatch!
 cargo: no checksum
 carlson-minot: passed
 cartao-de-cidadao: passed
@@ -248,7 +249,7 @@ catchmouse: no checksum
 cathode: passed
 caustic: passed
 ccleaner: passed
-ccmenu: SHA-256 mismatch!
+ccmenu: passed
 cd-to: passed
 cdock: passed
 celestia: passed
@@ -267,6 +268,7 @@ chemdoodle: passed
 chicken: passed
 chirp: passed
 chocolat: no checksum
+choose-wisely: passed
 choosy: passed
 chromatic: no checksum
 chrome-remote-desktop-host: no checksum
@@ -321,7 +323,7 @@ colorpicker-propicker: passed
 colorpicker-rcwebcolorpicker: passed
 colorpicker-skalacolor: no checksum
 colorpicker: passed
-colorport: SHA-256 mismatch!
+colorport: passed
 colors: passed
 colorschemer-studio: no checksum
 comicbooklover: no checksum
@@ -414,11 +416,11 @@ diskmaker-x: passed
 diskwave: passed
 dispcalgui: no checksum
 displaperture: no checksum
-displaylink: passed
+displaylink: SHA-256 mismatch!
 diumoo: no checksum
 divvy: no checksum
 djay: no checksum
-djv: SHA-256 mismatch!
+djv: passed
 djview: passed
 dmm: SHA-256 mismatch!
 dnscrypt: passed
@@ -521,7 +523,7 @@ feeds: passed
 feisty-dog-tag: no checksum
 fender-amp-drivers: SHA-256 mismatch!
 fender-fuse: passed
-fenics: SHA-256 mismatch!
+fenics: passed
 fenix: passed
 fetch: passed
 ffmpegx: no checksum
@@ -646,6 +648,7 @@ go-server: passed
 goagentx: no checksum
 gog-downloader: passed
 golly: SHA-256 mismatch!
+goodsync: no checksum
 google-adwords-editor: passed
 google-chrome: no checksum
 google-drive: no checksum
@@ -669,7 +672,7 @@ grandperspective: passed
 grandtotal: no checksum
 graphicconverter: passed
 graphsketcher: passed
-graphviz: passed
+graphviz: SHA-256 mismatch!
 gravit: passed
 gridwars: passed
 grooveshark: no checksum
@@ -691,7 +694,7 @@ hands-off: passed
 happygrep: passed
 haroopad: passed
 harvest: no checksum
-hashcat: passed
+hashcat: SHA-256 mismatch!
 haskell-platform: passed
 hazel: no checksum
 hbuilder: no checksum
@@ -747,6 +750,7 @@ icolors: passed
 icompta: no checksum
 iconping: passed
 icons8: no checksum
+icons: passed
 icursor: no checksum
 id3-editor: passed
 identify: passed
@@ -786,6 +790,7 @@ insync: passed
 integrity: no checksum
 intel-haxm: passed
 intel-power-gadget: passed
+intel-xdk-iot: passed
 intel-xdk: passed
 intellij-idea-ce: passed
 intellij-idea: passed
@@ -870,7 +875,7 @@ keepassx: passed
 keka: passed
 kensington-trackball-works: passed
 kext-drop: no checksum
-kext-utility: passed
+kext-utility: SHA-256 mismatch!
 kext-wizard: no checksum
 key-codes: passed
 keyboard-cleaner: no checksum
@@ -921,7 +926,6 @@ league-of-legends: no checksum
 leap-motion: SHA-256 mismatch!
 leech: no checksum
 leksah: passed
-less: no checksum
 levelator: passed
 librecad: passed
 libreoffice: passed
@@ -980,7 +984,7 @@ macgdbp: passed
 machacha: no checksum
 machg: passed
 macintosh-explorer: no checksum
-macmoney: SHA-256 mismatch!
+macmoney: passed
 macpar-deluxe: no checksum
 macpass: passed
 macpaw-gemini: no checksum
@@ -1015,7 +1019,7 @@ mame: passed
 mamp: SHA-256 mismatch!
 managenameext: no checksum
 manager: passed
-manico: SHA-256 mismatch!
+manico: passed
 manopen: passed
 mapbox-studio: passed
 mapture: passed
@@ -1132,7 +1136,7 @@ mysqlworkbench: passed
 nally: passed
 name-mangler: no checksum
 namebench: passed
-namechanger: passed
+namechanger: SHA-256 mismatch!
 namely: no checksum
 nanostudio: passed
 narrative-uploader: no checksum
@@ -1245,7 +1249,7 @@ osculator: passed
 osirix: SHA-256 mismatch!
 osxfuse: passed
 outwit-hub: no checksum
-owasp-zap: passed
+owasp-zap: SHA-256 mismatch!
 owncloud: passed
 p4merge: passed
 p4v: passed
@@ -1326,6 +1330,7 @@ pixelpeeper: no checksum
 pixelstick: no checksum
 pixi-paint: no checksum
 pixlr: passed
+pl2303: passed
 placeit: no checksum
 plain-clip: no checksum
 plainview: passed
@@ -1333,7 +1338,7 @@ platypus: passed
 playonmac: passed
 pleasesleep: no checksum
 plex-home-theater: passed
-plex-media-server: SHA-256 mismatch!
+plex-media-server: passed
 pliny: passed
 plotdevice: passed
 plover: passed
@@ -1356,7 +1361,7 @@ power-manager-pro: no checksum
 power-manager: no checksum
 powerkey: passed
 powerword: passed
-praat: passed
+praat: SHA-256 mismatch!
 preen: passed
 pref-setter: no checksum
 preference-manager: no checksum
@@ -1375,7 +1380,7 @@ processing: passed
 programmer-dvorak: passed
 progressive-downloader: passed
 projectlibre: passed
-prolific-usb-serial-driver: SHA-256 mismatch!
+prolific-usb-serial-driver: passed
 propane: no checksum
 propresenter: SHA-256 mismatch!
 protege: passed
@@ -1455,6 +1460,7 @@ readytalk: no checksum
 reaper: passed
 recordit: no checksum
 recovery-disk-assistant: passed
+redcine-x-pro: passed
 reeddit: passed
 reflector: no checksum
 refresh-finder: passed
@@ -1624,7 +1630,7 @@ snippets: passed
 snowtape: passed
 sococo: passed
 sofortbild: no checksum
-sogouinput: SHA-256 mismatch!
+sogouinput: passed
 soleol: no checksum
 sonic-pi: no checksum
 sonic-visualiser: passed
@@ -1807,7 +1813,7 @@ titanium-studio: no checksum
 tk-suite-client: passed
 toad: passed
 toau: no checksum
-today-scripts: no checksum
+today-scripts: passed
 todoist: no checksum
 todos: no checksum
 todotxtmac: passed
@@ -1893,6 +1899,7 @@ vagrant-bar: passed
 vagrant-manager: passed
 vagrant: passed
 valentina-studio: no checksum
+validator-sac: passed
 vassal: passed
 versions: no checksum
 vessel: passed
@@ -2047,4 +2054,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Sun Nov  9 08:22:43 EST 2014
+Check finished at Tue Nov 11 07:09:01 EST 2014

@@ -1,5 +1,5 @@
-a-better-finder-attributes
 a-better-finder-rename
+a-better-finder-attributes
 acorn
 actions-server
 activity-audit
@@ -230,6 +230,7 @@ gity
 glo
 globalsync
 goagentx
+goodsync
 google-chrome
 google-drive
 google-earth-web-plugin
@@ -337,7 +338,6 @@ latexian
 layervault
 league-of-legends
 leech
-less
 licensed
 lincastor
 linein
@@ -651,7 +651,6 @@ timemachineeditor
 tinkertool
 titanium-studio
 toau
-today-scripts
 todoist
 todos
 tofu
