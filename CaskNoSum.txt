@@ -232,6 +232,7 @@ globalsync
 goagentx
 goodsync
 google-chrome
+google-cloud-sdk
 google-drive
 google-earth-web-plugin
 google-earth
@@ -700,6 +701,7 @@ wedge
 wercker
 whatsapp-pocket
 whatsize
+whiskey
 wifimasterkey
 window-switch
 windownaut

@@ -1,4 +1,4 @@
-Check started at Tue Nov 11 00:35:59 EST 2014
+Check started at Wed Nov 12 00:34:58 EST 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -416,7 +416,7 @@ diskmaker-x: passed
 diskwave: passed
 dispcalgui: no checksum
 displaperture: no checksum
-displaylink: SHA-256 mismatch!
+displaylink: passed
 diumoo: no checksum
 divvy: no checksum
 djay: no checksum
@@ -546,8 +546,9 @@ fivedetails-flow: no checksum
 flame: passed
 flash-decompiler-trillix: no checksum
 flash-player-debugger: passed
-flash-player: passed
-flash: passed
+flash-player: SHA-256 mismatch!
+flash: SHA-256 mismatch!
+flashlight: passed
 flavours: no checksum
 flexiglass: no checksum
 flickr-uploadr: passed
@@ -640,6 +641,8 @@ glcplayer: passed
 glimmerblocker: passed
 glo: no checksum
 globalsync: no checksum
+glyphish-color-changer: passed
+glyphish-gallery: passed
 gmail-notifier: passed
 gmail-notifr: passed
 gnucash: passed
@@ -651,6 +654,7 @@ golly: SHA-256 mismatch!
 goodsync: no checksum
 google-adwords-editor: passed
 google-chrome: no checksum
+google-cloud-sdk: no checksum
 google-drive: no checksum
 google-earth-web-plugin: no checksum
 google-earth: no checksum
@@ -663,6 +667,7 @@ google-refine: passed
 google-web-designer: no checksum
 googleappenginelauncher: SHA-256 mismatch!
 gopanda: no checksum
+gopro-studio: passed
 gpgtools: passed
 gpower: passed
 gqrx: passed
@@ -672,7 +677,7 @@ grandperspective: passed
 grandtotal: no checksum
 graphicconverter: passed
 graphsketcher: passed
-graphviz: SHA-256 mismatch!
+graphviz: passed
 gravit: passed
 gridwars: passed
 grooveshark: no checksum
@@ -694,7 +699,7 @@ hands-off: passed
 happygrep: passed
 haroopad: passed
 harvest: no checksum
-hashcat: SHA-256 mismatch!
+hashcat: passed
 haskell-platform: passed
 hazel: no checksum
 hbuilder: no checksum
@@ -872,6 +877,7 @@ karabiner: passed
 katana: passed
 kdiff3: passed
 keepassx: passed
+keepingyouawake: passed
 keka: passed
 kensington-trackball-works: passed
 kext-drop: no checksum
@@ -889,7 +895,7 @@ keystore-explorer: passed
 kicad: passed
 kid3: passed
 kindle-previewer: no checksum
-kindlegen: passed
+kindlegen: SHA-256 mismatch!
 kinsky: passed
 kismac: passed
 kitematic: passed
@@ -928,7 +934,7 @@ leech: no checksum
 leksah: passed
 levelator: passed
 librecad: passed
-libreoffice: passed
+libreoffice: SHA-256 mismatch!
 licecap: passed
 licensed: no checksum
 lightpaper: passed
@@ -1136,7 +1142,7 @@ mysqlworkbench: passed
 nally: passed
 name-mangler: no checksum
 namebench: passed
-namechanger: SHA-256 mismatch!
+namechanger: passed
 namely: no checksum
 nanostudio: passed
 narrative-uploader: no checksum
@@ -1171,7 +1177,7 @@ ninjablocks: passed
 nitroshare: passed
 nitrous-desktop: no checksum
 nmap: passed
-no-ip-duc: passed
+no-ip-duc: SHA-256 mismatch!
 nocturne: passed
 node-webkit: passed
 node: passed
@@ -1239,7 +1245,7 @@ opera-mail: passed
 opera-mobile-emulator: passed
 opera: passed
 optimal-layout: no checksum
-orange: passed
+orange: SHA-256 mismatch!
 orbit: no checksum
 order-of-twilight: no checksum
 origin: no checksum
@@ -1617,7 +1623,7 @@ slowy: passed
 smaller: no checksum
 smartgithg: passed
 smartloader: no checksum
-smartsynchronize: SHA-256 mismatch!
+smartsynchronize: passed
 smcfancontrol: passed
 smlnj: passed
 smoothmouse: no checksum
@@ -1630,7 +1636,7 @@ snippets: passed
 snowtape: passed
 sococo: passed
 sofortbild: no checksum
-sogouinput: passed
+sogouinput: SHA-256 mismatch!
 soleol: no checksum
 sonic-pi: no checksum
 sonic-visualiser: passed
@@ -1837,7 +1843,7 @@ totalspaces: passed
 totalterminal: passed
 tower: no checksum
 track-o-bot: passed
-trailer: SHA-256 mismatch!
+trailer: passed
 trailrunner: no checksum
 traktable: passed
 transmission-remote-gui: passed
@@ -1959,6 +1965,7 @@ wesnoth: passed
 whatpulse: passed
 whatsapp-pocket: no checksum
 whatsize: no checksum
+whiskey: no checksum
 whiteclock: passed
 widelands: passed
 wifimasterkey: no checksum
@@ -2054,4 +2061,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Tue Nov 11 07:09:01 EST 2014
+Check finished at Wed Nov 12 09:29:09 EST 2014
