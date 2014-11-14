@@ -1,4 +1,4 @@
-Check started at Wed Nov 12 00:34:58 EST 2014
+Check started at Thu Nov 13 06:08:11 EST 2014
 a-better-finder-attributes: no checksum
 a-better-finder-rename: no checksum
 a-slower-speed-of-light: passed
@@ -16,7 +16,7 @@ actual-odbc-pack: no checksum
 adafruit-arduino: passed
 adapter: passed
 adium: passed
-adobe-air: SHA-256 mismatch!
+adobe-air: passed
 adobe-arh: no checksum
 adobe-creative-cloud: no checksum
 adobe-digital-editions: SHA-256 mismatch!
@@ -126,7 +126,7 @@ avidcodecsle: passed
 avidemux: passed
 avogadro: passed
 awareness: SHA-256 mismatch!
-ax88179: passed
+ax88179: SHA-256 mismatch!
 ax88772: passed
 axure-rp-pro: no checksum
 back-in-time: no checksum
@@ -207,7 +207,7 @@ box-sync: no checksum
 boxcryptor-classic: no checksum
 boxer: no checksum
 brackets: passed
-brain-workshop: passed
+brain-workshop: SHA-256 mismatch!
 breach: passed
 breakaway: passed
 bricksmith: passed
@@ -220,10 +220,11 @@ brushviewql: passed
 brytonbridge: no checksum
 buddi: no checksum
 budget: no checksum
-burn: passed
+burn: SHA-256 mismatch!
 butter: passed
 bzflag: passed
 c3: passed
+cacoo-ninja: passed
 caffeine: passed
 cajviewer: no checksum
 cakebrew: passed
@@ -399,13 +400,13 @@ deluge: passed
 deskfun: passed
 desktop-log: no checksum
 desmume: passed
-detune: passed
+detune: SHA-256 mismatch!
 devcenter: passed
 devonthink-pro-office: passed
 devonthink-pro: passed
 dewdrop: passed
 dfontsplitter: passed
-dia: passed
+dia: SHA-256 mismatch!
 diashapes: passed
 dictunifier: passed
 difffork: passed
@@ -532,10 +533,10 @@ fiery-software-manager: no checksum
 figtree: no checksum
 fiji: no checksum
 file-juicer: no checksum
-filebot: passed
+filebot: SHA-256 mismatch!
 filedrop: no checksum
 fileshuttle: passed
-filezilla: passed
+filezilla: SHA-256 mismatch!
 find-any-file: passed
 findings: no checksum
 fing: passed
@@ -546,8 +547,8 @@ fivedetails-flow: no checksum
 flame: passed
 flash-decompiler-trillix: no checksum
 flash-player-debugger: passed
-flash-player: SHA-256 mismatch!
-flash: SHA-256 mismatch!
+flash-player: passed
+flash: passed
 flashlight: passed
 flavours: no checksum
 flexiglass: no checksum
@@ -583,7 +584,7 @@ freecol: passed
 freedv: passed
 freefilesync: passed
 freelancy: no checksum
-freemind: passed
+freemind: SHA-256 mismatch!
 freeplane: passed
 freezer: no checksum
 fritzing: passed
@@ -670,10 +671,10 @@ gopanda: no checksum
 gopro-studio: passed
 gpgtools: passed
 gpower: passed
-gqrx: passed
+gqrx: SHA-256 mismatch!
 grabbox: passed
 grafx2: no checksum
-grandperspective: passed
+grandperspective: SHA-256 mismatch!
 grandtotal: no checksum
 graphicconverter: passed
 graphsketcher: passed
@@ -688,7 +689,7 @@ growlnotify: passed
 growlvoice: passed
 guitar-tuner: no checksum
 gulp: passed
-gurps-character-sheet: passed
+gurps-character-sheet: SHA-256 mismatch!
 gyazo: passed
 hall: passed
 hammerspoon: passed
@@ -842,7 +843,7 @@ jabref: passed
 jaikoz: no checksum
 jaksta: passed
 jameica: no checksum
-jaspersoft-studio: passed
+jaspersoft-studio: SHA-256 mismatch!
 java: passed
 javafx-scene-builder: passed
 jawbone-updater: passed
@@ -875,7 +876,7 @@ kaleidoscope: passed
 kamakiri: no checksum
 karabiner: passed
 katana: passed
-kdiff3: passed
+kdiff3: SHA-256 mismatch!
 keepassx: passed
 keepingyouawake: passed
 keka: passed
@@ -891,7 +892,7 @@ keycastr: passed
 keycue: passed
 keyfinder: no checksum
 keymo: passed
-keystore-explorer: passed
+keystore-explorer: SHA-256 mismatch!
 kicad: passed
 kid3: passed
 kindle-previewer: no checksum
@@ -922,7 +923,7 @@ lastfm: no checksum
 lastpass-universal: no checksum
 latexian: no checksum
 latexit: passed
-launchbar: passed
+launchbar: SHA-256 mismatch!
 launchcontrol: passed
 launchrocket: passed
 launchy: passed
@@ -933,8 +934,8 @@ leap-motion: SHA-256 mismatch!
 leech: no checksum
 leksah: passed
 levelator: passed
-librecad: passed
-libreoffice: SHA-256 mismatch!
+librecad: SHA-256 mismatch!
+libreoffice: passed
 licecap: passed
 licensed: no checksum
 lightpaper: passed
@@ -951,7 +952,7 @@ linphone: passed
 liquifile: no checksum
 litecoin: passed
 liteicon: passed
-liteide: passed
+liteide: SHA-256 mismatch!
 little-snitch: passed
 littleipsum: passed
 livereload: passed
@@ -978,7 +979,7 @@ luminance-hdr: passed
 lyn: passed
 lynxlet: passed
 lyrics-master: passed
-lyx: SHA-256 mismatch!
+lyx: passed
 mac-informer: no checksum
 mac-linux-usb-loader: no checksum
 macaw: passed
@@ -999,7 +1000,6 @@ macports: passed
 macs-fan-control: no checksum
 macscale: no checksum
 macterm: no checksum
-mactex: passed
 mactracker: passed
 mactubes: passed
 macupdate-desktop: passed
@@ -1044,11 +1044,11 @@ maxthon: passed
 mcedit: passed
 mcs783x: passed
 mdrp: no checksum
-media-converter: passed
+media-converter: SHA-256 mismatch!
 mediaelch: passed
 mediafire-desktop: no checksum
 mediainfo: passed
-mediathekview: passed
+mediathekview: SHA-256 mismatch!
 meerkat: passed
 memorytamer: passed
 mendeley-desktop: passed
@@ -1061,13 +1061,14 @@ menuola: passed
 meocloud: passed
 mercurymover: no checksum
 mesasqlite: passed
-meshlab: passed
+meshlab: SHA-256 mismatch!
 metanota: passed
 meteorologist: passed
 mi: passed
 microsoft-intellipoint: passed
 microsoft-intellitype: passed
 microsoft-lync-plugin: no checksum
+microsoft-office: no checksum
 middleclick: no checksum
 midikeys: passed
 miditrail: passed
@@ -1082,6 +1083,7 @@ minilyrics: no checksum
 minimalclock: no checksum
 minitimer: passed
 minitube: no checksum
+mirador: passed
 miro-video-converter: no checksum
 miro: no checksum
 mirrordisplays: no checksum
@@ -1103,7 +1105,7 @@ mongodbpreferencepane: no checksum
 mongohub: no checksum
 mono-mdk: passed
 mono-mre: passed
-monolingual: passed
+monolingual: SHA-256 mismatch!
 monotype-skyfonts: passed
 moom: no checksum
 moreamp: SHA-256 mismatch!
@@ -1119,7 +1121,7 @@ mp4tools: passed
 mpeg-streamclip: passed
 mpfreaker: no checksum
 mplayer-osx-extended: passed
-mplayerx: passed
+mplayerx: SHA-256 mismatch!
 mpv: passed
 mucommander: passed
 mudlet: passed
@@ -1177,7 +1179,7 @@ ninjablocks: passed
 nitroshare: passed
 nitrous-desktop: no checksum
 nmap: passed
-no-ip-duc: SHA-256 mismatch!
+no-ip-duc: passed
 nocturne: passed
 node-webkit: passed
 node: passed
@@ -1252,7 +1254,6 @@ origin: no checksum
 ormr: no checksum
 ortho-robot: no checksum
 osculator: passed
-osirix: SHA-256 mismatch!
 osxfuse: passed
 outwit-hub: no checksum
 owasp-zap: SHA-256 mismatch!
@@ -1266,7 +1267,7 @@ packer: passed
 packet-peeper: passed
 padre: passed
 pagico: passed
-paintbrush: passed
+paintbrush: SHA-256 mismatch!
 paintcode: no checksum
 pandoc: passed
 pandora-one: passed
@@ -1290,12 +1291,12 @@ paw: no checksum
 paye-tools: passed
 paymowidget: passed
 pcalc: passed
-pd-extended: passed
+pd-extended: SHA-256 mismatch!
 pdfinfo: no checksum
 pdfmasher: passed
 pdfpen: no checksum
 pdfpenpro: no checksum
-pdfsam: passed
+pdfsam: SHA-256 mismatch!
 pdfshaver: passed
 pdftk: passed
 peepopen: no checksum
@@ -1385,7 +1386,7 @@ prizmo: no checksum
 processing: passed
 programmer-dvorak: passed
 progressive-downloader: passed
-projectlibre: passed
+projectlibre: SHA-256 mismatch!
 prolific-usb-serial-driver: passed
 propane: no checksum
 propresenter: SHA-256 mismatch!
@@ -1396,7 +1397,7 @@ provisionql: passed
 proxifier: no checksum
 proximity: passed
 proxpn: no checksum
-ps3-media-server: passed
+ps3-media-server: SHA-256 mismatch!
 psi: passed
 psychopy: passed
 punto-switcher: no checksum
@@ -1412,7 +1413,7 @@ qbittorrent: passed
 qdesktop: passed
 qgis: passed
 qgroundcontrol: no checksum
-qiyimedia: passed
+qiyimedia: SHA-256 mismatch!
 qlcolorcode: passed
 qlimagesize: no checksum
 qlmarkdown: passed
@@ -1482,7 +1483,7 @@ rethinkdb: passed
 retinacapture: no checksum
 retinizer: passed
 retroarch: passed
-retroshare: passed
+retroshare: SHA-256 mismatch!
 reveal: no checksum
 ricochet: passed
 ridibooks: no checksum
@@ -1504,7 +1505,7 @@ runtastic-connect: no checksum
 runtimebrowser: no checksum
 rust: no checksum
 rythem: passed
-sabnzbd: passed
+sabnzbd: SHA-256 mismatch!
 safaritabswitching: passed
 safe-in-cloud: no checksum
 safemonk: no checksum
@@ -1531,12 +1532,12 @@ screens-connect: no checksum
 screenstagram: passed
 screensteps: passed
 scribbleton: no checksum
-scribus: passed
+scribus: SHA-256 mismatch!
 scriptql: no checksum
 scrivener: no checksum
 scroll-reverser: passed
 scrup: passed
-scummvm: passed
+scummvm: SHA-256 mismatch!
 sdformatter: passed
 sdrdx: no checksum
 seafile-client: passed
@@ -1636,7 +1637,7 @@ snippets: passed
 snowtape: passed
 sococo: passed
 sofortbild: no checksum
-sogouinput: SHA-256 mismatch!
+sogouinput: passed
 soleol: no checksum
 sonic-pi: no checksum
 sonic-visualiser: passed
@@ -1718,14 +1719,14 @@ sumbolon: passed
 sunlogin-remote: passed
 supaview: passed
 super-otr: passed
-supercollider: passed
+supercollider: SHA-256 mismatch!
 superduper: no checksum
 supersync: no checksum
 supertuxkart: passed
 surplusmeter: passed
 suspicious-package: no checksum
 svnx: passed
-sweet-home3d: passed
+sweet-home3d: SHA-256 mismatch!
 swift-publisher: no checksum
 swingfish: no checksum
 swinsian: no checksum
@@ -1906,7 +1907,7 @@ vagrant-manager: passed
 vagrant: passed
 valentina-studio: no checksum
 validator-sac: passed
-vassal: passed
+vassal: SHA-256 mismatch!
 versions: no checksum
 vessel: passed
 viber: no checksum
@@ -1926,7 +1927,7 @@ virtualhostx: no checksum
 virustotaluploader: passed
 viscosity: no checksum
 visit: passed
-vistrails: passed
+vistrails: SHA-256 mismatch!
 visualack: passed
 visualvm: passed
 vitamin-r: no checksum
@@ -2000,7 +2001,7 @@ xamarin-android: passed
 xamarin-ios: passed
 xamarin-studio: passed
 xamarin: no checksum
-xampp: passed
+xampp: SHA-256 mismatch!
 xaos: passed
 xbench: passed
 xbmc: passed
@@ -2061,4 +2062,4 @@ zoomus: no checksum
 zooom: passed
 zotero: passed
 zterm: passed
-Check finished at Wed Nov 12 09:29:09 EST 2014
+Check finished at Thu Nov 13 17:10:31 EST 2014

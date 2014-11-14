@@ -1,5 +1,5 @@
-a-better-finder-rename
 a-better-finder-attributes
+a-better-finder-rename
 acorn
 actions-server
 activity-audit
@@ -384,6 +384,7 @@ menubarfilter
 menumeters
 mercurymover
 microsoft-lync-plugin
+microsoft-office
 middleclick
 mikogo
 minbox
