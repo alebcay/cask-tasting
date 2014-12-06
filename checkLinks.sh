@@ -2,7 +2,7 @@
 echo "Preparing for check..."
 cd /Volumes/MacData/homebrew/cask-tasting
 git checkout master
-brew detox >/dev/null 2>&1
+brew detox
 [ -e "CaskTasting.part" ] && rm "CaskTasting.part"
 [ -e "CaskPassed.part" ] && rm "CaskPassed.part"
 [ -e "CaskDLError.part" ] && rm "CaskDLError.part"
@@ -30,8 +30,8 @@ mv CaskNoSum.part CaskNoSum.txt
 rm -r ppss_dir
 ppss -d /Library/Caches/Homebrew -c 'rm '
 rm -r ppss_dir
-
 echo "Sending data to master..."
-git add . 2>/dev/null
-git commit -m "Cask taster reporting for duty: $(date)" 2>/dev/null
-git push 2>/dev/null
+git add .
+git commit -m "Cask taster reporting for duty: $(date)"
+git gc --aggressive
+git push

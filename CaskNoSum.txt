@@ -1,5 +1,5 @@
-a-better-finder-attributes
 a-better-finder-rename
+a-better-finder-attributes
 acorn
 actions-server
 activity-audit
@@ -8,6 +8,8 @@ actual-odbc-pack
 adobe-arh
 adobe-creative-cloud
 adventure
+adwaremedic
+affinic-debugger-gui
 air-connect
 airdisplay
 airfoil
@@ -27,7 +29,6 @@ antetype
 anvil
 anxiety
 ap-grapher
-apimac-timer
 appdelete
 appfresh
 appmenuboy
@@ -36,7 +37,6 @@ apptivate
 appzapper
 archiver
 arq
-arrsync
 asteroid
 astrill
 atext
@@ -48,6 +48,7 @@ audio-notetaker
 audiobook-builder
 authbuddy
 automatic
+avast
 aviator
 axure-rp-pro
 back-in-time
@@ -77,7 +78,6 @@ bleep
 blu-ray-player
 bonjour-browser
 bookends
-boom
 bootchamp
 box-sync
 boxcryptor-classic
@@ -89,6 +89,7 @@ budget
 cajviewer
 calibre
 camtasia
+carbon-copy-cloner
 cargo
 cartographica
 catchmouse
@@ -113,6 +114,7 @@ cleanmymac
 clonk
 cloudpull
 cloudup
+cmb-security-plugin
 cockatrice
 cocktail
 cocoasplit
@@ -140,6 +142,7 @@ cursorcerer
 daisydisk
 darteditor
 dash
+data-integration
 datagraph
 day-o
 dealalert
@@ -149,6 +152,7 @@ deeq
 delibar
 delicious-library
 desktop-log
+disconnect
 disk-drill
 dispcalgui
 displaperture
@@ -171,8 +175,8 @@ ember
 emin-webpquicklook
 endnote
 enolsoft-chm-view
+entonnoir
 entropy
-epic
 epubquicklook
 espionage
 espresso
@@ -184,7 +188,7 @@ evom
 exhaust
 expandrive
 ezeep
-faux-pas
+fauxpas
 fdt
 feisty-dog-tag
 ffmpegx
@@ -193,11 +197,14 @@ figtree
 fiji
 file-juicer
 filedrop
+filosync
 findings
+fingerlock
 firefox
 fission
 fivedetails-flow
 flash-decompiler-trillix
+flashlight
 flavours
 flexiglass
 flow
@@ -205,7 +212,7 @@ flowdock
 flux
 focus
 focuswriter
-folding-text
+foldingtext
 foldit
 folx
 fourpeaks
@@ -213,6 +220,7 @@ foxmail
 freelancy
 freezer
 frizzix
+front
 fseventer
 fstream
 fuze
@@ -224,10 +232,9 @@ gifzo
 git-annex
 gitbook
 github
-gitx-rowanj
 gitx
 gity
-glo
+glo-bible
 globalsync
 goagentx
 goodsync
@@ -242,7 +249,7 @@ google-nik-collection
 google-plus-auto-backup
 google-web-designer
 gopanda
-grafx2
+grafx
 grandtotal
 grooveshark
 groovesquid
@@ -286,6 +293,7 @@ ifunbox
 imageoptim
 imazing
 img2icns
+imgur
 imodsign
 import-io
 inc
@@ -321,12 +329,14 @@ jotta
 jsonlook
 jump-desktop
 kamakiri
+kato
 kext-drop
 kext-wizard
 keyboard-cleaner
 keyboard-maestro
 keyboardcleantool
 keyfinder
+kibako
 kindle-previewer
 knock
 kobo
@@ -334,7 +344,7 @@ kuaipan
 kugoumusic
 laplock
 lastfm
-lastpass-universal
+lastpass
 latexian
 layervault
 league-of-legends
@@ -415,12 +425,13 @@ multifirefox
 musicplayer
 musictube
 musique
+myphotostream
 name-mangler
 namely
 narrative-uploader
 neofinder
 nestopia
-netease-music
+neteasemusic
 netshade
 netspot
 ngrok
@@ -437,7 +448,7 @@ nutstore
 nzbvortex
 objektiv
 ocenaudio
-odesk
+odesk-team
 omnidisksweeper
 omnifocus
 omnigraffle
@@ -472,7 +483,6 @@ pdfinfo
 pdfpen
 pdfpenpro
 peepopen
-pentaho-data-integration
 phoenix
 phoneclean
 picturesque
@@ -510,7 +520,9 @@ propane
 prott
 proxifier
 proxpn
+psequel
 punto-switcher
+putiosync
 puush
 puzzles
 qgroundcontrol
@@ -528,7 +540,7 @@ r-name
 radbeacon
 radi
 rdio
-readefine-desktop
+readefine
 readytalk
 recordit
 reflector
@@ -540,6 +552,7 @@ ridibooks
 rightzoom
 ringtones
 ripit
+rowanj-gitx
 rrootage
 rss
 rtx
@@ -565,6 +578,7 @@ serial-tools
 servus
 shades
 shadowsweeper
+sharemouse
 shelf-leveler
 shimo
 sidekick
@@ -584,6 +598,7 @@ sketchup
 sketchupviewer
 slate
 sleep-monitor
+sleipnir
 slice
 slicy
 slimboat
@@ -599,6 +614,7 @@ sonora
 sonos
 soulver
 soundcleod
+soundnode
 soundnote
 spacemonkey
 spacious
@@ -609,23 +625,26 @@ sparrow
 speedlimit
 speedtao
 spideroak
-spillo
 spotdox
 spotifree
 spotify-menubar
 spotify
+squire
 sqwiggle
 srclib
+srware-iron
 sslmate
 startninja
 steam
 stockbarjp
+stringsfile
 superduper
 supersync
 suspicious-package
 swift-publisher
 swingfish
 swinsian
+sync
 tableau-public
 tableau
 tactor
@@ -638,7 +657,9 @@ td-toolbelt
 teamviewer
 telegram
 teleport
+temperaturemonitor
 texmaker
+texshop
 textmate
 textsoap
 tftpserver
@@ -650,6 +671,7 @@ thinkorswim
 thirty-three-rpm
 time-sink
 timemachineeditor
+timer
 tinkertool
 titanium-studio
 toau
@@ -669,17 +691,20 @@ tresorit
 trim-enabler
 triumph
 tubbler
+tuck
 tuneup
 tunewiki
 tvmobili
 tvshows
 twentytwo
 twindocs
+typed
 typewriter
 ubuntu-one
 unicodechecker
 unified-remote
 unity-web-player
+upeditor
 utorrent
 valentina-studio
 versions
@@ -695,8 +720,12 @@ voodoopad
 vox-preferences-pane
 vox
 voxox
+wallpaper-clocks
+waltr
 wasted
+wdfirmwareupdater
 web-sharing
+webhook
 wechat
 wedge
 wercker
@@ -709,6 +738,7 @@ windownaut
 wireover
 witch
 wondershare-player
+workamajig
 wuala
 x-mirage
 x2goclient
@@ -739,3 +769,4 @@ zeroxed
 zipcleaner
 zipeg
 zoomus
+zooom
