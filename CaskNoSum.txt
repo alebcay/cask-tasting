@@ -1,5 +1,5 @@
-010-editor
 0xed
+010-editor
 33-rpm
 4peaks
 8tracksradiohelper
@@ -31,6 +31,7 @@ aliwangwang
 all-the-gifs
 all2mp3
 amadeus-pro
+amazon-workspaces
 amazon-zocalo
 android-file-transfer
 antetype
@@ -56,6 +57,7 @@ audio-notetaker
 audiobook-builder
 authbuddy
 automatic
+autopano-pro
 avast
 aviator
 axure-rp-pro
@@ -78,6 +80,7 @@ bbc-iplayer-downloads
 beamer
 bean
 bee
+better-window-manager
 bettertouchtool
 betterzip
 betterzipql
@@ -87,10 +90,12 @@ big-mean-folder-machine
 bill
 bittorrent-sync
 bleep
+blocs
 blu-ray-player
 bonjour-browser
 bookends
 bootchamp
+box-edit
 box-sync
 boxcryptor-classic
 boxer
@@ -148,6 +153,7 @@ commandq
 contexts
 continuity-activation-tool
 controllermate
+convert-video
 cookie
 coolterm
 copy
@@ -166,10 +172,11 @@ datagraph
 day-o
 debookee
 deeper
-deeq
 delibar
 delicious-library
 desktop-log
+detect-crop
+dictcc-en-de-dictionary-plugin
 disconnect
 disk-drill
 dispcalgui
@@ -195,6 +202,7 @@ endnote
 enolsoft-chm-view
 entonnoir
 entropy
+epic
 epubquicklook
 espionage
 espresso
@@ -206,6 +214,7 @@ evom
 exhaust
 expandrive
 ezeep
+fabric
 fauxpas
 fdt
 feed-the-beast
@@ -227,6 +236,8 @@ flexiglass
 flow
 flowdock
 flux
+flymaster-designer
+flymaster-firmware
 focus
 focuswriter
 fog-burner
@@ -364,6 +375,7 @@ kibako
 kindle-previewer
 knock
 kobo
+kontroll
 kugoumusic
 lastpass
 latexian
@@ -372,6 +384,7 @@ layervault
 ldoce5-viewer
 league-of-legends
 leech
+letter
 licensed
 lifeslice
 lincastor
@@ -379,6 +392,7 @@ linein
 lingon-x
 linkinus
 linkliar
+livestream-producer
 loadmytracks
 locko
 logmein-client
@@ -390,6 +404,7 @@ lpk25-editor
 ltspice
 m3unify
 mac-informer
+mac2imgur
 macbreakz
 macdown
 machacha
@@ -421,6 +436,7 @@ mention
 menubarfilter
 menumeters
 mercurymover
+metadatics
 microsoft-lync-plugin
 microsoft-office
 middleclick
@@ -465,6 +481,7 @@ netshade
 netspot
 ngrok
 nicecast
+night-owl
 nike-plus-connect
 nitrous-desktop
 noisy
@@ -496,6 +513,7 @@ order-of-twilight
 origin
 ormr
 ortho-robot
+osmc
 outwit-hub
 pacifist
 papers
@@ -510,7 +528,9 @@ paw
 pdfinfo
 pdfpen
 pdfpenpro
+pdftotext
 peepopen
+peerio
 phoenix
 phoneclean
 picturesque
@@ -544,6 +564,7 @@ prefs-editor
 private-eye
 private-internet-access
 prizmo
+project-squared
 propane
 prott
 proxifier
@@ -553,6 +574,8 @@ punto-switcher
 putiosync
 puush
 puzzles
+qfinder
+qget
 qlimagesize
 qlrest
 qlstephen
@@ -560,7 +583,9 @@ qsync
 qtox
 qtspim
 querious
+query-handbrake-log
 quickhue
+quicklock
 quicklook-csv
 quicklook-json
 r-name
@@ -581,7 +606,6 @@ ridibooks
 rightzoom
 ringtones
 ripit
-rowanj-gitx
 rrootage
 rss
 rtx
@@ -616,6 +640,7 @@ sidekick
 sidplay
 silicon-labs-vcp-driver
 silverback
+silverlight
 simple-css
 simplefloatingclock
 sitesucker
@@ -634,6 +659,7 @@ sleipnir
 slice
 slicy
 slimboat
+sling
 slingshot
 smaller
 smart-scroll
@@ -645,6 +671,7 @@ soleol
 sonic-pi
 sonora
 sonos
+sony-ericsson-bridge
 sophos-anti-virus-home-edition
 soulver
 soundcleod
@@ -690,7 +717,7 @@ tau
 td-toolbelt
 teamviewer
 teleport
-temperaturemonitor
+temperature-monitor
 texmaker
 texshop
 textmate
@@ -705,7 +732,6 @@ thinkorswim
 time-sink
 timemachineeditor
 timer
-tinkertool
 toau
 todos
 tofu
@@ -718,6 +744,7 @@ torpedo
 torustrooper
 tower
 trailrunner
+transcode-video
 treesheets
 tresorit
 trim-enabler
@@ -747,6 +774,7 @@ virtual-ii
 virtualhostx
 viscosity
 vitamin-r
+vivaldi
 vlc-remote
 vlcstreamer
 voicemac
@@ -760,6 +788,7 @@ waltr
 wasted
 wdfirmwareupdater
 web-sharing
+webex-nbr-player
 webhook
 wechat
 wedge
@@ -777,6 +806,7 @@ wondershare-player
 workamajig
 world-of-tanks
 wuala
+wxcrafter
 x-mirage
 x2goclient
 xamarin
@@ -794,7 +824,6 @@ yate
 yemuzip
 yep
 yimello
-yorufukurou
 youdao
 younited
 youview
