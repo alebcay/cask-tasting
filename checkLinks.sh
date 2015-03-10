@@ -2,7 +2,7 @@
 echo "Preparing for check..."
 cd /Volumes/MacData/homebrew/cask-tasting
 git checkout master
-brew detox
+brew sync
 [ -e "CaskTasting.part" ] && rm "CaskTasting.part"
 [ -e "CaskPassed.part" ] && rm "CaskPassed.part"
 [ -e "CaskDLError.part" ] && rm "CaskDLError.part"
