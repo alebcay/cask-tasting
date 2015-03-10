@@ -1,5 +1,5 @@
-0xed
 010-editor
+0xed
 33-rpm
 4peaks
 8tracksradiohelper
@@ -17,35 +17,6 @@ adobe-digital-editions
 adventure
 adwaremedic
 affinic-debugger-gui
-air-connect
-airdisplay
-airfoil
-airmail-amt
-airparrot
-airstream
-aladin
-alib1
-aliedit
-alinof-timer
-aliwangwang
-all-the-gifs
-all2mp3
-amadeus-pro
-amazon-workspaces
-amazon-zocalo
-android-file-transfer
-antetype
-anvil
-anxiety
-appdelete
-appfresh
-applepi-baker
-appmenuboy
-appstore-quickview
-apptivate
-appzapper
-archiver
-arq
 asteroid
 astrill
 atext
@@ -67,9 +38,7 @@ backblaze-downloader
 backblaze
 backtobed
 baidumusic
-balsamiq-mockups
 bankid
-bartender
 base
 basictex
 battery-guardian
@@ -88,6 +57,7 @@ bfxr
 biba
 big-mean-folder-machine
 bill
+bimedesktop
 bittorrent-sync
 bleep
 blocs
@@ -104,8 +74,8 @@ brytonbridge
 buddi
 budget
 busycal
+busycontacts
 cajviewer
-calibre
 camtasia
 carbon-copy-cloner
 cargo
@@ -158,6 +128,7 @@ cookie
 coolterm
 copy
 craftstudio
+crashcrier
 crashlytics
 crushftp
 cuppa
@@ -202,7 +173,6 @@ endnote
 enolsoft-chm-view
 entonnoir
 entropy
-epic
 epubquicklook
 espionage
 espresso
@@ -226,13 +196,14 @@ filedrop
 filosync
 findings
 fingerlock
-firefox
+firealpaca
 fission
 fivedetails-flow
 flash-decompiler-trillix
 flashlight
 flavours
 flexiglass
+flickr-uploadr
 flow
 flowdock
 flux
@@ -251,6 +222,7 @@ frizzix
 front
 fseventer
 fstream
+function-pilot
 fuze
 garmin-express
 gawker
@@ -271,6 +243,7 @@ goofy
 google-chrome
 google-cloud-sdk
 google-drive
+google-earth-pro
 google-earth-web-plugin
 google-earth
 google-hangouts
@@ -299,6 +272,7 @@ hockey
 hocus-focus
 hopper-disassembler
 hostbuddy
+hotswitch
 houdahgeo
 houdahspot
 hpuload
@@ -337,6 +311,7 @@ invisorql
 ionu
 ios-lockscreen
 ip-in-menu-bar
+ipartition
 iphone-backup-extractor
 irip
 istat-menus
@@ -393,6 +368,7 @@ lingon-x
 linkinus
 linkliar
 livestream-producer
+liya
 loadmytracks
 locko
 logmein-client
@@ -459,6 +435,7 @@ moneymoney
 moneyplex
 mongodbpreferencepane
 mono-mdk
+monodraw
 moom
 mou
 mountain
@@ -513,6 +490,7 @@ order-of-twilight
 origin
 ormr
 ortho-robot
+osirix-quicklook
 osmc
 outwit-hub
 pacifist
@@ -626,6 +604,7 @@ screenmailer
 scribbleton
 scriptql
 scrivener
+scrolls
 sdrdx
 securesafe
 serial-tools
@@ -696,6 +675,7 @@ srware-iron
 sslmate
 startninja
 steam
+steelseries-exactmouse-tool
 stockbarjp
 stringsfile
 sublercli
@@ -729,6 +709,7 @@ the-hit-list
 the-tagger
 things
 thinkorswim
+time-relic
 time-sink
 timemachineeditor
 timer
@@ -760,6 +741,7 @@ twindocs
 typed
 typewriter
 typinator
+typora
 ubuntu-one
 unicodechecker
 unified-remote
