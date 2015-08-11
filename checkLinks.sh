@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 echo "Preparing for check..."
-cd /Volumes/MacData/homebrew/cask-tasting
+cd ~/cask-tasting
 git checkout master
 brew sync
 [ -e "CaskTasting.part" ] && rm "CaskTasting.part"
