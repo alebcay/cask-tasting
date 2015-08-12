@@ -56,7 +56,6 @@ autopano-pro
 avast
 aviator
 axure-rp-pro
-azure-cli
 back-in-time
 backblaze-downloader
 backblaze
@@ -77,6 +76,7 @@ big-mean-folder-machine
 bill
 bimedesktop
 bittorrent-sync
+bittorrent
 bleep
 blocs
 bloom

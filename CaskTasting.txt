@@ -1,13 +1,13 @@
-Check started at Tue Aug 11 11:17:52 EDT 2015
+Check started at Wed Aug 12 12:55:13 EDT 2015
 010-editor: no checksum
 0ad: passed
 0xdbe-eap: passed
 0xed: no checksum
-115browser: passed
+115browser: SHA-256 mismatch!
 1password: passed
 33-rpm: no checksum
-4k-video-downloader: SHA-256 mismatch!
-4k-youtube-to-mp3: SHA-256 mismatch!
+4k-video-downloader: passed
+4k-youtube-to-mp3: passed
 4peaks: no checksum
 5iler: SHA-256 mismatch!
 5kplayer: no checksum
@@ -94,7 +94,7 @@ antwordprofiler: passed
 anvil: passed
 anxiety: passed
 anybar: passed
-anylogic: SHA-256 mismatch!
+anylogic: passed
 anypass: passed
 anytrans: no checksum
 aos-firewall: no checksum
@@ -170,7 +170,7 @@ awareness: passed
 ax88179: SHA-256 mismatch!
 ax88772: passed
 axure-rp-pro: no checksum
-azure-cli: no checksum
+azure-cli: passed
 back-in-time: no checksum
 backblaze-downloader: no checksum
 backblaze: no checksum
@@ -178,7 +178,7 @@ backtobed: no checksum
 backuploupe: passed
 baiducloud: SHA-256 mismatch!
 baiduhi: passed
-baiduinput: SHA-256 mismatch!
+baiduinput: passed
 baidumusic: no checksum
 balsamiq-mockups: passed
 bandage: passed
@@ -240,11 +240,12 @@ bitlord: passed
 bitmessage: passed
 bitpim: passed
 bittorrent-sync: no checksum
+bittorrent: no checksum
 bitwig-studio: passed
 black-ink: passed
 black-light: passed
 blackvue-viewer: passed
-blast2go: SHA-256 mismatch!
+blast2go: passed
 bleep: no checksum
 blender: passed
 blink1control: passed
@@ -262,7 +263,7 @@ bob: passed
 boinxtv: passed
 bonjour-browser: no checksum
 bookends: no checksum
-boom-recorder: SHA-256 mismatch!
+boom-recorder: passed
 boom: no checksum
 boot2docker-status: passed
 boot2docker: passed
@@ -336,7 +337,7 @@ celestia: passed
 cert-quicklook: passed
 cfxr: passed
 chainsaw: no checksum
-chameleon-ssd-optimizer: passed
+chameleon-ssd-optimizer: SHA-256 mismatch!
 changes: passed
 charles: passed
 charlessoft-timetracker: no checksum
@@ -365,14 +366,14 @@ chunkulus: no checksum
 cinch: passed
 cisco-spark: no checksum
 citrix-receiver: no checksum
-clamxav: passed
+clamxav: SHA-256 mismatch!
 clarify: passed
 cleanapp: passed
 cleanarchiver: passed
 cleanmymac: passed
 clementine: passed
 clion: passed
-clipgrab: SHA-256 mismatch!
+clipgrab: passed
 clipmenu: passed
 clipy: passed
 clix: passed
@@ -393,12 +394,12 @@ cn3d: passed
 cobalt: no checksum
 coccinellida: passed
 cockatrice: no checksum
-cocktail: SHA-256 mismatch!
+cocktail: passed
 cocoadialog: passed
 cocoapacketanalyzer: passed
 cocoapods: passed
 cocoarestclient: passed
-cocoaspell: passed
+cocoaspell: SHA-256 mismatch!
 cocoasplit: no checksum
 coconutbattery: passed
 cocos-code-ide: passed
@@ -442,7 +443,7 @@ controlplane: passed
 cookie: no checksum
 cool-retro-term: passed
 coolterm: no checksum
-cooviewer: passed
+cooviewer: SHA-256 mismatch!
 copy: no checksum
 coqide: passed
 cord: passed
@@ -507,7 +508,7 @@ dbeaver-community: passed
 dbeaver-enterprise: passed
 dbvisualizer: passed
 deathtodsstore: passed
-debookee: SHA-256 mismatch!
+debookee: passed
 debt-quencher: passed
 decitime: passed
 deep-dreamer: no checksum
@@ -619,7 +620,7 @@ eclipse-cpp: passed
 eclipse-ide: passed
 eclipse-installer: no checksum
 eclipse-java: SHA-256 mismatch!
-eclipse-jee: SHA-256 mismatch!
+eclipse-jee: passed
 eclipse-modeling: passed
 eclipse-php: passed
 eclipse-platform: passed
@@ -688,7 +689,7 @@ fbreader: passed
 fdt: no checksum
 feed-the-beast: no checksum
 feedbinnotifier: passed
-feeder: SHA-256 mismatch!
+feeder: passed
 feeds: passed
 feisty-dog-tag: no checksum
 fender-amp-drivers: passed
@@ -724,8 +725,8 @@ fitbit-connect: passed
 fivedetails-flow: no checksum
 flame: passed
 flash-decompiler-trillix: passed
-flash-player-debugger: SHA-256 mismatch!
-flash-player: SHA-256 mismatch!
+flash-player-debugger: passed
+flash-player: passed
 flash: SHA-256 mismatch!
 flashlight: no checksum
 flashlighttool: passed
@@ -836,7 +837,7 @@ git-annex: no checksum
 git: passed
 gitbook: passed
 gitbox: passed
-github: passed
+github-desktop: passed
 githubpulse: no checksum
 gitifier: passed
 gitify: passed
@@ -851,7 +852,7 @@ globalsync: no checksum
 glueprint: passed
 glyphish-color-changer: passed
 glyphish-gallery: passed
-glyphs: SHA-256 mismatch!
+glyphs: passed
 gmail-notifier: passed
 gmail-notifr: passed
 gmvault: passed
@@ -868,7 +869,7 @@ godot: passed
 gog-downloader: passed
 gog-galaxy: passed
 goldencheetah: passed
-golly: SHA-256 mismatch!
+golly: passed
 goodsync: no checksum
 goofy: passed
 google-adwords-editor: passed
@@ -890,7 +891,7 @@ googleappengine: passed
 gopanda: no checksum
 gopro-studio: passed
 gpgtools: passed
-gpodder: passed
+gpodder: SHA-256 mismatch!
 gpower: passed
 gprojector: passed
 grabbox: passed
@@ -911,7 +912,7 @@ gulp: passed
 gurps-character-sheet: passed
 gyazmail: passed
 gyazo: passed
-hackhands: SHA-256 mismatch!
+hackhands: passed
 hall: passed
 hammerspoon: passed
 handbrake: passed
@@ -922,7 +923,7 @@ happygrep: passed
 haroopad: passed
 harvest: passed
 hashcat: passed
-haskell-platform: passed
+haskell-platform: SHA-256 mismatch!
 hazel: passed
 hbuilder: no checksum
 hear: passed
@@ -957,10 +958,10 @@ hostbuddy: passed
 hoster: passed
 hostr: passed
 hosts: passed
-hot-shots: SHA-256 mismatch!
+hot-shots: passed
 hotswitch: no checksum
 houdahgeo: passed
-houdahspot: SHA-256 mismatch!
+houdahspot: passed
 hp-eprint: passed
 hpuload: no checksum
 hsang: passed
@@ -1049,7 +1050,7 @@ iograph: passed
 iojs: passed
 ionu: no checksum
 ioquake3: passed
-iordning: SHA-256 mismatch!
+iordning: passed
 ios-console: no checksum
 ios-lockscreen: no checksum
 ios7-screensaver: passed
@@ -1073,8 +1074,8 @@ isolator: passed
 istat-menus: passed
 istat-server: no checksum
 isteg: passed
-istopmotion: SHA-256 mismatch!
-istumbler: SHA-256 mismatch!
+istopmotion: passed
+istumbler: passed
 iswiff: no checksum
 isyncr-desktop: passed
 iterm2: passed
@@ -1108,7 +1109,7 @@ jbidwatcher: passed
 jd-gui: passed
 jdiskreport: passed
 jdownloader: no checksum
-jedict: passed
+jedict: SHA-256 mismatch!
 jedit: passed
 jenkins-menu: passed
 jenkins: passed
@@ -1150,6 +1151,7 @@ keepingyouawake: passed
 kega-fusion: passed
 keka: passed
 kensington-trackball-works: passed
+kepler: passed
 kext-drop: no checksum
 kext-utility: passed
 key-codes: passed
@@ -1197,7 +1199,7 @@ krita: passed
 ksdiff: passed
 kuaipan: passed
 kugoumusic: no checksum
-kullo: SHA-256 mismatch!
+kullo: passed
 kvirc: SHA-256 mismatch!
 kylo: passed
 kyoku: passed
@@ -1301,7 +1303,7 @@ machg: passed
 maciasl: passed
 macid: passed
 macintosh-explorer: no checksum
-macmoney: SHA-256 mismatch!
+macmoney: passed
 macpar-deluxe: no checksum
 macpass: passed
 macpaw-gemini: no checksum
@@ -1371,6 +1373,7 @@ mediafire-desktop: no checksum
 mediainfo: passed
 mediathekview: passed
 meerkat: passed
+mega: passed
 megasync: no checksum
 memoryanalyzer: passed
 memorytamer: no checksum
@@ -1516,7 +1519,7 @@ netbeans-cpp: passed
 netbeans-php: passed
 netbeans: passed
 neteasemusic: no checksum
-netgeargenie: SHA-256 mismatch!
+netgeargenie: passed
 nethackcocoa: passed
 netloc: no checksum
 netlogo: passed
@@ -1609,7 +1612,7 @@ openpilot-gcs: passed
 openra: passed
 openscad: passed
 opensesame: passed
-opensong: SHA-256 mismatch!
+opensong: passed
 openttd: passed
 openvanilla: passed
 openzfs: passed
@@ -1889,7 +1892,7 @@ quicksync: passed
 quip: passed
 quiterss: passed
 quotefix: passed
-qvod-player: SHA-256 mismatch!
+qvod-player: passed
 r-name: no checksum
 r: passed
 race-for-the-galaxy: passed
@@ -1901,7 +1904,7 @@ rapidweaver: no checksum
 raptor: passed
 raven: passed
 raw-photo-processor: passed
-rawtherapee: SHA-256 mismatch!
+rawtherapee: passed
 razer-synapse: passed
 razorsql: passed
 rbtools: passed
@@ -1930,7 +1933,7 @@ remote-desktop-connection: passed
 remote-desktop-manager: passed
 renamer: no checksum
 repetier-host: passed
-repetitions: SHA-256 mismatch!
+repetitions: passed
 rescuetime: no checksum
 resolume-avenue: passed
 resolutionator: no checksum
@@ -2126,7 +2129,7 @@ snowflake: passed
 snowtape: passed
 sococo: passed
 sofortbild: no checksum
-sogouinput: passed
+sogouinput: SHA-256 mismatch!
 soleol: no checksum
 solidworks-edrawings: passed
 sonarr-menu-helper: passed
@@ -2201,7 +2204,7 @@ stackroom: passed
 starrealms: passed
 startninja: no checksum
 staruml: passed
-stattransfer: SHA-256 mismatch!
+stattransfer: passed
 stay: passed
 steam: no checksum
 steelseries-exactmouse-tool: no checksum
@@ -2218,7 +2221,7 @@ strife: passed
 stringsfile: no checksum
 strongvpn-client: passed
 structurer: no checksum
-sts: passed
+sts: SHA-256 mismatch!
 subclassed-mnemosyne: passed
 subl: passed
 subler: passed
@@ -2257,7 +2260,7 @@ syncmate: no checksum
 syncthing-bar: passed
 syncthing: passed
 synology-assistant: SHA-256 mismatch!
-synology-cloud-station: SHA-256 mismatch!
+synology-cloud-station: passed
 synology-photo-station-uploader: passed
 synologyeiauthenticator: SHA-256 mismatch!
 synthesia: passed
@@ -2296,7 +2299,7 @@ teleport: no checksum
 temperature-monitor: no checksum
 terminology: no checksum
 terraform: passed
-tether: SHA-256 mismatch!
+tether: passed
 tex-live-utility: passed
 texmacs: passed
 texmaker: no checksum
@@ -2332,7 +2335,7 @@ thisservice: passed
 thong: passed
 thrustshell: passed
 thumbsup: passed
-thunder: passed
+thunder: SHA-256 mismatch!
 thunderbird: passed
 thyme: passed
 ti-connect-ce: passed
@@ -2356,7 +2359,7 @@ timings: passed
 tiny: no checksum
 tinygrab: passed
 tinyumbrella: no checksum
-tk-suite-client: SHA-256 mismatch!
+tk-suite-client: passed
 tla-plus-toolbox: passed
 tn5250: no checksum
 tnefs-enough: passed
@@ -2399,7 +2402,7 @@ treemaker: passed
 treesheets: no checksum
 trello-x: no checksum
 tresorit: no checksum
-trezor-bridge: SHA-256 mismatch!
+trezor-bridge: passed
 tribler: passed
 trickster: passed
 trim-enabler: no checksum
@@ -2435,7 +2438,7 @@ typinator: no checksum
 typora: no checksum
 ubar: passed
 uber-network-fuser: passed
-uberpov: passed
+uberpov: SHA-256 mismatch!
 ubersicht: passed
 udig: passed
 ui-browser: passed
@@ -2454,7 +2457,7 @@ unison: passed
 unity-web-player: no checksum
 unity: passed
 universal-media-server: passed
-universalmailer: SHA-256 mismatch!
+universalmailer: passed
 unpkg: passed
 unrarx: passed
 unsplash-wallpaper: passed
@@ -2518,6 +2521,7 @@ vox-preferences-pane: no checksum
 vox: no checksum
 voxox: no checksum
 vpaint: passed
+vrep: passed
 vuescan: no checksum
 vuze: no checksum
 vyprvpn: passed
@@ -2546,7 +2550,7 @@ webpquicklook: passed
 webstorm: passed
 webuildsg: passed
 wedge: no checksum
-weibox: passed
+weibox: SHA-256 mismatch!
 weka: passed
 welly: passed
 wercker: no checksum
@@ -2638,17 +2642,17 @@ yacreader: passed
 yandex: no checksum
 yasu: passed
 yate: no checksum
-yed: SHA-256 mismatch!
+yed: passed
 yemuzip: no checksum
 yep: no checksum
 yimello: no checksum
 ynab: passed
 yoda: passed
-yojimbo: SHA-256 mismatch!
+yojimbo: passed
 youdao: no checksum
 youll-never-take-me-alive: passed
 younited: no checksum
-yourkit-java-profiler: SHA-256 mismatch!
+yourkit-java-profiler: passed
 youtrack-workflow: passed
 youview: no checksum
 yubico-authenticator: passed
@@ -2674,4 +2678,4 @@ zoomus: no checksum
 zooom: no checksum
 zotero: passed
 zterm: passed
-Check finished at Tue Aug 11 15:16:45 EDT 2015
+Check finished at Wed Aug 12 17:18:53 EDT 2015
